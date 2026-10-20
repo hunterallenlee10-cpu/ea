@@ -1,0 +1,162 @@
+{
+  "/estimate": [
+    {
+      "frame": "about:blank",
+      "tag": "INPUT",
+      "name": "email",
+      "type": "email",
+      "required": true,
+      "label": "Email*"
+    },
+    {
+      "frame": "about:blank",
+      "tag": "INPUT",
+      "name": "mobilephone",
+      "type": "text",
+      "required": true,
+      "label": "Mobile phone number*"
+    },
+    {
+      "frame": "about:blank",
+      "tag": "INPUT",
+      "name": "firstname",
+      "type": "text",
+      "required": true,
+      "label": "Name*"
+    },
+    {
+      "frame": "about:blank",
+      "tag": "INPUT",
+      "name": "address",
+      "type": "text",
+      "required": false,
+      "label": "Street address (recommended for quote request)"
+    },
+    {
+      "frame": "about:blank",
+      "tag": "INPUT",
+      "name": "city",
+      "type": "text",
+      "required": false,
+      "label": "City (recommended)"
+    },
+    {
+      "frame": "about:blank",
+      "tag": "TEXTAREA",
+      "name": "message",
+      "type": "textarea",
+      "required": false,
+      "label": "Message (optional)"
+    },
+    {
+      "frame": "about:blank",
+      "tag": "TEXTAREA",
+      "name": "g-recaptcha-response",
+      "type": "textarea",
+      "required": false
+    },
+    {
+      "frame": "about:blank",
+      "tag": "INPUT",
+      "name": "g-recaptcha-response",
+      "type": "hidden",
+      "required": false
+    },
+    {
+      "frame": "about:blank",
+      "tag": "INPUT",
+      "name": "",
+      "type": "submit",
+      "required": false,
+      "label": null
+    },
+    {
+      "frame": "about:blank",
+      "tag": "INPUT",
+      "name": "hs_context",
+      "type": "hidden",
+      "required": false,
+      "label": null
+    }
+  ],
+  "/contact": [
+    {
+      "frame": "about:blank",
+      "tag": "INPUT",
+      "name": "email",
+      "type": "email",
+      "required": true,
+      "label": "Email*"
+    },
+    {
+      "frame": "about:blank",
+      "tag": "INPUT",
+      "name": "mobilephone",
+      "type": "text",
+      "required": true,
+      "label": "Mobile phone number*"
+    },
+    {
+      "frame": "about:blank",
+      "tag": "INPUT",
+      "name": "firstname",
+      "type": "text",
+      "required": true,
+      "label": "Name*"
+    },
+    {
+      "frame": "about:blank",
+      "tag": "INPUT",
+      "name": "address",
+      "type": "text",
+      "required": false,
+      "label": "Street address (optional)"
+    },
+    {
+      "frame": "about:blank",
+      "tag": "INPUT",
+      "name": "city",
+      "type": "text",
+      "required": false,
+      "label": "City (optional)"
+    },
+    {
+      "frame": "about:blank",
+      "tag": "TEXTAREA",
+      "name": "message",
+      "type": "textarea",
+      "required": false,
+      "label": "Message"
+    },
+    {
+      "frame": "about:blank",
+      "tag": "TEXTAREA",
+      "name": "g-recaptcha-response",
+      "type": "textarea",
+      "required": false
+    },
+    {
+      "frame": "about:blank",
+      "tag": "INPUT",
+      "name": "g-recaptcha-response",
+      "type": "hidden",
+      "required": false
+    },
+    {
+      "frame": "about:blank",
+      "tag": "INPUT",
+      "name": "",
+      "type": "submit",
+      "required": false,
+      "label": null
+    },
+    {
+      "frame": "about:blank",
+      "tag": "INPUT",
+      "name": "hs_context",
+      "type": "hidden",
+      "required": false,
+      "label": null
+    }
+  ]
+}

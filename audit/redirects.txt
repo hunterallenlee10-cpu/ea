@@ -1,0 +1,26 @@
+/home	301	https://www.eapropainters.com/	final=200 https://www.eapropainters.com/ hops=1
+/home-old	301	https://www.eapropainters.com/	final=200 https://www.eapropainters.com/ hops=1
+/commercial	301	https://www.eapropainters.com/commercial-painting	final=200 https://www.eapropainters.com/commercial-painting hops=1
+/painting-company/kirkland	301	https://www.eapropainters.com/kirkland	final=200 https://www.eapropainters.com/kirkland hops=1
+/step-by-step-guide-to-interior-painting-make-your-home-look-like-a-pro-s-work	301	https://www.eapropainters.com/blog/step-by-step-guide-to-interior-painting	final=200 https://www.eapropainters.com/blog/step-by-step-guide-to-interior-painting hops=1
+/commercial-painting-in-bellevue-how-to-minimize-business-disruption-during-renovations	301	https://www.eapropainters.com/commercial-painting-in-bellevue-minimize-disruption	final=200 https://www.eapropainters.com/commercial-painting-in-bellevue-minimize-disruption hops=1
+/eco-friendly-painting-options-for-environmentally-conscious-homeowners-in-kirkland	301	https://www.eapropainters.com/eco-friendly-painting-options	final=200 https://www.eapropainters.com/eco-friendly-painting-options hops=1
+/interior-color-trends-for-seattle-homes-balancing-modern-style-with-natural-light	301	https://www.eapropainters.com/interior-color-trends-for-seattle-home	final=200 https://www.eapropainters.com/interior-color-trends-for-seattle-home hops=1
+/About	200		final=200 https://www.eapropainters.com/About hops=0
+/Home	200		final=200 https://www.eapropainters.com/Home hops=0
+/Painting-Company/Kirkland?gclid=AbC	301	https://www.eapropainters.com/kirkland?gclid=AbC	final=200 https://www.eapropainters.com/kirkland?gclid=AbC hops=1
+/about/	301	https://www.eapropainters.com/about	final=200 https://www.eapropainters.com/about hops=1
+/painting-company/bellevue?utm_source=x	200		final=200 https://www.eapropainters.com/painting-company/bellevue?utm_source=x hops=0
+--- apex/http
+https://eapropainters.com/	301	https://www.eapropainters.com/
+http://www.eapropainters.com/	301	https://www.eapropainters.com/
+http://eapropainters.com/about	301	https://www.eapropainters.com/about
+--- verification files
+BingSiteAuth.xml	404 text/html;charset=utf-8
+google.html	404 text/html;charset=utf-8
+llms.txt	200 text/plain;charset=UTF-8
+robots.txt	200 text/plain
+ads.txt	404 text/html;charset=utf-8
+humans.txt	404 text/html;charset=utf-8
+.well-known/security.txt	404 text/html;charset=utf-8
+favicon.ico	200 image/x-icon

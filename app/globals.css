@@ -1,0 +1,202 @@
+@import "tailwindcss";
+
+/*
+ * Two design directions share one component set. Each direction is a set of CSS variables,
+ * scoped to .theme-a ("Eastside Craft", editorial) or .theme-b ("Bold Pro", cinematic).
+ * After Hunter picks one in Phase 2, the winner moves to :root and the loser is deleted.
+ * One accent per theme, used only for buttons and key words (KICKSTART 5.1).
+ */
+
+:root,
+.theme-a {
+  --c-bg: #f7f4ef;
+  --c-surface: #efeae1;
+  --c-ink: #1d211e;
+  --c-muted: #5b5f59;
+  --c-line: #dad3c7;
+  --c-accent: #c21f1b; /* EA logo red, darkened for AA on paper (5.5:1) */
+  --c-accent-hover: #a81915;
+  --c-on-accent: #ffffff;
+  /* dark (evergreen) sections */
+  --c-dark: #183126;
+  --c-dark-surface: #1f3c2f;
+  --c-dark-ink: #f3efe7;
+  --c-dark-muted: #b9c2b9;
+  --c-dark-line: #2f4b3e;
+  --c-dark-accent: #f07a6e; /* same red, lifted for AA on evergreen */
+  --font-display: var(--font-fraunces), Georgia, serif;
+  --display-weight: 400;
+  --display-tracking: -0.02em;
+  --display-transform: none;
+  --display-leading: 1.02;
+  --radius: 4px;
+}
+
+.theme-b {
+  --c-bg: #f4f1ec;
+  --c-surface: #e9e4dc;
+  --c-ink: #141210;
+  --c-muted: #5c5650;
+  --c-line: #d6cfc4;
+  --c-accent: #e42320; /* EA logo red, white text 4.6:1 */
+  --c-accent-hover: #c81d1a;
+  --c-on-accent: #ffffff;
+  --c-dark: #0e0d0c;
+  --c-dark-surface: #171513;
+  --c-dark-ink: #f2eee8;
+  --c-dark-muted: #a8a29a;
+  --c-dark-line: #2a2623;
+  --c-dark-accent: #ef2121;
+  --font-display: var(--font-anton), "Arial Narrow", Impact, sans-serif;
+  --display-weight: 400;
+  --display-tracking: 0.005em;
+  --display-transform: uppercase;
+  --display-leading: 0.95;
+  --radius: 2px;
+}
+
+@theme inline {
+  --color-bg: var(--c-bg);
+  --color-surface: var(--c-surface);
+  --color-ink: var(--c-ink);
+  --color-muted: var(--c-muted);
+  --color-line: var(--c-line);
+  --color-accent: var(--c-accent);
+  --color-accent-hover: var(--c-accent-hover);
+  --color-on-accent: var(--c-on-accent);
+  --color-dark: var(--c-dark);
+  --color-dark-surface: var(--c-dark-surface);
+  --color-dark-ink: var(--c-dark-ink);
+  --color-dark-muted: var(--c-dark-muted);
+  --color-dark-line: var(--c-dark-line);
+  --color-dark-accent: var(--c-dark-accent);
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-display);
+  --radius-ui: var(--radius);
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-padding-top: 6rem;
+}
+
+body {
+  background: var(--c-bg);
+  color: var(--c-ink);
+  font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  font-size: 1.0625rem; /* 17px */
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 1.125rem; /* 18px */
+  }
+}
+
+/* Display headings follow the active direction. */
+.display {
+  font-family: var(--font-display);
+  font-weight: var(--display-weight);
+  letter-spacing: var(--display-tracking);
+  text-transform: var(--display-transform);
+  line-height: var(--display-leading);
+  text-wrap: balance;
+}
+
+.eyebrow {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+/* Sections: big vertical rhythm (64px mobile, ~128px desktop). */
+.section {
+  padding-block: 4rem;
+}
+@media (min-width: 1024px) {
+  .section {
+    padding-block: 8rem;
+  }
+}
+
+.container-x {
+  width: 100%;
+  max-width: 76rem;
+  margin-inline: auto;
+  padding-inline: 1.25rem;
+}
+@media (min-width: 768px) {
+  .container-x {
+    padding-inline: 2rem;
+  }
+}
+
+/* Dark section scope: swaps text colors for everything inside. */
+.on-dark {
+  background: var(--c-dark);
+  color: var(--c-dark-ink);
+}
+
+/* Visible focus everywhere. */
+:focus-visible {
+  outline: 2px solid var(--c-accent);
+  outline-offset: 3px;
+}
+.on-dark :focus-visible {
+  outline-color: var(--c-dark-accent);
+}
+
+/* Placeholders for facts Erik must confirm: impossible to miss. */
+.ph {
+  background: #fff3b0;
+  color: #3d3300;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.78em;
+  padding: 0.05em 0.35em;
+  border-radius: 2px;
+  outline: 1px dashed #b39500;
+  font-weight: 500;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+/* Reveal on scroll. Content is visible by default; JS adds .reveal-ready only when motion is OK. */
+.reveal-ready [data-reveal] {
+  opacity: 0;
+  transform: translateY(18px);
+  transition:
+    opacity 0.8s cubic-bezier(0.2, 0.7, 0.2, 1),
+    transform 0.8s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+.reveal-ready [data-reveal].is-in {
+  opacity: 1;
+  transform: none;
+}
+.reveal-ready [data-reveal-img] {
+  clip-path: inset(0 0 100% 0);
+  transition: clip-path 1.1s cubic-bezier(0.7, 0, 0.2, 1);
+}
+.reveal-ready [data-reveal-img].is-in {
+  clip-path: inset(0 0 0 0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Leave room for the mobile sticky bar so it never covers content. */
+@media (max-width: 767px) {
+  body {
+    padding-bottom: calc(4rem + env(safe-area-inset-bottom));
+  }
+}

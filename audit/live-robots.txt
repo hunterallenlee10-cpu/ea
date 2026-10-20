@@ -1,0 +1,4 @@
+User-agent: AlliAi 
+Allow: /
+
+Sitemap: https://www.eapropainters.com/sitemap.xml
