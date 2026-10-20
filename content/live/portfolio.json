@@ -1,0 +1,28 @@
+{
+ "path": "/portfolio",
+ "blocks": [
+  {
+   "t": "h1",
+   "text": "Our Painting Portfolio – Recent Projects & Professional Results"
+  },
+  {
+   "t": "button",
+   "text": "Get A Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "p",
+   "text": "Hire a Company You Can Trust",
+   "html": "Hire a Company You Can Trust"
+  },
+  {
+   "t": "h2",
+   "text": "Reviews from our customers"
+  },
+  {
+   "t": "button",
+   "text": "Read more reviews",
+   "href": "https://birdeye.com/ea-pro-painters-170905799500570"
+  }
+ ]
+}

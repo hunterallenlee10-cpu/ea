@@ -1,0 +1,534 @@
+{
+ "path": "/painting-company/newcastle",
+ "blocks": [
+  {
+   "t": "h1",
+   "text": "Newcastle Painting Company – House & Business Painters"
+  },
+  {
+   "t": "button",
+   "text": "Get a Free Estimate",
+   "href": "/contact"
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/12-1920w.jpeg",
+   "alt": "A blue house with a white porch and a black building in the background."
+  },
+  {
+   "t": "h2",
+   "text": "Your Professional Newcastle Painters"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters is your painting partner, committed to delivering top-notch painting services in Newcastle, WA.",
+   "html": "EA Pro Painters is your painting partner, committed to delivering top-notch painting services in Newcastle, WA."
+  },
+  {
+   "t": "p",
+   "text": "If you are in the need for a quality painter in Newcastle, you’ve come to the right place. EA Pro Painters is the premier choice for professional exterior and interior painting services in the Newcastle area. We pride ourselves on exceptional customer service by actively involving you in the decision-making process, listening to your ideas, and ensuring your satisfaction throughout the project.",
+   "html": "If you are in the need for a quality painter in Newcastle, you’ve come to the right place. EA Pro Painters is the premier choice for professional exterior and interior painting services in the Newcastle area. We pride ourselves on exceptional customer service by actively involving you in the decision-making process, listening to your ideas, and ensuring your satisfaction throughout the project."
+  },
+  {
+   "t": "p",
+   "text": "With years of experience and a team of skilled painters, we offer quality painting services for residential and commercial properties. Whether it is a new coat of paint to refresh your home, or an update to enhance the curb appeal of your business, EA Pro Painters will exceed your expectations with our expertise and reliability.",
+   "html": "With years of experience and a team of skilled painters, we offer quality painting services for residential and <a href=\"/commercial-painting\">commercial properties</a>. Whether it is a new coat of paint to refresh your home, or an update to enhance the curb appeal of your business, EA Pro Painters will exceed your expectations with our expertise and reliability."
+  },
+  {
+   "t": "button",
+   "text": "Get a Free Estimate",
+   "href": "/contact"
+  },
+  {
+   "t": "h2",
+   "text": "Why You Need EA Pro Painters"
+  },
+  {
+   "t": "p",
+   "text": "A paint job for your Newcastle property may seem like a task you can do yourself, especially if you’re a DIY enthusiast. However, trusting the experts at EA Pro Painters can provide a myriad of benefits. Their detailed painting process ensures a high-quality result, highlighting their commitment to delivering a top-notch painting experience.",
+   "html": "A paint job for your Newcastle property may seem like a task you can do yourself, especially if you’re a DIY enthusiast. However, trusting the experts at EA Pro Painters can provide a myriad of benefits. Their detailed painting process ensures a high-quality result, highlighting their commitment to delivering a top-notch painting experience."
+  },
+  {
+   "t": "p",
+   "text": "Our services include:",
+   "html": "Our services include:"
+  },
+  {
+   "t": "li",
+   "text": "Exterior House Painting Services",
+   "html": "<a href=\"/exterior-painting\">Exterior House Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Interior House Painting Services",
+   "html": "<a href=\"/\">Interior House Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Deck & Fence Painting Services",
+   "html": "<a href=\"/decks-and-fences-painting\">Deck &amp; Fence Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Drywall Painting Services",
+   "html": "<a href=\"/drywall-painting\">Drywall Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Cabinet Painting Services",
+   "html": "<a href=\"/cabinet-painting\">Cabinet Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Millwork Painting Services",
+   "html": "<a href=\"/millwork-painting\">Millwork Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Drywall Painting Services",
+   "html": "<a href=\"/drywall-painting\">Drywall Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Trim Painting Services",
+   "html": "<a href=\"/\">Trim Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Shutter Painting Services",
+   "html": "<a href=\"/\">Shutter Painting Services</a> "
+  },
+  {
+   "t": "h3",
+   "text": "Expertise and Experience"
+  },
+  {
+   "t": "p",
+   "text": "Working with EA Pro Painters means entrusting your property to individuals who have honed their skills. Our team of professionals are well-versed in the latest painting techniques and trends, guaranteeing your space looks refreshed and incorporates modern aesthetics and applications that last.",
+   "html": "Working with EA Pro Painters means entrusting your property to individuals who have honed their skills. Our team of professionals are well-versed in the latest painting techniques and trends, guaranteeing your space looks refreshed and incorporates modern aesthetics and applications that last."
+  },
+  {
+   "t": "h3",
+   "text": "Timesaving"
+  },
+  {
+   "t": "p",
+   "text": "Hiring a professional painting team saves you a significant amount of time. Instead of dedicating your weekends or evenings to painting, you can focus on other important tasks or relaxation. EA Pro Painters are efficient, completing the job in a fraction of the time it would take a DIY enthusiast without compromising quality.",
+   "html": "Hiring a professional painting team saves you a significant amount of time. Instead of dedicating your weekends or evenings to painting, you can focus on other important tasks or relaxation. EA Pro Painters are efficient, completing the job in a fraction of the time it would take a DIY enthusiast without compromising quality."
+  },
+  {
+   "t": "h3",
+   "text": "Quality Materials and Tools"
+  },
+  {
+   "t": "p",
+   "text": "Our team has access to high-quality paints, primers, and tools. Our expert team can select the best materials specifically suited for your property, factoring in the climate of Newcastle and the surface types, ensuring a durable finish that looks superior.",
+   "html": "Our team has access to high-quality paints, primers, and tools. Our expert team can select the best materials specifically suited for your property, factoring in the climate of Newcastle and the surface types, ensuring a durable finish that looks superior."
+  },
+  {
+   "t": "h3",
+   "text": "Detailed Preparation and Clean-Up"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters will take care of everything - from protecting your furniture and flooring before starting, to ensuring a meticulous clean-up after the job. This comprehensive approach prevents damage to your property and leaves your space spotless and beautifully painted.",
+   "html": "EA Pro Painters will take care of everything - from protecting your furniture and flooring before starting, to ensuring a meticulous clean-up after the job. This comprehensive approach prevents damage to your property and leaves your space spotless and beautifully painted."
+  },
+  {
+   "t": "h3",
+   "text": "Insurance and Warranty"
+  },
+  {
+   "t": "p",
+   "text": "Our team is fully insured, which means any potential damages are covered. Furthermore, we offer a warranty on our work, ensuring a job well done and coverage for any potential issues.",
+   "html": "Our team is fully insured, which means any potential damages are covered. Furthermore, we offer a warranty on our work, ensuring a job well done and coverage for any potential issues."
+  },
+  {
+   "t": "h2",
+   "text": "EA Pro Painters: Newcastle Painting Company"
+  },
+  {
+   "t": "p",
+   "text": "We are a top-rated painting company with years of experience in the industry. Our expertise stretches across greater Seattle’s vibrant communities. We are dedicated to providing high-quality house painting services for both residential and commercial projects. Each house painting project is handled with professionalism, ensuring customer satisfaction through attention to detail and the use of high-quality materials and craftsmanship. We prioritize customer satisfaction and a clean and safe job environment, driven by a mission to offer affordable, reliable, and smooth painting solutions, crafting spaces you’ll love.",
+   "html": "We are a top-rated painting company with years of experience in the industry. Our expertise stretches across greater Seattle’s vibrant communities. We are dedicated to providing high-quality house painting services for both residential and commercial projects. Each house painting project is handled with professionalism, ensuring customer satisfaction through attention to detail and the use of high-quality materials and craftsmanship. We prioritize customer satisfaction and a clean and safe job environment, driven by a mission to offer affordable, reliable, and smooth painting solutions, crafting spaces you’ll love."
+  },
+  {
+   "t": "h3",
+   "text": "Interior Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters offers interior painting services that focus on preparation, choosing beautiful colors, and applying a flawless finish. We give your cabinets, walls, and ceilings a stunning look with specialized painting techniques and high-quality materials. With us, you can transform every corner of your home or business into a masterpiece.",
+   "html": "EA Pro Painters offers interior painting services that focus on preparation, choosing beautiful colors, and applying a flawless finish. We give your cabinets, walls, and ceilings a stunning look with specialized painting techniques and high-quality materials. With us, you can transform every corner of your home or business into a masterpiece."
+  },
+  {
+   "t": "h3",
+   "text": "Exterior Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "The outside of any structure is as important as the interior, which is why our Newcastle exterior painting services offer a wide range of exterior solutions aim to protect and enhance your property’s value. Our skilled team works precisely and efficiently, covering everything from surface preparation to weather-resistant coatings. We ensure the following benefits:",
+   "html": "The outside of any structure is as important as the interior, which is why our Newcastle exterior painting services offer a wide range of exterior solutions aim to protect and enhance your property’s value. Our skilled team works precisely and efficiently, covering everything from surface preparation to weather-resistant coatings. We ensure the following benefits:"
+  },
+  {
+   "t": "li",
+   "text": "Enhanced Curb Appeal: A new color or coat can significantly improve your property’s appearance, making it stand out in the neighborhood.",
+   "html": "Enhanced Curb Appeal: A new color or coat can significantly improve your property’s appearance, making it stand out in the neighborhood."
+  },
+  {
+   "t": "li",
+   "text": "Protection Against the Elements: Quality exterior painting protects your home or business from weather damage, insects, and dust.",
+   "html": "Protection Against the Elements: Quality exterior painting protects your home or business from weather damage, insects, and dust."
+  },
+  {
+   "t": "li",
+   "text": "Increased Property Value: An investment in professional exterior painting can yield a high return by boosting your property’s value.",
+   "html": "Increased Property Value: An investment in professional exterior painting can yield a high return by boosting your property’s value."
+  },
+  {
+   "t": "li",
+   "text": "Extended Lifespan of Siding: Regular painting maintenance can prolong the life of your property, saving you from siding repairs or replacements.",
+   "html": "Extended Lifespan of Siding: Regular painting maintenance can prolong the life of your property, saving you from siding repairs or replacements."
+  },
+  {
+   "t": "li",
+   "text": "Energy Efficiency Improvement: Certain types of exterior paint can reflect sunlight, keeping your property cooler in summer and reducing cooling costs.",
+   "html": "Energy Efficiency Improvement: Certain types of exterior paint can reflect sunlight, keeping your property cooler in summer and reducing cooling costs."
+  },
+  {
+   "t": "button",
+   "text": "Get A Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "EA Pro Painters Comprehensive Newcastle Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "When we say comprehensive painting services, we mean it. We don’t leave any stone unturned when transforming and beautifying your property.",
+   "html": "When we say comprehensive painting services, we mean it. We don’t leave any stone unturned when transforming and beautifying your property."
+  },
+  {
+   "t": "h3",
+   "text": "Old Paint Removal"
+  },
+  {
+   "t": "p",
+   "text": "We use state-of-the-art techniques and equipment to meticulously strip away the old layers, revealing a clean, perfect surface ready for a new coat of paint. This process improves adhesion and prevents future peeling, cracking, or blistering, ensuring that the new paint job stands the test of time and weather.",
+   "html": "We use state-of-the-art techniques and equipment to meticulously strip away the old layers, revealing a clean, perfect surface ready for a new coat of paint. This process improves adhesion and prevents future peeling, cracking, or blistering, ensuring that the new paint job stands the test of time and weather."
+  },
+  {
+   "t": "h3",
+   "text": "New Establishment Painting"
+  },
+  {
+   "t": "p",
+   "text": "Are you a business owner setting up a shop in Newcastle or a homeowner building your dream house? EA Pro Painters’ professional house painting project services for new establishments can help you create an inviting and professional appearance for your new property. Kickstart your property’s aesthetics with our expert color consultations and high-quality paint selection.",
+   "html": "Are you a business owner setting up a shop in Newcastle or a homeowner building your dream house? EA Pro Painters’ professional house painting project services for new establishments can help you create an inviting and professional appearance for your new property. Kickstart your property’s aesthetics with our expert color consultations and high-quality paint selection."
+  },
+  {
+   "t": "h3",
+   "text": "Deck and Fence Painting"
+  },
+  {
+   "t": "p",
+   "text": "Don’t neglect your decks and fences; they are essential to your property’s overall look. Whether you want to restore the natural beauty of wood grains or add a pop of color to match your exterior’s palette, we have the expertise to handle all types of deck and fence painting projects.",
+   "html": "Don’t neglect your decks and fences; they are essential to your property’s overall look. Whether you want to restore the natural beauty of wood grains or add a pop of color to match your exterior’s palette, we have the expertise to handle all types of deck and fence painting projects."
+  },
+  {
+   "t": "h3",
+   "text": "Exterior Cleaning"
+  },
+  {
+   "t": "p",
+   "text": "Keeping your property clean and tidy can require a lot of time and effort. With our exterior cleaning services, you can let us do the work while you sit back and relax. We use eco-friendly solutions and modern equipment to leave your property surfaces sparkling clean.",
+   "html": "Keeping your property clean and tidy can require a lot of time and effort. With our exterior cleaning services, you can let us do the work while you sit back and relax. We use eco-friendly solutions and modern equipment to leave your property surfaces sparkling clean."
+  },
+  {
+   "t": "h2",
+   "text": "Why EA Pro Painters?"
+  },
+  {
+   "t": "p",
+   "text": "Your home and business are an investment, and we are eager to help you maintain and enhance its value.",
+   "html": "Your home and business are an investment, and we are eager to help you maintain and enhance its value."
+  },
+  {
+   "t": "h3",
+   "text": "Local Painters"
+  },
+  {
+   "t": "p",
+   "text": "As a local painting company, we understand the unique needs and challenges of properties in Newcastle. Our team is familiar with the weather conditions, architectural styles, and homeowner and business preferences in the area, allowing us to provide tailored solutions.",
+   "html": "As a local painting company, we understand the unique needs and challenges of properties in Newcastle. Our team is familiar with the weather conditions, architectural styles, and homeowner and business preferences in the area, allowing us to provide tailored solutions."
+  },
+  {
+   "t": "h3",
+   "text": "Work Warranty"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters offers a warranty for all our services because we are confident in the quality of our work. If any issues arise, our team will be happy to come back and address them at no extra cost.",
+   "html": "EA Pro Painters offers a warranty for all our services because we are confident in the quality of our work. If any issues arise, our team will be happy to come back and address them at no extra cost."
+  },
+  {
+   "t": "h3",
+   "text": "Experienced Employees"
+  },
+  {
+   "t": "p",
+   "text": "Everyone on our team is an experienced, skilled, and trustworthy professional painter. EA Pro Painters conducts thorough background checks and provides regular training to deliver only the best services.",
+   "html": "Everyone on our team is an experienced, skilled, and trustworthy professional painter. EA Pro Painters conducts thorough background checks and provides regular training to deliver only the best services."
+  },
+  {
+   "t": "h3",
+   "text": "Solid Reputation"
+  },
+  {
+   "t": "p",
+   "text": "ThreeBestRated has distinguished EA Pro Painters as one of the Top 3 Painters in Bellevue, WA. “Our business analyst team is impressed by the consistent high-quality service you provide in your area of business,” stated ThreeBestRated.",
+   "html": "ThreeBestRated has distinguished EA Pro Painters as one of the Top 3 Painters in Bellevue, WA. “Our business analyst team is impressed by the consistent high-quality service you provide in your area of business,” stated ThreeBestRated."
+  },
+  {
+   "t": "h3",
+   "text": "Licensed and Insured"
+  },
+  {
+   "t": "p",
+   "text": "We are a licensed and insured Newcastle painting company, so your property is in good hands. Our team follows all safety protocols to protect your property during our services.",
+   "html": "We are a licensed and insured Newcastle painting company, so your property is in good hands. Our team follows all safety protocols to protect your property during our services."
+  },
+  {
+   "t": "h2",
+   "text": "How To Find the Best Painting Team in Newcastle"
+  },
+  {
+   "t": "p",
+   "text": "There’s no need to search far and wide for reliable Newcastle painters. Complete your residential or commercial painting project with EA Pro Painters in four steps.",
+   "html": "There’s no need to search far and wide for reliable Newcastle painters. Complete your residential or commercial painting project with EA Pro Painters in four steps."
+  },
+  {
+   "t": "h3",
+   "text": "Step 1: Request a Free Estimate"
+  },
+  {
+   "t": "p",
+   "text": "Contact us online or call (206) 250-1194, and we’ll provide you with a free estimate for your project. Our team guarantees a fair and accurate quote.",
+   "html": "Contact us online or call (206) 250-1194, and we’ll provide you with a free estimate for your project. Our team guarantees a fair and accurate quote."
+  },
+  {
+   "t": "h3",
+   "text": "Step 2: Select Colors"
+  },
+  {
+   "t": "p",
+   "text": "We will work with you to choose the perfect color scheme for your project. We offer various paint colors and finishes, so you can find the ideal fit for your space.",
+   "html": "We will work with you to choose the perfect color scheme for your project. We offer various paint colors and finishes, so you can find the ideal fit for your space."
+  },
+  {
+   "t": "h3",
+   "text": "Step 3: Start Painting"
+  },
+  {
+   "t": "p",
+   "text": "Once we have all the details, our team will get to work on your painting job, showcasing our expertise and professionalism in handling various aspects such as color consulting, wallpapering, plastering, specialty finishes, and exterior timber maintenance. We’ll finish your project on time and with the highest quality of workmanship.",
+   "html": "Once we have all the details, our team will get to work on your painting job, showcasing our expertise and professionalism in handling various aspects such as color consulting, wallpapering, plastering, specialty finishes, and exterior timber maintenance. We’ll finish your project on time and with the highest quality of workmanship."
+  },
+  {
+   "t": "h3",
+   "text": "Step 4: Inspect Quality and Provide Warranty"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters does a final inspection for your satisfaction. We also offer a warranty on all of our services; you can trust in the longevity and quality of our work.",
+   "html": "EA Pro Painters does a final inspection for your satisfaction. We also offer a warranty on all of our services; you can trust in the longevity and quality of our work."
+  },
+  {
+   "t": "h2",
+   "text": "Work With the Best Newcastle Painters"
+  },
+  {
+   "t": "p",
+   "text": "For professional and commercial painting in Newcastle, EA Pro Painters has the experience and expertise to bring your project to life. Let’s make the young city shine and thrive together.",
+   "html": "For professional and commercial painting in Newcastle, EA Pro Painters has the experience and expertise to bring your project to life. Let’s make the young city shine and thrive together."
+  },
+  {
+   "t": "h2",
+   "text": "More About the City of Newcastle"
+  },
+  {
+   "t": "h3",
+   "text": "Newcastle: Beauty, History and Community"
+  },
+  {
+   "t": "p",
+   "text": "With a population of approximately 12,000 residents, Newcastle, Washington, is nestled in the foothills of the Cascade Mountains. It is a picturesque city with a geographical location providing stunning views of Lake Washington and the surrounding forests.",
+   "html": "With a population of approximately 12,000 residents, Newcastle, Washington, is nestled in the foothills of the Cascade Mountains. It is a picturesque city with a geographical location providing stunning views of Lake Washington and the surrounding forests."
+  },
+  {
+   "t": "h3",
+   "text": "Growth Anchored in Coal Mining"
+  },
+  {
+   "t": "p",
+   "text": "Originally inhabited by the Duwamish and other Native American tribes, Newcastle's history dates back thousands of years. In the late 19th century, the area saw significant growth with the discovery of coal deposits, leading to the establishment of coal mines and mining communities. Newcastle quickly became a thriving coal mining town, attracting immigrants from around the world seeking opportunities in the booming industry.",
+   "html": "Originally inhabited by the Duwamish and other Native American tribes, Newcastle's history dates back thousands of years. In the late 19th century, the area saw significant growth with the discovery of coal deposits, leading to the establishment of coal mines and mining communities. Newcastle quickly became a thriving coal mining town, attracting immigrants from around the world seeking opportunities in the booming industry."
+  },
+  {
+   "t": "h3",
+   "text": "Community Rooted in History"
+  },
+  {
+   "t": "p",
+   "text": "Today, Newcastle is a vibrant residential community with an appreciation for its historical heritage. The downtown area features charming shops, cafes, and restaurants housed in renovated historic buildings, providing a glimpse into its coal mining past. The Newcastle Historical Society works to preserve and celebrate the city's rich history through exhibits, events, and educational programs.",
+   "html": "Today, Newcastle is a vibrant residential community with an appreciation for its historical heritage. The downtown area features charming shops, cafes, and restaurants housed in renovated historic buildings, providing a glimpse into its coal mining past. The Newcastle Historical Society works to preserve and celebrate the city's rich history through exhibits, events, and educational programs."
+  },
+  {
+   "t": "h3",
+   "text": "A Nod to Nature and Adventure"
+  },
+  {
+   "t": "p",
+   "text": "The city has an extensive network of trails with opportunities for hiking, mountain biking, and wildlife viewing, while nearby Cougar Mountain Regional Wildland Park provides additional opportunities for outdoor adventure.",
+   "html": "The city has an extensive network of trails with opportunities for hiking, mountain biking, and wildlife viewing, while nearby Cougar Mountain Regional Wildland Park provides additional opportunities for outdoor adventure."
+  },
+  {
+   "t": "h3",
+   "text": "Timeless Allure"
+  },
+  {
+   "t": "p",
+   "text": "Overall, Newcastle embodies the Pacific Northwest's spirit with its natural splendor, historical significance, and strong community ties. Whether exploring its scenic trails, learning about its coal mining heritage, or simply enjoying its tranquil atmosphere, it is eas to be captivated by Newcastle's timeless allure.",
+   "html": "Overall, Newcastle embodies the Pacific Northwest's spirit with its natural splendor, historical significance, and strong community ties. Whether exploring its scenic trails, learning about its coal mining heritage, or simply enjoying its tranquil atmosphere, it is eas to be captivated by Newcastle's timeless allure."
+  },
+  {
+   "t": "h2",
+   "text": "What Our Newcastle Clients Say:"
+  },
+  {
+   "t": "h3",
+   "text": "Ishaan - *"
+  },
+  {
+   "t": "p",
+   "text": "“I’ve had multiple projects completed by EA Pro. My experience with my first project with them made me feel confident and comfortable hiring for my second project, painting the exterior of my house. I’ve been procrastinating getting my house painted because I’ve heard so many horror stories of cruddy painting companies. Once I found EA Pro those fears vanished…”",
+   "html": "“I’ve had multiple projects completed by EA Pro. My experience with my first project with them made me feel confident and comfortable hiring for my second project, painting the exterior of my house. I’ve been procrastinating getting my house painted because I’ve heard so many horror stories of cruddy painting companies. Once I found EA Pro those fears vanished…”"
+  },
+  {
+   "t": "p",
+   "text": "⭐️⭐️⭐️⭐️⭐️",
+   "html": "⭐️⭐️⭐️⭐️⭐️"
+  },
+  {
+   "t": "h3",
+   "text": "David - *"
+  },
+  {
+   "t": "p",
+   "text": "\"EA Painting did our exterior cedar trim painting, stained the exterior brick, and painted our whole interior walls, trim, doors, and cabinets… They were very flexible with our schedule and we got along very well with the painters who came out too. Thank you EA for making our home look new and refreshed!”",
+   "html": "\"EA Painting did our exterior cedar trim painting, stained the exterior brick, and painted our whole interior walls, trim, doors, and cabinets… They were very flexible with our schedule and we got along very well with the painters who came out too. Thank you EA for making our home look new and refreshed!”"
+  },
+  {
+   "t": "p",
+   "text": "⭐️⭐️⭐️⭐️⭐️",
+   "html": "⭐️⭐️⭐️⭐️⭐️"
+  },
+  {
+   "t": "h3",
+   "text": "Vlad - *"
+  },
+  {
+   "t": "p",
+   "text": "\"Wow, what an incredible experience with EA pro painters! From the initial consultation to the final walk-through, their professionalism, attention to detail, and expertise were on full display. The quality of their work is truly exceptional — the colors are vibrant, the lines are crisp, and the finish is flawless. My home has never looked better!”",
+   "html": "\"Wow, what an incredible experience with EA pro painters! From the initial consultation to the final walk-through, their professionalism, attention to detail, and expertise were on full display. The quality of their work is truly exceptional — the colors are vibrant, the lines are crisp, and the finish is flawless. My home has never looked better!”"
+  },
+  {
+   "t": "p",
+   "text": "⭐️⭐️⭐️⭐️⭐️",
+   "html": "⭐️⭐️⭐️⭐️⭐️"
+  },
+  {
+   "t": "h2",
+   "text": "Reach Out to Our Newcastle Painters"
+  },
+  {
+   "t": "p",
+   "text": "Are you looking for the best Newcastle painting company? Do you need professional painters for your home? EA Pro Painters ends your search in four steps.",
+   "html": "Are you looking for the best Newcastle painting company? Do you need professional painters for your home? EA Pro Painters ends your search in four steps."
+  },
+  {
+   "t": "h3",
+   "text": "Step 1: Get a Free Estimate"
+  },
+  {
+   "t": "p",
+   "text": "Call EA Pro Painters at (206) 250-1194 or contact us online for a free estimate. Our team will schedule an appointment and assess the project’s scope at your convenience.",
+   "html": "Call EA Pro Painters at (206) 250-1194 or <a href=\"/contact\">contact us</a> online for a <a href=\"/estimate\">free estimate</a>. Our team will schedule an appointment and assess the project’s scope at your convenience."
+  },
+  {
+   "t": "h3",
+   "text": "Step 2: Choose Colors"
+  },
+  {
+   "t": "p",
+   "text": "Our team of expert painters will guide you in selecting the perfect colors and materials for your project. We understand that color choices can impact the overall look of your home or business, so we take the time to discuss options and provide recommendations.",
+   "html": "Our team of expert painters will guide you in selecting the perfect colors and materials for your project. We understand that color choices can impact the overall look of your home or business, so we take the time to discuss options and provide recommendations."
+  },
+  {
+   "t": "h3",
+   "text": "Step 3: Time To Paint"
+  },
+  {
+   "t": "p",
+   "text": "Once we confirm all the details, our team will get to work and finish the project as soon as possible and to the highest standards.",
+   "html": "Once we confirm all the details, our team will get to work and finish the project as soon as possible and to the highest standards."
+  },
+  {
+   "t": "h3",
+   "text": "Step 4: Quality Inspection and Warranty"
+  },
+  {
+   "t": "p",
+   "text": "Before we wrap up, we will conduct a final inspection to guarantee that everything meets our and your standards.",
+   "html": "Before we wrap up, we will conduct a final inspection to guarantee that everything meets our and your standards."
+  },
+  {
+   "t": "h2",
+   "text": "Work With the Leading Newcastle Painting Company"
+  },
+  {
+   "t": "p",
+   "text": "Your home and business make Newcastle the beautiful place it is. Let EA Pro Painters join you in keeping it that way.",
+   "html": "Your home and business make Newcastle the beautiful place it is. Let EA Pro Painters join you in keeping it that way."
+  },
+  {
+   "t": "h2",
+   "text": "Considering a Home Painting Project?"
+  },
+  {
+   "t": "p",
+   "text": "For property owners wanting to update interior or exterior living space in Newcastle, consider partnering with EA Pro Painters, a company dedicated to providing exceptional internal and external painting services for both residential and commercial properties. Our team is committed to delivering high-quality workmanship and meticulous attention to detail, ensuring your vision becomes a reality. Contact EA Pro Painters for an estimate and to discuss your painting needs.",
+   "html": "For property owners wanting to update interior or exterior living space in Newcastle, consider partnering with EA Pro Painters, a company dedicated to providing exceptional internal and external painting services for both residential and commercial properties. Our team is committed to delivering high-quality workmanship and meticulous attention to detail, ensuring your vision becomes a reality. <a href=\"/contact\">Contact EA Pro Painters</a> for an <a href=\"/estimate\">estimate</a> and to discuss your painting needs."
+  },
+  {
+   "t": "p",
+   "text": "Hire a Company You Can Trust",
+   "html": "Hire a Company You Can Trust"
+  },
+  {
+   "t": "h2",
+   "text": "Reviews from our customers"
+  },
+  {
+   "t": "button",
+   "text": "Read more reviews",
+   "href": "https://birdeye.com/ea-pro-painters-170905799500570"
+  },
+  {
+   "t": "button",
+   "text": "Get A Free Estimate",
+   "href": "/estimate"
+  }
+ ]
+}

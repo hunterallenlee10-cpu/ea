@@ -1,0 +1,33 @@
+{
+ "path": "/success",
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Thank you. Your message has been received."
+  },
+  {
+   "t": "p",
+   "text": "We will be in touch as soon as we can!",
+   "html": "We will be in touch as soon as we can!"
+  },
+  {
+   "t": "p",
+   "text": "For faster service Monday to Friday 8am - 7pm please call 206.250.1194",
+   "html": "For faster service Monday to Friday 8am - 7pm please call 206.250.1194"
+  },
+  {
+   "t": "p",
+   "text": "Hire a Company You Can Trust",
+   "html": "Hire a Company You Can Trust"
+  },
+  {
+   "t": "h1",
+   "text": "Reviews from our customers"
+  },
+  {
+   "t": "button",
+   "text": "Read more reviews",
+   "href": "https://birdeye.com/ea-pro-painters-170905799500570"
+  }
+ ]
+}

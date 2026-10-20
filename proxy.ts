@@ -7,10 +7,8 @@ export function proxy(request: NextRequest) {
   const { pathname, search } = request.nextUrl;
   const target = resolveRedirect(pathname);
   if (!target) return NextResponse.next();
-  const url = request.nextUrl.clone();
-  url.pathname = target;
-  url.search = search;
-  return NextResponse.redirect(url, 308);
+  // A plain URL: NextURL would re-apply the incoming trailing slash.
+  return NextResponse.redirect(new URL(target + search, request.url), 308);
 }
 
 export const config = {

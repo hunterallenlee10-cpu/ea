@@ -1,0 +1,88 @@
+{
+ "path": "/recommended-companies",
+ "blocks": [
+  {
+   "t": "h1",
+   "text": "EA Pro Painting Recommended Companies"
+  },
+  {
+   "t": "h2",
+   "text": "Recommended Companies"
+  },
+  {
+   "t": "p",
+   "text": "At EA Pro Painters, we believe in fostering strong partnerships within our industry and beyond. Here are some trusted companies we recommend for various services that complement our painting expertise. Each of these businesses shares our commitment to quality and customer satisfaction, making them ideal collaborators for your next project. Whether you need high-quality materials, specialized contracting services, or expert consultations, these companies are equipped to meet your needs with professionalism and integrity. Explore these recommendations to enhance your painting experience and ensure your projects are executed flawlessly.",
+   "html": "At EA Pro Painters, we believe in fostering strong partnerships within our industry and beyond. Here are some trusted companies we recommend for various services that complement our painting expertise. Each of these businesses shares our commitment to quality and customer satisfaction, making them ideal collaborators for your next project. Whether you need high-quality materials, specialized contracting services, or expert consultations, these companies are equipped to meet your needs with professionalism and integrity. Explore these recommendations to enhance your painting experience and ensure your projects are executed flawlessly."
+  },
+  {
+   "t": "h4",
+   "text": "EA Pro Flooring"
+  },
+  {
+   "t": "p",
+   "text": "Your go-to source for top-notch flooring supplies and materials.",
+   "html": "Your go-to source for top-notch flooring supplies and materials."
+  },
+  {
+   "t": "button",
+   "text": "Visit Website",
+   "href": "https://www.eaproflooring.com/"
+  },
+  {
+   "t": "h4",
+   "text": "Soczek Roofing"
+  },
+  {
+   "t": "p",
+   "text": "Your go-to source for top-notch roofing.",
+   "html": "Your go-to source for top-notch roofing."
+  },
+  {
+   "t": "button",
+   "text": "Visit Website",
+   "href": "https://soczekroofing.com/"
+  },
+  {
+   "t": "h4",
+   "text": "EA Pro Painting"
+  },
+  {
+   "t": "p",
+   "text": "Your go-to source for top-notch painting supplies and materials.",
+   "html": "Your go-to source for top-notch painting supplies and materials."
+  },
+  {
+   "t": "button",
+   "text": "Visit Website",
+   "href": "/home-old"
+  },
+  {
+   "t": "p",
+   "text": "Hire a Company You Can Trust",
+   "html": "Hire a Company You Can Trust"
+  },
+  {
+   "t": "h1",
+   "text": "Reviews from our customers"
+  },
+  {
+   "t": "button",
+   "text": "Read more reviews",
+   "href": "https://birdeye.com/ea-pro-painters-170905799500570"
+  },
+  {
+   "t": "h3",
+   "text": "Contact Us"
+  },
+  {
+   "t": "p",
+   "text": "Enhance the beauty and value of your homeowner association with EA Pro Painters. Contact us today to request an estimate and discuss your painting needs. Let us help you maintain a vibrant and welcoming community.",
+   "html": "<br>Enhance the beauty and value of your homeowner association with EA Pro Painters. <a href=\"/contact\">Contact us today</a> to request an estimate and discuss your painting needs. Let us help you maintain a vibrant and welcoming community."
+  },
+  {
+   "t": "button",
+   "text": "Get An Estimate",
+   "href": "/estimate"
+  }
+ ]
+}

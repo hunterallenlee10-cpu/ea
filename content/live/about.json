@@ -1,0 +1,102 @@
+{
+ "path": "/about",
+ "blocks": [
+  {
+   "t": "h1",
+   "text": "ABOUT EA PRO PAINTERS"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters is a professional painting company in Bellevue, WA on the Eastside of the greater Seattle area. Our main areas we service are the Eastside cities of Bellevue, Redmond, Issaquah, Woodinville, Sammamish, Duvall, Bothell, Factoria and Kirkland.",
+   "html": "EA Pro Painters is a professional painting company in Bellevue, WA on the Eastside of the greater Seattle area. Our main areas we service are the Eastside cities of Bellevue, Redmond, Issaquah, Woodinville, Sammamish, Duvall, Bothell, Factoria and Kirkland."
+  },
+  {
+   "t": "p",
+   "text": "We’ve helped keep the Eastside of colorful and beautiful for many years, serving both residential and commercial customers with consistent delivery of the highest-quality services at competitive prices. We always work with honesty, integrity, and a smile!",
+   "html": "We’ve helped keep the Eastside of colorful and beautiful for many years, serving both residential and commercial customers with consistent delivery of the highest-quality services at competitive prices. We always work with honesty, integrity, and a smile!"
+  },
+  {
+   "t": "p",
+   "text": "Our team of experienced professionals is dedicated to delivering exceptional quality, value, and service to our customers. We use only the best paint and materials. Our experienced painters have the skills to ensure the job is completed correctly. We take pride in our work and provide a clean and safe work environment for our customers. Our goal is to provide a painting solution that is affordable, reliable, and hassle-free.",
+   "html": "Our team of experienced professionals is dedicated to delivering exceptional quality, value, and service to our customers. We use only the best paint and materials. Our experienced painters have the skills to ensure the job is completed correctly. We take pride in our work and provide a clean and safe work environment for our customers. Our goal is to provide a painting solution that is affordable, reliable, and hassle-free."
+  },
+  {
+   "t": "p",
+   "text": "Hire a Company You Can Trust",
+   "html": "Hire a Company You Can Trust"
+  },
+  {
+   "t": "h2",
+   "text": "Reviews from our customers"
+  },
+  {
+   "t": "button",
+   "text": "Read more reviews",
+   "href": "https://birdeye.com/ea-pro-painters-170905799500570"
+  },
+  {
+   "t": "img",
+   "src": "https://widget-v7-cdn.birdeye.com/public/left-arrow.png",
+   "alt": "left-arrow"
+  },
+  {
+   "t": "img",
+   "src": "https://widget-v7-cdn.birdeye.com/public/right-arrow.png",
+   "alt": "right-arrow"
+  },
+  {
+   "t": "img",
+   "src": "https://widget-v7-cdn.birdeye.com/public/ai-icon.svg",
+   "alt": "ai-icon"
+  },
+  {
+   "t": "h5",
+   "text": "Reviews Summary"
+  },
+  {
+   "t": "li",
+   "text": "Customers consistently praise Edwin and team members like Vlad, Oleg, and Ricardo for professionalism, clear communication, and excellent project management.",
+   "html": "Customers consistently praise Edwin and team members like Vlad, Oleg, and Ricardo for professionalism, clear communication, and excellent project management."
+  },
+  {
+   "t": "li",
+   "text": "Reviewers highlight high-quality, detailed workmanship on interior/exterior painting, drywall repair, and staining, with thorough cleanup and timely completion.",
+   "html": "Reviewers highlight high-quality, detailed workmanship on interior/exterior painting, drywall repair, and staining, with thorough cleanup and timely completion."
+  },
+  {
+   "t": "li",
+   "text": "Many clients appreciate fair pricing, flexibility with scheduling, and responsiveness to feedback, leading to strong recommendations for future projects.",
+   "html": "Many clients appreciate fair pricing, flexibility with scheduling, and responsiveness to feedback, leading to strong recommendations for future projects."
+  },
+  {
+   "t": "img",
+   "src": "https://ddjkm7nmu27lx.cloudfront.net/498661649/d4b1a1f855a5490793a7ab3bcc9f55fe.png",
+   "alt": "user-pic"
+  },
+  {
+   "t": "img",
+   "src": "https://ddjkm7nmu27lx.cloudfront.net/498450521/4884b887f4c54cceadabda06bf1ce346.png",
+   "alt": "user-pic"
+  },
+  {
+   "t": "img",
+   "src": "https://ddjkm7nmu27lx.cloudfront.net/490726872/3d5463ebc17f4c64aa1c8ed88ff2c1d6.png",
+   "alt": "user-pic"
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/5-years-home-advisor-grey-278w.jpg",
+   "alt": "It is a badge that says `` 5 years home advisor screened and approved ''."
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/home-advisor-top-rated-307h.jpg",
+   "alt": "A home advisor top rated badge with five stars on it."
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/Home-Advisor-100-reviews-317h.jpg",
+   "alt": "A home advisor 100 reviews badge with three stars on it."
+  }
+ ]
+}

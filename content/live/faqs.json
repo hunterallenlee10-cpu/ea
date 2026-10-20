@@ -1,0 +1,73 @@
+{
+ "path": "/faqs",
+ "blocks": [
+  {
+   "t": "h1",
+   "text": "Frequently Asked Questions About EA Pro Painters"
+  },
+  {
+   "t": "li",
+   "text": "How Quick Can You Start? We can schedule you in for an estimate within 1-2 days. Once estimate is approved we can start 1-2 weeks or earlier if requested.",
+   "html": "How Quick Can You Start? We can schedule you in for an estimate within 1-2 days. Once estimate is approved we can start 1-2 weeks or earlier if requested."
+  },
+  {
+   "t": "h3",
+   "text": "How Quick Can You Start?"
+  },
+  {
+   "t": "li",
+   "text": "What Is Your Working Process? Free estimation, we arrive on time, setup, prepare, installation, quality check. We treat your home just like it is our own.",
+   "html": "What Is Your Working Process? Free estimation, we arrive on time, setup, prepare, installation, quality check.<br>We treat your home just like it is our own."
+  },
+  {
+   "t": "h3",
+   "text": "What Is Your Working Process?"
+  },
+  {
+   "t": "li",
+   "text": "What areas do you serve? We serve the greater Eastside of King County, WA and the Eastside of Dallas, TX",
+   "html": "What areas do you serve? We serve the greater Eastside of King County, WA and the Eastside of Dallas, TX"
+  },
+  {
+   "t": "h3",
+   "text": "What areas do you serve?"
+  },
+  {
+   "t": "li",
+   "text": "Do You Guarantee Your Work? All work is warranty protected 4 years.",
+   "html": "Do You Guarantee Your Work? All work is warranty protected 4 years."
+  },
+  {
+   "t": "h3",
+   "text": "Do You Guarantee Your Work?"
+  },
+  {
+   "t": "li",
+   "text": "Is The Company Licensed & Bonded? Yes, E&A Pro Painters is a registered company, licensed and bonded.",
+   "html": "Is The Company Licensed &amp; Bonded? Yes, E&amp;A Pro Painters is a registered company, licensed and bonded."
+  },
+  {
+   "t": "h3",
+   "text": "Is The Company Licensed & Bonded?"
+  },
+  {
+   "t": "li",
+   "text": "How Many Coats Do You Apply? We apply two coats. The method of application changes depending on your siding material.",
+   "html": "How Many Coats Do You Apply? We apply two coats. The method of application changes depending on your siding material."
+  },
+  {
+   "t": "h3",
+   "text": "How Many Coats Do You Apply?"
+  },
+  {
+   "t": "p",
+   "text": "Still have questions?",
+   "html": "Still have questions?"
+  },
+  {
+   "t": "button",
+   "text": "Contact Us Today",
+   "href": "/contact"
+  }
+ ]
+}

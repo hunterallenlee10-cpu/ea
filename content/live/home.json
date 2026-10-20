@@ -1,0 +1,307 @@
+{
+ "path": "/",
+ "blocks": [
+  {
+   "t": "h1",
+   "text": "TOP RATED PAINTING COMPANY"
+  },
+  {
+   "t": "h2",
+   "text": "WITH A 4-YEAR WARRANTY"
+  },
+  {
+   "t": "h3",
+   "text": "See why over 500 customers have left 5-star reviews across Western Washington."
+  },
+  {
+   "t": "img",
+   "src": "https://widget-v7-cdn.birdeye.com/public/left-arrow.png",
+   "alt": "left-arrow"
+  },
+  {
+   "t": "img",
+   "src": "https://widget-v7-cdn.birdeye.com/public/right-arrow.png",
+   "alt": "right-arrow"
+  },
+  {
+   "t": "img",
+   "src": "https://widget-v7-cdn.birdeye.com/public/ai-icon.svg",
+   "alt": "ai-icon"
+  },
+  {
+   "t": "h5",
+   "text": "Reviews Summary"
+  },
+  {
+   "t": "li",
+   "text": "Customers consistently praise Edwin and team members like Vlad, Oleg, and Ricardo for professionalism, clear communication, and excellent project management.",
+   "html": "Customers consistently praise Edwin and team members like Vlad, Oleg, and Ricardo for professionalism, clear communication, and excellent project management."
+  },
+  {
+   "t": "li",
+   "text": "Reviewers highlight high-quality, detailed workmanship on interior/exterior painting, drywall repair, and staining, with thorough cleanup and timely completion.",
+   "html": "Reviewers highlight high-quality, detailed workmanship on interior/exterior painting, drywall repair, and staining, with thorough cleanup and timely completion."
+  },
+  {
+   "t": "li",
+   "text": "Many clients appreciate fair pricing, flexibility with scheduling, and responsiveness to feedback, leading to strong recommendations for future projects.",
+   "html": "Many clients appreciate fair pricing, flexibility with scheduling, and responsiveness to feedback, leading to strong recommendations for future projects."
+  },
+  {
+   "t": "img",
+   "src": "https://ddjkm7nmu27lx.cloudfront.net/498661649/d4b1a1f855a5490793a7ab3bcc9f55fe.png",
+   "alt": "user-pic"
+  },
+  {
+   "t": "img",
+   "src": "https://ddjkm7nmu27lx.cloudfront.net/498450521/4884b887f4c54cceadabda06bf1ce346.png",
+   "alt": "user-pic"
+  },
+  {
+   "t": "img",
+   "src": "https://ddjkm7nmu27lx.cloudfront.net/490726872/3d5463ebc17f4c64aa1c8ed88ff2c1d6.png",
+   "alt": "user-pic"
+  },
+  {
+   "t": "h2",
+   "text": "Local Painting Services"
+  },
+  {
+   "t": "h3",
+   "text": "Your Expert House Painters"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters is proud to provide exceptional interior and exterior painting services in the greater Eastside area of King County, including Bellevue, Kirkland, Redmond, Issaquah and Bothell. Our professional painters have decades of experience and take pride in producing outstanding results. Do you need to find a painting contractor that warranties their work? We provide a full range of painting services including staining, painting, wallpapering, and more.",
+   "html": "EA Pro Painters is proud to provide exceptional interior and exterior painting services in the greater Eastside area of King County, including Bellevue, Kirkland, Redmond, Issaquah and Bothell. Our professional painters have decades of experience and take pride in producing outstanding results. Do you need to find a painting contractor that warranties their work? We provide a full range of painting services including staining, painting, wallpapering, and more."
+  },
+  {
+   "t": "h2",
+   "text": "Come see us in Bellevue."
+  },
+  {
+   "t": "h3",
+   "text": "Our Store is next to Sherwin-Williams"
+  },
+  {
+   "t": "p",
+   "text": "We can talk through your project, then head next door and pick out your paint. We use only the highest quality paints and materials, and our work is guaranteed to provide long-lasting results. Our customers are always satisfied with the results and our work is highly praised. To find out more about our painting services, please follow one of the provided links to learn more about our services, pricing, and customer testimonials.",
+   "html": "We can talk through your project, then head next door and pick out your paint. We use only the highest quality paints and materials, and our work is guaranteed to provide long-lasting results. Our customers are always satisfied with the results and our work is highly praised. To find out more about our painting services, please follow one of the provided links to learn more about our services, pricing, and customer testimonials."
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/image+%281%29-960w.png",
+   "alt": ""
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/Three-best-award-grey-122h.png",
+   "alt": "A black and white badge that says best business of 2024"
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/5-years-home-advisor-grey-117w.jpg",
+   "alt": "It is a badge that says `` 5 years home advisor screened and approved ''."
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/home-advisor-top-rated-130h.jpg",
+   "alt": "A home advisor top rated badge with five stars on it."
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/Insignia-06-128h.png",
+   "alt": "A screened and home advisor approved seal on a white background."
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/Angi+ssa-2022-530-117w.jpg",
+   "alt": "A black and white logo for the angi super service award."
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/Three-best-white-grey-png-126h.png",
+   "alt": "A seal that says three best rated painters bellevue"
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/Home-Advisor-100-reviews-134h.jpg",
+   "alt": "A home advisor 100 reviews badge with three stars on it."
+  },
+  {
+   "t": "h2",
+   "text": "House Painting Services by EA Pro Painters"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters offers a comprehensive range of painting services for both the interior and exterior of residential properties.",
+   "html": "<strong>EA Pro Painters offers a comprehensive range of painting services for both the interior and exterior of residential properties.</strong>"
+  },
+  {
+   "t": "p",
+   "text": "Our experienced painters are able to provide a high-quality, hassle-free finish for any project, regardless of size or complexity.",
+   "html": "<strong>Our experienced painters are able to provide a high-quality, hassle-free finish for any project, regardless of size or complexity.</strong>"
+  },
+  {
+   "t": "p",
+   "text": "From the two-story hallway to the individual bedrooms, every job is approached with precision and close attention to detail.",
+   "html": "<strong>From the two-story hallway to the individual bedrooms, every job is approached with precision and close attention to detail.</strong>"
+  },
+  {
+   "t": "p",
+   "text": "We ensure that each painting task is completed to the highest standards. Hardworking Painters in Redmond, Bellevue, & more.",
+   "html": "<strong>We ensure that each painting task is completed to the highest standards.</strong> <a href=\"/painting-company/redmond\"><strong>Hardworking Painters in Redmond</strong></a><strong>,</strong> <a href=\"/painting-company/bellevue\"><strong>Bellevue</strong></a><strong>, &amp; more.</strong>"
+  },
+  {
+   "t": "p",
+   "text": "New Award for 2024",
+   "html": "New Award for 2024"
+  },
+  {
+   "t": "h2",
+   "text": "Named Top 3 Painter in Bellevue, WA"
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/Three-Best-Logo-Black-Transparent-347h.png",
+   "alt": "A seal that says three best rated painters bellevue"
+  },
+  {
+   "t": "p",
+   "text": "ThreeBestRated just named EA Pro Painters as one of the Top 3 Painters in Bellevue, WA in their recent update. \"Our business analyst team is impressed by the consistent high-quality service you provide in your area of business. We thoroughly evaluated and updated your business based on our rigorous 50-Point Inspection.\"",
+   "html": "ThreeBestRated just named EA Pro Painters as one of the Top 3 Painters in Bellevue, WA in their recent update. \"Our business analyst team is impressed by the consistent high-quality service you provide in your area of business. We thoroughly evaluated and updated your business based on our rigorous 50-Point Inspection.\""
+  },
+  {
+   "t": "h2",
+   "text": "How do we make it work?"
+  },
+  {
+   "t": "p",
+   "text": "Starting your painting project with us is a breeze! Our 4-step process is designed to be simple and easy to follow.",
+   "html": "<br>Starting your painting project with us is a breeze! Our 4-step process is designed to be simple and easy to follow."
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/Steps-7ed3472c-1154w.webp",
+   "alt": "A seamless pattern of pink and white stripes on a white background."
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/paso-1-560f54a9-187w.png",
+   "alt": "A red icon with a checklist and the words `` request a free estimate ''."
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/paso-2-4abfeac9-187w.png",
+   "alt": "A red square with a bucket of paint and the words color selection."
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/paso-3_1-4b84f2e3-187w.png",
+   "alt": "A red square with a brush and the words `` project starting ''."
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/paso-3-625a70b8-187w.png",
+   "alt": "A red icon with a clipboard and the words `` quality inspection and warranty ''."
+  },
+  {
+   "t": "button",
+   "text": "Get A Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "p",
+   "text": "At EA Pro Painters we know that finding the right team for your painting can be overwhelming. With our professionals by your side, the process will be easy and convenient, leaving you time for what matters most.",
+   "html": "At EA Pro Painters we know that finding the right team for your painting can be overwhelming. With our professionals by your side, the process will be easy and convenient, leaving you time for what matters most."
+  },
+  {
+   "t": "h3",
+   "text": "Why"
+  },
+  {
+   "t": "h2",
+   "text": "EA PRO PAINTERS?"
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/5-star-182w.png",
+   "alt": "Five red stars are lined up in a row on a white background."
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/WhyEAPRO-794h.webp",
+   "alt": "A truck is parked in front of a building."
+  },
+  {
+   "t": "h2",
+   "text": "Create your dream home."
+  },
+  {
+   "t": "h2",
+   "text": "Tell us about your project today."
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/HomeAtt-d99ba818-792w.webp",
+   "alt": "A blurred image of a pink box with various icons on it."
+  },
+  {
+   "t": "button",
+   "text": "Get A Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "Updates from us!"
+  },
+  {
+   "t": "p",
+   "text": "We'd love for you to follow us on Instagram for the latest updates and behind-the-scenes stories.",
+   "html": "<br>We'd love for you to follow us on Instagram for the latest updates and behind-the-scenes stories."
+  },
+  {
+   "t": "p",
+   "text": "Find us at @eapropainters and let's connect!",
+   "html": "<br>Find us at <a href=\"https://instagram.com/eapropainters\">@eapropainters</a> and let's connect!"
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/About-HomePhone-1190w.png",
+   "alt": "A man is painting a window on a building next to a cell phone."
+  },
+  {
+   "t": "h4",
+   "text": "About"
+  },
+  {
+   "t": "h2",
+   "text": "EA PRO PAINTERS"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters is a professional painting company in Bellevue, WA on the Eastside of the greater Seattle area. Our main areas we service are the cities of Bellevue, Redmond, Issaquah, Woodinville, Sammamish, Duvall, Bothell, Factoria and Kirkland.",
+   "html": "<strong>EA Pro Painters is a professional painting company in Bellevue, WA on the Eastside of the greater Seattle area. Our main areas we service are the cities of</strong> <a href=\"/painting-company/bellevue\"><strong>Bellevue</strong></a><strong>,</strong> <a href=\"/painting-company/redmond\"><strong>Redmond</strong></a><strong>,</strong> <a href=\"/painting-company/issaquah\"><strong>Issaquah</strong></a><strong>,</strong> <a href=\"/painting-company/woodinville\"><strong>Woodinville</strong></a><strong>,</strong> <a href=\"/painting-company/sammamish\"><strong>Sammamish</strong></a><strong>, Duvall, Bothell, Factoria and Kirkland.</strong>"
+  },
+  {
+   "t": "p",
+   "text": "We’ve helped keep the Eastside of colorful and beautiful for many years, serving both residential and commercial customers with consistent delivery of the highest-quality services at competitive prices. We always work with honesty, integrity, and a smile!",
+   "html": "<strong>We’ve helped keep the Eastside of colorful and beautiful for many years, serving both residential and commercial customers with consistent delivery of the highest-quality services at competitive prices. We always work with honesty, integrity, and a smile!</strong>"
+  },
+  {
+   "t": "p",
+   "text": "Our team of experienced professionals is dedicated to delivering exceptional quality, value, and service to our customers. We use only the best paint and materials. Our experienced painters have the skills to ensure the job is completed correctly. We take pride in our work and provide a clean and safe work environment for our customers. Our goal is to provide a painting solution that is affordable, reliable, and hassle-free.",
+   "html": "<strong>Our team of experienced professionals is dedicated to delivering exceptional quality, value, and service to our customers. We use only the best paint and materials. Our experienced painters have the skills to ensure the job is completed correctly. We take pride in our work and provide a clean and safe work environment for our customers. Our goal is to provide a painting solution that is affordable, reliable, and hassle-free.</strong>"
+  },
+  {
+   "t": "p",
+   "text": "We would love to work with you and discover how we can make your project a success!",
+   "html": "<strong>We would love to work with you and discover how we can make your project a success!</strong>"
+  },
+  {
+   "t": "button",
+   "text": "Get A Free Estimate",
+   "href": "/estimate"
+  }
+ ]
+}

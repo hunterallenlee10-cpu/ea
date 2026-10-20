@@ -8,7 +8,7 @@ type Tone = "light" | "dark";
 export function Header({ tone = "light" }: { tone?: Tone }) {
   const dark = tone === "dark";
   const bar = dark ? "bg-dark/95 text-dark-ink border-dark-line" : "bg-bg/95 text-ink border-line";
-  const logo = dark ? "/brand/ea-pro-painters-logo-light.svg" : "/brand/ea-pro-painters-logo-dark.svg";
+  const logo = dark ? "/brand/ea-pro-painters-logo-on-dark.svg" : "/brand/ea-pro-painters-logo-dark.svg";
   const sub = dark ? "bg-dark-surface border-dark-line" : "bg-bg border-line";
 
   return (

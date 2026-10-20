@@ -1,0 +1,99 @@
+{
+ "path": "/estimate",
+ "blocks": [
+  {
+   "t": "h1",
+   "text": "Get Your Free Painting Estimate – Professional Painters"
+  },
+  {
+   "t": "p",
+   "text": "Hire a Company You Can Trust",
+   "html": "Hire a Company You Can Trust"
+  },
+  {
+   "t": "h2",
+   "text": "Reviews from our customers"
+  },
+  {
+   "t": "button",
+   "text": "Read more reviews",
+   "href": "https://birdeye.com/ea-pro-painters-170905799500570"
+  },
+  {
+   "t": "faq",
+   "q": "What types of painting services do you offer?",
+   "a": [
+    {
+     "text": "We provide complete interior and exterior painting services for residential homes, HOA properties, and commercial buildings. Our team handles specialized projects including cabinet refinishing, millwork, drywall repair, and deck or fence staining.",
+     "html": "We provide complete interior and exterior painting services for residential homes, HOA properties, and commercial buildings. Our team handles specialized projects including cabinet refinishing, millwork, drywall repair, and deck or fence staining."
+    }
+   ]
+  },
+  {
+   "t": "faq",
+   "q": "How do I request and receive a free estimate?",
+   "a": [
+    {
+     "text": "You can submit your details directly through our online form or call us at 206-250-1194. Provide your contact info and project location, and our team will follow up—typically within one business day—to discuss your scope or schedule an on-site evaluation.",
+     "html": "You can submit your details directly through our online form or call us at 206-250-1194. Provide your contact info and project location, and our team will follow up—typically within one business day—to discuss your scope or schedule an on-site evaluation."
+    }
+   ]
+  },
+  {
+   "t": "faq",
+   "q": "What factors go into calculating my estimate?",
+   "a": [
+    {
+     "text": "Estimates are calculated based on overall square footage, surface preparation requirements, the condition of existing materials, paint selection, and job complexity—such as height access for exteriors or detailed millwork indoors.",
+     "html": "Estimates are calculated based on overall square footage, surface preparation requirements, the condition of existing materials, paint selection, and job complexity—such as height access for exteriors or detailed millwork indoors."
+    }
+   ]
+  },
+  {
+   "t": "faq",
+   "q": "Are you licensed and insured for residential & commercial painting work in Washington?",
+   "a": [
+    {
+     "text": "Yes. EA Pro Painters is fully licensed and bonded in Washington State for residential and commercial painting contracts. Our Construction Contractor license no. is EAPROPP7611N.",
+     "html": "Yes. EA Pro Painters is fully licensed and bonded in Washington State for residential and commercial painting contracts. Our Construction Contractor license no. is EAPROPP7611N."
+    },
+    {
+     "text": "Verify any WA State contractor license here: https://secure.lni.wa.gov/verify/",
+     "html": "Verify any WA State contractor license here: https://secure.lni.wa.gov/verify/"
+    },
+    {
+     "text": "Our UBI # is 604 324 084",
+     "html": "Our UBI # is 604 324 084"
+    },
+    {
+     "text": "Parent Co: E&A PRO FLOORING LLC",
+     "html": "Parent Co: E&amp;A PRO FLOORING LLC"
+    },
+    {
+     "text": "Our Insurance Company is Trusura, policy # NRG-DBG-GL16326",
+     "html": "Our Insurance Company is Trusura, policy # NRG-DBG-GL16326"
+    }
+   ]
+  },
+  {
+   "t": "faq",
+   "q": "How long does a typical painting project take?",
+   "a": [
+    {
+     "text": "Project timelines vary based on scope, home size, and weather conditions for exterior work. During your free estimate consultation, we provide a clear, tailored timeline before any work begins so you know exactly what to expect.",
+     "html": "Project timelines vary based on scope, home size, and weather conditions for exterior work. During your free estimate consultation, we provide a clear, tailored timeline before any work begins so you know exactly what to expect."
+    }
+   ]
+  },
+  {
+   "t": "faq",
+   "q": "How do I request a commercial painting estimate from EA Pro Painters?",
+   "a": [
+    {
+     "text": "You can request a free commercial painting estimate directly on our website by filling out the estimate form above (on this page) or by calling us at 206.250.1194. We typically respond within one business day.",
+     "html": "You can request a free commercial painting estimate directly on our website by filling out the estimate form above (on this page) or by calling us at 206.250.1194. We typically respond within one business day."
+    }
+   ]
+  }
+ ]
+}

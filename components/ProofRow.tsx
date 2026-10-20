@@ -53,7 +53,7 @@ export function ProofRow({ tone = "light" }: { tone?: "light" | "dark" }) {
         ))}
       </ul>
       <p className={`mt-3 text-[12px] ${muted}`}>
-        <Ph>{site.reviews.displayFlag.slice(1, -1)}</Ph>
+        <Ph>{site.reviews.displayFlagShort}</Ph>
       </p>
     </div>
   );

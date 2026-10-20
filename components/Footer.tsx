@@ -10,7 +10,7 @@ export function Footer() {
     <footer className="on-dark border-t border-dark-line">
       <div className="container-x grid gap-12 py-16 md:grid-cols-12 lg:py-20">
         <div className="md:col-span-4">
-          <Image src="/brand/ea-pro-painters-logo-light.svg" alt={site.name} width={200} height={48} className="h-11 w-auto" />
+          <Image src="/brand/ea-pro-painters-logo-on-dark.svg" alt={site.name} width={200} height={48} className="h-11 w-auto" />
           <address className="mt-6 text-[15px] not-italic leading-relaxed text-dark-muted">
             {site.address.street}
             <br />

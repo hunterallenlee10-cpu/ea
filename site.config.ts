@@ -49,6 +49,7 @@ export const site = {
     years: 4, // Pages say 4; the FAQ meta description says 2.
     display: "4-year warranty",
     flag: CONFIRM("warranty length: 4 years on the pages vs 2 years in the FAQ meta description"),
+    flagShort: "CONFIRM: warranty 4 or 2 years",
     coverage: CONFIRM("what the warranty covers"),
   },
 
@@ -72,6 +73,7 @@ export const site = {
     // Which one the site displays. Pending Erik's answer.
     display: "birdeye" as "birdeye" | "google",
     displayFlag: CONFIRM("which review number to show: Birdeye 556 at 4.9 or Google 183 at 4.8"),
+    displayFlagShort: "CONFIRM: Birdeye 556 or Google 183",
   },
 
   award: {

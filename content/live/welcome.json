@@ -1,0 +1,89 @@
+{
+ "path": "/welcome",
+ "blocks": [
+  {
+   "t": "h1",
+   "text": "Welcome To EA Pro Painting"
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/website-video-cover-mov-image-1920w.jpeg",
+   "alt": "An EA Pro Painters Truck and Card are parked in front of a series of large commercial buildings"
+  },
+  {
+   "t": "h2",
+   "text": "What to expect while you wait for your estimate:"
+  },
+  {
+   "t": "p",
+   "text": "We’ve helped keep the Eastside colorful and beautiful for many years, serving both residential and commercial customers with consistent delivery of the highest-quality services at competitive prices. We always work with honesty, integrity, and a smile!",
+   "html": "We’ve helped keep the Eastside colorful and beautiful for many years, serving both residential and commercial customers with consistent delivery of the highest-quality services at competitive prices. We always work with honesty, integrity, and a smile!"
+  },
+  {
+   "t": "p",
+   "text": "Here's what to expect next:",
+   "html": "Here's what to expect next:"
+  },
+  {
+   "t": "li",
+   "text": "We'll confirm our our estimate day & time",
+   "html": "We'll confirm our our estimate day &amp; time"
+  },
+  {
+   "t": "li",
+   "text": "Our Estimator will arrive at your home at the scheduled time",
+   "html": "Our Estimator will arrive at your home at the scheduled time"
+  },
+  {
+   "t": "li",
+   "text": "They will ask you a few questions and survey your home",
+   "html": "They will ask you a few questions and survey your home"
+  },
+  {
+   "t": "li",
+   "text": "They will provide you a thorough estimate of what it will take to paint your home",
+   "html": "They will provide you a thorough estimate of what it will take to paint your home"
+  },
+  {
+   "t": "p",
+   "text": "TRANSFORM YOUR SPACE",
+   "html": "Transform Your Space"
+  },
+  {
+   "t": "h2",
+   "text": "Our Painting Process"
+  },
+  {
+   "t": "h3",
+   "text": "Hear more from our Happy Customers on our Social Media:"
+  },
+  {
+   "t": "p",
+   "text": "Hire a Company You Can Trust",
+   "html": "Hire a Company You Can Trust"
+  },
+  {
+   "t": "h1",
+   "text": "Reviews from our customers"
+  },
+  {
+   "t": "button",
+   "text": "Read more reviews",
+   "href": "https://birdeye.com/ea-pro-painters-170905799500570"
+  },
+  {
+   "t": "h3",
+   "text": "Contact Us"
+  },
+  {
+   "t": "p",
+   "text": "Enhance the beauty and value of your homeowner association with EA Pro Painters. Contact us today to request an estimate and discuss your painting needs. Let us help you maintain a vibrant and welcoming community.",
+   "html": "<br>Enhance the beauty and value of your homeowner association with EA Pro Painters. <a href=\"/contact\">Contact us today</a> to request an estimate and discuss your painting needs. Let us help you maintain a vibrant and welcoming community."
+  },
+  {
+   "t": "button",
+   "text": "Get An Estimate",
+   "href": "/estimate"
+  }
+ ]
+}

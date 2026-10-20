@@ -1,0 +1,569 @@
+{
+ "path": "/painting-company/edmonds",
+ "blocks": [
+  {
+   "t": "h1",
+   "text": "Edmonds Painters – Experts in Residential & Commercial Painting"
+  },
+  {
+   "t": "button",
+   "text": "Get a Free Estimate",
+   "href": "/contact"
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/12-1920w.jpeg",
+   "alt": "A blue house with a white porch and a black building in the background."
+  },
+  {
+   "t": "h1",
+   "text": "Professional Painting in Edmonds, WA"
+  },
+  {
+   "t": "p",
+   "text": "Edmonds, WA, is a beautiful and scenic town across Puget Sound. While its seaside location makes it an excellent place for families and new businesses, there’s a chance that humidity can do a number on your painted surfaces.",
+   "html": "<strong>Edmonds, WA, is a beautiful and scenic town across Puget Sound. While its seaside location makes it an excellent place for families and new businesses, there’s a chance that humidity can do a number on your painted surfaces.</strong>"
+  },
+  {
+   "t": "p",
+   "text": "If left unchecked, your surfaces can deteriorate and fade. Worse yet, there’s also a chance that your old paint will chip and look unsightly to passersby. That’s where we come in.",
+   "html": "If left unchecked, your surfaces can deteriorate and fade. Worse yet, there’s also a chance that your old paint will chip and look unsightly to passersby. That’s where we come in."
+  },
+  {
+   "t": "p",
+   "text": "Our services include:",
+   "html": "Our services include:"
+  },
+  {
+   "t": "li",
+   "text": "Exterior House Painting Services",
+   "html": "<a href=\"/exterior-painting\">Exterior House Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Interior House Painting Services",
+   "html": "<a href=\"/\">Interior House Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Deck & Fence Painting Services",
+   "html": "<a href=\"/decks-and-fences-painting\">Deck &amp; Fence Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Drywall Painting Services",
+   "html": "<a href=\"/drywall-painting\">Drywall Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Cabinet Painting Services",
+   "html": "<a href=\"/cabinet-painting\">Cabinet Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Millwork Painting Services",
+   "html": "<a href=\"/millwork-painting\">Millwork Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Drywall Painting Services",
+   "html": "<a href=\"/drywall-painting\">Drywall Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Trim Painting Services",
+   "html": "<a href=\"/\">Trim Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Shutter Painting Services",
+   "html": "<a href=\"/\">Shutter Painting Services</a>"
+  },
+  {
+   "t": "button",
+   "text": "Get a Free Estimate",
+   "href": "/contact"
+  },
+  {
+   "t": "p",
+   "text": "At EA Pro Painters, we offer comprehensive professional painting services for your interiors and exteriors. Whether you’re looking to refresh your home’s exterior, reimagine your interior spaces, or tackle a commercial painting project, we’re here to take on any painting task while you sit back and wait.",
+   "html": "At EA Pro Painters, we offer comprehensive professional painting services for your interiors and exteriors. Whether you’re looking to refresh your home’s exterior, reimagine your interior spaces, or tackle a <a href=\"/commercial\">commercial painting project</a>, we’re here to take on any painting task while you sit back and wait."
+  },
+  {
+   "t": "p",
+   "text": "Our commitment to exceptional customer care and ensuring complete customer satisfaction is fundamental to our business philosophy. We pride ourselves on quality workmanship and effective communication, making sure you are 100% satisfied with our services before considering the job finished.",
+   "html": "Our commitment to exceptional customer care and ensuring complete customer satisfaction is fundamental to our business philosophy. We pride ourselves on quality workmanship and effective communication, making sure you are 100% satisfied with our services before considering the job finished."
+  },
+  {
+   "t": "p",
+   "text": "Look no further for a team of Edmonds pro painters who can bring out the best in your home or business. Contact us at EA Pro Painters today for a free estimate.",
+   "html": "Look no further for a team of Edmonds pro painters who can bring out the best in your home or business. Contact us at EA Pro Painters today for a free estimate."
+  },
+  {
+   "t": "h2",
+   "text": "Challenges Faced by Home and Business Owners in Edmonds"
+  },
+  {
+   "t": "p",
+   "text": "Living in a coastal paradise like Edmonds comes with its unique challenges, especially when it comes to maintaining your Edmonds home’s appearance. That’s where we come in.",
+   "html": "Living in a coastal paradise like Edmonds comes with its unique challenges, especially when it comes to maintaining your Edmonds home’s appearance. That’s where we come in."
+  },
+  {
+   "t": "p",
+   "text": "Here’s how we address the common pain points faced by Edmonds residents:",
+   "html": "Here’s how we address the common pain points faced by Edmonds residents:"
+  },
+  {
+   "t": "p",
+   "text": "· Weather Damage: Edmonds’ marine climate can be tough on paint. Our weather-resistant products and expert application techniques ensure your paint job stands up to salt air, moisture, and UV rays.",
+   "html": "· Weather Damage: Edmonds’ marine climate can be tough on paint. Our weather-resistant products and expert application techniques ensure your paint job stands up to salt air, moisture, and UV rays."
+  },
+  {
+   "t": "p",
+   "text": "· Fading and Discoloration: Sun exposure can cause paint to fade prematurely. That’s why we use only high-quality, fade-resistant paints to keep your colors vibrant for years to come.",
+   "html": "· Fading and Discoloration: Sun exposure can cause paint to fade prematurely. That’s why we use only high-quality, fade-resistant paints to keep your colors vibrant for years to come."
+  },
+  {
+   "t": "p",
+   "text": "· Time and Effort of DIY Painting: We know you have better ways to spend your weekends than on ladders. Let our professional team handle the work while you relax.",
+   "html": "· Time and Effort of DIY Painting: We know you have better ways to spend your weekends than on ladders. Let our professional team handle the work while you relax."
+  },
+  {
+   "t": "p",
+   "text": "· Mismatched or Poor-Quality Finishes: Has an amateur paint job often led to inconsistent results? Our experienced painters deliver flawless, uniform finishes every time.",
+   "html": "· Mismatched or Poor-Quality Finishes: Has an amateur paint job often led to inconsistent results? Our experienced painters deliver flawless, uniform finishes every time."
+  },
+  {
+   "t": "p",
+   "text": "· Surface Preparation Challenges: Proper prep is crucial for a lasting paint job. We have the tools and knowledge to prepare any surface correctly, ensuring superior adhesion and longevity.",
+   "html": "· Surface Preparation Challenges: Proper prep is crucial for a lasting paint job. We have the tools and knowledge to prepare any surface correctly, ensuring superior adhesion and longevity."
+  },
+  {
+   "t": "p",
+   "text": "· Outdated Aesthetics: Is your property’s appearance stuck in the past? We’ll work with you to choose modern colors and finishes that enhance your property’s value and appeal.",
+   "html": "· Outdated Aesthetics: Is your property’s appearance stuck in the past? We’ll work with you to choose modern colors and finishes that enhance your property’s value and appeal."
+  },
+  {
+   "t": "p",
+   "text": "No matter the challenge, our team has you covered. Contact us at EA Pro Painters and get a free estimate on our services in Edmonds, WA.",
+   "html": "No matter the challenge, our team has you covered. Contact us at EA Pro Painters and get a free estimate on our services in Edmonds, WA."
+  },
+  {
+   "t": "h3",
+   "text": "Expertise and Experience"
+  },
+  {
+   "t": "p",
+   "text": "Working with EA Pro Painters means entrusting your property to individuals who have honed their skills. Our team of professionals are well-versed in the latest painting techniques and trends, guaranteeing your space looks refreshed and incorporates modern aesthetics and applications that last.",
+   "html": "Working with EA Pro Painters means entrusting your property to individuals who have honed their skills. Our team of professionals are well-versed in the latest painting techniques and trends, guaranteeing your space looks refreshed and incorporates modern aesthetics and applications that last."
+  },
+  {
+   "t": "h3",
+   "text": "Timesaving"
+  },
+  {
+   "t": "p",
+   "text": "Hiring a professional painting team saves you a significant amount of time. Instead of dedicating your weekends or evenings to painting, you can focus on other important tasks or relaxation. EA Pro Painters are efficient, completing the job in a fraction of the time it would take a DIY enthusiast without compromising quality.",
+   "html": "Hiring a professional painting team saves you a significant amount of time. Instead of dedicating your weekends or evenings to painting, you can focus on other important tasks or relaxation. EA Pro Painters are efficient, completing the job in a fraction of the time it would take a DIY enthusiast without compromising quality."
+  },
+  {
+   "t": "h3",
+   "text": "Quality Materials and Tools"
+  },
+  {
+   "t": "p",
+   "text": "Our team has access to high-quality paints, primers, and tools. Our expert team can select the best materials specifically suited for your property, factoring in the climate of edmonds and the surface types, ensuring a durable finish that looks superior.",
+   "html": "Our team has access to high-quality paints, primers, and tools. Our expert team can select the best materials specifically suited for your property, factoring in the climate of edmonds and the surface types, ensuring a durable finish that looks superior."
+  },
+  {
+   "t": "h3",
+   "text": "Detailed Preparation and Clean-Up"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters will take care of everything - from protecting your furniture and flooring before starting, to ensuring a meticulous clean-up after the job. This comprehensive approach prevents damage to your property and leaves your space spotless and beautifully painted.",
+   "html": "EA Pro Painters will take care of everything - from protecting your furniture and flooring before starting, to ensuring a meticulous clean-up after the job. This comprehensive approach prevents damage to your property and leaves your space spotless and beautifully painted."
+  },
+  {
+   "t": "h3",
+   "text": "Insurance and Warranty"
+  },
+  {
+   "t": "p",
+   "text": "Our team is fully insured, which means any potential damages are covered. Furthermore, we offer a warranty on our work, ensuring a job well done and coverage for any potential issues.",
+   "html": "Our team is fully insured, which means any potential damages are covered. Furthermore, we offer a warranty on our work, ensuring a job well done and coverage for any potential issues."
+  },
+  {
+   "t": "h2",
+   "text": "EA Pro Painters: Your Edmonds Painting Experts"
+  },
+  {
+   "t": "p",
+   "text": "At EA Pro Painters, we understand the specific painting and surface restoration needs in Edmonds. From weatherproofing your exterior against the salty sea air to creating cozy interiors that reflect the warmth of your community, our experienced team is equipped to handle it all.",
+   "html": "At EA Pro Painters, we understand the specific painting and surface restoration needs in Edmonds. From weatherproofing your exterior against the salty sea air to creating cozy interiors that reflect the warmth of your community, our experienced team is equipped to handle it all."
+  },
+  {
+   "t": "p",
+   "text": "Why choose us for your Edmonds painting project? We’re not just painters. We’re your neighbors, committed to enhancing the beauty of our shared community. Our deep knowledge of local conditions, coupled with our proven expertise, ensures results that not only look stunning but also stand the test of time.",
+   "html": "Why choose us for your Edmonds painting project? We’re not just painters. We’re your neighbors, committed to enhancing the beauty of our shared community. Our deep knowledge of local conditions, coupled with our proven expertise, ensures results that not only look stunning but also stand the test of time."
+  },
+  {
+   "t": "p",
+   "text": "Look no further for a professional Edmonds painting team that can elevate your surface’s aesthetics and integrity. Get a free estimate on our painting services in Edmonds today.",
+   "html": "Look no further for a professional Edmonds painting team that can elevate your surface’s aesthetics and integrity. Get a free estimate on our painting services in Edmonds today."
+  },
+  {
+   "t": "h3",
+   "text": "Interior Painting in Edmonds, WA"
+  },
+  {
+   "t": "p",
+   "text": "Are you looking for a surefire way to transform your living spaces? Look no further than our interior painting services. A fresh coat of paint can dramatically enhance the appearance of your interiors, reflecting your style and increasing your property value.",
+   "html": "Are you looking for a surefire way to transform your living spaces? Look no further than our interior painting services. A fresh coat of paint can dramatically enhance the appearance of your interiors, reflecting your style and increasing your property value."
+  },
+  {
+   "t": "p",
+   "text": "There’s more to our interior painting services than simply applying paint. As your partners in paint, we’ll work with you to select the perfect colors that complement your decor and lifestyle. From your cozy living room to your serene bedroom, we’re committed to creating an atmosphere that truly feels like home.",
+   "html": "There’s more to our interior painting services than simply applying paint. As your partners in paint, we’ll work with you to select the perfect colors that complement your decor and lifestyle. From your cozy living room to your serene bedroom, we’re committed to creating an atmosphere that truly feels like home."
+  },
+  {
+   "t": "h3",
+   "text": "Exterior Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "Are your exterior surfaces looking dull and chipped? We get it. Edmonds’ coastal climate can be tough on exterior paint. Fortunately, we offer exterior painting services that can restore and revitalize your exterior surfaces.",
+   "html": "Are your exterior surfaces looking dull and chipped? We get it. Edmonds’ coastal climate can be tough on exterior paint. Fortunately, we offer exterior painting services that can restore and revitalize your exterior surfaces."
+  },
+  {
+   "t": "p",
+   "text": "Our expert team uses high-quality, weather-resistant paints to protect your home from moisture, salt, and UV rays. After the project, your property will surge in curb appeal as we revitalize its exteriors while providing an enduring finish that acts as a durable shield against the elements.",
+   "html": "Our expert team uses high-quality, weather-resistant paints to protect your home from moisture, salt, and UV rays. After the project, your property will surge in curb appeal as we revitalize its exteriors while providing an enduring finish that acts as a durable shield against the elements."
+  },
+  {
+   "t": "p",
+   "text": "Go here to learn more about our Commercial Painting Services available in Edmonds.",
+   "html": "Go here to learn more about our <a href=\"/commercial-painting\">Commercial Painting Services</a> available in Edmonds."
+  },
+  {
+   "t": "h3",
+   "text": "Old Paint Removal"
+  },
+  {
+   "t": "p",
+   "text": "There’s no better way to give your surfaces a new lease on life than by removing old paint. At EA Pro Painters, we do this for you and more.",
+   "html": "There’s no better way to give your surfaces a new lease on life than by removing old paint. At EA Pro Painters, we do this for you and more."
+  },
+  {
+   "t": "p",
+   "text": "Our skilled technicians use safe and effective methods to remove old paint, preparing your surfaces for a flawless new finish. With our team in your corner, there’s no need to handle the mess yourself. Leave the paint removal to us and sit back to enjoy the transformation.",
+   "html": "Our skilled technicians use safe and effective methods to remove old paint, preparing your surfaces for a flawless new finish. With our team in your corner, there’s no need to handle the mess yourself. Leave the paint removal to us and sit back to enjoy the transformation."
+  },
+  {
+   "t": "h3",
+   "text": "Professional Deck and Fence Painting in Edmonds"
+  },
+  {
+   "t": "p",
+   "text": "Your outdoor areas are just as important as your interiors. With our deck and fence painting service, we’ll breathe new life into your deck or fence, using eco-friendly paints specifically designed to withstand Edmonds’ weather conditions. The result is a cozy outdoor space where you can enjoy your morning coffee or host fun evening gatherings.",
+   "html": "Your outdoor areas are just as important as your interiors. With our deck and fence painting service, we’ll breathe new life into your deck or fence, using eco-friendly paints specifically designed to withstand Edmonds’ weather conditions. The result is a cozy outdoor space where you can enjoy your morning coffee or host fun evening gatherings."
+  },
+  {
+   "t": "h3",
+   "text": "New Construction Painting"
+  },
+  {
+   "t": "p",
+   "text": "Are you building a new home or business space in Edmonds? Leave the post-construction painting project to us. Our new construction painting services ensure your property looks its best from day one. Contact us today, and experience new construction painting services that will impress for years to come.",
+   "html": "Are you building a new home or business space in Edmonds? Leave the post-construction painting project to us. Our new construction painting services ensure your property looks its best from day one. Contact us today, and experience new construction painting services that will impress for years to come. "
+  },
+  {
+   "t": "h3",
+   "text": "Drywall Painting"
+  },
+  {
+   "t": "p",
+   "text": "Whether you’re repairing damage or finishing a renovation, our drywall painting services deliver flawless results. After the project, the result is an Edmonds property that looks smooth and perfect — ready for your personal touch.",
+   "html": "Whether you’re repairing damage or finishing a renovation, our drywall painting services deliver flawless results. After the project, the result is an Edmonds property that looks smooth and perfect — ready for your personal touch."
+  },
+  {
+   "t": "h3",
+   "text": "Bespoke Painting Services in Edmonds"
+  },
+  {
+   "t": "p",
+   "text": "Sometimes, a traditional cookie-cutter approach to painting doesn’t cut it. That’s why we’re here to bring your unique vision to life with our custom painting services. From decorative finishes to mural work, we have the skills to make your Edmonds property truly one-of-a-kind.",
+   "html": "Sometimes, a traditional cookie-cutter approach to painting doesn’t cut it. That’s why we’re here to bring your unique vision to life with our custom painting services. From decorative finishes to mural work, we have the skills to make your Edmonds property truly one-of-a-kind."
+  },
+  {
+   "t": "button",
+   "text": "Get A Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "EA Pro Painters Comprehensive Edmonds Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "When we say comprehensive painting services, we mean it. We don’t leave any stone unturned when transforming and beautifying your property.",
+   "html": "When we say comprehensive painting services, we mean it. We don’t leave any stone unturned when transforming and beautifying your property."
+  },
+  {
+   "t": "h3",
+   "text": "Old Paint Removal"
+  },
+  {
+   "t": "p",
+   "text": "We use state-of-the-art techniques and equipment to meticulously strip away the old layers, revealing a clean, perfect surface ready for a new coat of paint. This process improves adhesion and prevents future peeling, cracking, or blistering, ensuring that the new paint job stands the test of time and weather.",
+   "html": "We use state-of-the-art techniques and equipment to meticulously strip away the old layers, revealing a clean, perfect surface ready for a new coat of paint. This process improves adhesion and prevents future peeling, cracking, or blistering, ensuring that the new paint job stands the test of time and weather."
+  },
+  {
+   "t": "h3",
+   "text": "New Establishment Painting"
+  },
+  {
+   "t": "p",
+   "text": "Are you a business owner setting up a shop in Edmonds or a homeowner building your dream house? EA Pro Painters’ professional house painting project services for new establishments can help you create an inviting and professional appearance for your new property. Kickstart your property’s aesthetics with our expert color consultations and high-quality paint selection.",
+   "html": "Are you a business owner setting up a shop in Edmonds or a homeowner building your dream house? EA Pro Painters’ professional house painting project services for new establishments can help you create an inviting and professional appearance for your new property. Kickstart your property’s aesthetics with our expert color consultations and high-quality paint selection."
+  },
+  {
+   "t": "h3",
+   "text": "Deck and Fence Painting"
+  },
+  {
+   "t": "p",
+   "text": "Don’t neglect your decks and fences; they are essential to your property’s overall look. Whether you want to restore the natural beauty of wood grains or add a pop of color to match your exterior’s palette, we have the expertise to handle all types of deck and fence painting projects.",
+   "html": "Don’t neglect your decks and fences; they are essential to your property’s overall look. Whether you want to restore the natural beauty of wood grains or add a pop of color to match your exterior’s palette, we have the expertise to handle all types of deck and fence painting projects."
+  },
+  {
+   "t": "h3",
+   "text": "Exterior Cleaning"
+  },
+  {
+   "t": "p",
+   "text": "Keeping your property clean and tidy can require a lot of time and effort. With our exterior cleaning services, you can let us do the work while you sit back and relax. We use eco-friendly solutions and modern equipment to leave your property surfaces sparkling clean.",
+   "html": "Keeping your property clean and tidy can require a lot of time and effort. With our exterior cleaning services, you can let us do the work while you sit back and relax. We use eco-friendly solutions and modern equipment to leave your property surfaces sparkling clean."
+  },
+  {
+   "t": "h2",
+   "text": "Why EA Pro Painters?"
+  },
+  {
+   "t": "p",
+   "text": "At EA Pro Painters, several things set us apart from other professional painters in Washington. Here’s what you can look forward to when you choose to experience the EA Pro Painters difference.",
+   "html": "At EA Pro Painters, several things set us apart from other professional painters in Washington. Here’s what you can look forward to when you choose to experience the EA Pro Painters difference."
+  },
+  {
+   "t": "h3",
+   "text": "Local Expertise, World-Class Standards"
+  },
+  {
+   "t": "p",
+   "text": "As Edmonds locals, we bring an unmatched understanding of your surface maintenance and restoration needs. However, local doesn’t mean small in scale. Our standards of excellence are at par with those of any world-class painting company. We combine our local knowledge with industry-leading techniques to deliver results that exceed your expectations.",
+   "html": "As Edmonds locals, we bring an unmatched understanding of your surface maintenance and restoration needs. However, local doesn’t mean small in scale. Our standards of excellence are at par with those of any world-class painting company. We combine our local knowledge with industry-leading techniques to deliver results that exceed your expectations."
+  },
+  {
+   "t": "h3",
+   "text": "EA Pro Warranty"
+  },
+  {
+   "t": "p",
+   "text": "We’re confident in the results we deliver. As we all know, nothing says confidence better than a service warranty. Our comprehensive warranty gives you peace of mind, knowing that your investment is protected. The EA warranty is more than a guarantee. It symbolizes our commitment to your satisfaction.",
+   "html": "We’re confident in the results we deliver. As we all know, nothing says confidence better than a service warranty. Our comprehensive warranty gives you peace of mind, knowing that your investment is protected. The EA warranty is more than a guarantee. It symbolizes our commitment to your satisfaction."
+  },
+  {
+   "t": "h3",
+   "text": "Experienced Painting Team"
+  },
+  {
+   "t": "p",
+   "text": "We have a team of expert painters who are passionate about their craft. With years of experience under their belts, our Edmonds painters bring a level of expertise that shows in every brushstroke.",
+   "html": "We have a team of expert painters who are passionate about their craft. With years of experience under their belts, our Edmonds painters bring a level of expertise that shows in every brushstroke."
+  },
+  {
+   "t": "h3",
+   "text": "Licensed and Insured Edmonds Painting"
+  },
+  {
+   "t": "p",
+   "text": "When you choose EA Pro Painters, you’re choosing peace of mind. We’re fully licensed and insured, protecting you and your property throughout the painting process.",
+   "html": "When you choose EA Pro Painters, you’re choosing peace of mind. We’re fully licensed and insured, protecting you and your property throughout the painting process."
+  },
+  {
+   "t": "h3",
+   "text": "Trusted in Edmonds and Beyond"
+  },
+  {
+   "t": "p",
+   "text": "While we’re excited to serve Edmonds, our reputation for quality extends throughout Washington State. From Edmonds to Bellevue, property owners trust EA Pro Painters for their painting needs. Now, we’re bringing that same level of service and commitment to you in Edmonds.",
+   "html": "While we’re excited to serve Edmonds, our reputation for quality extends throughout Washington State. From Edmonds to <a href=\"/painting-company/bellevue\">Bellevue</a>, property owners trust EA Pro Painters for their painting needs. Now, we’re bringing that same level of service and commitment to you in Edmonds."
+  },
+  {
+   "t": "h2",
+   "text": "How To Find the Best Painting Team in Edmonds"
+  },
+  {
+   "t": "p",
+   "text": "There’s no need to search far and wide for reliable Edmonds painters. Complete your residential or commercial painting project with EA Pro Painters in four steps.",
+   "html": "There’s no need to search far and wide for reliable Edmonds painters. Complete your residential or commercial painting project with EA Pro Painters in four steps."
+  },
+  {
+   "t": "h3",
+   "text": "Step 1: Get a free estimate"
+  },
+  {
+   "t": "p",
+   "text": "You can contact us or request a free estimate directly on our site. A member of our customer service team will be with you immediately, gathering information about your desired painting services.",
+   "html": "You can contact us or request a free estimate directly on our site. A member of our customer service team will be with you immediately, gathering information about your desired painting services."
+  },
+  {
+   "t": "h3",
+   "text": "Step 2: Select Your Colors"
+  },
+  {
+   "t": "p",
+   "text": "Once you’re happy with our quote, you can choose your colors. From homey and organic neutral shades to more vibrant tones, we have them all.",
+   "html": "Once you’re happy with our quote, you can choose your colors. From homey and organic neutral shades to more vibrant tones, we have them all."
+  },
+  {
+   "t": "h3",
+   "text": "Step 3: Start the project"
+  },
+  {
+   "t": "p",
+   "text": "With the quote and colors sorted, our team will be ready to commence with your painting job. Expect nothing but precision, promptness, and excellence from start to finish.",
+   "html": "With the quote and colors sorted, our team will be ready to commence with your painting job. Expect nothing but precision, promptness, and excellence from start to finish."
+  },
+  {
+   "t": "h3",
+   "text": "Step 4: Quality Inspection and Warranty"
+  },
+  {
+   "t": "p",
+   "text": "Our work isn’t over after the final brushstroke. We’ll inspect the quality of our finish and redo any areas that you’re not happy with as part of our warranty.",
+   "html": "Our work isn’t over after the final brushstroke. We’ll inspect the quality of our finish and redo any areas that you’re not happy with as part of our warranty."
+  },
+  {
+   "t": "h2",
+   "text": "Transform Your Edmonds Property With Just a Coat of Paint"
+  },
+  {
+   "t": "p",
+   "text": "Don’t let painting challenges hold you back from having the beautiful home or business you deserve. At EA Pro Painters, we are here to turn your house painting dreams into reality.\\",
+   "html": "Don’t let painting challenges hold you back from having the beautiful home or business you deserve. At EA Pro Painters, we are here to turn your house painting dreams into reality.\\"
+  },
+  {
+   "t": "p",
+   "text": "Our team of skilled professionals is ready to tackle any painting project, big or small, with the care and expertise you expect. Get a free estimate today and take the first step towards a beautifully refreshed property.",
+   "html": "Our team of skilled professionals is ready to tackle any painting project, big or small, with the care and expertise you expect. Get a free estimate today and take the first step towards a beautifully refreshed property."
+  },
+  {
+   "t": "h2",
+   "text": "More About the City of Edmonds"
+  },
+  {
+   "t": "p",
+   "text": "Located on the stunning Puget Sound in Snohomish County, Edmonds is a blend of natural beauty and small-town charm. Downtown Edmonds captures hearts with its historic buildings, boutique shops, and thriving arts scene. The Edmonds Center for the Arts and Cascadia Art Museum showcase the creative spirit that flows through this community.",
+   "html": "Located on the stunning Puget Sound in Snohomish County, Edmonds is a blend of natural beauty and small-town charm. Downtown Edmonds captures hearts with its historic buildings, boutique shops, and thriving arts scene. The Edmonds Center for the Arts and Cascadia Art Museum showcase the creative spirit that flows through this community."
+  },
+  {
+   "t": "p",
+   "text": "Are you looking for a spot for solitude? Find solace in the Edmonds Marsh. This marshland is a 22.5-acre bird sanctuary that stands as one of the few urban saltwater estuaries in the Puget Sound region.",
+   "html": "Are you looking for a spot for solitude? Find solace in the Edmonds Marsh. This marshland is a 22.5-acre bird sanctuary that stands as one of the few urban saltwater estuaries in the Puget Sound region."
+  },
+  {
+   "t": "p",
+   "text": "Let’s not forget the community spirit that shines through annual events like the Edmonds Arts Festival, Taste Edmonds, and the Edmonds Waterfront Festival.",
+   "html": "Let’s not forget the community spirit that shines through annual events like the Edmonds Arts Festival, Taste Edmonds, and the Edmonds Waterfront Festival."
+  },
+  {
+   "t": "p",
+   "text": "In short, Edmonds is a rich community that inspires our work at EA Pro Painters. We’re committed to preserving and enhancing the beauty of Edmonds, one brush stroke at a time.",
+   "html": "In short, Edmonds is a rich community that inspires our work at EA Pro Painters. We’re committed to preserving and enhancing the beauty of Edmonds, one brush stroke at a time."
+  },
+  {
+   "t": "h2",
+   "text": "What Our Edmonds Clients Say:"
+  },
+  {
+   "t": "h3",
+   "text": "Ishaan - *"
+  },
+  {
+   "t": "p",
+   "text": "“I’ve had multiple projects completed by EA Pro. My experience with my first project with them made me feel confident and comfortable hiring for my second project, painting the exterior of my house. I’ve been procrastinating getting my house painted because I’ve heard so many horror stories of cruddy painting companies. Once I found EA Pro those fears vanished…”",
+   "html": "“I’ve had multiple projects completed by EA Pro. My experience with my first project with them made me feel confident and comfortable hiring for my second project, painting the exterior of my house. I’ve been procrastinating getting my house painted because I’ve heard so many horror stories of cruddy painting companies. Once I found EA Pro those fears vanished…”"
+  },
+  {
+   "t": "p",
+   "text": "⭐️⭐️⭐️⭐️⭐️",
+   "html": "⭐️⭐️⭐️⭐️⭐️"
+  },
+  {
+   "t": "h3",
+   "text": "David - *"
+  },
+  {
+   "t": "p",
+   "text": "\"EA Painting did our exterior cedar trim painting, stained the exterior brick, and painted our whole interior walls, trim, doors, and cabinets… They were very flexible with our schedule and we got along very well with the painters who came out too. Thank you EA for making our home look new and refreshed!”",
+   "html": "\"EA Painting did our exterior cedar trim painting, stained the exterior brick, and painted our whole interior walls, trim, doors, and cabinets… They were very flexible with our schedule and we got along very well with the painters who came out too. Thank you EA for making our home look new and refreshed!”"
+  },
+  {
+   "t": "p",
+   "text": "⭐️⭐️⭐️⭐️⭐️",
+   "html": "⭐️⭐️⭐️⭐️⭐️"
+  },
+  {
+   "t": "h3",
+   "text": "Vlad - *"
+  },
+  {
+   "t": "p",
+   "text": "\"Wow, what an incredible experience with EA pro painters! From the initial consultation to the final walk-through, their professionalism, attention to detail, and expertise were on full display. The quality of their work is truly exceptional — the colors are vibrant, the lines are crisp, and the finish is flawless. My home has never looked better!”",
+   "html": "\"Wow, what an incredible experience with EA pro painters! From the initial consultation to the final walk-through, their professionalism, attention to detail, and expertise were on full display. The quality of their work is truly exceptional — the colors are vibrant, the lines are crisp, and the finish is flawless. My home has never looked better!”"
+  },
+  {
+   "t": "p",
+   "text": "⭐️⭐️⭐️⭐️⭐️",
+   "html": "⭐️⭐️⭐️⭐️⭐️"
+  },
+  {
+   "t": "h2",
+   "text": "Work With the Leading Edmonds Painting Company"
+  },
+  {
+   "t": "p",
+   "text": "Your home and business make Edmonds the beautiful place it is. Let EA Pro Painters join you in keeping it that way.",
+   "html": "Your home and business make Edmonds the beautiful place it is. Let EA Pro Painters join you in keeping it that way."
+  },
+  {
+   "t": "h2",
+   "text": "Considering a Home Painting Project?"
+  },
+  {
+   "t": "p",
+   "text": "For property owners wanting to update interior or exterior living space in Edmonds, consider partnering with EA Pro Painters, a company dedicated to providing exceptional internal and external painting services for both residential and commercial properties. Our team is committed to delivering high-quality workmanship and meticulous attention to detail, ensuring your vision becomes a reality. Contact EA Pro Painters for an estimate and to discuss your painting needs.",
+   "html": "For property owners wanting to update interior or exterior living space in Edmonds, consider partnering with EA Pro Painters, a company dedicated to providing exceptional internal and external painting services for both residential and commercial properties. Our team is committed to delivering high-quality workmanship and meticulous attention to detail, ensuring your vision becomes a reality. <a href=\"/contact\">Contact EA Pro Painters</a> for an <a href=\"/estimate\">estimate</a> and to discuss your painting needs."
+  },
+  {
+   "t": "p",
+   "text": "Hire a Company You Can Trust",
+   "html": "Hire a Company You Can Trust"
+  },
+  {
+   "t": "h2",
+   "text": "Reviews from our customers"
+  },
+  {
+   "t": "button",
+   "text": "Read more reviews",
+   "href": "https://birdeye.com/ea-pro-painters-170905799500570"
+  },
+  {
+   "t": "button",
+   "text": "Get A Free Estimate",
+   "href": "/estimate"
+  }
+ ]
+}

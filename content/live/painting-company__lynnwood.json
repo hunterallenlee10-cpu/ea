@@ -1,0 +1,478 @@
+{
+ "path": "/painting-company/lynnwood",
+ "blocks": [
+  {
+   "t": "h1",
+   "text": "Lynnwood Painters – Quality Painting for Homes & Businesses"
+  },
+  {
+   "t": "button",
+   "text": "Get a Free Estimate",
+   "href": "/contact"
+  },
+  {
+   "t": "img",
+   "src": "https://irp.cdn-website.com/d29ca128/dms3rep/multi/opt/12-1920w.jpeg",
+   "alt": "A blue house with a white porch and a black building in the background."
+  },
+  {
+   "t": "h2",
+   "text": "Transform Your Spaces with a Trusted Lynnwood Painting Company"
+  },
+  {
+   "t": "p",
+   "text": "Lynnwood is a beautiful place to live and start a business. While primarily suburban, the city has a growing economy that makes it ideal for small enterprises. So, whether you’re a residential or commercial property owner, having attractive exteriors and interiors is important both for aesthetic appeal and quality of living. Thankfully, EA Pro Painters is here to serve you as your trusted Lynnwood painting company — providing comprehensive painting services.",
+   "html": "Lynnwood is a beautiful place to live and start a business. While primarily suburban, the city has a growing economy that makes it ideal for small enterprises. So, whether you’re a residential or commercial property owner, having attractive exteriors and interiors is important both for aesthetic appeal and quality of living. Thankfully, EA Pro Painters is here to serve you as your trusted Lynnwood painting company — providing comprehensive painting services."
+  },
+  {
+   "t": "p",
+   "text": "We are an established team serving the Greater Seattle Area, handling a wide range of painting projects for interiors and exteriors. Leveraging our knowledge of the area and in-depth expertise in painting, we take on small and large projects and deliver results that always exceed client expectations.",
+   "html": "We are an established team serving the Greater Seattle Area, handling a wide range of painting projects for interiors and exteriors. Leveraging our knowledge of the area and in-depth expertise in painting, we take on small and large projects and deliver results that always exceed client expectations."
+  },
+  {
+   "t": "p",
+   "text": "If you have an upcoming project, we’re ready to help. Contact us today and let’s chat about your vision.",
+   "html": "If you have an upcoming project, we’re ready to help. Contact us today and let’s chat about your vision. "
+  },
+  {
+   "t": "button",
+   "text": "Get a Free Estimate",
+   "href": "/contact"
+  },
+  {
+   "t": "h2",
+   "text": "Painting Services for Interiors and Exteriors"
+  },
+  {
+   "t": "p",
+   "text": "At EA Pro Painters, we take on a wide range of projects for residential and commercial properties.",
+   "html": "At EA Pro Painters, we take on a wide range of projects for residential and commercial properties."
+  },
+  {
+   "t": "p",
+   "text": "Our services include:",
+   "html": "Our services include:"
+  },
+  {
+   "t": "li",
+   "text": "Exterior House Painting Services",
+   "html": "<a href=\"/exterior-painting\">Exterior House Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Interior House Painting Services",
+   "html": "<a href=\"/\">Interior House Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Deck & Fence Painting Services",
+   "html": "<a href=\"/decks-and-fences-painting\">Deck &amp; Fence Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Drywall Painting Services",
+   "html": "<a href=\"/drywall-painting\">Drywall Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Cabinet Painting Services",
+   "html": "<a href=\"/cabinet-painting\">Cabinet Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Millwork Painting Services",
+   "html": "<a href=\"/millwork-painting\">Millwork Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Drywall Painting Services",
+   "html": "<a href=\"/drywall-painting\">Drywall Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Trim Painting Services",
+   "html": "<a href=\"/\">Trim Painting Services</a>"
+  },
+  {
+   "t": "li",
+   "text": "Shutter Painting Services",
+   "html": "<a href=\"/\">Shutter Painting Services</a> "
+  },
+  {
+   "t": "h3",
+   "text": "Interior Painting Lynnwood"
+  },
+  {
+   "t": "p",
+   "text": "During winter, we primarily work on interior painting projects. Trust us to apply the first coat in new room additions or revitalize old surfaces during renovation projects. For establishments, we can transform offices, display areas, and other spaces to match your branding and attract your target audience.",
+   "html": "During winter, we primarily work on <a href=\"https://www.eapropainters.com/services#Interior\">interior painting projects</a>. Trust us to apply the first coat in new room additions or revitalize old surfaces during renovation projects. For establishments, we can transform offices, display areas, and other spaces to match your branding and attract your target audience."
+  },
+  {
+   "t": "h3",
+   "text": "Exterior Painting Lynnwood"
+  },
+  {
+   "t": "p",
+   "text": "Most of our work consists of exterior painting projects, helping property owners during spring, summer, and fall. Our team applies fresh coats to many kinds of outdoor features to enhance the appearance and add another layer of protection from the occasional severe weather. After our work is done, you can enjoy a higher property value, improved curb appeal, and enhanced aesthetics.",
+   "html": "Most of our work consists of <a href=\"https://www.eapropainters.com/exterior-painting\">exterior painting projects</a>, helping property owners during spring, summer, and fall. Our team applies fresh coats to many kinds of outdoor features to enhance the appearance and add another layer of protection from the occasional severe weather. After our work is done, you can enjoy a higher property value, improved curb appeal, and enhanced aesthetics."
+  },
+  {
+   "t": "p",
+   "text": "If you need professional painting services for the following areas and outdoor features, you can count on us.",
+   "html": "If you need professional painting services for the following areas and outdoor features, you can count on us."
+  },
+  {
+   "t": "li",
+   "text": "Roof and siding",
+   "html": "Roof and siding"
+  },
+  {
+   "t": "li",
+   "text": "Fences and gates",
+   "html": "Fences and gates"
+  },
+  {
+   "t": "li",
+   "text": "Walls and facades",
+   "html": "Walls and facades"
+  },
+  {
+   "t": "li",
+   "text": "Awnings and canopies",
+   "html": "Awnings and canopies"
+  },
+  {
+   "t": "li",
+   "text": "Signages",
+   "html": "Signages"
+  },
+  {
+   "t": "li",
+   "text": "Deck and patio",
+   "html": "Deck and patio"
+  },
+  {
+   "t": "li",
+   "text": "Trim",
+   "html": "Trim"
+  },
+  {
+   "t": "li",
+   "text": "Gutters",
+   "html": "Gutters"
+  },
+  {
+   "t": "li",
+   "text": "Paths and walkways",
+   "html": "Paths and walkways"
+  },
+  {
+   "t": "li",
+   "text": "Other areas with visible damage or sections that need improvements",
+   "html": "Other areas with visible damage or sections that need improvements "
+  },
+  {
+   "t": "h3",
+   "text": "Reasons To Choose Professional Painting Services for Your Project"
+  },
+  {
+   "t": "p",
+   "text": "Painting is not an easy task, even though it may seem like simply brushing pigment onto a surface. If you DIY a painting project, you’ll quickly discover the complexity and need for specialized knowledge and equipment, leading to difficulties. Make things easier by working with professionals from the get-go. When you choose to work with experts like us, you can expect the following benefits.",
+   "html": "Painting is not an easy task, even though it may seem like simply brushing pigment onto a surface. If you DIY a painting project, you’ll quickly discover the complexity and need for specialized knowledge and equipment, leading to difficulties. Make things easier by working with professionals from the get-go. When you choose to work with experts like us, you can expect the following benefits."
+  },
+  {
+   "t": "h3",
+   "text": "1. Expert Knowledge and Techniques"
+  },
+  {
+   "t": "p",
+   "text": "There’s a lot of technical know-how when it comes to painting. From the correct prep work to dealing with complicated corners, technical skill is needed to ensure even and exact brush strokes. There’s also the matter of matching the right kind of paint to the surface’s material. DIY painters won’t have this depth of knowledge, resulting in subpar results.",
+   "html": "There’s a lot of technical know-how when it comes to painting. From the correct prep work to dealing with complicated corners, technical skill is needed to ensure even and exact brush strokes. There’s also the matter of matching the right kind of paint to the surface’s material. DIY painters won’t have this depth of knowledge, resulting in subpar results."
+  },
+  {
+   "t": "p",
+   "text": "When you work with us, you engage with knowledgeable professionals who understand the nuances of painting projects. Thanks to our years of experience and continued training, we can confidently handle a wide variety of surfaces while avoiding common pitfalls, like visible strokes and streaks.",
+   "html": "When you work with us, you engage with knowledgeable professionals who understand the nuances of painting projects. Thanks to our years of experience and continued training, we can confidently handle a wide variety of surfaces while avoiding common pitfalls, like visible strokes and streaks."
+  },
+  {
+   "t": "h3",
+   "text": "2. More Cost-effective in the Long Run"
+  },
+  {
+   "t": "p",
+   "text": "Property owners may feel intimidated by the initial expense of hiring a painting contractor. However, the subpar results from a DIY paint job may result in more expense in the long run. The additional touch-ups and recoating can cost you more. If you work with us, you can expect the job to be done right the first time around. Thus, you avoid expenses in the future. Plus, our guarantee lets you enjoy free touch-ups in the unlikely chance that you find any issues.",
+   "html": "Property owners may feel intimidated by the initial expense of hiring a painting contractor. However, the subpar results from a DIY paint job may result in more expense in the long run. The additional touch-ups and recoating can cost you more. If you work with us, you can expect the job to be done right the first time around. Thus, you avoid expenses in the future. Plus, our guarantee lets you enjoy free touch-ups in the unlikely chance that you find any issues."
+  },
+  {
+   "t": "h3",
+   "text": "3. Access to Quality Materials and Equipment"
+  },
+  {
+   "t": "p",
+   "text": "DIY painters usually don’t have the budget for advanced equipment and high-quality paints, opting for the cheaper ones that provide subpar results and a frustrating painting process. As a dedicated painting company, we invest in only the best in the industry, from brushes and sprays to paints and finishers. These high-quality materials and equipment allow us to deliver outstanding results that exceed expectations.",
+   "html": "DIY painters usually don’t have the budget for advanced equipment and high-quality paints, opting for the cheaper ones that provide subpar results and a frustrating painting process. As a dedicated painting company, we invest in only the best in the industry, from brushes and sprays to paints and finishers. These high-quality materials and equipment allow us to deliver outstanding results that exceed expectations."
+  },
+  {
+   "t": "h3",
+   "text": "4. Decreased Chances of Accidents"
+  },
+  {
+   "t": "p",
+   "text": "Painting can be a dangerous activity, especially for those who attempt to paint in high locations like roofs or ceilings. Professional painters like us have the right tools and protocols to ensure the safety of workers, clients, and occupants. These include sturdy ladders, safety gear, and personal protective equipment. We work carefully to prevent untoward accidents that could result in costly or life-threatening injuries. DIY painters may not have much experience or equipment, increasing the risk of harm.",
+   "html": "Painting can be a dangerous activity, especially for those who attempt to paint in high locations like roofs or ceilings. Professional painters like us have the right tools and protocols to ensure the safety of workers, clients, and occupants. These include sturdy ladders, safety gear, and personal protective equipment. We work carefully to prevent untoward accidents that could result in costly or life-threatening injuries. DIY painters may not have much experience or equipment, increasing the risk of harm."
+  },
+  {
+   "t": "h3",
+   "text": "5. Protection From Liability"
+  },
+  {
+   "t": "p",
+   "text": "Professional painting teams carry insurance that covers most types of liabilities. So, even if anyone suffers injuries, the liability falls to us. This added protection helps you avoid financial loss if an accident happens during the project.",
+   "html": "Professional painting teams carry insurance that covers most types of liabilities. So, even if anyone suffers injuries, the liability falls to us. This added protection helps you avoid financial loss if an accident happens during the project."
+  },
+  {
+   "t": "h3",
+   "text": "6. Personalized Color Recommendations"
+  },
+  {
+   "t": "p",
+   "text": "Choosing color combinations can be difficult, even overwhelming. Not many people have the eye for good color schemes, and it’s intimidating to commit to certain combinations knowing how paint jobs last for a long time. If you choose the wrong colors, you could hate your exteriors for years to come.",
+   "html": "Choosing color combinations can be difficult, even overwhelming. Not many people have the eye for good color schemes, and it’s intimidating to commit to certain combinations knowing how paint jobs last for a long time. If you choose the wrong colors, you could hate your exteriors for years to come."
+  },
+  {
+   "t": "p",
+   "text": "Thankfully, you can get customized personal recommendations as part of our professional painting services. Our extensive knowledge and a keen eye for detail allow us to make suggestions based on what’s trending and your own personal preferences. We also consider the color scheme's functionality, considering aspects like lighting and desired ambiance.",
+   "html": "Thankfully, you can get customized personal recommendations as part of our professional painting services. Our extensive knowledge and a keen eye for detail allow us to make suggestions based on what’s trending and your own personal preferences. We also consider the color scheme's functionality, considering aspects like lighting and desired ambiance."
+  },
+  {
+   "t": "h2",
+   "text": "Other Painting Services for Lynnwood Properties"
+  },
+  {
+   "t": "p",
+   "text": "As part of our comprehensive painting services, we offer other solutions to transform various other locations.",
+   "html": "As part of our comprehensive painting services, we offer other solutions to transform various other locations."
+  },
+  {
+   "t": "h3",
+   "text": "Cabinet Painting"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters does cabinet painting to bring these storage areas to life. We paint various types of materials and styles, working with accuracy to keep clean lines and a flawless appearance. If you want to refresh an antique cabinet or add a modern flair to flat colors, trust us to realize your vision.",
+   "html": "EA Pro Painters does cabinet painting to bring these storage areas to life. We paint various types of materials and styles, working with accuracy to keep clean lines and a flawless appearance. If you want to refresh an antique cabinet or add a modern flair to flat colors, trust us to realize your vision."
+  },
+  {
+   "t": "h3",
+   "text": "Millwork and Drywall"
+  },
+  {
+   "t": "p",
+   "text": "Apart from cabinets, we offer specialized painting services for millwork and drywall. Our team knows how to work on an array of paints and finishes to achieve the ambiance you want, enhancing the character and quality of each space. With a focus on detail, we ensure that each surface complements your vision and seamlessly integrates into your home or business.",
+   "html": "Apart from cabinets, we offer specialized painting services for millwork and drywall. Our team knows how to work on an array of paints and finishes to achieve the ambiance you want, enhancing the character and quality of each space. With a focus on detail, we ensure that each surface complements your vision and seamlessly integrates into your home or business."
+  },
+  {
+   "t": "h3",
+   "text": "Customized Painting"
+  },
+  {
+   "t": "p",
+   "text": "We go beyond the flat walls of color on properties. If you have a certain vision in mind, whether it’s funky colors or unique patterns, we can do it. Thanks to our custom painting services, we can create one-of-a-kind masterpieces that reflect your personality or business branding.",
+   "html": "We go beyond the flat walls of color on properties. If you have a certain vision in mind, whether it’s funky colors or unique patterns, we can do it. Thanks to our custom painting services, we can create one-of-a-kind masterpieces that reflect your personality or business branding."
+  },
+  {
+   "t": "h3",
+   "text": "Exterior Cleaning"
+  },
+  {
+   "t": "p",
+   "text": "While exterior cleaning is part of our prep work, we can offer this service on its own. We use eco-friendly cleaning products and efficient techniques to clean surfaces without making a considerable impact on the environment.",
+   "html": "While exterior cleaning is part of our prep work, we can offer this service on its own. We use eco-friendly cleaning products and efficient techniques to clean surfaces without making a considerable impact on the environment."
+  },
+  {
+   "t": "h2",
+   "text": "Reasons To Work with EA Pro Painters"
+  },
+  {
+   "t": "p",
+   "text": "Over the years, we’ve gained many repeat customers and client referrals, which has allowed us to become one of the most recognized Lynnwood painting companies. Here are a few reasons why many home and business owners continue to choose our team.",
+   "html": "Over the years, we’ve gained many repeat customers and client referrals, which has allowed us to become one of the most recognized Lynnwood painting companies. Here are a few reasons why many home and business owners continue to choose our team."
+  },
+  {
+   "t": "h4",
+   "text": "Homegrown Washington Company"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters is a local company with a team that knows the region’s climate and architectural trends of the Greater Seattle Area. We take these factors into account when handling painting projects, allowing us to tailor our services to the specific needs of each client.",
+   "html": "EA Pro Painters is a local company with a team that knows the region’s climate and architectural trends of the Greater Seattle Area. We take these factors into account when handling painting projects, allowing us to tailor our services to the specific needs of each client."
+  },
+  {
+   "t": "h4",
+   "text": "Licensed and Insured"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters carries all the right licenses as proof that you’re working with a legitimate painting contractor. Plus, our team is covered by insurance, so our clients won’t face liability in case of accidents, injuries, or property damage.",
+   "html": "EA Pro Painters carries all the right licenses as proof that you’re working with a legitimate painting contractor. Plus, our team is covered by insurance, so our clients won’t face liability in case of accidents, injuries, or property damage."
+  },
+  {
+   "t": "h4",
+   "text": "Guarantee"
+  },
+  {
+   "t": "p",
+   "text": "We put a guarantee on all our projects as a mark of our confidence in our work. If you find any flaws, we’ll come back for touch-ups at no charge.",
+   "html": "We put a guarantee on all our projects as a mark of our confidence in our work. If you find any flaws, we’ll come back for touch-ups at no charge."
+  },
+  {
+   "t": "h4",
+   "text": "Reputable Painting Contractor"
+  },
+  {
+   "t": "p",
+   "text": "We’ve been recognized as one of the top painting companies in various areas within Greater Seattle. This recognition stems from our stellar track record of satisfied customers and outstanding final outputs.",
+   "html": "We’ve been recognized as one of the top painting companies in various areas within Greater Seattle. This recognition stems from our stellar track record of satisfied customers and outstanding final outputs."
+  },
+  {
+   "t": "button",
+   "text": "Get A Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "Commercial Painting Lynnwood: Let’s Discuss Your Upcoming Painting Project"
+  },
+  {
+   "t": "h3",
+   "text": "More About the City of Lynnwood"
+  },
+  {
+   "t": "p",
+   "text": "Lynnwood is a charming city north of Seattle, with sprawling suburban neighborhoods and historic landmarks. The area has become a choice location for families for the following reasons.",
+   "html": "Lynnwood is a charming city north of Seattle, with sprawling suburban neighborhoods and historic landmarks. The area has become a choice location for families for the following reasons."
+  },
+  {
+   "t": "p",
+   "text": "Natural Beauty and Urban Convenience",
+   "html": "Natural Beauty and Urban Convenience"
+  },
+  {
+   "t": "p",
+   "text": "While Lynnwood is part of the Seattle metropolitan area, the city still maintains its natural features. Plus, it’s close to places like Puget Sound and Mount Baker-Snoqualmie National Forest. Residents live between bustling urban centers and the great outdoors, perfect for a balanced lifestyle.",
+   "html": "While Lynnwood is part of the Seattle metropolitan area, the city still maintains its natural features. Plus, it’s close to places like Puget Sound and Mount Baker-Snoqualmie National Forest. Residents live between bustling urban centers and the great outdoors, perfect for a balanced lifestyle."
+  },
+  {
+   "t": "p",
+   "text": "This combination of beauty and convenience further highlights the demand for professional painting services in the city. Commercial and residential properties deserve to look as stunning as their surroundings.",
+   "html": "This combination of beauty and convenience further highlights the demand for professional painting services in the city. Commercial and residential properties deserve to look as stunning as their surroundings."
+  },
+  {
+   "t": "h3",
+   "text": "Rich Culture and Heritage"
+  },
+  {
+   "t": "p",
+   "text": "Like the rest of the region, Lynnwood has rich traditions. From century-old homes to festivals like the Fair on 44th block party, residents will enjoy the thriving cultural heritage. Every property holds a piece of the past, which painting services can preserve.",
+   "html": "Like the rest of the region, Lynnwood has rich traditions. From century-old homes to festivals like the Fair on 44th block party, residents will enjoy the thriving cultural heritage. Every property holds a piece of the past, which painting services can preserve."
+  },
+  {
+   "t": "p",
+   "text": "Expert painters can select color combinations that honor your property’s history and safeguard it from the elements threatening its longevity. Lynnwood’s story is worth celebrating and maintaining; painting services are an excellent place to start.",
+   "html": "Expert painters can select color combinations that honor your property’s history and safeguard it from the elements threatening its longevity. Lynnwood’s story is worth celebrating and maintaining; painting services are an excellent place to start."
+  },
+  {
+   "t": "h3",
+   "text": "Family-Friendly Atmosphere"
+  },
+  {
+   "t": "p",
+   "text": "Families appreciate Lynnwood’s excellent schools, safe neighborhoods, and abundant recreational facilities. The city boasts family-oriented activities like playgrounds, community centers, and seasonal events that foster a sense of belonging.",
+   "html": "Families appreciate Lynnwood’s excellent schools, safe neighborhoods, and abundant recreational facilities. The city boasts family-oriented activities like playgrounds, community centers, and seasonal events that foster a sense of belonging."
+  },
+  {
+   "t": "p",
+   "text": "Painting brings personalization and lastingness to each project, adding an individual touch that fits the ambiance. The more pleasing and resilient the properties are, the more welcoming and warm the city becomes for families.",
+   "html": "Painting brings personalization and lastingness to each project, adding an individual touch that fits the ambiance. The more pleasing and resilient the properties are, the more welcoming and warm the city becomes for families."
+  },
+  {
+   "t": "h3",
+   "text": "Sustainable Living"
+  },
+  {
+   "t": "p",
+   "text": "The City of Lynnwood aspires to be an example of sustainability within the region. This vision encompasses fostering an environmentally responsible community that prioritizes green initiatives, renewable practices, and conservation efforts.",
+   "html": "The City of Lynnwood aspires to be an example of sustainability within the region. This vision encompasses fostering an environmentally responsible community that prioritizes green initiatives, renewable practices, and conservation efforts."
+  },
+  {
+   "t": "p",
+   "text": "Our professional painting services utilize eco-friendly materials, energy-efficient techniques, and sustainable practices to create a thriving urban environment. We aim to keep the city’s natural allure while reducing its ecological footprint.",
+   "html": "Our professional painting services utilize eco-friendly materials, energy-efficient techniques, and sustainable practices to create a thriving urban environment. We aim to keep the city’s natural allure while reducing its ecological footprint."
+  },
+  {
+   "t": "h2",
+   "text": "What Our Lynnwood Clients Say:"
+  },
+  {
+   "t": "h3",
+   "text": "Ishaan - *"
+  },
+  {
+   "t": "p",
+   "text": "“I’ve had multiple projects completed by EA Pro. My experience with my first project with them made me feel confident and comfortable hiring for my second project, painting the exterior of my house. I’ve been procrastinating getting my house painted because I’ve heard so many horror stories of cruddy painting companies. Once I found EA Pro those fears vanished…”",
+   "html": "“I’ve had multiple projects completed by EA Pro. My experience with my first project with them made me feel confident and comfortable hiring for my second project, painting the exterior of my house. I’ve been procrastinating getting my house painted because I’ve heard so many horror stories of cruddy painting companies. Once I found EA Pro those fears vanished…”"
+  },
+  {
+   "t": "p",
+   "text": "⭐️⭐️⭐️⭐️⭐️",
+   "html": "⭐️⭐️⭐️⭐️⭐️"
+  },
+  {
+   "t": "h3",
+   "text": "David - *"
+  },
+  {
+   "t": "p",
+   "text": "\"EA Painting did our exterior cedar trim painting, stained the exterior brick, and painted our whole interior walls, trim, doors, and cabinets… They were very flexible with our schedule and we got along very well with the painters who came out too. Thank you EA for making our home look new and refreshed!”",
+   "html": "\"EA Painting did our exterior cedar trim painting, stained the exterior brick, and painted our whole interior walls, trim, doors, and cabinets… They were very flexible with our schedule and we got along very well with the painters who came out too. Thank you EA for making our home look new and refreshed!”"
+  },
+  {
+   "t": "p",
+   "text": "⭐️⭐️⭐️⭐️⭐️",
+   "html": "⭐️⭐️⭐️⭐️⭐️"
+  },
+  {
+   "t": "h3",
+   "text": "Vlad - *"
+  },
+  {
+   "t": "p",
+   "text": "\"Wow, what an incredible experience with EA pro painters! From the initial consultation to the final walk-through, their professionalism, attention to detail, and expertise were on full display. The quality of their work is truly exceptional — the colors are vibrant, the lines are crisp, and the finish is flawless. My home has never looked better!”",
+   "html": "\"Wow, what an incredible experience with EA pro painters! From the initial consultation to the final walk-through, their professionalism, attention to detail, and expertise were on full display. The quality of their work is truly exceptional — the colors are vibrant, the lines are crisp, and the finish is flawless. My home has never looked better!”"
+  },
+  {
+   "t": "p",
+   "text": "⭐️⭐️⭐️⭐️⭐️",
+   "html": "⭐️⭐️⭐️⭐️⭐️"
+  },
+  {
+   "t": "p",
+   "text": "Hire a Company You Can Trust",
+   "html": "Hire a Company You Can Trust"
+  },
+  {
+   "t": "h2",
+   "text": "Reviews from our customers"
+  },
+  {
+   "t": "button",
+   "text": "Read more reviews",
+   "href": "https://birdeye.com/ea-pro-painters-170905799500570"
+  },
+  {
+   "t": "button",
+   "text": "Get A Free Estimate",
+   "href": "/estimate"
+  }
+ ]
+}
