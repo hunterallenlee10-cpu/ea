@@ -1,0 +1,45 @@
+{
+ "path": "/contact",
+ "kind": "core",
+ "slug": "contact",
+ "title": "Contact EA Pro Painters, Professional Eastside Painters",
+ "description": "Contact EA Pro Painters, Professional Painters on the Eastside, Bellevue, Kirkland, Issaquah, Sammamish, Bothell",
+ "og": {
+  "title": "Contact EA Pro Painters, Professional Eastside Painters",
+  "description": "Contact EA Pro Painters, Professional Painters on the Eastside, Bellevue, Kirkland, Issaquah, Sammamish, Bothell",
+  "type": "website",
+  "image": "/images/navy-home-exterior-red-front-door.jpg",
+  "imageIsReplacement": false
+ },
+ "twitter": {
+  "card": "summary",
+  "title": "Contact EA Pro Painters, Professional Eastside Painters",
+  "description": "Contact EA Pro Painters, Professional Painters on the Eastside, Bellevue, Kirkland, Issaquah, Sammamish, Bothell"
+ },
+ "h1": "Contact us any time",
+ "nodes": [
+  {
+   "t": "h3",
+   "text": "Bellevue"
+  },
+  {
+   "t": "p",
+   "text": "3700 Factoria Blvd SE A Bellevue, WA 98006",
+   "html": "3700 Factoria Blvd SE A <br>Bellevue, WA 98006"
+  },
+  {
+   "t": "p",
+   "text": "sales@eapropainters.com",
+   "html": "sales@eapropainters.com"
+  },
+  {
+   "t": "p",
+   "text": "206.250.1194",
+   "html": "206.250.1194"
+  }
+ ],
+ "lastmod": "2025-06-12",
+ "fixes": [
+  "Live H1 was the review widget heading; the page's first heading is now the H1"
+ ]
+}

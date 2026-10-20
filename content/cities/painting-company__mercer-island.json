@@ -1,0 +1,604 @@
+{
+ "path": "/painting-company/mercer-island",
+ "kind": "city",
+ "slug": "painting-company__mercer-island",
+ "title": "Mercer Island Painting Services – Luxury Home & Office Painters",
+ "description": "Preferred Mercer Island painters offering elegant finishes for luxury homes and offices. Depend on attentive service, top quality, and a reputation for excellence.",
+ "og": {
+  "title": "Mercer Island Painting Services – Luxury Home & Office Painters",
+  "description": "Preferred Mercer Island painters offering elegant finishes for luxury homes and offices. Depend on attentive service, top quality, and a reputation for excellence.",
+  "type": "website",
+  "image": "/images/navy-home-exterior-red-front-door.jpg",
+  "imageIsReplacement": false
+ },
+ "twitter": {
+  "card": "summary",
+  "title": "Mercer Island Painting Services – Luxury Home & Office Painters",
+  "description": "Preferred Mercer Island painters offering elegant finishes for luxury homes and offices. Depend on attentive service, top quality, and a reputation for excellence."
+ },
+ "h1": "Mercer Island Painting Services – Luxury Home & Office Painters",
+ "nodes": [
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "photo",
+   "id": "modern-home-exterior-with-ea-pro-yard-sign"
+  },
+  {
+   "t": "h2",
+   "text": "Commercial and Residential Mercer Island Painting Company"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters is your painting partner, committed to delivering top-notch painting services in Mercer Island, WA.",
+   "html": "EA Pro Painters is your painting partner, committed to delivering top-notch painting services in Mercer Island, WA."
+  },
+  {
+   "t": "p",
+   "text": "Is your interior or exterior paint looking dull? Have the elements taken a toll on your once vibrant paint job? A fresh coat of paint can significantly improve the overall appeal of your home or business. If you’re looking for an expert painter’s hand to refresh your paint job, our Mercer Island painting company is here to help.",
+   "html": "Is your interior or exterior paint looking dull? Have the elements taken a toll on your once vibrant paint job? A fresh coat of paint can significantly improve the overall appeal of your home or business. If you’re looking for an expert painter’s hand to refresh your paint job, our Mercer Island painting company is here to help."
+  },
+  {
+   "t": "p",
+   "text": "EA Pro is a professional painting company specializing in various painting services for commercial and residential properties on Mercer Island. Contact us now and see how we can help rejuvenate your property.",
+   "html": "EA Pro is a professional painting company specializing in various painting services for <a href=\"/commercial-painting\">commercial</a> and residential properties on Mercer Island. Contact us now and see how we can help rejuvenate your property."
+  },
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "Our Comprehensive Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "At EA Pro Painters, our skilled and experienced contractors are equipped with the tools and knowledge to undertake nearly all painting projects on Mercer Island. Our professional residential and commercial painting services cover an extensive range of surfaces and spaces, including exterior and interior walls, ceilings, floors, and more.",
+   "html": "At EA Pro Painters, our skilled and experienced contractors are equipped with the tools and knowledge to undertake nearly all painting projects on Mercer Island. Our professional residential and commercial painting services cover an extensive range of surfaces and spaces, including exterior and interior walls, ceilings, floors, and more."
+  },
+  {
+   "t": "p",
+   "text": "Our services include:",
+   "html": "Our services include:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Exterior House Painting Services",
+     "html": "<a href=\"/exterior-painting\">Exterior House Painting Services</a>"
+    },
+    {
+     "text": "Interior House Painting Services",
+     "html": "<a href=\"/interior-painting\">Interior House Painting Services</a>"
+    },
+    {
+     "text": "Deck & Fence Painting Services",
+     "html": "<a href=\"/decks-and-fences-painting\">Deck &amp; Fence Painting Services</a>"
+    },
+    {
+     "text": "Drywall Painting Services",
+     "html": "<a href=\"/drywall-painting\">Drywall Painting Services</a>"
+    },
+    {
+     "text": "Cabinet Painting Services",
+     "html": "<a href=\"/cabinet-painting\">Cabinet Painting Services</a>"
+    },
+    {
+     "text": "Millwork Painting Services",
+     "html": "<a href=\"/millwork-painting\">Millwork Painting Services</a>"
+    },
+    {
+     "text": "Drywall Painting Services",
+     "html": "<a href=\"/drywall-painting\">Drywall Painting Services</a>"
+    },
+    {
+     "text": "Trim Painting Services",
+     "html": "<a href=\"/\">Trim Painting Services</a>"
+    },
+    {
+     "text": "Shutter Painting Services",
+     "html": "<a href=\"/\">Shutter Painting Services</a>"
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Exterior Painting"
+  },
+  {
+   "t": "p",
+   "text": "Boost your curb appeal and protect your property with a fresh coat of paint using our top-quality exterior painting services. Our team uses high-grade products and techniques to ensure a flawless finish, protecting your business or home from harsh weather conditions. Let us transform your exterior space and give your property a fresh, new look.",
+   "html": "Boost your curb appeal and protect your property with a fresh coat of paint using our top-quality exterior painting services. Our team uses high-grade products and techniques to ensure a flawless finish, protecting your business or home from harsh weather conditions. Let us transform your exterior space and give your property a fresh, new look."
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Thorough exterior wall cleaning and surface preparation",
+     "html": "Thorough exterior wall cleaning and surface preparation"
+    },
+    {
+     "text": "High-quality paint application techniques for long-lasting results",
+     "html": "High-quality paint application techniques for long-lasting results"
+    },
+    {
+     "text": "Protective coatings to safeguard against the elements",
+     "html": "Protective coatings to safeguard against the elements "
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Interior Painting"
+  },
+  {
+   "t": "p",
+   "text": "Elevate your space with a fresh coat of paint that reflects your style and personality. Our interior painting services cover all areas of your property, including walls, ceilings, trim, doors, and more. We pay attention to detail and ensure a smooth and even finish for a beautiful end result. Let your personality shine through your living or working space.",
+   "html": "Elevate your space with a fresh coat of paint that reflects your style and personality. Our interior painting services cover all areas of your property, including walls, ceilings, trim, doors, and more. We pay attention to detail and ensure a smooth and even finish for a beautiful end result. Let your personality shine through your living or working space."
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Careful furniture and surface protection during the painting process",
+     "html": "Careful furniture and surface protection during the painting process"
+    },
+    {
+     "text": "Precise color matching for a cohesive look throughout your property",
+     "html": "Precise color matching for a cohesive look throughout your property"
+    },
+    {
+     "text": "Expert techniques for flawless paint application on all surfaces",
+     "html": "Expert techniques for flawless paint application on all surfaces"
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Cabinet Painting"
+  },
+  {
+   "t": "p",
+   "text": "Refresh your kitchen with a fresh pop of color and a smooth, seamless finish on your cabinets. Our team specializes in cabinet painting and refinishing, using top-of-the-line products to transform your kitchen into the heart of your home. Choose from various finishes and colors to create a stunning new look for your space. Our service includes:",
+   "html": "Refresh your kitchen with a fresh pop of color and a smooth, seamless finish on your cabinets. Our team specializes in cabinet painting and refinishing, using top-of-the-line products to transform your kitchen into the heart of your home. Choose from various finishes and colors to create a stunning new look for your space. Our service includes:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Thorough sanding of all surfaces for optimal paint adhesion",
+     "html": "Thorough sanding of all surfaces for optimal paint adhesion"
+    },
+    {
+     "text": "High-quality primer and paint application techniques for a durable finish",
+     "html": "High-quality primer and paint application techniques for a durable finish"
+    },
+    {
+     "text": "Optional glazing or distressing for a unique and personalized touch",
+     "html": "Optional glazing or distressing for a unique and personalized touch "
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Millwork Painting"
+  },
+  {
+   "t": "p",
+   "text": "Millworks give any space a sophisticated and elegant touch. At EA Pro, we understand the importance of proper millwork painting to enhance its beauty and add value to your property. Our team has the expertise to paint all types of millwork, including crown molding, window frames, baseboards, and more. We ensure a flawless finish for a luxurious look.",
+   "html": "Millworks give any space a sophisticated and elegant touch. At EA Pro, we understand the importance of proper millwork painting to enhance its beauty and add value to your property. Our team has the expertise to paint all types of millwork, including crown molding, window frames, baseboards, and more. We ensure a flawless finish for a luxurious look."
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Careful preparation and priming of all millwork surfaces",
+     "html": "Careful preparation and priming of all millwork surfaces"
+    },
+    {
+     "text": "Precision and attention to detail for a flawless finish",
+     "html": "Precision and attention to detail for a flawless finish"
+    },
+    {
+     "text": "Top-quality products and techniques for long-lasting results",
+     "html": "Top-quality products and techniques for long-lasting results"
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Deck & Fences"
+  },
+  {
+   "t": "p",
+   "text": "Decks and fences directly face the harshness of the elements, making them prone to wear and tear. Despite this risk, many property owners neglect these areas, leading to repairs or replacements. Our team offers professional deck and fence painting services to protect and enhance your exterior’s appearance.",
+   "html": "Decks and fences directly face the harshness of the elements, making them prone to wear and tear. Despite this risk, many property owners neglect these areas, leading to repairs or replacements. Our team offers professional deck and fence painting services to protect and enhance your exterior’s appearance."
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Thorough cleaning and preparation of surfaces for optimal paint adhesion",
+     "html": "Thorough cleaning and preparation of surfaces for optimal paint adhesion"
+    },
+    {
+     "text": "High-quality stain or paint application techniques for a durable finish",
+     "html": "High-quality stain or paint application techniques for a durable finish"
+    },
+    {
+     "text": "Protective coatings to safeguard against weathering and UV damage",
+     "html": "Protective coatings to safeguard against weathering and UV damage "
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Drywall"
+  },
+  {
+   "t": "p",
+   "text": "Drywall painting is a delicate process that requires skill and expertise to achieve a smooth and professional finish. Our team has the experience and tools to tackle any drywall painting project, from minor repairs to extensive renovations. We use top-quality products and techniques for a flawless and satisfying outcome.",
+   "html": "Drywall painting is a delicate process that requires skill and expertise to achieve a smooth and professional finish. Our team has the experience and tools to tackle any drywall painting project, from minor repairs to extensive renovations. We use top-quality products and techniques for a flawless and satisfying outcome."
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Expert drywall patching and repair for seamless coverage",
+     "html": "Expert drywall patching and repair for seamless coverage"
+    },
+    {
+     "text": "Smooth paint application for an even finish on all surfaces",
+     "html": "Smooth paint application for an even finish on all surfaces"
+    },
+    {
+     "text": "Color-matching and custom color options for a personalized touch",
+     "html": "Color-matching and custom color options for a personalized touch"
+    }
+   ]
+  },
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "Custom & Commercial"
+  },
+  {
+   "t": "h2",
+   "text": "Painting Services"
+  },
+  {
+   "t": "h3",
+   "text": "Custom Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "Are you feeling creative and looking for a unique way to transform your Mercer Island space? Our custom painting services allow you to bring your vision to life and add a personal touch to your residential or commercial property. From intricate designs to bold patterns, our team can create a one-of-a-kind look for your space.",
+   "html": "Are you feeling creative and looking for a unique way to transform your Mercer Island space? Our custom painting services allow you to bring your vision to life and add a personal touch to your residential or commercial property. From intricate designs to bold patterns, our team can create a one-of-a-kind look for your space."
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Collaboration with clients to bring their ideas to reality",
+     "html": "Collaboration with clients to bring their ideas to reality"
+    },
+    {
+     "text": "Expert techniques and attention to detail for precise and intricate designs",
+     "html": "Expert techniques and attention to detail for precise and intricate designs"
+    },
+    {
+     "text": "High-quality products and materials for a long-lasting finish",
+     "html": "High-quality products and materials for a long-lasting finish"
+    }
+   ]
+  },
+  {
+   "t": "h3",
+   "text": "Commercial Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "Unlike residential properties, commercial properties need to convey a professional and inviting image to clients and employees. Our commercial painting services cover all types of businesses, including offices, retail spaces, restaurants, and more. We understand the importance of minimal disruption to your business operations and work efficiently to deliver quality results on time.",
+   "html": "Unlike residential properties, commercial properties need to convey a professional and inviting image to clients and employees. Our commercial painting services cover all types of businesses, including offices, retail spaces, restaurants, and more. We understand the importance of minimal disruption to your business operations and work efficiently to deliver quality results on time."
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Flexible scheduling options to accommodate your business hours",
+     "html": "Flexible scheduling options to accommodate your business hours"
+    },
+    {
+     "text": "Efficient and timely project completion without compromising quality",
+     "html": "Efficient and timely project completion without compromising quality"
+    },
+    {
+     "text": "Service a vast range of industries, businesses, and commercial spaces",
+     "html": "Service a vast range of industries, businesses, and commercial spaces "
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Mercer Island Reviews"
+  },
+  {
+   "t": "testimonials",
+   "items": [
+    {
+     "name": "Paul",
+     "text": "I recently had the pleasure of engaging the services of EA Pro Painters for a high-end painting project, and I couldn't be more impressed with the results. From start to finish, the experience was nothing short of exceptional."
+    },
+    {
+     "name": "Hanna",
+     "text": "We were really glad we went with EA Painters and I would do it again! We hired them to paint the exterior of our home and some add on carpentry work. They had our house painted within 3 weeks of coming to make the quote and the process was smooth. The painters seemed to really have experience and they cleaned up nicely when they were done. Thank you EA!"
+    },
+    {
+     "name": "Ihung",
+     "text": "My community is around 10 years old, many neighbors and HOA board members hired EA Pro Painters to repaint their exterior in the past 3 years. Their houses look great even after 2-3 years of repaint. So I get the contact from a neighbor, they gave me a quote and started the job very quickly. I'm very happy with the result, right now my house looks like a new construction."
+    }
+   ]
+  },
+  {
+   "t": "faqs",
+   "items": [
+    {
+     "q": "What does it cost to paint a house on Mercer Island?",
+     "a": [
+      {
+       "text": "Mercer Island exteriors typically run $6,000 to $14,000 — higher than the Eastside average, and for structural reasons rather than zip-code pricing. Island homes skew larger, many are two- and three-story, and a significant share are mid-century properties with cedar or board-and-batten siding that needs real preparation rather than a quick wash.",
+       "html": "Mercer Island exteriors typically run $6,000 to $14,000 — higher than the Eastside average, and for structural reasons rather than zip-code pricing. Island homes skew larger, many are two- and three-story, and a significant share are mid-century properties with cedar or board-and-batten siding that needs real preparation rather than a quick wash."
+      },
+      {
+       "text": "Waterfront and view properties carry additional cost because of exposure. Homes facing Lake Washington take sustained wind-driven moisture and UV on one elevation, which is why we often specify a higher-grade coating called “Emerald Rain Refresh” from Sherwin Williams.",
+       "html": "Waterfront and view properties carry additional cost because of exposure. Homes facing Lake Washington take sustained wind-driven moisture and UV on one elevation, which is why we often specify a higher-grade coating called “Emerald Rain Refresh” from Sherwin Williams."
+      }
+     ]
+    },
+    {
+     "q": "Do you paint waterfront and lakefront homes?",
+     "a": [
+      {
+       "text": "Yes, and they are a different job than an inland repaint. Constant moisture, wind-driven rain, and reflected UV off the water break down standard coatings faster on the exposed elevations.",
+       "html": "Yes, and they are a different job than an inland repaint. Constant moisture, wind-driven rain, and reflected UV off the water break down standard coatings faster on the exposed elevations."
+      },
+      {
+       "text": "On lakefront work we specify 100% acrylic systems rated for severe exposure, pay particular attention to sealing horizontal surfaces and end grain where water sits, and prime any bare wood the same day it is exposed rather than leaving it open overnight. We also plan access early — many Island waterfront lots have limited ladder footing on the lake side, and that affects both schedule and cost.",
+       "html": "On lakefront work we specify 100% acrylic systems rated for severe exposure, pay particular attention to sealing horizontal surfaces and end grain where water sits, and prime any bare wood the same day it is exposed rather than leaving it open overnight. We also plan access early — many Island waterfront lots have limited ladder footing on the lake side, and that affects both schedule and cost."
+      }
+     ]
+    },
+    {
+     "q": "My home was built before 1978. Does that change anything?",
+     "a": [
+      {
+       "text": "Yes, and it matters legally as well as practically. Homes built before 1978 may contain lead-based paint, and any contractor disturbing painted surfaces in one is required by the EPA to be Lead-Safe Renovation, Repair and Painting (RRP) certified. That means containment, specific work practices, and proper cleanup and disposal.",
+       "html": "Yes, and it matters legally as well as practically. Homes built before 1978 may contain lead-based paint, and any contractor disturbing painted surfaces in one is required by the EPA to be Lead-Safe Renovation, Repair and Painting (RRP) certified. That means containment, specific work practices, and proper cleanup and disposal."
+      },
+      {
+       "text": "A meaningful share of Mercer Island housing stock predates 1978. You should get your home tested before reaching out to us. If it has lead, you should find a lead certification painting company that specializes in this. If not, give us a call.",
+       "html": "A meaningful share of Mercer Island housing stock predates 1978. You should get your home tested before reaching out to us. If it has lead, you should find a lead certification painting company that specializes in this. If not, give us a call."
+      }
+     ]
+    },
+    {
+     "q": "How do you protect mature trees and landscaping during exterior work?",
+     "a": [
+      {
+       "text": "Mercer Island lots are heavily planted, often with established rhododendrons, Japanese maples, and mature evergreens close to the structure — which is exactly where ladders and drop cloths want to go.",
+       "html": "Mercer Island lots are heavily planted, often with established rhododendrons, Japanese maples, and mature evergreens close to the structure — which is exactly where ladders and drop cloths want to go."
+      },
+      {
+       "text": "We tie back rather than cut, use breathable drop cloths so plants underneath are not cooked or suffocated over a multi-day job, and pressure wash at a distance and angle that will not strip bark or drive water into root crowns. Beds get uncovered at the end of each day rather than staying sealed for the duration.",
+       "html": "We tie back rather than cut, use breathable drop cloths so plants underneath are not cooked or suffocated over a multi-day job, and pressure wash at a distance and angle that will not strip bark or drive water into root crowns. Beds get uncovered at the end of each day rather than staying sealed for the duration."
+      }
+     ]
+    },
+    {
+     "q": "Do I need a permit to paint on Mercer Island?",
+     "a": [
+      {
+       "text": "A straightforward repaint of an existing home does not require a City of Mercer Island permit. Painting is maintenance, not construction.",
+       "html": "A straightforward repaint of an existing home does not require a City of Mercer Island permit. Painting is maintenance, not construction."
+      },
+      {
+       "text": "A few exceptions are worth knowing. If the work extends into siding replacement or structural repair, that can trigger permitting. And properties within the shoreline or critical-areas overlay have additional restrictions on ground disturbance and vegetation removal, which can affect staging and access on steep or waterfront lots. We flag either during the walkthrough rather than discovering it mid-project.",
+       "html": "A few exceptions are worth knowing. If the work extends into siding replacement or structural repair, that can trigger permitting. And properties within the shoreline or critical-areas overlay have additional restrictions on ground disturbance and vegetation removal, which can affect staging and access on steep or waterfront lots. We flag either during the walkthrough rather than discovering it mid-project."
+      },
+      {
+       "text": "A Right-of-Way Use Permit is required if the crew places structures, blocks sidewalks or roadways, stages materials, or otherwise occupies public ROW. City language includes “placing structures” and “blocking roadways or sidewalks.” Scaffolding on a sidewalk, in the street, on the shoulder, or overhanging the public way typically counts.",
+       "html": "A Right-of-Way Use Permit is required if the crew places structures, blocks sidewalks or roadways, stages materials, or otherwise occupies public ROW. City language includes “placing structures” and “blocking roadways or sidewalks.” Scaffolding on a sidewalk, in the street, on the shoulder, or overhanging the public way typically counts."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Custom & Commercial"
+  },
+  {
+   "t": "h2",
+   "text": "Painting Services"
+  },
+  {
+   "t": "h3",
+   "text": "Why We’re the Best Partner for Your Next Mercer Island Painting Project"
+  },
+  {
+   "t": "p",
+   "text": "With many painting companies in the Mercer Island area, finding the right one for your improvement project can be daunting. EA Pro offers exceptional painting services that stand out from the rest. Here’s what you can gain from working with us.",
+   "html": "With many painting companies in the Mercer Island area, finding the right one for your improvement project can be daunting. EA Pro offers exceptional painting services that stand out from the rest. Here’s what you can gain from working with us."
+  },
+  {
+   "t": "h3",
+   "text": "Skilled Contractors for a Perfect Finish"
+  },
+  {
+   "t": "p",
+   "text": "Our team of painting contractors has years of experience in the field, ensuring that your project is in capable hands. With their individual experience, our contractors have harnessed their eyes to spot any imperfections and take the necessary steps for a professional finish.",
+   "html": "Our team of painting contractors has years of experience in the field, ensuring that your project is in capable hands. With their individual experience, our contractors have harnessed their eyes to spot any imperfections and take the necessary steps for a professional finish."
+  },
+  {
+   "t": "h3",
+   "text": "12 Years of Experience in the Area"
+  },
+  {
+   "t": "p",
+   "text": "Since our company was founded in 2012, EA Pro has served Washington residents with top-quality painting services. Our extensive experience in the area has given us an understanding of local trends, styles, and weather conditions to deliver the best results for our clients.",
+   "html": "Since our company was founded in 2012, EA Pro has served Washington residents with top-quality painting services. Our extensive experience in the area has given us an understanding of local trends, styles, and weather conditions to deliver the best results for our clients."
+  },
+  {
+   "t": "h3",
+   "text": "Fast Work — But Not Rushed"
+  },
+  {
+   "t": "p",
+   "text": "We understand that time is of the essence when it comes to home improvement projects. That’s why we work efficiently and without compromising on quality. With our team of expert contractors, you can expect timely project completion without sacrificing the flawless finish we’re known for.",
+   "html": "We understand that time is of the essence when it comes to home improvement projects. That’s why we work efficiently and without compromising on quality. With our team of expert contractors, you can expect timely project completion without sacrificing the flawless finish we’re known for."
+  },
+  {
+   "t": "h3",
+   "text": "Affordable Price with a High-End Result"
+  },
+  {
+   "t": "p",
+   "text": "At EA Pro, we believe that everyone deserves a beautiful and well-maintained living or working space. We offer competitive pricing without compromising on the quality of our services. Our goal is to deliver top-notch results at an affordable price and to give you the best value for every penny you pay for our services.",
+   "html": "At EA Pro, we believe that everyone deserves a beautiful and well-maintained living or working space. We offer competitive pricing without compromising on the quality of our services. Our goal is to deliver top-notch results at an affordable price and to give you the best value for every penny you pay for our services."
+  },
+  {
+   "t": "h3",
+   "text": "Hassle-Free Process from Start to Finish"
+  },
+  {
+   "t": "p",
+   "text": "From initial consultation to project completion, our process is designed to make your experience with us as smooth and hassle-free as possible. We keep communication lines open throughout the project, providing updates and addressing any concerns or questions you may have. We aim to ensure a stress-free and satisfying painting experience for our clients.",
+   "html": "From initial consultation to project completion, our process is designed to make your experience with us as smooth and hassle-free as possible. We keep communication lines open throughout the project, providing updates and addressing any concerns or questions you may have. We aim to ensure a stress-free and satisfying painting experience for our clients."
+  },
+  {
+   "t": "h2",
+   "text": "The EA Pro Difference"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro is more than just a painting company in Mercer Island. We strive to give our clients the best version of their residential or commercial space through our top-quality painting services. This dedication makes us your best partner for all your paint needs.",
+   "html": "EA Pro is more than just a painting company in Mercer Island. We strive to give our clients the best version of their residential or commercial space through our top-quality painting services. This dedication makes us your best partner for all your paint needs."
+  },
+  {
+   "t": "h3",
+   "text": "We Don’t Skimp on Quality"
+  },
+  {
+   "t": "p",
+   "text": "A high-quality paint job is not just about the paint you use or the painting technique employed; it’s more than both of them combined. A high-quality paint job involves taking the time and effort to understand your space, your expected outcome, and what you want your property to convey.",
+   "html": "A high-quality paint job is not just about the paint you use or the painting technique employed; it’s more than both of them combined. A high-quality paint job involves taking the time and effort to understand your space, your expected outcome, and what you want your property to convey."
+  },
+  {
+   "t": "p",
+   "text": "Our team listens attentively to your needs and communicates throughout the process to ensure we deliver the desired results. We take you with us throughout every step of the project, so you can be confident in the final outcome.",
+   "html": "Our team listens attentively to your needs and communicates throughout the process to ensure we deliver the desired results. We take you with us throughout every step of the project, so you can be confident in the final outcome."
+  },
+  {
+   "t": "h3",
+   "text": "Integrity Is at the Core of Our Work"
+  },
+  {
+   "t": "p",
+   "text": "Integrity has been the backbone of our business since its inception. We hold ourselves to high standards of professionalism and transparency in all our dealings with clients. From the initial consultation to project completion, we strive to be transparent about our processes, pricing, and timelines.",
+   "html": "Integrity has been the backbone of our business since its inception. We hold ourselves to high standards of professionalism and transparency in all our dealings with clients. From the initial consultation to project completion, we strive to be transparent about our processes, pricing, and timelines."
+  },
+  {
+   "t": "p",
+   "text": "Our goal is not just to complete a job but to build trust and long-lasting relationships with our clients. If we make a slip-up — which is rare — we own up to our mistakes and take the necessary steps to rectify them.",
+   "html": "Our goal is not just to complete a job but to build trust and long-lasting relationships with our clients. If we make a slip-up — which is rare — we own up to our mistakes and take the necessary steps to rectify them."
+  },
+  {
+   "t": "h3",
+   "text": "Efficiency Is Our Only Policy"
+  },
+  {
+   "t": "p",
+   "text": "Whether you’re a homeowner or a business owner, we understand that your time is valuable. That’s why we strive to complete our projects efficiently and within the estimated timeline without compromising quality.",
+   "html": "Whether you’re a homeowner or a business owner, we understand that your time is valuable. That’s why we strive to complete our projects efficiently and within the estimated timeline without compromising quality."
+  },
+  {
+   "t": "p",
+   "text": "We also offer flexible scheduling options to accommodate your busy schedule and minimize disruptions to your daily activities. Our team works diligently with a sense of urgency, ensuring you have a beautiful space in no time.",
+   "html": "We also offer flexible scheduling options to accommodate your busy schedule and minimize disruptions to your daily activities. Our team works diligently with a sense of urgency, ensuring you have a beautiful space in no time."
+  },
+  {
+   "t": "p",
+   "text": "You can also check our portfolio page to see how we transformed and revamped spaces with our painting services. With EA Pro, you can expect nothing less than exceptional results and unparalleled customer service.",
+   "html": "You can also check our <a href=\"/portfolio\">portfolio page</a> to see how we transformed and revamped spaces with our painting services. With EA Pro, you can expect nothing less than exceptional results and unparalleled customer service."
+  },
+  {
+   "t": "h3",
+   "text": "Get Your Free Estimate Today"
+  },
+  {
+   "t": "p",
+   "text": "Give your interior or exterior space the paint refresh it deserves with EA Pro’s professional painting services. Contact us today to schedule a consultation and receive a free estimate for your next project. Let’s work together to make your space come alive with color.",
+   "html": "Give your interior or exterior space the paint refresh it deserves with EA Pro’s professional painting services. Contact us today to schedule a consultation and receive a free estimate for your next project. Let’s work together to make your space come alive with color. "
+  },
+  {
+   "t": "h2",
+   "text": "A Little Bit More About Mercer Island"
+  },
+  {
+   "t": "h3",
+   "text": "Mercer Island: An Island with Beauty and Community"
+  },
+  {
+   "t": "p",
+   "text": "Located in the heart of Lake Washington between Seattle and Bellevue, Mercer Island is an island renowned for its natural beauty, affluent neighborhoods, and strong sense of community. With a population of approximately 26,000 residents, Mercer Island offers an idyllic suburban lifestyle within close proximity to urban amenities. The island's geographical location provides stunning views of Lake Washington and the surrounding Cascade Mountains.",
+   "html": "Located in the heart of Lake Washington between Seattle and Bellevue, Mercer Island is an island renowned for its natural beauty, affluent neighborhoods, and strong sense of community. With a population of approximately 26,000 residents, Mercer Island offers an idyllic suburban lifestyle within close proximity to urban amenities. The island's geographical location provides stunning views of Lake Washington and the surrounding Cascade Mountains."
+  },
+  {
+   "t": "h3",
+   "text": "Growth Over the Years"
+  },
+  {
+   "t": "p",
+   "text": "Originally inhabited by Native American tribes, Mercer Island's history is intertwined with the region's early exploration and settlement. In the late 19th century, the island became a popular destination for logging and farming, attracting settlers looking to establish homesteads in the Pacific Northwest. The construction of the Lake Washington Floating Bridge in 1940 connected Mercer Island to the mainland, spurring growth and development in the area.",
+   "html": "Originally inhabited by Native American tribes, Mercer Island's history is intertwined with the region's early exploration and settlement. In the late 19th century, the island became a popular destination for logging and farming, attracting settlers looking to establish homesteads in the Pacific Northwest. The construction of the Lake Washington Floating Bridge in 1940 connected Mercer Island to the mainland, spurring growth and development in the area."
+  },
+  {
+   "t": "h3",
+   "text": "Success and Affluence"
+  },
+  {
+   "t": "p",
+   "text": "Today, Mercer Island has upscale residential communities, top-rated schools, and an affluent population. The island's real estate market is among the most desirable in the Seattle metropolitan area, with waterfront properties and luxury homes commanding premium prices.",
+   "html": "Today, Mercer Island has upscale residential communities, top-rated schools, and an affluent population. The island's real estate market is among the most desirable in the Seattle metropolitan area, with waterfront properties and luxury homes commanding premium prices."
+  },
+  {
+   "t": "h3",
+   "text": "Timeless Appeal"
+  },
+  {
+   "t": "p",
+   "text": "Overall, Mercer Island epitomizes the Pacific Northwest's blend of natural splendor, affluent living, and tight-knit community bonds. Whether enjoying panoramic views of Lake Washington, exploring the island's charming neighborhoods, or participating in local events, residents and visitors alike are drawn to Mercer Island's timeless appeal.",
+   "html": "Overall, Mercer Island epitomizes the Pacific Northwest's blend of natural splendor, affluent living, and tight-knit community bonds. Whether enjoying panoramic views of Lake Washington, exploring the island's charming neighborhoods, or participating in local events, residents and visitors alike are drawn to Mercer Island's timeless appeal. "
+  },
+  {
+   "t": "h2",
+   "text": "Is There A Home Improvement Project in your Future?"
+  },
+  {
+   "t": "p",
+   "text": "For homeowners wanting to update their Mercer Island interior or exterior living space, consider partnering with EA Pro Painters, a painting company dedicated to providing exceptional internal and external painting services for both residential and commercial properties. Our team delivers high-quality workmanship and meticulous attention to detail, ensuring your vision becomes a reality. Contact EA Pro Painters for an estimate and to discuss your painting needs.",
+   "html": "For homeowners wanting to update their Mercer Island interior or exterior living space, consider partnering with EA Pro Painters, a painting company dedicated to providing exceptional internal and external painting services for both residential and commercial properties. Our team delivers high-quality workmanship and meticulous attention to detail, ensuring your vision becomes a reality. <a href=\"/contact\">Contact EA Pro Painters</a> for an <a href=\"/estimate\">estimate</a> and to discuss your painting needs. "
+  }
+ ],
+ "lastmod": "2026-09-08",
+ "fixes": []
+}

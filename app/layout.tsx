@@ -1,13 +1,16 @@
 import type { Metadata, Viewport } from "next";
-import { Anton, Fraunces, Inter } from "next/font/google";
+import { Fraunces, Inter } from "next/font/google";
 import "./globals.css";
 import { IS_SPEC } from "@/lib/mode";
 import { SpecBanner } from "@/components/SpecBanner";
 import { Reveal } from "@/components/Reveal";
+import { Header } from "@/components/Header";
+import { Footer } from "@/components/Footer";
+import { MobileBar } from "@/components/MobileBar";
+import { Tracking } from "@/components/Tracking";
 import { site } from "@/site.config";
 
-// Self-hosted at build time by next/font. Phase 2 loads both directions' display faces;
-// the loser is removed after Hunter picks.
+// Self-hosted at build time by next/font.
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
 const fraunces = Fraunces({
   subsets: ["latin"],
@@ -16,7 +19,6 @@ const fraunces = Fraunces({
   axes: ["opsz", "SOFT"],
   style: ["normal", "italic"],
 });
-const anton = Anton({ subsets: ["latin"], weight: "400", variable: "--font-anton", display: "swap" });
 
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
@@ -32,11 +34,18 @@ export const viewport: Viewport = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en-US" className={`${inter.variable} ${fraunces.variable} ${anton.variable}`}>
+    <html lang="en-US" className={`${inter.variable} ${fraunces.variable}`}>
       <body className="min-h-dvh antialiased">
+        <a href="#main" className="sr-only z-[60] bg-accent px-4 py-3 text-on-accent focus:not-sr-only focus:fixed focus:left-3 focus:top-3">
+          Skip to content
+        </a>
         <SpecBanner />
-        {children}
+        <Header />
+        <main id="main">{children}</main>
+        <Footer />
+        <MobileBar />
         <Reveal />
+        <Tracking />
       </body>
     </html>
   );

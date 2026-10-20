@@ -32,4 +32,4 @@ Every answer here unlocks a `[CONFIRM WITH ERIK: …]` or `[ERIK TO PROVIDE: …
 | 21 | The live HubSpot forms use invisible reCAPTCHA Enterprise. Can Erik turn CAPTCHA off on the estimate and contact forms (our server form has its own spam checks), or confirm the Forms API accepts submissions with it on? | LAUNCH form sending | |
 | 22 | The live site loads a Facebook/Meta pixel (`connect.facebook.net`). The spec's tag list doesn't include it. Keep it (inside GTM) or drop it? | LAUNCH tracking | |
 | 23 | Photo permission and details: about 30 real project photos are on the live site today. Which town and job is each? (See `content/photos.ts`.) | Every page with photos | |
-
+| 24 | The live homepage shows Angi Super Service Award 2022 and Best of HomeAdvisor 2020 badges. OK to show them as text with the year? | Homepage, about | |

@@ -1,0 +1,41 @@
+{
+ "path": "/about",
+ "kind": "core",
+ "slug": "about",
+ "title": "About EA Pro Painters – Professional Painting Company",
+ "description": "Learn about EA Pro Painters, Bellevue's top-rated painting company. Serving the Eastside with quality residential and commercial painting since 2010.",
+ "og": {
+  "title": "About EA Pro Painters – Professional Painting Company",
+  "description": "Learn about EA Pro Painters, Bellevue's top-rated painting company. Serving the Eastside with quality residential and commercial painting since 2010.",
+  "type": "website",
+  "image": "/images/navy-home-exterior-red-front-door.jpg",
+  "imageIsReplacement": false
+ },
+ "twitter": {
+  "card": "summary",
+  "title": "About EA Pro Painters – Professional Painting Company",
+  "description": "Learn about EA Pro Painters, Bellevue's top-rated painting company. Serving the Eastside with quality residential and commercial painting since 2010."
+ },
+ "h1": "ABOUT EA PRO PAINTERS",
+ "nodes": [
+  {
+   "t": "p",
+   "text": "EA Pro Painters is a professional painting company in Bellevue, WA on the Eastside of the greater Seattle area. Our main areas we service are the Eastside cities of Bellevue, Redmond, Issaquah, Woodinville, Sammamish, Duvall, Bothell, Factoria and Kirkland.",
+   "html": "EA Pro Painters is a professional painting company in Bellevue, WA on the Eastside of the greater Seattle area. Our main areas we service are the Eastside cities of Bellevue, Redmond, Issaquah, Woodinville, Sammamish, Duvall, Bothell, Factoria and Kirkland."
+  },
+  {
+   "t": "p",
+   "text": "We’ve helped keep the Eastside colorful and beautiful for many years, serving both residential and commercial customers with consistent delivery of the highest-quality services at competitive prices. We always work with honesty, integrity, and a smile!",
+   "html": "We’ve helped keep the Eastside colorful and beautiful for many years, serving both residential and commercial customers with consistent delivery of the highest-quality services at competitive prices. We always work with honesty, integrity, and a smile!"
+  },
+  {
+   "t": "p",
+   "text": "Our team of experienced professionals is dedicated to delivering exceptional quality, value, and service to our customers. We use only the best paint and materials. Our experienced painters have the skills to ensure the job is completed correctly. We take pride in our work and provide a clean and safe work environment for our customers. Our goal is to provide a painting solution that is affordable, reliable, and hassle-free.",
+   "html": "Our team of experienced professionals is dedicated to delivering exceptional quality, value, and service to our customers. We use only the best paint and materials. Our experienced painters have the skills to ensure the job is completed correctly. We take pride in our work and provide a clean and safe work environment for our customers. Our goal is to provide a painting solution that is affordable, reliable, and hassle-free."
+  }
+ ],
+ "lastmod": "2026-08-12",
+ "fixes": [
+  "\"keep the Eastside of colorful\" → \"keep the Eastside colorful\""
+ ]
+}

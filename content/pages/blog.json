@@ -1,0 +1,23 @@
+{
+ "path": "/blog",
+ "kind": "core",
+ "slug": "blog",
+ "title": "Painting Blog – Tips, Trends & Pro Advice",
+ "description": "Expert painting articles on color trends, prep techniques, seasonal timing, and maintenance tips from EA Pro Painters' professional team in Bellevue.",
+ "og": {
+  "title": "Painting Blog – Tips, Trends & Pro Advice",
+  "description": "Expert painting articles on color trends, prep techniques, seasonal timing, and maintenance tips from EA Pro Painters' professional team in Bellevue.",
+  "type": "website",
+  "image": "/images/navy-home-exterior-red-front-door.jpg",
+  "imageIsReplacement": false
+ },
+ "twitter": {
+  "card": "summary",
+  "title": "Painting Blog – Tips, Trends & Pro Advice",
+  "description": "Expert painting articles on color trends, prep techniques, seasonal timing, and maintenance tips from EA Pro Painters' professional team in Bellevue."
+ },
+ "h1": "EA Pro Painters Blog – Expert Painting Tips & Trends",
+ "nodes": [],
+ "lastmod": "2026-08-12",
+ "fixes": []
+}

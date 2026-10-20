@@ -1,0 +1,447 @@
+{
+ "path": "/painting-company/kenmore",
+ "kind": "city",
+ "slug": "painting-company__kenmore",
+ "title": "Kenmore Painting Services – Local House & Commercial Painters",
+ "description": "Kenmore painters offer honest pricing, meticulous work, and exceptional service for homes and businesses. Clean, efficient, and value-driven from start to finish.",
+ "og": {
+  "title": "Kenmore Painting Services – Local House & Commercial Painters",
+  "description": "Kenmore painters offer honest pricing, meticulous work, and exceptional service for homes and businesses. Clean, efficient, and value-driven from start to finish.",
+  "type": "website",
+  "image": "/images/navy-home-exterior-red-front-door.jpg",
+  "imageIsReplacement": false
+ },
+ "twitter": {
+  "card": "summary",
+  "title": "Kenmore Painting Services – Local House & Commercial Painters",
+  "description": "Kenmore painters offer honest pricing, meticulous work, and exceptional service for homes and businesses. Clean, efficient, and value-driven from start to finish."
+ },
+ "h1": "Kenmore Painting Services – House & Commercial Painters",
+ "nodes": [
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "photo",
+   "id": "blue-farmhouse-exterior-white-porch"
+  },
+  {
+   "t": "h2",
+   "text": "Find a Painter in Kenmore: EA Pro Painters"
+  },
+  {
+   "t": "p",
+   "text": "When looking for the best Kenmore painters, there is no need to look elsewhere.",
+   "html": "When looking for the best Kenmore painters, there is no need to look elsewhere."
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters has established itself as a trusted partner in Kenmore, offering top-quality painting services to beautify and protect your investments.",
+   "html": "EA Pro Painters has established itself as a trusted partner in Kenmore, offering top-quality painting services to beautify and protect your investments."
+  },
+  {
+   "t": "p",
+   "text": "Whether we’re transforming residential homes or enhancing commercial spaces, EA Pro Painters’ commitment to excellence and attention to detail has made us the go-to Kenmore painting company.",
+   "html": "Whether we’re transforming residential homes or enhancing commercial spaces, EA Pro Painters’ commitment to excellence and attention to detail has made us the go-to Kenmore painting company. "
+  },
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "Why You Need Professional Painters"
+  },
+  {
+   "t": "p",
+   "text": "Painting your home or business is more than just an aesthetic choice — it is an investment in your Kenmore property’s future. A professional paint job is just as important as the construction.",
+   "html": "Painting your home or business is more than just an aesthetic choice — it is an investment in your Kenmore property’s future. A professional paint job is just as important as the construction."
+  },
+  {
+   "t": "p",
+   "text": "Our services include:",
+   "html": "Our services include:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Exterior House Painting Services",
+     "html": "<a href=\"/exterior-painting\">Exterior House Painting Services</a>"
+    },
+    {
+     "text": "Interior House Painting Services",
+     "html": "<a href=\"/interior-painting\">Interior House Painting Services</a>"
+    },
+    {
+     "text": "Deck & Fence Painting Services",
+     "html": "<a href=\"/decks-and-fences-painting\">Deck &amp; Fence Painting Services</a>"
+    },
+    {
+     "text": "Drywall Painting Services",
+     "html": "<a href=\"/drywall-painting\">Drywall Painting Services</a>"
+    },
+    {
+     "text": "Cabinet Painting Services",
+     "html": "<a href=\"/cabinet-painting\">Cabinet Painting Services</a>"
+    },
+    {
+     "text": "Millwork Painting Services",
+     "html": "<a href=\"/millwork-painting\">Millwork Painting Services</a>"
+    },
+    {
+     "text": "Drywall Painting Services",
+     "html": "<a href=\"/drywall-painting\">Drywall Painting Services</a>"
+    },
+    {
+     "text": "Trim Painting Services",
+     "html": "<a href=\"/\">Trim Painting Services</a>"
+    },
+    {
+     "text": "Shutter Painting Services",
+     "html": "<a href=\"/\">Shutter Painting Services</a> "
+    }
+   ]
+  },
+  {
+   "t": "h3",
+   "text": "Enhance Property Value"
+  },
+  {
+   "t": "p",
+   "text": "Professional painting services are a direct investment in your property’s value. A freshly painted home or business looks newer and more appealing and can significantly increase its market value.",
+   "html": "Professional painting services are a direct investment in your property’s value. A freshly painted home or business looks newer and more appealing and can significantly increase its market value. "
+  },
+  {
+   "t": "h3",
+   "text": "Protection Against Damage"
+  },
+  {
+   "t": "p",
+   "text": "Aside from enhancing your property’s appearance, professional painting can protect against damage. Paint acts as a barrier against moisture, dust, and other elements that can cause structural damage to your property.",
+   "html": "Aside from enhancing your property’s appearance, professional painting can protect against damage. Paint acts as a barrier against moisture, dust, and other elements that can cause structural damage to your property. "
+  },
+  {
+   "t": "h3",
+   "text": "Quality Results"
+  },
+  {
+   "t": "p",
+   "text": "Professional painting ensures high-quality outcomes that is difficult to achieve with DIY methods. With years of experience, professionals have mastered the art of painting, guaranteeing smooth finishes, even coats, and sharp lines.",
+   "html": "Professional painting ensures high-quality outcomes that is difficult to achieve with DIY methods. With years of experience, professionals have mastered the art of painting, guaranteeing smooth finishes, even coats, and sharp lines. "
+  },
+  {
+   "t": "h3",
+   "text": "Durability and Longevity"
+  },
+  {
+   "t": "p",
+   "text": "A professional paint job lasts longer, saving you money and hassle in the long run. Experts use premium paints and techniques to ensure that your paint withstands the test of time and weather, reducing the frequency of repainting.",
+   "html": "A professional paint job lasts longer, saving you money and hassle in the long run. Experts use premium paints and techniques to ensure that your paint withstands the test of time and weather, reducing the frequency of repainting. "
+  },
+  {
+   "t": "h3",
+   "text": "Save Time and Reduce Stress"
+  },
+  {
+   "t": "p",
+   "text": "Painting can be a time-consuming and stressful process. Hiring expert painters allows you to focus on your daily activities without the interruption of a lengthy DIY project. Professionals efficiently manage the prep work, painting, and cleanup, significantly reducing the project’s duration.",
+   "html": "Painting can be a time-consuming and stressful process. Hiring expert painters allows you to focus on your daily activities without the interruption of a lengthy DIY project. Professionals efficiently manage the prep work, painting, and cleanup, significantly reducing the project’s duration. "
+  },
+  {
+   "t": "h3",
+   "text": "Expert Color Consultation"
+  },
+  {
+   "t": "p",
+   "text": "Professionals offer expert color consultation, guiding you to make choices that enhance your Kenmore property’s appeal. These experts stay updated on the trends and can provide advice on what works best for your space, lighting, and overall design.",
+   "html": "Professionals offer expert color consultation, guiding you to make choices that enhance your Kenmore property’s appeal. These experts stay updated on the trends and can provide advice on what works best for your space, lighting, and overall design. "
+  },
+  {
+   "t": "h3",
+   "text": "Increased Safety"
+  },
+  {
+   "t": "p",
+   "text": "Painting involves risks, especially when dealing with high places or older buildings with lead paint. Professional painters can handle these challenges safely. They have the equipment and knowledge to do the job safely, protecting you and your property.",
+   "html": "Painting involves risks, especially when dealing with high places or older buildings with lead paint. Professional painters can handle these challenges safely. They have the equipment and knowledge to do the job safely, protecting you and your property. "
+  },
+  {
+   "t": "h2",
+   "text": "EA Pro Painters: The Expert Kenmore Painting Company"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters is a highly regarded painting company within the greater Seattle area. For many years, our team has played a pivotal role in beautifying and maintaining the colorful vibe of the area, catering to the painting needs of both residential and commercial buildings. At EA Pro Painters, we can enhance your Kenmore space, one stroke at a time.",
+   "html": "EA Pro Painters is a highly regarded painting company within the greater Seattle area. For many years, our team has played a pivotal role in beautifying and maintaining the colorful vibe of the area, catering to the painting needs of both residential and commercial buildings. At EA Pro Painters, we can enhance your Kenmore space, one stroke at a time."
+  },
+  {
+   "t": "h2",
+   "text": "Kenmore Interior Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters infuses every room with elegance and allure through our interior painting services. Our attention to detail ensures that we prepare every surface impeccably, followed by a choice of vibrant colors, culminating in seamless finishes. We transform homes and businesses into luxurious and inviting spaces with the highest standards of painting expertise.",
+   "html": "EA Pro Painters infuses every room with elegance and allure through our interior painting services. Our attention to detail ensures that we prepare every surface impeccably, followed by a choice of vibrant colors, culminating in seamless finishes. We transform homes and businesses into luxurious and inviting spaces with the highest standards of painting expertise."
+  },
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "Kenmore Exterior Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "Our exterior painting services ensure that each brushstroke elevates the aesthetic charm and extends the durability of your property. From meticulous surface preparation to the choice of high-quality paints, EA Pro Painters excel at turning exteriors into stunning masterpieces. Our exterior painting services guarantee the following:",
+   "html": "Our exterior painting services ensure that each brushstroke elevates the aesthetic charm and extends the durability of your property. From meticulous surface preparation to the choice of high-quality paints, EA Pro Painters excel at turning exteriors into stunning masterpieces. Our exterior painting services guarantee the following:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Enhanced Curb Appeal: Your property’s appearance can contribute to a positive community image and stand out in the neighborhood or business district.",
+     "html": "Enhanced Curb Appeal: Your property’s appearance can contribute to a positive community image and stand out in the neighborhood or business district."
+    },
+    {
+     "text": "Increased Property Value: A simple painting upgrade can make a massive difference in your property’s marketability, attracting potential buyers or clients.",
+     "html": "Increased Property Value: A simple painting upgrade can make a massive difference in your property’s marketability, attracting potential buyers or clients."
+    },
+    {
+     "text": "Protection Against Elements: Properly applied paint shields your property from moisture, UV rays, and pests, preventing damage and decay.",
+     "html": "Protection Against Elements: Properly applied paint shields your property from moisture, UV rays, and pests, preventing damage and decay."
+    },
+    {
+     "text": "Energy Efficiency Improvement: Quality exterior paints can reflect sunlight, helping maintain a more consistent and comfortable interior temperature.",
+     "html": "Energy Efficiency Improvement: Quality exterior paints can reflect sunlight, helping maintain a more consistent and comfortable interior temperature."
+    },
+    {
+     "text": "Cost-Effective Maintenance: Our expertly applied coatings can extend the life of your exterior surfaces, reducing the need for frequent repairs and replacements.",
+     "html": "Cost-Effective Maintenance: Our expertly applied coatings can extend the life of your exterior surfaces, reducing the need for frequent repairs and replacements."
+    }
+   ]
+  },
+  {
+   "t": "h3",
+   "text": "EA Pro Painters Comprehensive Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters offers comprehensive painting services. We are a one-stop shop for all your painting needs. Every Kenmore home and business can trust EA Pro Painters for all types of painting services.",
+   "html": "EA Pro Painters offers comprehensive painting services. We are a one-stop shop for all your painting needs. Every Kenmore home and business can trust EA Pro Painters for all types of painting services. "
+  },
+  {
+   "t": "h3",
+   "text": "Deck and Fence Painting"
+  },
+  {
+   "t": "p",
+   "text": "Deck and fence painting goes beyond a visual upgrade; it is a preservation measure for outdoor structures. Our team uses premium quality paints and stains designed to withstand the outdoors, ensuring your deck and fence look their best and are well-protected year-round.",
+   "html": "Deck and fence painting goes beyond a visual upgrade; it is a preservation measure for outdoor structures. Our team uses premium quality paints and stains designed to withstand the outdoors, ensuring your deck and fence look their best and are well-protected year-round. "
+  },
+  {
+   "t": "h3",
+   "text": "Old Paint Removal"
+  },
+  {
+   "t": "p",
+   "text": "Our skilled professionals use advanced techniques and tools to safely strip away old paint without damaging your property’s surfaces. This process ensures that the new coat of paint adheres to the surfaces, providing a smooth and flawless finish. Out with the old, in with the new!",
+   "html": "Our skilled professionals use advanced techniques and tools to safely strip away old paint without damaging your property’s surfaces. This process ensures that the new coat of paint adheres to the surfaces, providing a smooth and flawless finish. Out with the old, in with the new! "
+  },
+  {
+   "t": "h3",
+   "text": "New Establishment Painting"
+  },
+  {
+   "t": "p",
+   "text": "Speaking of new, if you are building a new home or commercial property in Kenmore, let EA Pro Painters help bring it to life with our painting services. Our team has the expertise and experience to handle all aspects of exterior painting for new builds. Trust us to make your dream property a reality.",
+   "html": "Speaking of new, if you are building a new home or commercial property in Kenmore, let EA Pro Painters help bring it to life with our painting services. Our team has the expertise and experience to handle all aspects of exterior painting for new builds. Trust us to make your dream property a reality. "
+  },
+  {
+   "t": "h2",
+   "text": "Why Choose EA Pro Painters?"
+  },
+  {
+   "t": "p",
+   "text": "There are many Kenmore painters, but none quite like EA Pro Painters. Our team has advantages that make us the top choice for exterior painting services in the area.",
+   "html": "There are many Kenmore painters, but none quite like EA Pro Painters. Our team has advantages that make us the top choice for exterior painting services in the area."
+  },
+  {
+   "t": "h3",
+   "text": "Local Painters, Local Knowledge"
+  },
+  {
+   "t": "p",
+   "text": "As a locally owned and operated business, EA Pro Painters understands the unique challenges of exterior painting in Kenmore. From the ever-changing weather to specific regulations and guidelines for historic homes, our team has extensive knowledge and experience working in the area.",
+   "html": "As a locally owned and operated business, EA Pro Painters understands the unique challenges of exterior painting in Kenmore. From the ever-changing weather to specific regulations and guidelines for historic homes, our team has extensive knowledge and experience working in the area."
+  },
+  {
+   "t": "h3",
+   "text": "Work Warranty, Quality Guarantee"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters takes pride in our work and stands behind the quality of our services. We offer a work warranty for all painting projects, ensuring your satisfaction with the final result.",
+   "html": "EA Pro Painters takes pride in our work and stands behind the quality of our services. We offer a work warranty for all painting projects, ensuring your satisfaction with the final result."
+  },
+  {
+   "t": "h3",
+   "text": "Experienced Employees, Professional Results"
+  },
+  {
+   "t": "p",
+   "text": "We are highly skilled and experienced professionals dedicated to delivering exceptional results. We only hire the best for our team, and all our employees undergo extensive training to follow our high standards of quality and professionalism.",
+   "html": "We are highly skilled and experienced professionals dedicated to delivering exceptional results. We only hire the best for our team, and all our employees undergo extensive training to follow our high standards of quality and professionalism."
+  },
+  {
+   "t": "h3",
+   "text": "Solid Reputation, Satisfied Customers"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters has recently been honored by ThreeBestRated and named among the Top 3 Painters in Bellevue, WA. This recognition is a testament to our commitment to excellence in the painting industry.",
+   "html": "EA Pro Painters has recently been honored by ThreeBestRated and named among the Top 3 Painters in Bellevue, WA. This recognition is a testament to our commitment to excellence in the painting industry."
+  },
+  {
+   "t": "h3",
+   "text": "Licensed and Insured, Your Peace of Mind"
+  },
+  {
+   "t": "p",
+   "text": "We are fully licensed and insured for your peace of mind. Our team follows all safety regulations and uses high-quality, eco-friendly materials to ensure the safety of our employees and the environment.",
+   "html": "We are fully licensed and insured for your peace of mind. Our team follows all safety regulations and uses high-quality, eco-friendly materials to ensure the safety of our employees and the environment. "
+  },
+  {
+   "t": "h2",
+   "text": "Reach Out to EA Pro Painters"
+  },
+  {
+   "t": "p",
+   "text": "At EA Pro Painters, working with the best team of painters is possible in four easy steps.",
+   "html": "At EA Pro Painters, working with the best team of painters is possible in four easy steps."
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "title": "Request a Free Estimate",
+     "body": [
+      {
+       "text": "Call (206) 250-1194 or contact us online for a free project estimate.",
+       "html": "Call (206) 250-1194 or contact us online for a free project estimate."
+      }
+     ]
+    },
+    {
+     "title": "Choose Your Colors",
+     "body": [
+      {
+       "text": "EA Pro Painters’ experts will guide you in selecting the color scheme for your project.",
+       "html": "EA Pro Painters’ experts will guide you in selecting the color scheme for your project."
+      }
+     ]
+    },
+    {
+     "title": "Start Project",
+     "body": [
+      {
+       "text": "Our Kenmore painters will start working on your painting project on the agreed-upon date and time.",
+       "html": "Our Kenmore painters will start working on your painting project on the agreed-upon date and time."
+      }
+     ]
+    },
+    {
+     "title": "Inspect Quality and Warranty",
+     "body": [
+      {
+       "text": "After completing your project, we will do a final inspection to ensure your satisfaction.",
+       "html": "After completing your project, we will do a final inspection to ensure your satisfaction. "
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "What Our Kenmore Clients Say:"
+  },
+  {
+   "t": "testimonials",
+   "items": [
+    {
+     "name": "Ishaan",
+     "text": "I’ve had multiple projects completed by EA Pro. My experience with my first project with them made me feel confident and comfortable hiring for my second project, painting the exterior of my house. I’ve been procrastinating getting my house painted because I’ve heard so many horror stories of cruddy painting companies. Once I found EA Pro those fears vanished…"
+    },
+    {
+     "name": "David",
+     "text": "EA Painting did our exterior cedar trim painting, stained the exterior brick, and painted our whole interior walls, trim, doors, and cabinets… They were very flexible with our schedule and we got along very well with the painters who came out too. Thank you EA for making our home look new and refreshed!"
+    },
+    {
+     "name": "Vlad",
+     "text": "Wow, what an incredible experience with EA pro painters! From the initial consultation to the final walk-through, their professionalism, attention to detail, and expertise were on full display. The quality of their work is truly exceptional — the colors are vibrant, the lines are crisp, and the finish is flawless. My home has never looked better!"
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "The Trusted Kenmore Painting Company"
+  },
+  {
+   "t": "p",
+   "text": "Kenmore homes and businesses are in good hands with EA Pro Painters. As the trusted Kenmore painting company, we promise to provide nothing less than top-notch painting services for your property. Let us put colors to your ideas!",
+   "html": "Kenmore homes and businesses are in good hands with EA Pro Painters. As the trusted Kenmore painting company, we promise to provide nothing less than top-notch painting services for your property. Let us put colors to your ideas!"
+  },
+  {
+   "t": "h2",
+   "text": "Kenmore: A Blend of Natural Beauty and Community Spirit"
+  },
+  {
+   "t": "p",
+   "text": "Kenmore, Washington is a charming city nestled along the northern shores of Lake Washington. With a population of approximately 25,000 residents, Kenmore offers a blend of natural beauty, community spirit, and modern amenities. The city's location provides stunning views of the lake and easy access to outdoor recreational activities such as boating, fishing, and hiking in nearby parks and trails.",
+   "html": "Kenmore, Washington is a charming city nestled along the northern shores of Lake Washington. With a population of approximately 25,000 residents, Kenmore offers a blend of natural beauty, community spirit, and modern amenities. The city's location provides stunning views of the lake and easy access to outdoor recreational activities such as boating, fishing, and hiking in nearby parks and trails."
+  },
+  {
+   "t": "h3",
+   "text": "Roots in The Logging Industry"
+  },
+  {
+   "t": "p",
+   "text": "Kenmore's history is intertwined with the logging and timber industry that flourished in the region during the late 19th and early 20th centuries. The area saw significant growth in the mid-20th century with the development of suburban neighborhoods and the establishment of businesses catering to residents' needs. Today, Kenmore maintains a small-town charm with a thriving local economy and a strong sense of community.",
+   "html": "Kenmore's history is intertwined with the logging and timber industry that flourished in the region during the late 19th and early 20th centuries. The area saw significant growth in the mid-20th century with the development of suburban neighborhoods and the establishment of businesses catering to residents' needs. Today, Kenmore maintains a small-town charm with a thriving local economy and a strong sense of community."
+  },
+  {
+   "t": "h3",
+   "text": "A Draw for Outdoor Enthusiasts"
+  },
+  {
+   "t": "p",
+   "text": "The city is home to several parks and green spaces, including Saint Edward State Park, known for its scenic trails and historic seminary building. Additionally, the Kenmore waterfront offers opportunities for outdoor dining, shopping, and entertainment, with marinas and boat launches providing access to Lake Washington.",
+   "html": "The city is home to several parks and green spaces, including Saint Edward State Park, known for its scenic trails and historic seminary building. Additionally, the Kenmore waterfront offers opportunities for outdoor dining, shopping, and entertainment, with marinas and boat launches providing access to Lake Washington."
+  },
+  {
+   "t": "h3",
+   "text": "Desirable Community"
+  },
+  {
+   "t": "p",
+   "text": "Overall, Kenmore continues to evolve as a desirable place to live, work, and play, embodying the spirit of the Pacific Northwest with its natural beauty, rich history, and welcoming community.",
+   "html": "Overall, Kenmore continues to evolve as a desirable place to live, work, and play, embodying the spirit of the Pacific Northwest with its natural beauty, rich history, and welcoming community."
+  },
+  {
+   "t": "h2",
+   "text": "Time For an Update?"
+  },
+  {
+   "t": "p",
+   "text": "If an update to your interior or exterior living space in Kenmore is in the plan, consider EA Pro Painters, a company dedicated to providing exceptional interior and exterior painting services for both residential and commercial properties. We are committed to delivering high-quality work with meticulous attention to detail, ensuring your vision becomes a reality. Contact EA Pro Painters for an estimate today and discuss your painting needs.",
+   "html": "If an update to your interior or exterior living space in Kenmore is in the plan, consider EA Pro Painters, a company dedicated to providing exceptional interior and exterior painting services for both residential and commercial properties. We are committed to delivering high-quality work with meticulous attention to detail, ensuring your vision becomes a reality. Contact EA Pro Painters for an estimate today and discuss your painting needs."
+  }
+ ],
+ "lastmod": "2026-08-12",
+ "fixes": []
+}

@@ -1,0 +1,505 @@
+{
+ "path": "/painting-company/seattle",
+ "kind": "city",
+ "slug": "painting-company__seattle",
+ "title": "Seattle Painters – Interior & Commercial Painting",
+ "description": "Seattle’s expert painters for homes, condos, and offices. Top-notch interior and commercial painting with precise prep, durable coatings, and clean results.",
+ "og": {
+  "title": "Seattle Painters – Interior & Commercial Painting",
+  "description": "Seattle’s expert painters for homes, condos, and offices. Top-notch interior and commercial painting with precise prep, durable coatings, and clean results.",
+  "type": "website",
+  "image": "/images/navy-home-exterior-red-front-door.jpg",
+  "imageIsReplacement": false
+ },
+ "twitter": {
+  "card": "summary",
+  "title": "Seattle Painters – Interior & Commercial Painting",
+  "description": "Seattle’s expert painters for homes, condos, and offices. Top-notch interior and commercial painting with precise prep, durable coatings, and clean results."
+ },
+ "h1": "Seattle Painters – Interior & Commercial Painting Services",
+ "nodes": [
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "Your Expert Seattle Painters: Seattle Commercial & Interior Painting"
+  },
+  {
+   "t": "p",
+   "text": "Painting your Seattle commercial property can make the biggest difference between an inviting business establishment and a garish location. When you’re in need of expert commercial painting in Seattle, EA Pro Painters is the team to trust. We’re on a mission to transform your space into an appealing and inviting property for workers and customers alike. EA Pro Painters is a professional painting company known for its reliability and high-quality services.",
+   "html": "<strong>Painting your Seattle commercial property can make the biggest difference between an inviting business establishment and a garish location. When you’re in need of expert</strong> <a href=\"/commercial-painting\"><strong>commercial painting in Seattle</strong></a><strong>, EA Pro Painters is the team to trust. We’re on a mission to transform your space into an appealing and inviting property for workers and customers alike. EA Pro Painters is a professional painting company known for its reliability and high-quality services.</strong>"
+  },
+  {
+   "t": "p",
+   "text": "Seattle is a bustling community, and you’d need every advantage available to stand out from the competition. An aesthetically pleasing exterior and interior is one of the ways to make a statement, and our seasoned commercial painters can help you achieve that through our painting solutions.",
+   "html": "Seattle is a bustling community, and you’d need every advantage available to stand out from the competition. An aesthetically pleasing exterior and interior is one of the ways to make a statement, and our seasoned commercial painters can help you achieve that through our painting solutions."
+  },
+  {
+   "t": "p",
+   "text": "Contact us now, and let’s discuss your painting needs.",
+   "html": "Contact us now, and let’s discuss your painting needs."
+  },
+  {
+   "t": "p",
+   "text": "Look no further for a team of Seattle pro painters who can bring out the best in your home or business. Contact us at EA Pro Painters today for a free estimate.",
+   "html": "Look no further for a team of Seattle pro painters who can bring out the best in your home or business. <a href=\"/contact\">Contact us</a> at EA Pro Painters today for a <a href=\"/estimate\">free estimate</a>."
+  },
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h3",
+   "text": "Our services include:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Exterior House Painting Services",
+     "html": "<a href=\"/exterior-painting\">Exterior House Painting Services</a>"
+    },
+    {
+     "text": "Interior House Painting Services",
+     "html": "<a href=\"/\">Interior House Painting Services</a>"
+    },
+    {
+     "text": "Deck & Fence Painting Services",
+     "html": "<a href=\"/decks-and-fences-painting\">Deck &amp; Fence Painting Services</a>"
+    },
+    {
+     "text": "Drywall Painting Services",
+     "html": "<a href=\"/drywall-painting\">Drywall Painting Services</a>"
+    },
+    {
+     "text": "Cabinet Painting Services",
+     "html": "<a href=\"/cabinet-painting\">Cabinet Painting Services</a>"
+    },
+    {
+     "text": "Millwork Painting Services",
+     "html": "<a href=\"/millwork-painting\">Millwork Painting Services</a>"
+    },
+    {
+     "text": "Drywall Painting Services",
+     "html": "<a href=\"/drywall-painting\">Drywall Painting Services</a>"
+    },
+    {
+     "text": "Trim Painting Services",
+     "html": "<a href=\"/\">Trim Painting Services</a>"
+    },
+    {
+     "text": "Shutter Painting Services",
+     "html": "<a href=\"/\">Shutter Painting Services</a>"
+    }
+   ]
+  },
+  {
+   "t": "h3",
+   "text": "Why Work With EA Pro Painters"
+  },
+  {
+   "t": "p",
+   "text": "Partnering with a professional painter like us helps you turn your property into a work of art, contributing to the eclectic and aesthetically pleasing atmosphere unique to Seattle. Here are other benefits of working with our expert team.",
+   "html": "Partnering with a professional painter like us helps you turn your property into a work of art, contributing to the eclectic and aesthetically pleasing atmosphere unique to Seattle. Here are other benefits of working with our expert team."
+  },
+  {
+   "t": "h3",
+   "text": "Improved Property Aesthetics"
+  },
+  {
+   "t": "p",
+   "text": "First impressions matter, especially for businesses in a busy location like Seattle. We assist you in enhancing your property aesthetics, allowing you to attract the eyes of any passerby. Plus, we make sure to follow your preferred colorways to achieve a final look that reflects your company’s branding.",
+   "html": "First impressions matter, especially for businesses in a busy location like Seattle. We assist you in enhancing your property aesthetics, allowing you to attract the eyes of any passerby. Plus, we make sure to follow your preferred colorways to achieve a final look that reflects your company’s branding."
+  },
+  {
+   "t": "h3",
+   "text": "Superior Durability"
+  },
+  {
+   "t": "p",
+   "text": "We use only the highest quality paints and finishes to ensure long-lasting results. Thanks to these durable materials, the surfaces can withstand the occasional severe weather we experience in the city. You’ll enjoy a finish that remains vibrant and flawless throughout the seasons.",
+   "html": "We use only the highest quality paints and finishes to ensure long-lasting results. Thanks to these durable materials, the surfaces can withstand the occasional severe weather we experience in the city. You’ll enjoy a finish that remains vibrant and flawless throughout the seasons."
+  },
+  {
+   "t": "h3",
+   "text": "Cost-Efficient Painting Solutions"
+  },
+  {
+   "t": "p",
+   "text": "Working with inexperienced teams or doing the painting on your own can result in shoddy results. You’ll need to shell out additional funding to fix the issue. Working with an established company like ours is how you ensure outstanding results the first time around. Plus, we work with efficiency and strict adherence to the set timeline — all while avoiding common mistakes and wastage.",
+   "html": "Working with inexperienced teams or doing the painting on your own can result in shoddy results. You’ll need to shell out additional funding to fix the issue. Working with an established company like ours is how you ensure outstanding results the first time around. Plus, we work with efficiency and strict adherence to the set timeline — all while avoiding common mistakes and wastage."
+  },
+  {
+   "t": "h3",
+   "text": "Expertise and Experience"
+  },
+  {
+   "t": "p",
+   "text": "Working with EA Pro Painters means entrusting your property to individuals who have honed their skills. Our team of professionals are well-versed in the latest painting techniques and trends, guaranteeing your space looks refreshed and incorporates modern aesthetics and applications that last.",
+   "html": "Working with EA Pro Painters means entrusting your property to individuals who have honed their skills. Our team of professionals are well-versed in the latest painting techniques and trends, guaranteeing your space looks refreshed and incorporates modern aesthetics and applications that last."
+  },
+  {
+   "t": "h3",
+   "text": "Timesaving"
+  },
+  {
+   "t": "p",
+   "text": "Hiring a professional painting team saves you a significant amount of time. Instead of dedicating your weekends or evenings to painting, you can focus on other important tasks or relaxation. EA Pro Painters are efficient, completing the job in a fraction of the time it would take a DIY enthusiast without compromising quality.",
+   "html": "Hiring a professional painting team saves you a significant amount of time. Instead of dedicating your weekends or evenings to painting, you can focus on other important tasks or relaxation. EA Pro Painters are efficient, completing the job in a fraction of the time it would take a DIY enthusiast without compromising quality."
+  },
+  {
+   "t": "h3",
+   "text": "Quality Materials and Tools"
+  },
+  {
+   "t": "p",
+   "text": "Our team has access to high-quality paints, primers, and tools. Our expert team can select the best materials specifically suited for your property, factoring in the climate of Seattle and the surface types, ensuring a durable finish that looks superior.",
+   "html": "Our team has access to high-quality paints, primers, and tools. Our expert team can select the best materials specifically suited for your property, factoring in the climate of Seattle and the surface types, ensuring a durable finish that looks superior."
+  },
+  {
+   "t": "h3",
+   "text": "Detailed Preparation and Clean-Up"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters will take care of everything - from protecting your furniture and flooring before starting, to ensuring a meticulous clean-up after the job. This comprehensive approach prevents damage to your property and leaves your space spotless and beautifully painted.",
+   "html": "EA Pro Painters will take care of everything - from protecting your furniture and flooring before starting, to ensuring a meticulous clean-up after the job. This comprehensive approach prevents damage to your property and leaves your space spotless and beautifully painted."
+  },
+  {
+   "t": "h3",
+   "text": "Insurance and Warranty"
+  },
+  {
+   "t": "p",
+   "text": "Our team is fully insured, which means any potential damages are covered. Furthermore, we offer a warranty on our work, ensuring a job well done and coverage for any potential issues.",
+   "html": "Our team is fully insured, which means any potential damages are covered. Furthermore, we offer a warranty on our work, ensuring a job well done and coverage for any potential issues."
+  },
+  {
+   "t": "h2",
+   "text": "Commercial and Interior Painting Solutions"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters takes pride in being able to handle various types of commercial painting projects, emphasizing meticulous planning and execution involved. You can count on our team to take care of both interior and exterior paint jobs.",
+   "html": "EA Pro Painters takes pride in being able to handle various types of commercial painting projects, emphasizing meticulous planning and execution involved. You can count on our team to take care of both interior and exterior paint jobs."
+  },
+  {
+   "t": "h3",
+   "text": "Seattle Interior Painting"
+  },
+  {
+   "t": "p",
+   "text": "We handle a wide range of interior painting jobs, working on both residential and commercial properties. Rely on us to bring style and sophistication to your room and spaces, creating a luxurious and inviting environment for occupants.",
+   "html": "We handle a wide range of interior painting jobs, working on both residential and commercial properties. Rely on us to bring style and sophistication to your room and spaces, creating a luxurious and inviting environment for occupants."
+  },
+  {
+   "t": "p",
+   "text": "With our guidance, you can choose beautiful colors and finishes that reflect your aesthetic preferences or needs. We can also help you decide the best colorways for specific areas or industries. That way, you’ll have interiors that perfectly align with your vision and purpose.",
+   "html": "With our guidance, you can choose beautiful colors and finishes that reflect your aesthetic preferences or needs. We can also help you decide the best colorways for specific areas or industries. That way, you’ll have interiors that perfectly align with your vision and purpose."
+  },
+  {
+   "t": "h3",
+   "text": "Seattle Exterior Painting*"
+  },
+  {
+   "t": "p",
+   "text": "*Please Note: If your house was built in 1970 or before and you have not removed the lead paint, we can not help you. If you have remodeled and/or repainted in the last 20 years and have gotten rid of all the lead paint, then we are happy to provide you with an estimate.",
+   "html": "*Please Note: If your house was built in 1970 or before and you have not removed the lead paint, we can not help you. If you have remodeled and/or repainted in the last 20 years and have gotten rid of all the lead paint, then we are happy to provide you with an estimate."
+  },
+  {
+   "t": "p",
+   "text": "Your property’s exterior is just as essential as the interior, especially when it comes to making first impressions. EA Pro Painter offers comprehensive exterior house painting services, so you can leverage the following benefits.",
+   "html": "Your property’s exterior is just as essential as the interior, especially when it comes to making first impressions. EA Pro Painter offers comprehensive exterior house painting services, so you can leverage the following benefits."
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Improved Curb Appeal: A quality paint job substantially improves the appearance of your property, enhancing its appeal to anyone who lays eyes on your establishment.",
+     "html": "Improved Curb Appeal: A quality paint job substantially improves the appearance of your property, enhancing its appeal to anyone who lays eyes on your establishment."
+    },
+    {
+     "text": "Enhanced Property Value: Quality exterior painting projects can also yield a high return by boosting your property’s value. A point job before a sale may also make the property more attractive to buyers.",
+     "html": "Enhanced Property Value: Quality exterior painting projects can also yield a high return by boosting your property’s value. A point job before a sale may also make the property more attractive to buyers."
+    },
+    {
+     "text": "Protection From Severe Weather: With quality exterior finishes, your property is more protected from the harsh winters and rainy days we typically experience here in Seattle.",
+     "html": "Protection From Severe Weather: With quality exterior finishes, your property is more protected from the harsh winters and rainy days we typically experience here in Seattle."
+    },
+    {
+     "text": "Energy Efficiency: We can use certain types of paint and colors that reflect sunlight, helping you lower energy use for cooling or heating your interiors.",
+     "html": "Energy Efficiency: We can use certain types of paint and colors that reflect sunlight, helping you lower energy use for cooling or heating your interiors."
+    },
+    {
+     "text": "Longer Lifespan of Siding: High-quality paint jobs protect your siding from sunlight, moisture, and contaminants. This added protection increases the lifespan of your siding, allowing you to delay expensive renovations.",
+     "html": "Longer Lifespan of Siding: High-quality paint jobs protect your siding from sunlight, moisture, and contaminants. This added protection increases the lifespan of your siding, allowing you to delay expensive renovations."
+    }
+   ]
+  },
+  {
+   "t": "h3",
+   "text": "Comprehensive Painting Solutions"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters offers quality painting services, from removing old paint to fence painting, emphasizing our commitment to professionalism and customer satisfaction. Here are the specifics we offer.",
+   "html": "EA Pro Painters offers quality painting services, from removing old paint to fence painting, emphasizing our commitment to professionalism and customer satisfaction. Here are the specifics we offer."
+  },
+  {
+   "t": "h3",
+   "text": "Old Paint Removal*"
+  },
+  {
+   "t": "p",
+   "text": "Our team takes advantage of state-of-the-art equipment and time-tested techniques to remove old paint on various surfaces. We work on Seattle homes that had a paint job after 1970. Through this service, we can strip away old layers completely and reveal the clean surface underneath. With this process, the new paint layer will adhere better, preventing cracking and peeling in the future.",
+   "html": "Our team takes advantage of state-of-the-art equipment and time-tested techniques to remove old paint on various surfaces. We work on Seattle homes that had a paint job after 1970. Through this service, we can strip away old layers completely and reveal the clean surface underneath. With this process, the new paint layer will adhere better, preventing cracking and peeling in the future."
+  },
+  {
+   "t": "p",
+   "text": "*Please Note: If your house was built in 1970 or before and you have not removed the lead paint, we can not help you.",
+   "html": "*Please Note: If your house was built in 1970 or before and you have not removed the lead paint, we can not help you."
+  },
+  {
+   "t": "h3",
+   "text": "New Establishment Painting"
+  },
+  {
+   "t": "p",
+   "text": "For business owners who’ve just opened a new location, including office buildings, we can apply the first coat of paint on the property. Count on us to deliver results that look professional and inviting. We aim to be your partner as you kickstart your new business, helping you choose the best colors that attract your target customers.",
+   "html": "For business owners who’ve just opened a new location, including office buildings, we can apply the first coat of paint on the property. Count on us to deliver results that look professional and inviting. We aim to be your partner as you kickstart your new business, helping you choose the best colors that attract your target customers."
+  },
+  {
+   "t": "h3",
+   "text": "Deck and Fence Painting"
+  },
+  {
+   "t": "p",
+   "text": "For establishments that have fences and decks, our outdoor painting services are the ideal solution. We can add finishes that highlight the grain patterns or a pop of color that catches the attention of passersby.",
+   "html": "For establishments that have fences and decks, our outdoor painting services are the ideal solution. We can add finishes that highlight the grain patterns or a pop of color that catches the attention of passersby."
+  },
+  {
+   "t": "h3",
+   "text": "Exterior Cleaning"
+  },
+  {
+   "t": "p",
+   "text": "Apart from painting, we offer exterior cleaning services. This process can be done to prep an area before painting, or it could be just for general cleaning purposes. To leave your property sparkling clean, we use eco-friendly solutions and modern equipment.",
+   "html": "Apart from painting, we offer exterior cleaning services. This process can be done to prep an area before painting, or it could be just for general cleaning purposes. To leave your property sparkling clean, we use eco-friendly solutions and modern equipment. "
+  },
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "EA Pro Painters: The Top Seattle Choice"
+  },
+  {
+   "t": "p",
+   "text": "Our company has been one of the top choices in the area as a professional painting contractor committed to quality workmanship and exceptional customer service.",
+   "html": "Our company has been one of the top choices in the area as a professional painting contractor committed to quality workmanship and exceptional customer service."
+  },
+  {
+   "t": "h3",
+   "text": "Local Painters"
+  },
+  {
+   "t": "p",
+   "text": "We are composed of local painters who have an in-depth understanding of Seattle. We are familiar with the city’s weather conditions, design trends, and business owner preferences. We leverage all this knowledge to provide tailored solutions to our clients.",
+   "html": "We are composed of local painters who have an in-depth understanding of Seattle. We are familiar with the city’s weather conditions, design trends, and business owner preferences. We leverage all this knowledge to provide tailored solutions to our clients. "
+  },
+  {
+   "t": "h3",
+   "text": "Warranty for Your Peace of Mind"
+  },
+  {
+   "t": "p",
+   "text": "We are confident with the outputs we deliver, so we put warranties on every project we finish. If you are unsatisfied with the final look, we won’t hesitate to come back and address your concerns — at no cost!",
+   "html": "We are confident with the outputs we deliver, so we put warranties on every project we finish. If you are unsatisfied with the final look, we won’t hesitate to come back and address your concerns — at no cost! "
+  },
+  {
+   "t": "h3",
+   "text": "Experienced and Trustworthy Team"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters doesn’t hold back on the hiring process. We perform extensive background checks and regular training to ensure that every painting professional in our team is skilled and can be trusted.",
+   "html": "EA Pro Painters doesn’t hold back on the hiring process. We perform extensive background checks and regular training to ensure that every painting professional in our team is skilled and can be trusted."
+  },
+  {
+   "t": "h3",
+   "text": "A+ Reputation"
+  },
+  {
+   "t": "p",
+   "text": "Our company has been one of the most established painting businesses in the area. Over the years, we’ve gained many loyal customers who vouch for our services. We’ve gained a stellar reputation thanks to their feedback and word-of-mouth referrals.",
+   "html": "Our company has been one of the most established painting businesses in the area. Over the years, we’ve gained many loyal customers who vouch for our services. We’ve gained a stellar reputation thanks to their feedback and word-of-mouth referrals."
+  },
+  {
+   "t": "h2",
+   "text": "Why EA Pro Painters?"
+  },
+  {
+   "t": "p",
+   "text": "At EA Pro Painters, several things set us apart from other professional painters in Washington. Here’s what you can look forward to when you choose to experience the EA Pro Painters difference.",
+   "html": "At EA Pro Painters, several things set us apart from other professional painters in Washington. Here’s what you can look forward to when you choose to experience the EA Pro Painters difference."
+  },
+  {
+   "t": "h3",
+   "text": "Local Expertise, World-Class Standards"
+  },
+  {
+   "t": "p",
+   "text": "As Seattle locals, we bring an unmatched understanding of your surface maintenance and restoration needs. However, local doesn’t mean small in scale. Our standards of excellence are at par with those of any world-class painting company. We combine our local knowledge with industry-leading techniques to deliver results that exceed your expectations.",
+   "html": "As Seattle locals, we bring an unmatched understanding of your surface maintenance and restoration needs. However, local doesn’t mean small in scale. Our standards of excellence are at par with those of any world-class painting company. We combine our local knowledge with industry-leading techniques to deliver results that exceed your expectations."
+  },
+  {
+   "t": "h3",
+   "text": "EA Pro Warranty"
+  },
+  {
+   "t": "p",
+   "text": "We’re confident in the results we deliver. As we all know, nothing says confidence better than a service warranty. Our comprehensive warranty gives you peace of mind, knowing that your investment is protected. The EA warranty is more than a guarantee. It symbolizes our commitment to your satisfaction.",
+   "html": "We’re confident in the results we deliver. As we all know, nothing says confidence better than a service warranty. Our comprehensive warranty gives you peace of mind, knowing that your investment is protected. The EA warranty is more than a guarantee. It symbolizes our commitment to your satisfaction."
+  },
+  {
+   "t": "h3",
+   "text": "Experienced Painting Team"
+  },
+  {
+   "t": "p",
+   "text": "We have a team of expert painters who are passionate about their craft. With years of experience under their belts, our Seattle painters bring a level of expertise that shows in every brushstroke.",
+   "html": "We have a team of expert painters who are passionate about their craft. With years of experience under their belts, our Seattle painters bring a level of expertise that shows in every brushstroke."
+  },
+  {
+   "t": "h3",
+   "text": "Licensed and Insured Seattle Painting"
+  },
+  {
+   "t": "p",
+   "text": "When you choose EA Pro Painters, you’re choosing peace of mind. We’re fully licensed and insured, protecting you and your property throughout the painting process.",
+   "html": "When you choose EA Pro Painters, you’re choosing peace of mind. We’re fully licensed and insured, protecting you and your property throughout the painting process."
+  },
+  {
+   "t": "h3",
+   "text": "Trusted in Seattle and Beyond"
+  },
+  {
+   "t": "p",
+   "text": "While we’re excited to serve Seattle, our reputation for quality extends throughout Washington State. From Woodinville to Sammamish, property owners trust EA Pro Painters for their painting needs. Now, we’re bringing that same level of service and commitment to you in Seattle.",
+   "html": "While we’re excited to serve Seattle, our reputation for quality extends throughout Washington State. From Woodinville to <a href=\"/painting-company/sammamish\">Sammamish</a>, property owners trust EA Pro Painters for their painting needs. Now, we’re bringing that same level of service and commitment to you in Seattle."
+  },
+  {
+   "t": "h2",
+   "text": "Professional Painting Process for High-Quality Results"
+  },
+  {
+   "t": "p",
+   "text": "We’ve perfected our painting process with our team of professional painters to ensure a streamlined experience for every client, emphasizing high-quality workmanship and exceptional customer service. Here’s how it works.",
+   "html": "We’ve perfected our painting process with our team of professional painters to ensure a streamlined experience for every client, emphasizing high-quality workmanship and exceptional customer service. Here’s how it works."
+  },
+  {
+   "t": "h3",
+   "text": "1. Request a Free Estimate"
+  },
+  {
+   "t": "p",
+   "text": "Contact us at 206-250-1194 or send a message on our online form to schedule an initial consultation. We will discuss your project and provide a detailed estimate to help set your expectations.",
+   "html": "Contact us at 206-250-1194 or send a message on our <a href=\"/estimate\">online form</a> to schedule an initial consultation. We will discuss your project and provide a detailed estimate to help set your expectations."
+  },
+  {
+   "t": "h3",
+   "text": "2. Choose Your Colors"
+  },
+  {
+   "t": "p",
+   "text": "We provide expert color recommendations to help you select colors that match your business branding.",
+   "html": "We provide expert color recommendations to help you select colors that match your business branding."
+  },
+  {
+   "t": "h3",
+   "text": "3. Begin the Project"
+  },
+  {
+   "t": "p",
+   "text": "Upon approval of the estimate, we can commence the painting project. You can schedule the paint job whenever it’s convenient for you.",
+   "html": "Upon approval of the estimate, we can commence the painting project. You can schedule the paint job whenever it’s convenient for you."
+  },
+  {
+   "t": "h3",
+   "text": "4. Quality Inspection and Warranty"
+  },
+  {
+   "t": "p",
+   "text": "After finishing the project, we perform a final inspection to ensure that the paint job is thorough and complete. Then, we add a warranty, so you can contact us to do touch-ups and minor repairs as needed — all for free!",
+   "html": "After finishing the project, we perform a final inspection to ensure that the paint job is thorough and complete. Then, we add a warranty, so you can contact us to do touch-ups and minor repairs as needed — all for free!"
+  },
+  {
+   "t": "h2",
+   "text": "More About the Storied City of Seattle"
+  },
+  {
+   "t": "p",
+   "text": "Seattle is the place where urban energy and natural beauty blend together. Located next to Puget Sound and the Cascade Mountains, this city offers stunning waterfront views and easy access to nature adventures.",
+   "html": "Seattle is the place where urban energy and natural beauty blend together. Located next to Puget Sound and the Cascade Mountains, this city offers stunning waterfront views and easy access to nature adventures."
+  },
+  {
+   "t": "h3",
+   "text": "Thriving Tech Industry"
+  },
+  {
+   "t": "p",
+   "text": "One of the most well-known facts about Seattle is its thriving tech industry. Several tech giants call this place home, including Microsoft, Amazon, and Zillow. This concentration of industry leaders has fostered a dynamic ecosystem, attracting startups, talented professionals, and investors from around the world.",
+   "html": "One of the most well-known facts about Seattle is its thriving tech industry. Several tech giants call this place home, including Microsoft, Amazon, and Zillow. This concentration of industry leaders has fostered a dynamic ecosystem, attracting startups, talented professionals, and investors from around the world."
+  },
+  {
+   "t": "h3",
+   "text": "Conducive for Business Growth"
+  },
+  {
+   "t": "p",
+   "text": "Seattle’s population continues to grow as the influx of tech workers continues to rise. This increase in the number of residents makes the city more conducive for businesses that can address the growing demands of workers. As such, it’s not surprising that there’s a rising interest in starting small businesses across the city. If you’re planning to establish one yourself, let us handle the paint job!",
+   "html": "Seattle’s population continues to grow as the influx of tech workers continues to rise. This increase in the number of residents makes the city more conducive for businesses that can address the growing demands of workers. As such, it’s not surprising that there’s a rising interest in starting small businesses across the city. If you’re planning to establish one yourself, let us handle the paint job!"
+  },
+  {
+   "t": "h2",
+   "text": "Commercial & Indoor Painting Seattle: Schedule an Initial Consultation"
+  },
+  {
+   "t": "p",
+   "text": "Whether you need a fresh coat or professional commercial painting services for a new commercial space, we’re the team to trust. Our quality workmanship, attention to detail, and knowledge of the local area allow us to turn your vision into reality. Contact us today to get an estimate!",
+   "html": "Whether you need a fresh coat or professional commercial painting services for a new commercial space, we’re the team to trust. Our quality workmanship, attention to detail, and knowledge of the local area allow us to turn your vision into reality. Contact us today to get an estimate!"
+  },
+  {
+   "t": "h2",
+   "text": "What Our Clients Say:"
+  },
+  {
+   "t": "testimonials",
+   "items": [
+    {
+     "name": "Ishaan",
+     "text": "I’ve had multiple projects completed by EA Pro. My experience with my first project with them made me feel confident and comfortable hiring for my second project, painting the exterior of my house. I’ve been procrastinating getting my house painted because I’ve heard so many horror stories of cruddy painting companies. Once I found EA Pro those fears vanished…"
+    },
+    {
+     "name": "David",
+     "text": "EA Painting did our exterior cedar trim painting, stained the exterior brick, and painted our whole interior walls, trim, doors, and cabinets… They were very flexible with our schedule and we got along very well with the painters who came out too. Thank you EA for making our home look new and refreshed!"
+    },
+    {
+     "name": "Vlad",
+     "text": "Wow, what an incredible experience with EA pro painters! From the initial consultation to the final walk-through, their professionalism, attention to detail, and expertise were on full display. The quality of their work is truly exceptional — the colors are vibrant, the lines are crisp, and the finish is flawless. My home has never looked better!"
+    }
+   ]
+  }
+ ],
+ "lastmod": "2026-08-12",
+ "fixes": [
+  "Second H1 demoted to H2",
+  "Internal link /commercial → /commercial-painting (skips a redirect)"
+ ]
+}

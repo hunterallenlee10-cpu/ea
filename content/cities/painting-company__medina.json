@@ -1,0 +1,435 @@
+{
+ "path": "/painting-company/medina",
+ "kind": "city",
+ "slug": "painting-company__medina",
+ "title": "Medina Painting Company – Interior & Exterior Painters",
+ "description": "Premier Medina Painting Company offers luxury interior, exterior, and custom painting services. Licensed, insured, and trusted by exclusive homeowners.",
+ "og": {
+  "title": "Medina Painting Company – Interior & Exterior Painters",
+  "description": "Premier Medina Painting Company offers luxury interior, exterior, and custom painting services. Licensed, insured, and trusted by exclusive homeowners.",
+  "type": "website",
+  "image": "/images/navy-home-exterior-red-front-door.jpg",
+  "imageIsReplacement": false
+ },
+ "twitter": {
+  "card": "summary",
+  "title": "Medina Painting Company – Interior & Exterior Painters",
+  "description": "Premier Medina Painting Company offers luxury interior, exterior, and custom painting services. Licensed, insured, and trusted by exclusive homeowners."
+ },
+ "h1": "Medina Painting Company – Premier Interior & Exterior Painters",
+ "nodes": [
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "photo",
+   "id": "ea-pro-van-at-two-story-homes"
+  },
+  {
+   "t": "h2",
+   "text": "Your Partner for Interior and Exterior Painting in Medina"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters is your dedicated painting partner, committed to delivering top-notch painting services in Medina, WA.",
+   "html": "<strong>EA Pro Painters is your dedicated painting partner, committed to delivering top-notch painting services in Medina, WA. </strong>"
+  },
+  {
+   "t": "p",
+   "text": "To call Medina “home” is a privilege. Between the buzzing energies of Seattle and Bellevue, the city sits in exclusivity. Here, convenience comes with tranquility and a stunning view of Lake Washington, so it’s only fitting that your living spaces reflect the grandeur.",
+   "html": "To call Medina “home” is a privilege. Between the buzzing energies of Seattle and Bellevue, the city sits in exclusivity. Here, convenience comes with tranquility and a stunning view of Lake Washington, so it’s only fitting that your living spaces reflect the grandeur."
+  },
+  {
+   "t": "p",
+   "text": "We’re proud to be a Medina painting company that offers premium residential painting services. From classic estates to new homes, we’re ready to bring out the best in every space. Experience perfection in each brushstroke!",
+   "html": "We’re proud to be a Medina painting company that offers premium residential painting services. From classic estates to new homes, we’re ready to bring out the best in every space. Experience perfection in each brushstroke! "
+  },
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "EA Pro Painters’ Comprehensive Residential Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters’ pledge has always been high-quality painting services with consistency, care, and competitive pricing. Adding color and character to houses and businesses across the Eastside is an honor!",
+   "html": "EA Pro Painters’ pledge has always been high-quality painting services with consistency, care, and competitive pricing. Adding color and character to houses and businesses across the Eastside is an honor!"
+  },
+  {
+   "t": "p",
+   "text": "When it comes to Medina residences, we know there’s no room for anything less than exceptional. Trust us with the following projects:",
+   "html": "When it comes to Medina residences, we know there’s no room for anything less than exceptional. Trust us with the following projects:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Exterior Painting",
+     "html": "<a href=\"/exterior-painting\">Exterior Painting</a>"
+    },
+    {
+     "text": "Interior Painting",
+     "html": "<a href=\"/interior-painting\">Interior Painting</a>"
+    },
+    {
+     "text": "Deck and Fence Painting",
+     "html": "<a href=\"/decks-and-fences-painting\">Deck and Fence Painting</a>"
+    },
+    {
+     "text": "Drywall Painting",
+     "html": "<a href=\"/drywall-painting\">Drywall Painting</a>"
+    },
+    {
+     "text": "Cabinet Painting",
+     "html": "<a href=\"/cabinet-painting\">Cabinet Painting</a>"
+    },
+    {
+     "text": "Millwork Painting",
+     "html": "<a href=\"/millwork-painting\">Millwork Painting</a>"
+    },
+    {
+     "text": "Trim Painting",
+     "html": "Trim Painting"
+    },
+    {
+     "text": "Shutter Painting",
+     "html": "Shutter Painting "
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Our Company’s Promise to the residents of Medina"
+  },
+  {
+   "t": "p",
+   "text": "Yes, there are countless providers of interior and exterior painting services in Medina. You will never struggle to find one. However, brilliance is rare. When you select EA Pro Painters, you choose the best option.",
+   "html": "Yes, there are countless providers of interior and exterior painting services in Medina. You will never struggle to find one. However, brilliance is rare. When you select EA Pro Painters, you choose the best option. "
+  },
+  {
+   "t": "h2",
+   "text": "First-Rate Materials and Techniques"
+  },
+  {
+   "t": "p",
+   "text": "Our team uses only high-end materials and applies only proven techniques. We stay up to date with industry standards, innovations, and trends; rest assured, you receive only the finest. Whether your residence needs accent walls or a complete repaint, you can look forward to impeccable results that last for years!",
+   "html": "Our team uses only high-end materials and applies only proven techniques. We stay up to date with industry standards, innovations, and trends; rest assured, you receive only the finest. Whether your residence needs accent walls or a complete repaint, you can look forward to impeccable results that last for years! "
+  },
+  {
+   "t": "h2",
+   "text": "Eco-Friendly Products"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters cares about you and the planet. We take our environmental responsibilities seriously, prioritizing low-VOC options to protect your indoor air quality and the wonders of nature. We are a Medina painting company that believes an excellent painting job should not compromise your health and the Earth’s.",
+   "html": "EA Pro Painters cares about you and the planet. We take our environmental responsibilities seriously, prioritizing low-VOC options to protect your indoor air quality and the wonders of nature. We are a Medina painting company that believes an excellent painting job should not compromise your health and the Earth’s."
+  },
+  {
+   "t": "h2",
+   "text": "Efficient Processes"
+  },
+  {
+   "t": "p",
+   "text": "No homeowner wants a project to take forever to complete. If you live in Medina, you know every second of your life deserves to be relished! So, we work efficiently without rushing. Our team arrives on time, keeps you informed daily, and maintains clean work sites.",
+   "html": "No homeowner wants a project to take forever to complete. If you live in Medina, you know every second of your life deserves to be relished! So, we work efficiently without rushing. Our team arrives on time, keeps you informed daily, and maintains clean work sites. "
+  },
+  {
+   "t": "h2",
+   "text": "Increased Property Value"
+  },
+  {
+   "t": "p",
+   "text": "Even if you’re not planning to sell your property soon, improving its value is a good idea. Invest in your home’s shine and let it contribute to the city’s opulence! EA Pro Painters guarantees performance that benefits neighborhoods.",
+   "html": "Even if you’re not planning to sell your property soon, improving its value is a good idea. Invest in your home’s shine and let it contribute to the city’s opulence! EA Pro Painters guarantees performance that benefits neighborhoods."
+  },
+  {
+   "t": "h2",
+   "text": "Peace of Mind"
+  },
+  {
+   "t": "p",
+   "text": "What’s better than feeling confident in your decision? Actually getting superb outcomes. Our team backs our services with a warranty, as we are committed to giving our clients peace of mind. We stand behind our work, and we don’t stop until you’re satisfied.",
+   "html": "What’s better than feeling confident in your decision? Actually getting superb outcomes. Our team backs our services with a warranty, as we are committed to giving our clients peace of mind. We stand behind our work, and we don’t stop until you’re satisfied. "
+  },
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "Exterior Painting Medina"
+  },
+  {
+   "t": "p",
+   "text": "In a place like Medina, every dwelling is a work of art. Paint your exterior like it’s the most prized canvas! Whether your house is on the waterfront or along the main streets, first impressions and protection matter.",
+   "html": "In a place like Medina, every dwelling is a work of art. Paint your exterior like it’s the most prized canvas! Whether your house is on the waterfront or along the main streets, first impressions and protection matter."
+  },
+  {
+   "t": "p",
+   "text": "Our exterior painting services in Medina keep your entire property looking striking throughout the year. Besides clearing eyesores like cracked and peeling paint, we safeguard your structure from the elements. Our team helps you avoid moisture and damage with each coat, allowing you to maximize your investment.",
+   "html": "Our exterior painting services in Medina keep your entire property looking striking throughout the year. Besides clearing eyesores like cracked and peeling paint, we safeguard your structure from the elements. Our team helps you avoid moisture and damage with each coat, allowing you to maximize your investment. "
+  },
+  {
+   "t": "h2",
+   "text": "Interior Painting Medina"
+  },
+  {
+   "t": "p",
+   "text": "In Medina, luxury and design are inextricably linked. EA Pro Painters, then, turn our focus on you when painting interiors. How do you want your living spaces to feel? If you say “relaxing,” “energizing,” “bold, or “sophisticated,” we will make it happen. Our experts pay attention to details with your vision in mind.",
+   "html": "In Medina, luxury and design are inextricably linked. EA Pro Painters, then, turn our focus on you when painting interiors. How do you want your living spaces to feel? If you say “relaxing,” “energizing,” “bold, or “sophisticated,” we will make it happen. Our experts pay attention to details with your vision in mind."
+  },
+  {
+   "t": "p",
+   "text": "We brighten dim hallways, create calming retreats, and spruce up kitchens and home offices with colors and finishes. It is your abode, after all, and you must perceive yourself in it every day.",
+   "html": "We brighten dim hallways, create calming retreats, and spruce up kitchens and home offices with colors and finishes. It is your abode, after all, and you must perceive yourself in it every day. "
+  },
+  {
+   "t": "h2",
+   "text": "Other Residential Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "Every inch of your Medina residence is worthy of craftsmanship, even the parts you might not think about or see day-to-day. Let our painters beautify the following:",
+   "html": "Every inch of your Medina residence is worthy of craftsmanship, even the parts you might not think about or see day-to-day. Let our painters beautify the following:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Decks and Fences: Resist sun and water damage, as well as everyday wear, regardless of the materials your decks and fences are made of.",
+     "html": "<strong>Decks and Fences:</strong> Resist sun and water damage, as well as everyday wear, regardless of the materials your decks and fences are made of."
+    },
+    {
+     "text": "Drywall: Uneven textures or touch-up spots? Not on our watch! We ensure smooth and seamless surfaces.",
+     "html": "<strong>Drywall:</strong> Uneven textures or touch-up spots? Not on our watch! We ensure smooth and seamless surfaces."
+    },
+    {
+     "text": "Cabinet Painting: If a remodel is too much, but your kitchen, bathroom, or rooms need refreshing, give your cabinets a new hue!",
+     "html": "<strong>Cabinet Painting:</strong> If a remodel is too much, but your kitchen, bathroom, or rooms need refreshing, give your cabinets a new hue!"
+    },
+    {
+     "text": "Millwork: Wood details can stand out in a positive way. From crown molding to baseboards, we render every edge and groove with crisp detail.",
+     "html": "<strong>Millwork:</strong> Wood details can stand out in a positive way. From crown molding to baseboards, we render every edge and groove with crisp detail."
+    },
+    {
+     "text": "Trims: Frame your space with clean, well-painted trims! Trust all lines to our team, and we will ensure they tie the whole room together.",
+     "html": "<strong>Trims:</strong> Frame your space with clean, well-painted trims! Trust all lines to our team, and we will ensure they tie the whole room together."
+    },
+    {
+     "text": "Shutters: Do you want to add contrast or match your shutters with your front door? Our professional painters achieve intentional aesthetics.",
+     "html": "<strong>Shutters:</strong> Do you want to add contrast or match your shutters with your front door? Our professional painters achieve intentional aesthetics."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters also offers custom painting projects, such as statement walls and murals. Creativity is our middle name! Tell us about your specialty tasks, and we will discuss all the possibilities. If you can imagine it, we can bring it to life.",
+   "html": "EA Pro Painters also offers <a href=\"/custom-painting\">custom pa</a>inting projects, such as statement walls and murals. Creativity is our middle name! Tell us about your specialty tasks, and we will discuss all the possibilities. If you can imagine it, we can bring it to life. "
+  },
+  {
+   "t": "h2",
+   "text": "Why Partner with EA Pro Painters?"
+  },
+  {
+   "t": "p",
+   "text": "There is no reason not to choose us. Here are four things that set us apart from other interior and exterior painting providers in Medina.",
+   "html": "There is no reason not to choose us. Here are four things that set us apart from other interior and exterior painting providers in Medina. "
+  },
+  {
+   "t": "h2",
+   "text": "Local Team"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters is based in Bellevue, right here on the Eastside of the greater Seattle area. We are your neighbors! That means we live in the same climate, see the same architecture, and have the same expectations. We’re always nearby, ready to start and complete projects at any time.",
+   "html": "EA Pro Painters is <a href=\"/about\">based</a> in Bellevue, right here on the Eastside of the greater Seattle area. We are your neighbors! That means we live in the same climate, see the same architecture, and have the same expectations. We’re always nearby, ready to start and complete projects at any time. "
+  },
+  {
+   "t": "h2",
+   "text": "Experienced Professionals"
+  },
+  {
+   "t": "p",
+   "text": "All our members are carefully selected, rigorously trained, and encouraged to participate in ongoing education. Everyone who touches your floors, walls, and ceilings is an expert. Feel free to ask questions or seek recommendations; we provide knowledge, precision, and respect.",
+   "html": "All our members are carefully selected, rigorously trained, and encouraged to participate in ongoing education. Everyone who touches your floors, walls, and ceilings is an expert. Feel free to ask questions or seek recommendations; we provide knowledge, precision, and respect."
+  },
+  {
+   "t": "h2",
+   "text": "License and Insurance"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters is fully licensed and insured, ensuring we meet all local and state regulations for painting businesses. We assure our clients that they are partnering with a qualified and trustworthy Medina painting company!",
+   "html": "EA Pro Painters is fully licensed and insured, ensuring we meet all local and state regulations for painting businesses. We assure our clients that they are partnering with a qualified and trustworthy Medina painting company! "
+  },
+  {
+   "t": "h2",
+   "text": "Commitment to Excellence"
+  },
+  {
+   "t": "p",
+   "text": "Did you know that ThreeBestRated named us one of the Top 3 Painters in Bellevue? This recognition is a result of our commitment to excellence! We are proud of our solid reputation, which we built through consistent performance.",
+   "html": "Did you know that ThreeBestRated named us one of the Top 3 Painters in Bellevue? This recognition is a result of our commitment to excellence! We are proud of our solid reputation, which we built through consistent performance."
+  },
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "Our Interior and Exterior Painting Medina Process"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters never makes it difficult for you to access our expertise. Regardless of the size of the painting project, we follow a straightforward, stress-free process.",
+   "html": "EA Pro Painters never makes it difficult for you to access our expertise. Regardless of the size of the painting project, we follow a straightforward, stress-free process."
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "title": "Request a Free Estimate",
+     "body": [
+      {
+       "text": "Find out how much you’ll be spending before locking in. Contact our team at (206) 250-1194 or reach out to us online for a complimentary consultation.",
+       "html": "Find out <a href=\"/estimate\">how much you’ll be spending</a> before locking in. Contact our team at (206) 250-1194 or reach out to <a href=\"/contact\">us online</a> for a complimentary consultation."
+      }
+     ]
+    },
+    {
+     "title": "Select Colors",
+     "body": [
+      {
+       "text": "Tell us all the hues and shades you prefer! Our professional painters will also share suggestions until we finalize palettes.",
+       "html": "Tell us all the hues and shades you prefer! Our professional painters will also share suggestions until we finalize palettes."
+      }
+     ]
+    },
+    {
+     "title": "Start the Project",
+     "body": [
+      {
+       "text": "We create a schedule and follow through on it. Expect progress and updates daily as you go about your routine.",
+       "html": "We create a schedule and follow through on it. Expect progress and updates daily as you go about your routine."
+      }
+     ]
+    },
+    {
+     "title": "Inspect and Verify the Quality",
+     "body": [
+      {
+       "text": "Our whole team aims to delight you. During the final walkthrough, you are welcome to express your concerns, and we will address them!",
+       "html": "Our whole team aims to delight you. During the final walkthrough, you are welcome to express your concerns, and we will address them! "
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Medina Reviews"
+  },
+  {
+   "t": "testimonials",
+   "items": [
+    {
+     "name": "Teri",
+     "text": "E&A Painting did a fantastic job painting the exterior of our home. We were thrilled with the finished product. The crew was super friendly, professional and thorough. Highly recommend!"
+    },
+    {
+     "name": "Dixie",
+     "text": "Team was professional and high quality – from initial estimate to final inspection. We are very pleased with the results, and our house looks great. If you’re looking for a quality paint job this the company to go for!"
+    },
+    {
+     "name": "David",
+     "text": "I’ve found the team at EA Pro to be very responsive and tuned into our needs. Fast and efficient. Highly recommend them to others in Sammamish, Bellevue and the Eastside for painting needs."
+    }
+   ]
+  },
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "Get in Touch with the Best Medina Painting Company"
+  },
+  {
+   "t": "p",
+   "text": "Update or complete your Medina home. Start a conversation with EA Pro Painters and let us get your painting project underway.",
+   "html": "Update or complete your Medina home. <a href=\"/contact\">Start a conversation with EA Pro Painters</a> and let us get your painting project underway."
+  },
+  {
+   "t": "h2",
+   "text": "A Little Bit More About Medina"
+  },
+  {
+   "t": "p",
+   "text": "Medina’s story began on August 19, 1955, and seven decades later, it has become a highly desirable ZIP code.",
+   "html": "Medina’s story began on <a href=\"https://www.medina-wa.gov/community/page/city-medina\">August 19, 1955</a>, and seven decades later, it has become a highly desirable ZIP code."
+  },
+  {
+   "t": "p",
+   "text": "Affluent Community",
+   "html": "Affluent Community"
+  },
+  {
+   "t": "p",
+   "text": "The city has fewer than 3,000 residents. Peace and prestige are promised! The shores of Lake Washington are dotted with luxury homes, manicured landscapes, and an unwavering sense of pride. There is nowhere else you would rather be.",
+   "html": "The city has <a href=\"https://worldpopulationreview.com/us-cities/washington/medina\">fewer than 3,000 residents</a>. Peace and prestige are promised! The shores of Lake Washington are dotted with luxury homes, manicured landscapes, and an unwavering sense of pride. There is nowhere else you would rather be."
+  },
+  {
+   "t": "p",
+   "text": "Diversity and Inclusivity",
+   "html": "Diversity and Inclusivity"
+  },
+  {
+   "t": "p",
+   "text": "Medina is exclusive, but its residents hail from various backgrounds. Here, people celebrate diversity and respect everyone for who they are, not just for the properties they own.",
+   "html": "Medina is exclusive, but its residents hail from various backgrounds. Here, people celebrate diversity and respect everyone for who they are, not just for the properties they own."
+  },
+  {
+   "t": "p",
+   "text": "Family-Friendly Area",
+   "html": "Family-Friendly Area"
+  },
+  {
+   "t": "p",
+   "text": "Safe streets, world-class schools, and well-maintained parks? The city is an ideal place to raise a family. Watch the kids play, gather your loved ones, and enjoy quiet yet meaningful moments. Build the life you desire here.",
+   "html": "Safe streets, world-class schools, and well-maintained parks? The city is an ideal place to raise a family. Watch the kids play, gather your loved ones, and enjoy quiet yet meaningful moments. Build the life you desire here."
+  },
+  {
+   "t": "h2",
+   "text": "Let EA Pro Painters Refine Your Medina Home"
+  },
+  {
+   "t": "p",
+   "text": "It’s time to set the seal on your Medina residence or fall in love with it all over again. At EA Pro Painters, a team of professional painters awaits. Your project is our next showpiece! Connect with us today.",
+   "html": "It’s time to set the seal on your Medina residence or fall in love with it all over again. At EA Pro Painters, a team of professional painters awaits. Your project is our next showpiece! <a href=\"/contact\">Connect with us today</a>. "
+  },
+  {
+   "t": "h2",
+   "text": "About Medina"
+  },
+  {
+   "t": "p",
+   "text": "Medina, located just west of Bellevue and across Lake Washington from Seattle, is a small and affluent city in King County, Washington. Home to around 2,800 residents as of 2025, Medina is primarily residential and known for its exclusive neighborhoods, picturesque lakeshore views, and meticulously maintained green spaces. The city operates under a council–manager form of government and is renowned for being the residence of tech industry titans such as Bill Gates.",
+   "html": "Medina, located just west of Bellevue and across Lake Washington from Seattle, is a small and affluent city in King County, Washington. Home to around 2,800 residents as of 2025, Medina is primarily residential and known for its exclusive neighborhoods, picturesque lakeshore views, and meticulously maintained green spaces. The city operates under a council–manager form of government and is renowned for being the residence of tech industry titans such as Bill Gates."
+  },
+  {
+   "t": "p",
+   "text": "Despite its modest population, Medina boasts significant diversity: nearly one-third of its residents are foreign-born, and the community prides itself on its family-friendly atmosphere. With a median age of 47, well-kept parks, and convenient access to both Bellevue’s amenities and Seattle’s urban core, Medina offers a tranquil yet connected lifestyle on the shores of Lake Washington.",
+   "html": "Despite its modest population, Medina boasts significant diversity: nearly one-third of its residents are foreign-born, and the community prides itself on its family-friendly atmosphere. With a median age of 47, well-kept parks, and convenient access to both Bellevue’s amenities and Seattle’s urban core, Medina offers a tranquil yet connected lifestyle on the shores of Lake Washington."
+  }
+ ],
+ "lastmod": "2026-08-12",
+ "fixes": []
+}

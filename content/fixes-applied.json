@@ -1,0 +1,185 @@
+{
+ "/": [
+  "\"keep the Eastside of colorful\" → \"keep the Eastside colorful\""
+ ],
+ "/about": [
+  "\"keep the Eastside of colorful\" → \"keep the Eastside colorful\""
+ ],
+ "/services": [
+  "Dropped stock photos (rule 7)",
+  "Internal link /commercial → /commercial-painting (skips a redirect)"
+ ],
+ "/faqs": [
+  "Business name \"E&A Pro Painters\" → \"EA Pro Painters\""
+ ],
+ "/portfolio": [],
+ "/blog": [],
+ "/contact": [
+  "Live H1 was the review widget heading; the page's first heading is now the H1"
+ ],
+ "/estimate": [],
+ "/interior-painting": [],
+ "/exterior-painting": [
+  "Second H1 demoted to H2"
+ ],
+ "/commercial-painting": [],
+ "/cabinet-painting": [],
+ "/custom-painting": [
+  "Internal link /painting-company/kirkland → /kirkland (skips a redirect)"
+ ],
+ "/millwork-painting": [
+  "Business name \"EA Pro Painting\" → \"EA Pro Painters\""
+ ],
+ "/drywall-painting": [],
+ "/decks-and-fences-painting": [],
+ "/hoa": [],
+ "/kirkland": [],
+ "/painting-company/bellevue": [
+  "Business name \"EA Pro Painting\" → \"EA Pro Painters\""
+ ],
+ "/painting-company/bothell": [],
+ "/painting-company/clyde-hill": [],
+ "/painting-company/edmonds": [
+  "Second H1 demoted to H2",
+  "Internal link /commercial → /commercial-painting (skips a redirect)"
+ ],
+ "/painting-company/everett": [],
+ "/painting-company/issaquah": [],
+ "/painting-company/juanita": [
+  "Removed broken my.duda.co link (text kept)"
+ ],
+ "/painting-company/kenmore": [],
+ "/painting-company/lynnwood": [],
+ "/painting-company/medina": [],
+ "/painting-company/mercer-island": [],
+ "/painting-company/mill-creek": [],
+ "/painting-company/monroe": [
+  "Second H1 demoted to H2"
+ ],
+ "/painting-company/newcastle": [],
+ "/painting-company/redmond": [
+  "Internal link /commercial → /commercial-painting (skips a redirect)"
+ ],
+ "/painting-company/renton": [],
+ "/painting-company/sammamish": [
+  "Dropped stock photos (rule 7)"
+ ],
+ "/painting-company/seattle": [
+  "Second H1 demoted to H2",
+  "Internal link /commercial → /commercial-painting (skips a redirect)"
+ ],
+ "/painting-company/shoreline": [],
+ "/painting-company/snohomish": [
+  "Typo \"Snohmish\" → \"Snohomish\""
+ ],
+ "/painting-company/snoqualmie": [],
+ "/painting-company/woodinville": [
+  "Business name \"EA Pro Painting\" → \"EA Pro Painters\""
+ ],
+ "/5-signs-time-to-repaint": [
+  "Added the post title as the H1 (live post had none)",
+  "Dropped stock photos (rule 7)"
+ ],
+ "/summer-exterior-painting-makeover": [
+  "Post body H1 demoted to H2; post title is the H1",
+  "Dropped stock photos (rule 7)"
+ ],
+ "/choose-the-best-paint-colors-for-your-home-2025": [
+  "Added the post title as the H1 (live post had none)",
+  "Dropped stock photos (rule 7)"
+ ],
+ "/deck-staining-vs-painting-which-is-best-for-your-outdoor-space": [
+  "Added the post title as the H1 (live post had none)",
+  "Dropped stock photos (rule 7)"
+ ],
+ "/the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting": [
+  "Added the post title as the H1 (live post had none)",
+  "Dropped stock photos (rule 7)"
+ ],
+ "/top-5-trending-exterior-paint-colors-for-washington-homes-in-2025": [
+  "Added the post title as the H1 (live post had none)",
+  "Dropped stock photos (rule 7)"
+ ],
+ "/how-to-choose-weather-resistant-colors": [
+  "Added the post title as the H1 (live post had none)",
+  "Dropped stock photos (rule 7)"
+ ],
+ "/interior-color-trends-for-seattle-home": [
+  "Added the post title as the H1 (live post had none)",
+  "Dropped stock photos (rule 7)"
+ ],
+ "/eco-friendly-painting-options": [
+  "Added the post title as the H1 (live post had none)"
+ ],
+ "/commercial-painting-in-bellevue-minimize-disruption": [
+  "Post body H1 demoted to H2; post title is the H1"
+ ],
+ "/benefits-of-hiring-professional-painters": [
+  "Added the post title as the H1 (live post had none)"
+ ],
+ "/seasonal-painting-tips-when-is-the-best-time-to-paint": [
+  "Added the post title as the H1 (live post had none)"
+ ],
+ "/preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks": [
+  "Added the post title as the H1 (live post had none)",
+  "Dropped stock photos (rule 7)",
+  "Internal link /step-by-step-guide-to-interior-painting-make-your-home-look-like-a-pro-s-work → /blog/step-by-step-guide-to-interior-painting (skips a redirect)"
+ ],
+ "/understanding-paint-types-which-is-best-for-your-project": [
+  "Added the post title as the H1 (live post had none)",
+  "Dropped stock photos (rule 7)"
+ ],
+ "/creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish": [
+  "Added the post title as the H1 (live post had none)",
+  "Internal link /step-by-step-guide-to-interior-painting-make-your-home-look-like-a-pro-s-work → /blog/step-by-step-guide-to-interior-painting (skips a redirect)"
+ ],
+ "/revamping-your-office-space-the-impact-of-professional-painting": [
+  "Added the post title as the H1 (live post had none)",
+  "Dropped stock photos (rule 7)"
+ ],
+ "/blog/step-by-step-guide-to-interior-painting": [
+  "Added the post title as the H1 (live post had none)",
+  "Dropped stock photos (rule 7)",
+  "Meta description was missing on the live page; new one written from the first paragraph"
+ ],
+ "/the-benefits-of-hiring-professional-painters-vs-diy": [
+  "Added the post title as the H1 (live post had none)"
+ ],
+ "/top-10-tips-for-painting-your-home-in-the-winter": [
+  "Added the post title as the H1 (live post had none)",
+  "Business name \"EA Pro Painting\" → \"EA Pro Painters\""
+ ],
+ "/how-to-maintain-your-painted-surfaces-for-long-lasting-beauty": [
+  "Added the post title as the H1 (live post had none)",
+  "Dropped stock photos (rule 7)",
+  "Business name \"EA Pro Painting\" → \"EA Pro Painters\"",
+  "Meta description was missing on the live page; new one written from the first paragraph"
+ ],
+ "/5-signs-its-time-to-refresh-your-homes-exterior": [
+  "Added the post title as the H1 (live post had none)",
+  "Dropped stock photos (rule 7)"
+ ],
+ "/importance-of-quality-paint-against-weather-damage": [
+  "Added the post title as the H1 (live post had none)",
+  "Dropped stock photos (rule 7)"
+ ],
+ "/ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces": [
+  "Added the post title as the H1 (live post had none)"
+ ],
+ "/transform-your-homes-curb-appeal-top-color-trends-for-2024": [
+  "Added the post title as the H1 (live post had none)"
+ ],
+ "/the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects": [
+  "Added the post title as the H1 (live post had none)"
+ ],
+ "/success": [
+  "Live H1 was the review widget heading; the page's first heading is now the H1"
+ ],
+ "/welcome": [
+  "Business name \"EA Pro Painting\" → \"EA Pro Painters\""
+ ],
+ "/recommended-companies": [
+  "Business name \"EA Pro Painting\" → \"EA Pro Painters\"",
+  "Internal link /home-old → / (skips a redirect)"
+ ]
+}

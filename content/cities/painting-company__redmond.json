@@ -1,0 +1,535 @@
+{
+ "path": "/painting-company/redmond",
+ "kind": "city",
+ "slug": "painting-company__redmond",
+ "title": "Redmond Painters – Interior, Exterior & Commercial Painters",
+ "description": "Redmond painters for homes, businesses, and commercial projects. Get quality-focused experts, fast, reliable scheduling, and beautiful, professional results.",
+ "og": {
+  "title": "Redmond Painters – Interior, Exterior & Commercial Painters",
+  "description": "Redmond painters for homes, businesses, and commercial projects. Get quality-focused experts, fast, reliable scheduling, and beautiful, professional results.",
+  "type": "website",
+  "image": "/images/navy-home-exterior-red-front-door.jpg",
+  "imageIsReplacement": false
+ },
+ "twitter": {
+  "card": "summary",
+  "title": "Redmond Painters – Interior, Exterior & Commercial Painters",
+  "description": "Redmond painters for homes, businesses, and commercial projects. Get quality-focused experts, fast, reliable scheduling, and beautiful, professional results."
+ },
+ "h1": "Redmond Painters – Interior, Exterior & Commercial Services",
+ "nodes": [
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "photo",
+   "id": "navy-home-exterior-red-front-door"
+  },
+  {
+   "t": "h2",
+   "text": "EA Pro Painters: Top-Rated Redmond Painting Company"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters takes part in the superior quality of life found in the city of Redmond by providing the best painting services for Redmond’s residents and businesses.",
+   "html": "<strong>EA Pro Painters takes part in the superior quality of life found in the city of Redmond by providing the best painting services for Redmond’s residents and businesses. </strong>"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters is proud to be part of the Redmond community, helping enhance and maintain the city’s beautiful appearance. As a top-rated painting company, our team provides the highest quality services for residential and commercial properties in the city.",
+   "html": "EA Pro Painters is proud to be part of the Redmond community, helping enhance and maintain the city’s beautiful appearance. As a top-rated painting company, our team provides the highest quality services for residential and <a href=\"/commercial-painting\">commercial</a> properties in the city."
+  },
+  {
+   "t": "p",
+   "text": "Our services include:",
+   "html": "Our services include:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Exterior House Painting Services",
+     "html": "<a href=\"/exterior-painting\">Exterior House Painting Services</a>"
+    },
+    {
+     "text": "Interior House Painting Services",
+     "html": "<a href=\"/\">Interior House Painting Services</a>"
+    },
+    {
+     "text": "Deck & Fence Painting Services",
+     "html": "<a href=\"/decks-and-fences-painting\">Deck &amp; Fence Painting Services</a>"
+    },
+    {
+     "text": "Drywall Painting Services",
+     "html": "<a href=\"/drywall-painting\">Drywall Painting Services</a>"
+    },
+    {
+     "text": "Cabinet Painting Services",
+     "html": "<a href=\"/cabinet-painting\">Cabinet Painting Services</a>"
+    },
+    {
+     "text": "Millwork Painting Services",
+     "html": "<a href=\"/millwork-painting\">Millwork Painting Services</a>"
+    },
+    {
+     "text": "Drywall Painting Services",
+     "html": "<a href=\"/drywall-painting\">Drywall Painting Services</a>"
+    },
+    {
+     "text": "Trim Painting Services",
+     "html": "<a href=\"/\">Trim Painting Services</a>"
+    },
+    {
+     "text": "Shutter Painting Services",
+     "html": "<a href=\"/\">Shutter Painting Services</a> "
+    }
+   ]
+  },
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "Why You Need Professional Redmond Painters"
+  },
+  {
+   "t": "p",
+   "text": "Redmond is 2023’s Most Livable Small City in the United States. However, any homeowner or business in the city who wants to maintain or improve their property’s value will need the help of professional painting services. That is where EA Pro Painters excel.",
+   "html": "Redmond is 2023’s Most Livable Small City in the United States. However, any homeowner or business in the city who wants to maintain or improve their property’s value will need the help of professional painting services. That is where EA Pro Painters excel."
+  },
+  {
+   "t": "h3",
+   "text": "Expertise and Quality"
+  },
+  {
+   "t": "p",
+   "text": "As professional painters, we possess the expertise to deliver high-quality work. Our knowledge of different types of paint, techniques, and finishes ensures that each project meets the highest quality standards.",
+   "html": "As professional painters, we possess the expertise to deliver high-quality work. Our knowledge of different types of paint, techniques, and finishes ensures that each project meets the highest quality standards. "
+  },
+  {
+   "t": "h3",
+   "text": "Timesaving"
+  },
+  {
+   "t": "p",
+   "text": "Hiring EA Pro Painters can save significant time. Our team will handle the entire project from start to finish, including preparation, painting, and cleanup.",
+   "html": "Hiring EA Pro Painters can save significant time. Our team will handle the entire project from start to finish, including preparation, painting, and cleanup. "
+  },
+  {
+   "t": "h3",
+   "text": "Cost-Effective"
+  },
+  {
+   "t": "p",
+   "text": "It may seem counterintuitive, but hiring a professional painting team can be more cost-effective in the long run. As experts, we know how to use materials efficiently and avoid costly mistakes, guaranteeing the job is done right the first time.",
+   "html": "It may seem counterintuitive, but hiring a professional painting team can be more cost-effective in the long run. As experts, we know how to use materials efficiently and avoid costly mistakes, guaranteeing the job is done right the first time. "
+  },
+  {
+   "t": "h3",
+   "text": "Long-Lasting Results"
+  },
+  {
+   "t": "p",
+   "text": "At EA Pro Painters, we provide not only stunning results but also the durability for a long-lasting exterior paint job. Our team’s skills and our use of high-quality exterior painting materials make the paint job withstand the test of time, maintaining its appearance and protecting your property.",
+   "html": "At EA Pro Painters, we provide not only stunning results but also the durability for a long-lasting exterior paint job. Our team’s skills and our use of high-quality exterior painting materials make the paint job withstand the test of time, maintaining its appearance and protecting your property. "
+  },
+  {
+   "t": "h3",
+   "text": "Safety"
+  },
+  {
+   "t": "p",
+   "text": "Painting can be a dangerous task, especially for multi-story buildings. Our teams have the safety equipment and training to complete your job without accidents or injuries.",
+   "html": "Painting can be a dangerous task, especially for multi-story buildings. Our teams have the safety equipment and training to complete your job without accidents or injuries. "
+  },
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "EA Pro Painters in Redmond"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters is a hallmark of professionalism in the painting industry across the greater Seattle area. Our service map encompasses the vibrant Eastside communities, offering top-tier services at competitive rates.",
+   "html": "EA Pro Painters is a hallmark of professionalism in the painting industry across the greater Seattle area. Our service map encompasses the vibrant Eastside communities, offering top-tier services at competitive rates."
+  },
+  {
+   "t": "p",
+   "text": "By choosing only premium paints and materials — coupled with our team’s adept painting skills — EA Pro Painters guarantees satisfaction and precision. In Redmond, we promise our customers a clean, safe, and quality experience.",
+   "html": "By choosing only premium paints and materials — coupled with our team’s adept painting skills — EA Pro Painters guarantees satisfaction and precision. In Redmond, we promise our customers a clean, safe, and quality experience.  "
+  },
+  {
+   "t": "h2",
+   "text": "Redmond Interior Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters’ interior painting services add elegance and appeal to any room. We focus on detail, from careful surface preparation to choosing the perfect colors and achieving a smooth finish. Our goal is to enhance a space’s look and feel with our high-quality work.",
+   "html": "EA Pro Painters’ interior painting services add elegance and appeal to any room. We focus on detail, from careful surface preparation to choosing the perfect colors and achieving a smooth finish. Our goal is to enhance a space’s look and feel with our high-quality work. "
+  },
+  {
+   "t": "h2",
+   "text": "Redmond Exterior Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "As the leading Redmond residential and commercial painting company, EA Pro Painters offers exterior painting services that protect your property while adding curb appeal. We handle the entire exterior of your house, ensuring every surface is meticulously painted. With us, you can expect the following and more. Our exterior home painting services use high-quality primer and paint to achieve a flawless and even finish.",
+   "html": "As the leading Redmond residential and commercial painting company, EA Pro Painters offers exterior painting services that protect your property while adding curb appeal. We handle the entire exterior of your house, ensuring every surface is meticulously painted. With us, you can expect the following and more. Our exterior home painting services use high-quality primer and paint to achieve a flawless and even finish."
+  },
+  {
+   "t": "h2",
+   "text": "Exterior Painting"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Protection Against the Elements: Paint is a barrier against rain, snow, and sunlight, reducing weathering and wear from the elements. This protection can prolong the life of your building’s outer materials.",
+     "html": "Protection Against the Elements: Paint is a barrier against rain, snow, and sunlight, reducing weathering and wear from the elements. This protection can prolong the life of your building’s outer materials."
+    },
+    {
+     "text": "Increased Property Value: A well-maintained exterior can significantly increase the market value of your property. A new paint job is a cost-effective way to boost curb appeal and attract buyers or tenants.",
+     "html": "Increased Property Value: A well-maintained exterior can significantly increase the market value of your property. A new paint job is a cost-effective way to boost curb appeal and attract buyers or tenants."
+    },
+    {
+     "text": "Cost Savings: Preventative maintenance, like painting, can save you money in the long run. By protecting the exterior of your building, you are less likely to need repairs from damage caused by the elements or pests. Additionally, exterior painting services are often available at a fair price, ensuring you get quality work without overspending.",
+     "html": "Cost Savings: Preventative maintenance, like painting, can save you money in the long run. By protecting the exterior of your building, you are less likely to need repairs from damage caused by the elements or pests. Additionally, exterior painting services are often available at a fair price, ensuring you get quality work without overspending."
+    },
+    {
+     "text": "Improved Aesthetics: A new coat of paint can transform your property’s appearance, giving it a clean, fresh look. Whether you’re sticking with the current color or choosing a new scheme, painting is an excellent way to rejuvenate your space.",
+     "html": "Improved Aesthetics: A new coat of paint can transform your property’s appearance, giving it a clean, fresh look. Whether you’re sticking with the current color or choosing a new scheme, painting is an excellent way to rejuvenate your space."
+    },
+    {
+     "text": "Health and Safety: Quality exterior painting can reduce health risks associated with lead paint — especially in older buildings — and help keep dust and allergens to a minimum. A well-maintained exterior also contributes to a safer environment by deterring pests and reducing the risk of structural damage.",
+     "html": "Health and Safety: Quality exterior painting can reduce health risks associated with lead paint — especially in older buildings — and help keep dust and allergens to a minimum. A well-maintained exterior also contributes to a safer environment by deterring pests and reducing the risk of structural damage. "
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "EA Pro Painters Comprehensive Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "At EA Pro Painters, every corner, crevice, and surface of your Redmond home or business will get the attention it deserves. All the painting services you need to keep your property looking its best are just a phone call away. Our clients consistently praise us for doing a great job painting, highlighting our excellent results and attention to detail.",
+   "html": "At EA Pro Painters, every corner, crevice, and surface of your Redmond home or business will get the attention it deserves. All the painting services you need to keep your property looking its best are just a phone call away. Our clients consistently praise us for doing a great job painting, highlighting our excellent results and attention to detail."
+  },
+  {
+   "t": "h2",
+   "text": "Deck and Fence Painting"
+  },
+  {
+   "t": "p",
+   "text": "Our exterior painting services continue beyond your building’s walls. We also offer deck and fence painting to keep these structures in top condition. As a result, your outdoor living spaces will look beautiful and inviting year-round.",
+   "html": "Our exterior painting services continue beyond your building’s walls. We also offer deck and fence painting to keep these structures in top condition. As a result, your outdoor living spaces will look beautiful and inviting year-round. "
+  },
+  {
+   "t": "h2",
+   "text": "Old Paint Removal"
+  },
+  {
+   "t": "p",
+   "text": "Removing old paint is crucial in any exterior painting project. Our team has the expertise and tools to remove old paint safely and effectively, leaving a clean surface for fresh paint application.",
+   "html": "Removing old paint is crucial in any exterior painting project. Our team has the expertise and tools to remove old paint safely and effectively, leaving a clean surface for fresh paint application. "
+  },
+  {
+   "t": "h2",
+   "text": "New Building Painting"
+  },
+  {
+   "t": "p",
+   "text": "Building a new home or business in Redmond is exciting, and starting your painting projects with the right paint color can be equally exhilarating. Let EA Pro Painters help you make the best choices for your new property by providing expert advice and high-quality painting services.",
+   "html": "Building a new home or business in Redmond is exciting, and starting your painting projects with the right paint color can be equally exhilarating. Let EA Pro Painters help you make the best choices for your new property by providing expert advice and high-quality painting services. "
+  },
+  {
+   "t": "faqs",
+   "items": [
+    {
+     "q": "What does it cost to paint a house in Redmond?",
+     "a": [
+      {
+       "text": "Redmond exteriors typically run $4,500 to $10,000 and interiors $3,200 to $25,000. Redmond splits cleanly into two very different pricing pictures. Education Hill, Grass Lawn, and the older neighborhoods near downtown have mature homes with wood siding and real prep requirements. Redmond Ridge and the newer developments east of town are largely fiber cement and engineered siding on builder-grade original coatings.",
+       "html": "Redmond exteriors typically run $4,500 to $10,000 and interiors $3,200 to $25,000. Redmond splits cleanly into two very different pricing pictures. Education Hill, Grass Lawn, and the older neighborhoods near downtown have mature homes with wood siding and real prep requirements. Redmond Ridge and the newer developments east of town are largely fiber cement and engineered siding on builder-grade original coatings."
+      },
+      {
+       "text": "Newer does not automatically mean cheaper. Builder-grade paint on a fifteen-year-old home is often at the end of its service life all at once, across every elevation, which makes for a larger job than a well-maintained older home needing one exposed side addressed.",
+       "html": "Newer does not automatically mean cheaper. Builder-grade paint on a fifteen-year-old home is often at the end of its service life all at once, across every elevation, which makes for a larger job than a well-maintained older home needing one exposed side addressed."
+      }
+     ]
+    },
+    {
+     "q": "Do you work in Redmond Ridge, Education Hill, and Grass Lawn?",
+     "a": [
+      {
+       "text": "Yes — all Redmond neighborhoods, plus Union Hill, Overlake, and Sammamish Valley.",
+       "html": "Yes — all Redmond neighborhoods, plus Union Hill, Overlake, and Sammamish Valley."
+      },
+      {
+       "text": "Redmond Ridge and several newer Redmond communities have architectural review requirements and approved color palettes. We work within them regularly and can prepare the color documentation your committee needs.",
+       "html": "Redmond Ridge and several newer Redmond communities have architectural review requirements and approved color palettes. We work within them regularly and can prepare the color documentation your committee needs."
+      }
+     ]
+    },
+    {
+     "q": "Our home is builder-grade construction from the 2000s. Is repainting different?",
+     "a": [
+      {
+       "text": "Somewhat, and it is worth knowing before you get bids. Production builders typically apply a single coat of contractor-grade paint over primer. It looks fine for a decade, then fails broadly rather than gradually — chalking and fading across whole elevations at once.",
+       "html": "Somewhat, and it is worth knowing before you get bids. Production builders typically apply a single coat of contractor-grade paint over primer. It looks fine for a decade, then fails broadly rather than gradually — chalking and fading across whole elevations at once."
+      },
+      {
+       "text": "The good news is that the substrate underneath is usually sound. Fiber cement and engineered siding hold up well, so most of these projects are wash, prime bare areas, caulk, and apply two coats of quality coating. The result typically outlasts the original by a wide margin, because the original was never specified to last.",
+       "html": "The good news is that the substrate underneath is usually sound. Fiber cement and engineered siding hold up well, so most of these projects are wash, prime bare areas, caulk, and apply two coats of quality coating. The result typically outlasts the original by a wide margin, because the original was never specified to last."
+      }
+     ]
+    },
+    {
+     "q": "When should exterior painting happen in Redmond?",
+     "a": [
+      {
+       "text": "May through October, with June through August the most reliable stretch. Redmond runs slightly drier than Issaquah but the same constraints apply: surface temperature above roughly 38°F through cure, and no overnight dew on a fresh coat.",
+       "html": "May through October, with June through August the most reliable stretch. Redmond runs slightly drier than Issaquah but the same constraints apply: surface temperature above roughly 38°F through cure, and no overnight dew on a fresh coat."
+      },
+      {
+       "text": "Interiors are year-round. Winter is a good time to do interior work — scheduling is open, and it keeps the summer calendar free for the exterior work that can only happen then.",
+       "html": "Interiors are year-round. Winter is a good time to do interior work — scheduling is open, and it keeps the summer calendar free for the exterior work that can only happen then."
+      }
+     ]
+    },
+    {
+     "q": "Do you offer color consultation?",
+     "a": [
+      {
+       "text": "We do not, but we can advise you as to what most clients are choosing and what is trending. We can also meet you at our Factoria location next to Sherwin-Williams to look at physical samples before you decide.",
+       "html": "We do not, but we can advise you as to what most clients are choosing and what is trending. We can also meet you at our Factoria location next to Sherwin-Williams to look at physical samples before you decide."
+      },
+      {
+       "text": "For Redmond exteriors we usually recommend sampling on the actual house and looking at it across two or three days. Pacific Northwest overcast light shifts colors noticeably from what a chip predicts, and an hour spent on samples reliably prevents a much more expensive change of mind later.",
+       "html": "For Redmond exteriors we usually recommend sampling on the actual house and looking at it across two or three days. Pacific Northwest overcast light shifts colors noticeably from what a chip predicts, and an hour spent on samples reliably prevents a much more expensive change of mind later."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Why Choose EA Pro Painters?"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters has been serving the Redmond community for years, and our commitment to excellence is evident in every project we complete. Locals trust us because of our experienced team of painters, our work warranty, and more.",
+   "html": "EA Pro Painters has been serving the Redmond community for years, and our commitment to excellence is evident in every project we complete. Locals trust us because of our experienced team of painters, our work warranty, and more."
+  },
+  {
+   "t": "h3",
+   "text": "Local Painters"
+  },
+  {
+   "t": "p",
+   "text": "As a local business, we understand Redmond’s unique climate and style. Our painters use this knowledge to paint properties with the right materials, colors, and techniques for long-lasting results.",
+   "html": "As a local business, we understand Redmond’s unique climate and style. Our painters use this knowledge to paint properties with the right materials, colors, and techniques for long-lasting results."
+  },
+  {
+   "t": "h3",
+   "text": "Work Warranty"
+  },
+  {
+   "t": "p",
+   "text": "Our painting services are the best in Redmond, and we stand behind our work with a warranty for your peace of mind. We do everything we can for homeowners and businesses, and if there are any issues, we fix them promptly at no extra cost.",
+   "html": "Our painting services are the best in Redmond, and we stand behind our work with a warranty for your peace of mind. We do everything we can for homeowners and businesses, and if there are any issues, we fix them promptly at no extra cost."
+  },
+  {
+   "t": "h3",
+   "text": "Experienced Employees"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters carefully selected Redmond painters for their skills, experience, and dedication to quality work. We undergo thorough training and have years of experience in the painting industry, making us experts at what we do.",
+   "html": "EA Pro Painters carefully selected Redmond painters for their skills, experience, and dedication to quality work. We undergo thorough training and have years of experience in the painting industry, making us experts at what we do."
+  },
+  {
+   "t": "h3",
+   "text": "Solid Reputation"
+  },
+  {
+   "t": "p",
+   "text": "ThreeBestRated recently honored EA Pro Painters as one of the Top 3 Painters in Bellevue, WA. This recognition comes after their business analyst team conducted an in-depth review of local service providers, remarking on our unwavering commitment to excellence within our sector.",
+   "html": "ThreeBestRated recently honored EA Pro Painters as one of the Top 3 Painters in Bellevue, WA. This recognition comes after their business analyst team conducted an in-depth review of local service providers, remarking on our unwavering commitment to excellence within our sector."
+  },
+  {
+   "t": "h3",
+   "text": "Licensed and Insured"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters is licensed and fully insured for your protection. We understand the importance of safety and follow all necessary precautions while completing projects. With us, you can rest assured that your property is in the hands of professionals.",
+   "html": "EA Pro Painters is licensed and fully insured for your protection. We understand the importance of safety and follow all necessary precautions while completing projects. With us, you can rest assured that your property is in the hands of professionals."
+  },
+  {
+   "t": "h2",
+   "text": "What Our Redmond Clients Say:"
+  },
+  {
+   "t": "testimonials",
+   "items": [
+    {
+     "name": "Ishaan",
+     "text": "I’ve had multiple projects completed by EA Pro. My experience with my first project with them made me feel confident and comfortable hiring for my second project, painting the exterior of my house. I’ve been procrastinating getting my house painted because I’ve heard so many horror stories of cruddy painting companies. Once I found EA Pro those fears vanished…"
+    },
+    {
+     "name": "David",
+     "text": "EA Painting did our exterior cedar trim painting, stained the exterior brick, and painted our whole interior walls, trim, doors, and cabinets… They were very flexible with our schedule and we got along very well with the painters who came out too. Thank you EA for making our home look new and refreshed!"
+    },
+    {
+     "name": "Vlad",
+     "text": "Wow, what an incredible experience with EA pro painters! From the initial consultation to the final walk-through, their professionalism, attention to detail, and expertise were on full display. The quality of their work is truly exceptional — the colors are vibrant, the lines are crisp, and the finish is flawless. My home has never looked better!"
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Reach Out to Our Redmond Painters"
+  },
+  {
+   "t": "p",
+   "text": "Are you looking for the best Redmond painting company? Do you need professional painters for your home? EA Pro Painters ends your search in four steps.",
+   "html": "Are you looking for the best Redmond painting company? Do you need professional painters for your home? EA Pro Painters ends your search in four steps."
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "title": "Get a Free Estimate",
+     "body": [
+      {
+       "text": "Call EA Pro Painters at (206) 250-1194 or contact us online for a free estimate. Our team will schedule an appointment and assess the project’s scope at your convenience.",
+       "html": "Call EA Pro Painters at (206) 250-1194 or contact us online for a free estimate. Our team will schedule an appointment and assess the project’s scope at your convenience."
+      }
+     ]
+    },
+    {
+     "title": "Choose Colors",
+     "body": [
+      {
+       "text": "Our team of expert painters will guide you in selecting the perfect colors and materials for your project. We understand that color choices can impact the overall look of your home or business, so we take the time to discuss options and provide recommendations.",
+       "html": "Our team of expert painters will guide you in selecting the perfect colors and materials for your project. We understand that color choices can impact the overall look of your home or business, so we take the time to discuss options and provide recommendations."
+      }
+     ]
+    },
+    {
+     "title": "Time To Paint",
+     "body": [
+      {
+       "text": "Once we confirm all the details, our team will get to work and finish the project as soon as possible and to the highest standards.",
+       "html": "Once we confirm all the details, our team will get to work and finish the project as soon as possible and to the highest standards."
+      }
+     ]
+    },
+    {
+     "title": "Quality Inspection and Warranty",
+     "body": [
+      {
+       "text": "Before we wrap up, we will conduct a final inspection to guarantee that everything meets our and your standards.",
+       "html": "Before we wrap up, we will conduct a final inspection to guarantee that everything meets our and your standards."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Work With the Leading Redmond Painting Company"
+  },
+  {
+   "t": "p",
+   "text": "Your home and business make Redmond the beautiful place it is. Let EA Pro Painters join you in keeping it that way.",
+   "html": "Your home and business make Redmond the beautiful place it is. Let EA Pro Painters join you in keeping it that way."
+  },
+  {
+   "t": "h2",
+   "text": "More About Redmond"
+  },
+  {
+   "t": "h3",
+   "text": "Redmond: Where Nature, Innovation, and Community Collide"
+  },
+  {
+   "t": "p",
+   "text": "In the heart of the Pacific Northwest, Redmond, Washington is a city alive with technological innovation, breathtaking natural beauty, and a strong sense of community. With a population of over 77,000 residents, Redmond is often referred to as the Bicycle Capital of the Northwest.",
+   "html": "In the heart of the Pacific Northwest, Redmond, Washington is a city alive with technological innovation, breathtaking natural beauty, and a strong sense of community. With a population of over 77,000 residents, Redmond is often referred to as the Bicycle Capital of the Northwest."
+  },
+  {
+   "t": "h3",
+   "text": "Rooted in History, Geared Towards the Future"
+  },
+  {
+   "t": "p",
+   "text": "Redmond's history can be traced back to the late 1800s, when it was established as a small logging community. The city's name is derived from James W. Redmond, a prominent early settler and railroad developer. Today, Redmond is undeniably synonymous with technology, being the worldwide headquarters of Microsoft and the birthplace of numerous other tech giants.",
+   "html": "Redmond's history can be traced back to the late 1800s, when it was established as a small logging community. The city's name is derived from James W. Redmond, a prominent early settler and railroad developer. Today, Redmond is undeniably synonymous with technology, being the worldwide headquarters of Microsoft and the birthplace of numerous other tech giants."
+  },
+  {
+   "t": "h3",
+   "text": "A Haven for Outdoor Enthusiasts"
+  },
+  {
+   "t": "p",
+   "text": "Despite its reputation as a tech hub, Redmond boasts a wealth of opportunities for outdoor recreation. The city is surrounded by lush greenery, with numerous parks, trails, and outdoor activities to explore.",
+   "html": "Despite its reputation as a tech hub, Redmond boasts a wealth of opportunities for outdoor recreation. The city is surrounded by lush greenery, with numerous parks, trails, and outdoor activities to explore."
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Marymoor Park: This expansive park, encompassing over 680 acres, features a network of trails, a velodrome, off-leash dog areas, a skate park, and a concert venue, catering to diverse recreational interests.",
+     "html": "Marymoor Park: This expansive park, encompassing over 680 acres, features a network of trails, a velodrome, off-leash dog areas, a skate park, and a concert venue, catering to diverse recreational interests."
+    },
+    {
+     "text": "Redmond Watershed Park: This 160-acre park offers hiking and biking trails, a playground, and a dog park, providing a scenic escape from the urban environment.",
+     "html": "Redmond Watershed Park: This 160-acre park offers hiking and biking trails, a playground, and a dog park, providing a scenic escape from the urban environment."
+    },
+    {
+     "text": "Sammamish River Trail: This scenic 10-mile trail, winding its way through Redmond, offers opportunities for walking, jogging, biking, and enjoying the beauty of the Sammamish River.",
+     "html": "Sammamish River Trail: This scenic 10-mile trail, winding its way through Redmond, offers opportunities for walking, jogging, biking, and enjoying the beauty of the Sammamish River."
+    }
+   ]
+  },
+  {
+   "t": "h3",
+   "text": "A Flourishing Arts and Culture Scene"
+  },
+  {
+   "t": "p",
+   "text": "Beyond its technological prowess and natural beauty, Redmond offers a vibrant arts and culture scene. The Redmond Arts Commission hosts a variety of events and programs throughout the year, fostering artistic expression and cultural engagement. The city also features numerous art galleries, performance venues, and cultural organizations, catering to a diverse range of interests.",
+   "html": "Beyond its technological prowess and natural beauty, Redmond offers a vibrant arts and culture scene. The Redmond Arts Commission hosts a variety of events and programs throughout the year, fostering artistic expression and cultural engagement. The city also features numerous art galleries, performance venues, and cultural organizations, catering to a diverse range of interests."
+  },
+  {
+   "t": "h3",
+   "text": "Experience the Vibrancy of Redmond"
+  },
+  {
+   "t": "p",
+   "text": "The city of Redmond blends the excitement of technological innovation with the serenity of nature and a strong sense of community for visitors and residents alike.",
+   "html": "The city of Redmond blends the excitement of technological innovation with the serenity of nature and a strong sense of community for visitors and residents alike."
+  },
+  {
+   "t": "h2",
+   "text": "Considering a home improvement project?"
+  },
+  {
+   "t": "p",
+   "text": "If you're looking to update your interior or exterior living space in Redmond, consider hiring EA Pro Painters, a company dedicated to providing exceptional interior and exterior painting services for both residential and commercial properties. Our painters are committed to delivering high-quality workmanship and meticulous attention to detail, ensuring your vision becomes a reality. Contact EA Pro Painters for an estimate today and discuss your painting needs.",
+   "html": "If you're looking to update your interior or exterior living space in Redmond, consider hiring EA Pro Painters, a company dedicated to providing exceptional interior and exterior painting services for both residential and commercial properties. Our painters are committed to delivering high-quality workmanship and meticulous attention to detail, ensuring your vision becomes a reality. <a href=\"/contact\">Contact EA Pro Painters</a> for an <a href=\"/estimate\">estimate today</a> and discuss your painting needs. "
+  }
+ ],
+ "lastmod": "2026-09-08",
+ "fixes": [
+  "Internal link /commercial → /commercial-painting (skips a redirect)"
+ ]
+}

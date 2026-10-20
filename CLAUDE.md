@@ -1,4 +1,4 @@
 @KICKSTART.md
 
 Mode: SPEC
-Phase: 2 ★ (design direction: build A and B, deploy, Hunter picks)
+Phase: 3 (build all pages in Direction A, "Eastside Craft", picked by Hunter)

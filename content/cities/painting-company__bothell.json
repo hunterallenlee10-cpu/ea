@@ -1,0 +1,584 @@
+{
+ "path": "/painting-company/bothell",
+ "kind": "city",
+ "slug": "painting-company__bothell",
+ "title": "Bothell WA Painters – Residential & Commercial Painting Services",
+ "description": "Reliable Bothell, WA painters for homes and businesses. Enjoy detailed prep, flawless finishes, and free estimates from trusted professionals.",
+ "og": {
+  "title": "Bothell WA Painters – Residential & Commercial Painting Services",
+  "description": "Reliable Bothell, WA painters for homes and businesses. Enjoy detailed prep, flawless finishes, and free estimates from trusted professionals.",
+  "type": "website",
+  "image": "/images/navy-home-exterior-red-front-door.jpg",
+  "imageIsReplacement": false
+ },
+ "twitter": {
+  "card": "summary",
+  "title": "Bothell WA Painters – Residential & Commercial Painting Services",
+  "description": "Reliable Bothell, WA painters for homes and businesses. Enjoy detailed prep, flawless finishes, and free estimates from trusted professionals."
+ },
+ "h1": "Bothell Painters – House & Commercial Painting Services",
+ "nodes": [
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "photo",
+   "id": "blue-farmhouse-exterior-white-porch"
+  },
+  {
+   "t": "p",
+   "text": "Our professional house painting services in Bothell, WA are designed to meet all your needs, from detailed specifications to a commitment to quality and customer satisfaction.",
+   "html": "Our professional house painting services in Bothell, WA are designed to meet all your needs, from detailed specifications to a commitment to quality and customer satisfaction."
+  },
+  {
+   "t": "h2",
+   "text": "EA Pro Painters: The Leading Bothell Painting Company"
+  },
+  {
+   "t": "p",
+   "text": "When you need painters for your home or business, EA Pro Painters is the name to remember.",
+   "html": "When you need painters for your home or business, EA Pro Painters is the name to remember."
+  },
+  {
+   "t": "p",
+   "text": "In the vibrant community of Bothell, EA Pro Painters has established itself as a trusted business, offering top-quality house painting services to beautify and protect your investments.",
+   "html": "In the vibrant community of Bothell, EA Pro Painters has established itself as a trusted business, offering top-quality house painting services to beautify and protect your investments."
+  },
+  {
+   "t": "p",
+   "text": "Whether we’re transforming residential homes or enhancing commercial spaces, EA Pro Painters’ commitment to excellence and attention to detail has made us the go-to painting contractor in Bothell.",
+   "html": "Whether we’re transforming residential homes or enhancing <a href=\"/commercial-painting\">commercial</a> spaces, EA Pro Painters’ commitment to excellence and attention to detail has made us the go-to painting contractor in Bothell. "
+  },
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "The Advantages of Professional Painters"
+  },
+  {
+   "t": "p",
+   "text": "Painting protects the structural integrity of your property by providing a barrier against harsh weather conditions and other elements. As such, every painting project requires a professional touch to ensure it is done correctly. At EA Pro Painters, our team provides the experience and quality painting services you need.",
+   "html": "Painting protects the structural integrity of your property by providing a barrier against harsh weather conditions and other elements. As such, every painting project requires a professional touch to ensure it is done correctly. At EA Pro Painters, our team provides the experience and quality painting services you need."
+  },
+  {
+   "t": "p",
+   "text": "Our services include:",
+   "html": "Our services include:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Exterior House Painting Services",
+     "html": "<a href=\"/exterior-painting\">Exterior House Painting Services</a>"
+    },
+    {
+     "text": "Interior House Painting Services",
+     "html": "<a href=\"/interior-painting\">Interior House Painting Services</a>"
+    },
+    {
+     "text": "Deck & Fence Painting Services",
+     "html": "<a href=\"/decks-and-fences-painting\">Deck &amp; Fence Painting Services</a>"
+    },
+    {
+     "text": "Drywall Painting Services",
+     "html": "<a href=\"/drywall-painting\">Drywall Painting Services</a>"
+    },
+    {
+     "text": "Cabinet Painting Services",
+     "html": "<a href=\"/cabinet-painting\">Cabinet Painting Services</a>"
+    },
+    {
+     "text": "Millwork Painting Services",
+     "html": "<a href=\"/millwork-painting\">Millwork Painting Services</a>"
+    },
+    {
+     "text": "Drywall Painting Services",
+     "html": "<a href=\"/drywall-painting\">Drywall Painting Services</a>"
+    },
+    {
+     "text": "Trim Painting Services",
+     "html": "<a href=\"/\">Trim Painting Services</a>"
+    },
+    {
+     "text": "Shutter Painting Services",
+     "html": "<a href=\"/\">Shutter Painting Services</a>"
+    }
+   ]
+  },
+  {
+   "t": "h3",
+   "text": "Enhanced Property Value"
+  },
+  {
+   "t": "p",
+   "text": "Painting is one of the most cost-effective renovations, offering an instant upgrade that attracts potential buyers or customers.",
+   "html": "Painting is one of the most cost-effective renovations, offering an instant upgrade that attracts potential buyers or customers. "
+  },
+  {
+   "t": "h3",
+   "text": "Superior Quality Finish"
+  },
+  {
+   "t": "p",
+   "text": "Skilled professionals use high-quality paints and materials for a finish that lasts. The expertise means they can achieve a level of perfection that DIY painting efforts simply cannot match.",
+   "html": "Skilled professionals use high-quality paints and materials for a finish that lasts. The expertise means they can achieve a level of perfection that DIY painting efforts simply cannot match. "
+  },
+  {
+   "t": "h3",
+   "text": "Time and Cost Efficiency"
+  },
+  {
+   "t": "p",
+   "text": "Our expert team manages the entire project efficiently, from preparation to cleanup, meaning you do not have to put your life on hold. Plus, our expertise helps avoid mistakes and unnecessary repaints.",
+   "html": "Our expert team manages the entire project efficiently, from preparation to cleanup, meaning you do not have to put your life on hold. Plus, our expertise helps avoid mistakes and unnecessary repaints. "
+  },
+  {
+   "t": "h3",
+   "text": "Stress-Free Experience"
+  },
+  {
+   "t": "p",
+   "text": "Entrusting your painting project to professionals saves you from home improvement stress, knowing that every aspect of the job is handled professionally.",
+   "html": "Entrusting your painting project to professionals saves you from home improvement stress, knowing that every aspect of the job is handled professionally. "
+  },
+  {
+   "t": "h3",
+   "text": "Comprehensive Services"
+  },
+  {
+   "t": "p",
+   "text": "Beyond just applying a coat of paint, our experts provide professional interior and exterior painting services, including surface preparation, wallpaper removal, minor repairs, and detailed finishing touches.",
+   "html": "Beyond just applying a coat of paint, our experts provide professional interior and exterior painting services, including surface preparation, wallpaper removal, minor repairs, and detailed finishing touches."
+  },
+  {
+   "t": "h2",
+   "text": "EA Pro Painters: Bothell Residential and Commercial Painting Company"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters is in the heart of the greater Seattle area, offering unparalleled professional painting services across the city. From the vibrant communities of Bellevue, Redmond, and Issaquah to the charming towns of Woodinville, Sammamish, Duvall, Bothell, Factoria, and Kirkland, we beautify the region with our top-notch residential and commercial painting solutions, including commercial painting projects.",
+   "html": "EA Pro Painters is in the heart of the greater Seattle area, offering unparalleled professional painting services across the city. From the vibrant communities of Bellevue, Redmond, and Issaquah to the charming towns of Woodinville, Sammamish, Duvall, Bothell, Factoria, and Kirkland, we beautify the region with our top-notch residential and commercial painting solutions, including commercial painting projects."
+  },
+  {
+   "t": "h2",
+   "text": "EA Pro Painters: Interior Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "Interior painting is not just about refreshing the walls with a new color; it includes the essence of transforming a house into a home by covering the entire interior. EA Pro Painters provides a full array of interior painting services. Our process includes the following:",
+   "html": "Interior painting is not just about refreshing the walls with a new color; it includes the essence of transforming a house into a home by covering the entire interior. EA Pro Painters provides a full array of interior painting services. Our process includes the following:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Project Consultation: Our expert team will evaluate the space to determine the best course of painting action.",
+     "html": "Project Consultation: Our expert team will evaluate the space to determine the best course of painting action."
+    },
+    {
+     "text": "Surface Preparation: We take extra care in preparing surfaces and protecting floors and furniture.",
+     "html": "Surface Preparation: We take extra care in preparing surfaces and protecting floors and furniture."
+    },
+    {
+     "text": "Painting: Using top-of-the-line paints and equipment, our skilled painters apply multiple coats for a smooth, long-lasting interior paint finish.",
+     "html": "Painting: Using top-of-the-line paints and equipment, our skilled painters apply multiple coats for a smooth, long-lasting interior paint finish."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "text": "Every corner of your home or business will receive the same attention and detail, resulting in a cohesive and polished look.",
+   "html": "Every corner of your home or business will receive the same attention and detail, resulting in a cohesive and polished look. "
+  },
+  {
+   "t": "h2",
+   "text": "EA Pro Painters: Exterior Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "In Bothell, the summers are brief yet pleasant, with a mix of sun and clouds. Conversely, winters bring cold temperatures, frequent rain, and overcast skies. Our team excels in elevating the aesthetic charm of your home or business by safeguarding your property’s exterior against the relentless cycle of seasonal wear. Our exterior house painting solutions guarantee the following:",
+   "html": "In Bothell, the summers are brief yet pleasant, with a mix of sun and clouds. Conversely, winters bring cold temperatures, frequent rain, and overcast skies. Our team excels in elevating the aesthetic charm of your home or business by safeguarding your property’s exterior against the relentless cycle of seasonal wear. Our exterior house painting solutions guarantee the following:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Visual Transformation: A fresh layer of paint can significantly enhance the external appearance of your residence or commercial property.",
+     "html": "Visual Transformation: A fresh layer of paint can significantly enhance the external appearance of your residence or commercial property."
+    },
+    {
+     "text": "Elemental Shield: Our paint serves as a protective barrier, safeguarding your property against moisture, UV rays, pests, and dust.",
+     "html": "Elemental Shield: Our paint serves as a protective barrier, safeguarding your property against moisture, UV rays, pests, and dust."
+    },
+    {
+     "text": "Cost-efficient Upkeep: Our exterior painting service is a financially savvy strategy to avoid the need for repaints and repairs.",
+     "html": "Cost-efficient Upkeep: Our exterior painting service is a financially savvy strategy to avoid the need for repaints and repairs."
+    },
+    {
+     "text": "Enhanced Indoor Air Quality: We use exterior paints with low or no VOCs, contributing to healthier indoor air quality.",
+     "html": "Enhanced Indoor Air Quality: We use exterior paints with low or no VOCs, contributing to healthier indoor air quality."
+    },
+    {
+     "text": "Personalized Style: We give you the freedom to customize the color and finish of your property, making it a standout feature in the neighborhood or aligning with your business’s branding.",
+     "html": "Personalized Style: We give you the freedom to customize the color and finish of your property, making it a standout feature in the neighborhood or aligning with your business’s branding."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "text": "Ultimately, our professional exterior painting services goal is to add value to your property. We protect your investment all year round and deliver exceptional results that withstand the test of time.",
+   "html": "Ultimately, our professional exterior painting services goal is to add value to your property. We protect your investment all year round and deliver exceptional results that withstand the test of time. "
+  },
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "EA Pro Painters Comprehensive Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "As a premier local painting contractor in Bothell, everything needed to execute a quality painting project is available through EA Pro Painters.",
+   "html": "As a premier local painting contractor in Bothell, everything needed to execute a quality painting project is available through EA Pro Painters. "
+  },
+  {
+   "t": "h3",
+   "text": "Old Paint Removal"
+  },
+  {
+   "t": "p",
+   "text": "Removing old paint is a critical step in the painting process, ensuring that the new paint adheres properly and lasts longer. We use a meticulous approach to old exterior paint removal, employing both manual and technological methods. Our team can handle different types of paint, always following a safe and environmentally friendly process.",
+   "html": "Removing old paint is a critical step in the painting process, ensuring that the new paint adheres properly and lasts longer. We use a meticulous approach to old exterior paint removal, employing both manual and technological methods. Our team can handle different types of paint, always following a safe and environmentally friendly process. "
+  },
+  {
+   "t": "h3",
+   "text": "New Establishment Painting"
+  },
+  {
+   "t": "p",
+   "text": "For new constructions or establishments, applying the initial coat of paint establishes the identity and atmosphere of a space. Our team will work with you to achieve your desired look with the right color and finish selection. We give your new home or business a top-quality paint job from start to finish.",
+   "html": "For new constructions or establishments, applying the initial coat of paint establishes the identity and atmosphere of a space. Our team will work with you to achieve your desired look with the right color and finish selection. We give your new home or business a top-quality paint job from start to finish. "
+  },
+  {
+   "t": "h3",
+   "text": "Deck and Fence Painting"
+  },
+  {
+   "t": "p",
+   "text": "Transform your outdoor living space with deck or fence painting. EA Pro Painters can help enhance the appearance of your deck and fence, providing a protective layer that will extend its lifespan. Keep your outdoor space looking brand new with our expert painting and high-quality products.",
+   "html": "Transform your outdoor living space with deck or fence painting. EA Pro Painters can help enhance the appearance of your deck and fence, providing a protective layer that will extend its lifespan. Keep your outdoor space looking brand new with our expert painting and high-quality products. "
+  },
+  {
+   "t": "h3",
+   "text": "Other Exterior Improvement Services"
+  },
+  {
+   "t": "p",
+   "text": "In addition to painting, our team offers a range of exterior improvement services to keep your property looking its best. From cleanups to touch-ups, we have the expertise and tools to maintain your home or business’s exterior.",
+   "html": "In addition to painting, our team offers a range of exterior improvement services to keep your property looking its best. From cleanups to touch-ups, we have the expertise and tools to maintain your home or business’s exterior. "
+  },
+  {
+   "t": "faqs",
+   "items": [
+    {
+     "q": "What is the difference between a painting company and a painting contractor?",
+     "a": [
+      {
+       "text": "In practice the terms are used interchangeably, but there is a real distinction worth understanding. A licensed painting contractor is registered with Washington L&I, bonded, and insured, and is legally able to take responsibility for the work. \"Painting company\" is a business description with no regulatory meaning — anyone can use it.",
+       "html": "In practice the terms are used interchangeably, but there is a real distinction worth understanding. A licensed painting contractor is registered with Washington L&amp;I, bonded, and insured, and is legally able to take responsibility for the work. \"Painting company\" is a business description with no regulatory meaning — anyone can use it."
+      },
+      {
+       "text": "The question to ask is not which label a business uses but whether they can produce a current L&I registration number, an active bond, and a certificate of insurance naming your property. We provide all three with every estimate.",
+       "html": "The question to ask is not which label a business uses but whether they can produce a current L&amp;I registration number, an active bond, and a certificate of insurance naming your property. We provide all three with every estimate."
+      }
+     ]
+    },
+    {
+     "q": "How much does it cost to paint a house in Bothell?",
+     "a": [
+      {
+       "text": "Bothell exteriors generally run $4,000 to $9,000 and interiors $3,000 to $25,000. Much of Bothell — particularly around Canyon Park and North Creek — is newer construction with fiber cement or engineered siding, which prepares faster and prices lower than the cedar common in older Eastside neighborhoods.",
+       "html": "Bothell exteriors generally run $4,000 to $9,000 and interiors $3,000 to $25,000. Much of Bothell — particularly around Canyon Park and North Creek — is newer construction with fiber cement or engineered siding, which prepares faster and prices lower than the cedar common in older Eastside neighborhoods."
+      },
+      {
+       "text": "Homes in the older core near Main Street are a different calculation. Wood siding, more complex trim detail, and decades of accumulated coating layers mean prep drives the price more than square footage does.",
+       "html": "Homes in the older core near Main Street are a different calculation. Wood siding, more complex trim detail, and decades of accumulated coating layers mean prep drives the price more than square footage does."
+      }
+     ]
+    },
+    {
+     "q": "Do you handle commercial painting in Bothell?",
+     "a": [
+      {
+       "text": "Yes. We work with commercial property owners, managers, and HOA boards throughout the Bothell and Canyon Park corridor — office suites, retail spaces, multi-family buildings, and common areas.",
+       "html": "Yes. We work with commercial property owners, managers, and HOA boards throughout the Bothell and Canyon Park corridor — office suites, retail spaces, multi-family buildings, and common areas."
+      },
+      {
+       "text": "Commercial work is scheduled around your operations rather than ours. Most interior commercial projects run evenings and weekends so tenants and customers are not working around drop cloths, and we phase multi-unit exteriors so parking and access stay usable throughout.",
+       "html": "Commercial work is scheduled around your operations rather than ours. Most interior commercial projects run evenings and weekends so tenants and customers are not working around drop cloths, and we phase multi-unit exteriors so parking and access stay usable throughout."
+      }
+     ]
+    },
+    {
+     "q": "How soon can you start a project in Bothell?",
+     "a": [
+      {
+       "text": "Interior work can usually begin within one to two weeks year-round. Exterior scheduling depends on the season — May through October books heavily, and by June we are commonly scheduling one to two weeks out. Depending on the situation we may be able to start work in one to two business days if it needs to be done right away.",
+       "html": "Interior work can usually begin within one to two weeks year-round. Exterior scheduling depends on the season — May through October books heavily, and by June we are commonly scheduling one to two weeks out. Depending on the situation we may be able to start work in one to two business days if it needs to be done right away."
+      },
+      {
+       "text": "If you are planning exterior work for next summer, the useful move is to get the estimate done in late winter. Estimates are free and do not expire in a way that pressures you, and it puts you at the front of the calendar rather than the back. If you get an estimate before Spring, you are able to get better pricing.",
+       "html": "If you are planning exterior work for next summer, the useful move is to get the estimate done in late winter. Estimates are free and do not expire in a way that pressures you, and it puts you at the front of the calendar rather than the back. If you get an estimate before Spring, you are able to get better pricing."
+      }
+     ]
+    },
+    {
+     "q": "Do you offer a warranty?",
+     "a": [
+      {
+       "text": "Yes. Our workmanship warranty covers peeling, blistering, and premature coating failure attributable to preparation or application. It is provided in writing with the contract rather than promised verbally.",
+       "html": "Yes. Our workmanship warranty covers peeling, blistering, and premature coating failure attributable to preparation or application. It is provided in writing with the contract rather than promised verbally."
+      },
+      {
+       "text": "Worth understanding: a workmanship warranty and a manufacturer's product warranty are different things, and a contractor who blurs them is telling you something. Ask any bidder to put the term, what is covered, and what voids it on paper before you sign.",
+       "html": "Worth understanding: a workmanship warranty and a manufacturer's product warranty are different things, and a contractor who blurs them is telling you something. Ask any bidder to put the term, what is covered, and what voids it on paper before you sign."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Why Choose EA Pro Painters?"
+  },
+  {
+   "t": "p",
+   "text": "Any painting business company can provide various services, but only EA Pro Painters delivers exceptional results with a customer-centric approach. Our Bothell painters give homeowners and businesses all the reasons to trust us with their painting needs.",
+   "html": "Any painting business company can provide various services, but only EA Pro Painters delivers exceptional results with a customer-centric approach. Our Bothell painters give homeowners and businesses all the reasons to trust us with their painting needs. "
+  },
+  {
+   "t": "h3",
+   "text": "Local Painters"
+  },
+  {
+   "t": "p",
+   "text": "Our local painters deeply understand the region’s climate and environmental conditions, allowing us to select the most durable and appropriate materials for your project. We also give more flexible scheduling options and faster response times than out-of-town painting companies.",
+   "html": "Our local painters deeply understand the region’s climate and environmental conditions, allowing us to select the most durable and appropriate materials for your project. We also give more flexible scheduling options and faster response times than out-of-town painting companies."
+  },
+  {
+   "t": "h3",
+   "text": "Work Warranty"
+  },
+  {
+   "t": "p",
+   "text": "At EA Pro Painters, we stand behind the quality of our work with a comprehensive work warranty. Our clients enjoy peace of mind knowing that we back our services with a warranty that covers issues related to the quality of our work.",
+   "html": "At EA Pro Painters, we stand behind the quality of our work with a comprehensive work warranty. Our clients enjoy peace of mind knowing that we back our services with a warranty that covers issues related to the quality of our work. "
+  },
+  {
+   "t": "h3",
+   "text": "Experienced Employees"
+  },
+  {
+   "t": "p",
+   "text": "Each member of the EA Pro Painters team is handpicked for their expertise, attention to detail, and commitment to delivering excellence in every project. Our painters have extensive experience in various painting techniques and styles, and we continually invest in training and development.",
+   "html": "Each member of the EA Pro Painters team is handpicked for their expertise, attention to detail, and commitment to delivering excellence in every project. Our painters have extensive experience in various painting techniques and styles, and we continually invest in training and development. "
+  },
+  {
+   "t": "h3",
+   "text": "Solid Reputation"
+  },
+  {
+   "t": "p",
+   "text": "ThreeBestRated has recently honored EA Pro Painters as one of the Top 3 Painters in Bellevue, WA. This recognition is a testament to our commitment to high-quality painting services and exceptional customer service.",
+   "html": "ThreeBestRated has recently honored EA Pro Painters as one of the Top 3 Painters in Bellevue, WA. This recognition is a testament to our commitment to high-quality painting services and exceptional customer service. "
+  },
+  {
+   "t": "h3",
+   "text": "Licensed and Insured"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters is a fully licensed and insured Bothell painting company. We have all the necessary permits and certifications to operate legally and safely in the area, and we carry liability insurance to protect you in case of any unforeseen events.",
+   "html": "EA Pro Painters is a fully licensed and insured Bothell painting company. We have all the necessary permits and certifications to operate legally and safely in the area, and we carry liability insurance to protect you in case of any unforeseen events. "
+  },
+  {
+   "t": "h2",
+   "text": "Work With the Best Bothell Painters"
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters makes painting services easy, hassle-free, and accessible.",
+   "html": "EA Pro Painters makes painting services easy, hassle-free, and accessible."
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "title": "Request a Free Estimate",
+     "body": [
+      {
+       "text": "Contact us online or call us at (206) 250-1194 for a free painting project estimate.",
+       "html": "<a href=\"/contact\">Contact us</a> online or call us at (206) 250-1194 for a <a href=\"/estimate\">free painting project estimate</a>."
+      }
+     ]
+    },
+    {
+     "title": "Choose Your Colors",
+     "body": [
+      {
+       "text": "Select your desired colors from our wide range of paint options. Our color consultants can also guide you in this process.",
+       "html": "Select your desired colors from our wide range of paint options. Our color consultants can also guide you in this process."
+      }
+     ]
+    },
+    {
+     "title": "Start Project",
+     "body": [
+      {
+       "text": "We will schedule the most suitable time to start your project and keep you updated throughout the process.",
+       "html": "We will schedule the most suitable time to start your project and keep you updated throughout the process."
+      }
+     ]
+    },
+    {
+     "title": "Inspect Quality and Warranty",
+     "body": [
+      {
+       "text": "After completion, our team will conduct a final inspection to ensure quality and satisfaction. We also offer a warranty for our work.",
+       "html": "After completion, our team will conduct a final inspection to ensure quality and satisfaction. We also offer a warranty for our work. "
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Contact EA Pro Painters, Your Bothell Painting Company"
+  },
+  {
+   "t": "p",
+   "text": "Your Bothell painters are ready to help you transform your home or business. Trust only EA Pro Painters for professional and commercial painting services.",
+   "html": "Your Bothell painters are ready to help you transform your home or business. Trust only EA Pro Painters for professional and commercial painting services."
+  },
+  {
+   "t": "h2",
+   "text": "A Bit About Bothell"
+  },
+  {
+   "t": "h3",
+   "text": "Bothell: A Blend of Charm, Innovation, and Natural Beauty"
+  },
+  {
+   "t": "p",
+   "text": "Bothell is a charming city offering a unique blend of history, modern innovation, and scenic beauty. With a population of over 48,000 residents, Bothell is a welcoming community known for its friendly atmosphere, thriving businesses, and family-oriented environment.",
+   "html": "Bothell is a charming city offering a unique blend of history, modern innovation, and scenic beauty. With a population of over 48,000 residents, Bothell is a welcoming community known for its friendly atmosphere, thriving businesses, and family-oriented environment."
+  },
+  {
+   "t": "h3",
+   "text": "Rooted in History, Embracing the Future"
+  },
+  {
+   "t": "p",
+   "text": "Bothell's history stretches back to the late 19th century, when it was established as a lumber town. It is said the city was founded in 1870 by Henry C. Bothell, a Norwegian immigrant. However, the city's name is derived from \"Boethal,\" a misspelling of \"Bethel,\" which was the name chosen by early settlers who hailed from Bethel, Vermont. Over the years, Bothell has transformed from a logging center into a hub for technology and manufacturing, while still preserving its historical charm.",
+   "html": "Bothell's history stretches back to the late 19th century, when it was established as a lumber town. It is said the city was founded in 1870 by Henry C. Bothell, a Norwegian immigrant. However, the city's name is derived from \"Boethal,\" a misspelling of \"Bethel,\" which was the name chosen by early settlers who hailed from Bethel, Vermont. Over the years, Bothell has transformed from a logging center into a hub for technology and manufacturing, while still preserving its historical charm."
+  },
+  {
+   "t": "h3",
+   "text": "A Hub for Technology and Innovation"
+  },
+  {
+   "t": "p",
+   "text": "Bothell has emerged as a major center for technology and innovation. The city is home to numerous high-tech companies, including Boeing, Roche, and FTEK, fostering a dynamic environment that attracts skilled professionals from various industries. Additionally, Bothell actively supports startups and entrepreneurs, making it a hub for creativity and groundbreaking ideas.",
+   "html": "Bothell has emerged as a major center for technology and innovation. The city is home to numerous high-tech companies, including Boeing, Roche, and FTEK, fostering a dynamic environment that attracts skilled professionals from various industries. Additionally, Bothell actively supports startups and entrepreneurs, making it a hub for creativity and groundbreaking ideas."
+  },
+  {
+   "t": "h3",
+   "text": "A Haven for Outdoor Enthusiasts"
+  },
+  {
+   "t": "p",
+   "text": "Despite its urban core, Bothell offers ample opportunities to connect with nature. The city is surrounded by lush greenery and scenic trails, providing residents with an escape from the hustle and bustle of everyday life.",
+   "html": "Despite its urban core, Bothell offers ample opportunities to connect with nature. The city is surrounded by lush greenery and scenic trails, providing residents with an escape from the hustle and bustle of everyday life."
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Sammamish River Trail: This scenic trail, winding its way through Bothell, offers opportunities for walking, jogging, biking, and enjoying the beauty of the Sammamish River.",
+     "html": "Sammamish River Trail: This scenic trail, winding its way through Bothell, offers opportunities for walking, jogging, biking, and enjoying the beauty of the Sammamish River."
+    },
+    {
+     "text": "Bothell Marsh Park: This 180-acre park features a boardwalk, nature trails, and a variety of birdwatching opportunities.",
+     "html": "Bothell Marsh Park: This 180-acre park features a boardwalk, nature trails, and a variety of birdwatching opportunities."
+    },
+    {
+     "text": "North Creek Park: This park encompasses over 600 acres of forests, wetlands, and meadows, providing a haven for hiking, picnicking, and exploring nature.",
+     "html": "North Creek Park: This park encompasses over 600 acres of forests, wetlands, and meadows, providing a haven for hiking, picnicking, and exploring nature."
+    }
+   ]
+  },
+  {
+   "t": "h3",
+   "text": "Conveniently Located for Exploration"
+  },
+  {
+   "t": "p",
+   "text": "Bothell's strategic location, just 15 miles northeast of Seattle, provides easy access to the greater Puget Sound region. Residents enjoy convenient access to Seattle's major attractions and cultural offerings, while still maintaining the charm and character of a close-knit community.",
+   "html": "Bothell's strategic location, just 15 miles northeast of Seattle, provides easy access to the greater Puget Sound region. Residents enjoy convenient access to Seattle's major attractions and cultural offerings, while still maintaining the charm and character of a close-knit community."
+  },
+  {
+   "t": "h3",
+   "text": "Experience the Allure of Bothell"
+  },
+  {
+   "t": "p",
+   "text": "Bothell offers an exceptional quality of life, blending the convenience of With a vibrant community, outdoor adventures, and a thriving job market, Bothell has something to offer everyone.",
+   "html": "Bothell offers an exceptional quality of life, blending the convenience of With a vibrant community, outdoor adventures, and a thriving job market, Bothell has something to offer everyone."
+  },
+  {
+   "t": "h2",
+   "text": "What Our Bothell Clients Say:"
+  },
+  {
+   "t": "testimonials",
+   "items": [
+    {
+     "name": "Ishaan",
+     "text": "I’ve had multiple projects completed by EA Pro. My experience with my first project with them made me feel confident and comfortable hiring for my second project, painting the exterior of my house. I’ve been procrastinating getting my house painted because I’ve heard so many horror stories of cruddy painting companies. Once I found EA Pro those fears vanished…"
+    },
+    {
+     "name": "David",
+     "text": "EA Painting did our exterior cedar trim painting, stained the exterior brick, and painted our whole interior walls, trim, doors, and cabinets… They were very flexible with our schedule and we got along very well with the painters who came out too. Thank you EA for making our home look new and refreshed!"
+    },
+    {
+     "name": "Vlad",
+     "text": "Wow, what an incredible experience with EA pro painters! From the initial consultation to the final walk-through, their professionalism, attention to detail, and expertise were on full display. The quality of their work is truly exceptional — the colors are vibrant, the lines are crisp, and the finish is flawless. My home has never looked better!"
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "About Bothell"
+  },
+  {
+   "t": "p",
+   "text": "Bothell, Washington, located in King and Snohomish counties, is a growing suburban city with a population projected to be around 52,600 in 2025. It is known for its diverse and well-educated community and the city has a median age of about 38 years, reflecting a mix of young professionals, families, and established residents.",
+   "html": "Bothell, Washington, located in King and Snohomish counties, is a growing suburban city with a population projected to be around 52,600 in 2025. It is known for its diverse and well-educated community and the city has a median age of about 38 years, reflecting a mix of young professionals, families, and established residents."
+  },
+  {
+   "t": "p",
+   "text": "Bothell offers a blend of residential neighborhoods, commercial centers, and outdoor amenities, making it popular for families and professionals who seek a balance of suburban lifestyle and accessibility to the greater Seattle area. Bothell continues to grow steadily, with a population increase of over 7% since 2020, supported by ongoing development and economic opportunities.",
+   "html": "Bothell offers a blend of residential neighborhoods, commercial centers, and outdoor amenities, making it popular for families and professionals who seek a balance of suburban lifestyle and accessibility to the greater Seattle area. Bothell continues to grow steadily, with a population increase of over 7% since 2020, supported by ongoing development and economic opportunities."
+  }
+ ],
+ "lastmod": "2026-09-08",
+ "fixes": []
+}

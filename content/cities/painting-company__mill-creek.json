@@ -1,0 +1,504 @@
+{
+ "path": "/painting-company/mill-creek",
+ "kind": "city",
+ "slug": "painting-company__mill-creek",
+ "title": "Mill Creek Painting Services – EA Pro Painters",
+ "description": "Preferred Mill Creek painters offering elegant finishes for homes and offices. Depend on attentive service, top quality, and a reputation for excellence.",
+ "og": {
+  "title": "Mill Creek Painting Services – EA Pro Painters",
+  "description": "Preferred Mill Creek painters offering elegant finishes for homes and offices. Depend on attentive service, top quality, and a reputation for excellence.",
+  "type": "website",
+  "image": "/images/navy-home-exterior-red-front-door.jpg",
+  "imageIsReplacement": false
+ },
+ "twitter": {
+  "card": "summary",
+  "title": "Mill Creek Painting Services – EA Pro Painters",
+  "description": "Preferred Mill Creek painters offering elegant finishes for homes and offices. Depend on attentive service, top quality, and a reputation for excellence."
+ },
+ "h1": "Mill Creek Painting Services",
+ "nodes": [
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "photo",
+   "id": "modern-home-exterior-with-ea-pro-yard-sign"
+  },
+  {
+   "t": "h2",
+   "text": "Commercial and Residential Mill Creek Painting Company"
+  },
+  {
+   "t": "p",
+   "text": "Like any city in Washington, Mill Creek has a unique charm found only in places in the Pacific Northwest. Unfortunately, properties in the city are vulnerable to surface wear and tear brought about by the state’s weather conditions. For you, wear and tear mean finding the right Mill Creek painting company to restore and preserve your home’s or business’s aesthetic appeal.",
+   "html": "<strong>Like any city in Washington, Mill Creek has a unique charm found only in places in the Pacific Northwest. Unfortunately, properties in the city are vulnerable to surface wear and tear brought about by the state’s weather conditions. For you, wear and tear mean finding the right Mill Creek painting company to restore and preserve your home’s or business’s aesthetic appeal. </strong>"
+  },
+  {
+   "t": "p",
+   "text": "If you’re looking for Mill Creek exterior/interior painting services, you’re in the right place. We’ve spent years helping homeowners and businesses in Mill Creek refresh their spaces with precision and care. Whether you’re planning a complete interior refresh or need durable exterior coatings that stand up to the PNW weather, we’re here to help.",
+   "html": "If you’re looking for Mill Creek exterior/interior painting services, you’re in the right place. We’ve spent years helping homeowners and businesses in Mill Creek refresh their spaces with precision and care. Whether you’re planning a complete interior refresh or need durable exterior coatings that stand up to the PNW weather, we’re here to help. "
+  },
+  {
+   "t": "p",
+   "text": "At EA Pro Painters, there’s a painting service for any of your surface problems. Contact us today for a free quote and let our team restore your surfaces to their pristine glory.",
+   "html": "At EA Pro Painters, there’s a painting service for any of your surface problems. Contact us today for <a href=\"/estimate\">a free quote</a> and let our team restore your surfaces to their pristine glory. "
+  },
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "Our Comprehensive Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "At EA Pro Painters, our skilled and experienced contractors are equipped with the tools and knowledge to undertake nearly all painting projects in Mill Creek. Our professional residential and commercial painting services cover an extensive range of surfaces and spaces, including exterior and interior walls, ceilings, floors, and more.",
+   "html": "At EA Pro Painters, our skilled and experienced contractors are equipped with the tools and knowledge to undertake nearly all painting projects in Mill Creek. Our professional residential and commercial painting services cover an extensive range of surfaces and spaces, including exterior and interior walls, ceilings, floors, and more."
+  },
+  {
+   "t": "p",
+   "text": "Our services include:",
+   "html": "Our services include:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Exterior House Painting Services",
+     "html": "<a href=\"/exterior-painting\">Exterior House Painting Services</a>"
+    },
+    {
+     "text": "Interior House Painting Services",
+     "html": "<a href=\"/interior-painting\">Interior House Painting Services</a>"
+    },
+    {
+     "text": "Deck & Fence Painting Services",
+     "html": "<a href=\"/decks-and-fences-painting\">Deck &amp; Fence Painting Services</a>"
+    },
+    {
+     "text": "Drywall Painting Services",
+     "html": "<a href=\"/drywall-painting\">Drywall Painting Services</a>"
+    },
+    {
+     "text": "Cabinet Painting Services",
+     "html": "<a href=\"/cabinet-painting\">Cabinet Painting Services</a>"
+    },
+    {
+     "text": "Millwork Painting Services",
+     "html": "<a href=\"/millwork-painting\">Millwork Painting Services</a>"
+    },
+    {
+     "text": "Drywall Painting Services",
+     "html": "<a href=\"/drywall-painting\">Drywall Painting Services</a>"
+    },
+    {
+     "text": "Trim Painting Services",
+     "html": "<a href=\"/\">Trim Painting Services</a>"
+    },
+    {
+     "text": "Shutter Painting Services",
+     "html": "<a href=\"/\">Shutter Painting Services</a>"
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Painting Challenges in Mill Creek Homes and Businesses"
+  },
+  {
+   "t": "p",
+   "text": "It doesn’t matter how many years of DIY painting experience you have — painting in Mill Creek is a deceptively challenging task due to the Pacific Northwest’s weather conditions. These conditions not only affect your surfaces but also the outcomes of your painting projects in the city.",
+   "html": "It doesn’t matter how many years of DIY painting experience you have — painting in Mill Creek is a deceptively challenging task due to the Pacific Northwest’s weather conditions. These conditions not only affect your surfaces but also the outcomes of your painting projects in the city."
+  },
+  {
+   "t": "p",
+   "text": "There are several common issues that clients frequently report to us, including the following.",
+   "html": "There are several common issues that clients frequently report to us, including the following. "
+  },
+  {
+   "t": "h2",
+   "text": "Moisture and Moss"
+  },
+  {
+   "t": "p",
+   "text": "There’s constant exposure to water in the city and other parts of the state. As a result, your surfaces won’t dry properly after you’ve applied primer and paint.",
+   "html": "There’s constant exposure to water in the city and other parts of the state. As a result, your surfaces won’t dry properly after you’ve applied primer and paint."
+  },
+  {
+   "t": "p",
+   "text": "And because of moisture, the chance of moss growth is never far off, especially in areas you haven’t treated or are unexposed to the sun.",
+   "html": "And because of moisture, the chance of moss growth is never far off, especially in areas you haven’t treated or are unexposed to the sun. "
+  },
+  {
+   "t": "h2",
+   "text": "Seasonal Weather"
+  },
+  {
+   "t": "p",
+   "text": "Given the region’s weather, timing your painting project is key. Unfortunately, the Pacific Northwest has unpredictable weather conditions that make planning painting challenging — no matter where you are in Washington.",
+   "html": "Given the region’s weather, timing your painting project is key. Unfortunately, the Pacific Northwest has unpredictable weather conditions that make planning painting challenging — no matter where you are in Washington."
+  },
+  {
+   "t": "p",
+   "text": "Hence, your painting project is always just a cold snap, thunderstorm, or “rogue rainstorm” from being either postponed or ruined.",
+   "html": "Hence, your painting project is always just a cold snap, thunderstorm, or “rogue rainstorm” from being either postponed or ruined."
+  },
+  {
+   "t": "h2",
+   "text": "Surface Wear and Material Issues"
+  },
+  {
+   "t": "p",
+   "text": "Have you lived in your home for years? You’re not alone. Like many other homeowners who have lived in the same property for years, you’ll likely notice surface issues such as cracks and dents.",
+   "html": "Have you lived in your home for years? You’re not alone. Like many other homeowners who have lived in the same property for years, you’ll likely notice surface issues such as cracks and dents."
+  },
+  {
+   "t": "p",
+   "text": "These are the results of sustained wear and tear, as well as material issues. Without knowing underlying causes, there’s a chance that you’ll paint over materials and surfaces that are either not right for painting or in need of repair or replacement.",
+   "html": "These are the results of sustained wear and tear, as well as material issues. Without knowing underlying causes, there’s a chance that you’ll paint over materials and surfaces that are either not right for painting or in need of repair or replacement. "
+  },
+  {
+   "t": "h2",
+   "text": "Mill Creek Reviews"
+  },
+  {
+   "t": "testimonials",
+   "items": [
+    {
+     "name": "Paul",
+     "text": "I recently had the pleasure of engaging the services of EA Pro Painters for a high-end painting project, and I couldn't be more impressed with the results. From start to finish, the experience was nothing short of exceptional."
+    },
+    {
+     "name": "Hanna",
+     "text": "We were really glad we went with EA Painters and I would do it again! We hired them to paint the exterior of our home and some add on carpentry work. They had our house painted within 3 weeks of coming to make the quote and the process was smooth. The painters seemed to really have experience and they cleaned up nicely when they were done. Thank you EA!"
+    },
+    {
+     "name": "Ihung",
+     "text": "My community is around 10 years old, many neighbors and HOA board members hired EA Pro Painters to repaint their exterior in the past 3 years. Their houses look great even after 2-3 years of repaint. So I get the contact from a neighbor, they gave me a quote and started the job very quickly. I'm very happy with the result, right now my house looks like a new construction."
+    }
+   ]
+  },
+  {
+   "t": "cta",
+   "label": "Get a Free Estimate",
+   "href": "/estimate"
+  },
+  {
+   "t": "h2",
+   "text": "Mill Creek Painting Problems? We’re Just a Call Away"
+  },
+  {
+   "t": "p",
+   "text": "Yes, you have choices when it comes to hiring a Mill Creek painting company, but not every company you speak to will paint your property with an understanding of the region’s challenges and your needs.",
+   "html": "Yes, you have choices when it comes to hiring a Mill Creek painting company, but not every company you speak to will paint your property with an understanding of the region’s challenges and your needs."
+  },
+  {
+   "t": "p",
+   "text": "At EA Pro Painters, what sets us apart is our approach to every project, which combines a personal touch, a structured process, and a commitment to delivering clean, long-lasting results.",
+   "html": "At EA Pro Painters, what sets us apart is our approach to every project, which combines a personal touch, a structured process, and a commitment to delivering clean, long-lasting results."
+  },
+  {
+   "t": "p",
+   "text": "Trained, insured, and certified, every member of our residential and commercial painting team is dedicated to doing the job right the first time.",
+   "html": "Trained, insured, and certified, every member of our residential and commercial painting team is dedicated to doing the job right the first time."
+  },
+  {
+   "t": "p",
+   "text": "Here’s why we’re the trusted destination for Mill Creek exterior/interior painting.",
+   "html": "Here’s why we’re the trusted destination for Mill Creek exterior/interior painting."
+  },
+  {
+   "t": "h2",
+   "text": "Locally Owned: A Mill Creek Painting Company Near You"
+  },
+  {
+   "t": "p",
+   "text": "There’s greater reassurance and accountability when the painting company you’re hiring is just a short drive from your home or business. We serve Mill Creek homeowners and business owners with high-precision painting services that lead to lasting results — and these services are just a call away if you need them.",
+   "html": "There’s greater reassurance and accountability when the painting company you’re hiring is just a short drive from your home or business. We serve Mill Creek homeowners and business owners with high-precision painting services that lead to lasting results — and these services are just a call away if you need them."
+  },
+  {
+   "t": "h3",
+   "text": "Award-Winning Mill Creek Painting"
+  },
+  {
+   "t": "p",
+   "text": "Numerous companies are offering Mill Creek painting services, but did you know that we’re among the top three highest-ranked painting contractors in the state?",
+   "html": "Numerous companies are offering Mill Creek painting services, but did you know that we’re among the top three highest-ranked painting contractors in the state?"
+  },
+  {
+   "t": "p",
+   "text": "We’ve been named the top painters in the region by Home Advisor twice. Besides this accolade, we’ve also won the endorsement of Home Advisor five years in a row.",
+   "html": "We’ve been named the top painters in the region by Home Advisor twice. Besides this accolade, we’ve also won the endorsement of Home Advisor five years in a row."
+  },
+  {
+   "t": "p",
+   "text": "And if that doesn’t separate us from the competition, we’re also among a select group of painting contractors in the region to receive the Home Advisor 100 Reviews Award. This award tells our clients that we’ve received hundreds of five-star reviews.",
+   "html": "And if that doesn’t separate us from the competition, we’re also among a select group of painting contractors in the region to receive the Home Advisor 100 Reviews Award. This award tells our clients that we’ve received hundreds of five-star reviews."
+  },
+  {
+   "t": "p",
+   "text": "These accomplishments tell you one thing:",
+   "html": "These accomplishments tell you one thing:"
+  },
+  {
+   "t": "p",
+   "text": "When you choose our Mill Creek painting company, you’re getting residential and commercial painting that’s trusted and has gotten results for your neighbors.",
+   "html": "When you choose our Mill Creek painting company, you’re getting residential and commercial painting that’s trusted and has gotten results for your neighbors."
+  },
+  {
+   "t": "h3",
+   "text": "Clean, Warranty-Backed Work — Every Time"
+  },
+  {
+   "t": "p",
+   "text": "We’re so confident in the results we can deliver that we’re including a warranty on every Mill Creek painting project we undertake. We offer a four-year warranty for all our services. This way, you’ll be able to get free touch-ups or re-paints if you’re not happy with a project’s outcome.",
+   "html": "We’re so confident in the results we can deliver that we’re including a warranty on every Mill Creek painting project we undertake. We offer a four-year warranty for all our services. This way, you’ll be able to get free touch-ups or re-paints if you’re not happy with a project’s outcome."
+  },
+  {
+   "t": "p",
+   "text": "There’s nothing better than knowing you’re guaranteed results with each brush stroke. Contact us today to learn more about our four-year warranties.",
+   "html": "There’s nothing better than knowing you’re guaranteed results with each brush stroke. <a href=\"/contact\">Contact us today</a> to learn more about our four-year warranties."
+  },
+  {
+   "t": "p",
+   "text": "Our Mill Creek Painting Services",
+   "html": "Our Mill Creek Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "Whether you’re a homeowner or a business owner in Mill Creek, we offer a full range of painting services designed to revitalize and restore your interior and exterior surfaces.",
+   "html": "Whether you’re a homeowner or a business owner in Mill Creek, we offer a full range of painting services designed to revitalize and restore your interior and exterior surfaces."
+  },
+  {
+   "t": "p",
+   "text": "Get a free quote today on any of our Mill Creek painting services and experience EA Pro excellence with each brush stroke.",
+   "html": "<a href=\"/estimate\">Get a free quote</a> today on any of our Mill Creek painting services and experience EA Pro excellence with each brush stroke."
+  },
+  {
+   "t": "h3",
+   "text": "Interior Painting"
+  },
+  {
+   "t": "p",
+   "text": "Remarkably, a fresh coat of paint can transform the ambiance of your home or workspace. If you’re looking to change up your space’s ambiance, look no further than our interior painting in Mill Creek.",
+   "html": "Remarkably, a fresh coat of paint can transform the ambiance of your home or workspace. If you’re looking to change up your space’s ambiance, look no further than our interior painting in Mill Creek."
+  },
+  {
+   "t": "p",
+   "text": "Interior painting is one of the most effective ways to enhance comfort and style in your home or business. When you contact us, we can help you brighten rooms, refine trim, and bring color into your living space without the stress.",
+   "html": "Interior painting is one of the most effective ways to enhance comfort and style in your home or business. When you contact us, we can help you brighten rooms, refine trim, and bring color into your living space without the stress."
+  },
+  {
+   "t": "p",
+   "text": "When you choose our interior painting, there is a noticeable difference. Furniture is protected, surfaces are smoothed, and corners are cut with precision.",
+   "html": "When you choose our interior painting, there is a noticeable difference. Furniture is protected, surfaces are smoothed, and corners are cut with precision."
+  },
+  {
+   "t": "p",
+   "text": "Our team follows a structured and detail-focused process from prep to final coat.",
+   "html": "Our team follows a structured and detail-focused process from prep to final coat."
+  },
+  {
+   "t": "h3",
+   "text": "Exterior Painting"
+  },
+  {
+   "t": "p",
+   "text": "There is constant pressure from rain, shade, and seasonal changes in Mill Creek. Knowing this, we address peeling, fading, and mildew with our exterior painting service.",
+   "html": "There is constant pressure from rain, shade, and seasonal changes in Mill Creek. Knowing this, we address peeling, fading, and mildew with our exterior painting service."
+  },
+  {
+   "t": "p",
+   "text": "Our team uses proven prep methods and tools to ensure the paint bonds properly. We also stay abreast of any weather changes so that we can carry out and finish projects at the best times.",
+   "html": "Our team uses proven prep methods and tools to ensure the paint bonds properly. We also stay abreast of any weather changes so that we can carry out and finish projects at the best times."
+  },
+  {
+   "t": "p",
+   "text": "By the end of the project, you get exterior surfaces that not only look great but also hold up for the long haul.",
+   "html": "By the end of the project, you get exterior surfaces that not only look great but also hold up for the long haul."
+  },
+  {
+   "t": "h3",
+   "text": "Commercial Painting"
+  },
+  {
+   "t": "p",
+   "text": "Businesses in Mill Creek are busy — and that often means getting painting done regularly. If you’re looking for commercial painting services in this part of Washington, we’re just a call away.",
+   "html": "Businesses in Mill Creek are busy — and that often means getting painting done regularly. If you’re looking for commercial painting services in this part of Washington, we’re just a call away."
+  },
+  {
+   "t": "p",
+   "text": "As experienced commercial painters in Mill Creek, we know how to balance speed with precision. Whether you’re renovating a storefront or upgrading office interiors, our team is ready to deliver.",
+   "html": "As experienced commercial painters in Mill Creek, we know how to balance speed with precision. Whether you’re renovating a storefront or upgrading office interiors, our team is ready to deliver."
+  },
+  {
+   "t": "p",
+   "text": "Count on us to:",
+   "html": "Count on us to:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Plan your painting project at the correct times",
+     "html": "Plan your painting project at the correct times"
+    },
+    {
+     "text": "Communicate openly",
+     "html": "Communicate openly"
+    },
+    {
+     "text": "Meet deadlines",
+     "html": "Meet deadlines"
+    },
+    {
+     "text": "Finish your project with little to no disruption to your daily business operations",
+     "html": "Finish your project with little to no disruption to your daily business operations"
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Other Mill Creek Painting Services"
+  },
+  {
+   "t": "p",
+   "text": "We’re also the trusted Mill Creek painting company for these services.",
+   "html": "We’re also the trusted Mill Creek painting company for these services."
+  },
+  {
+   "t": "h4",
+   "text": "Cabinet Painting"
+  },
+  {
+   "t": "p",
+   "text": "Is your cabinetry looking dated and stale? Our cabinet painting services are sure to breathe new life into your storage staples. Get our team on the job, and your cabinets will receive modern and smooth finishes that result in a cleaner look.",
+   "html": "Is your cabinetry looking dated and stale? Our cabinet painting services are sure to breathe new life into your storage staples. Get our team on the job, and your cabinets will receive modern and smooth finishes that result in a cleaner look."
+  },
+  {
+   "t": "h4",
+   "text": "Millwork Painting"
+  },
+  {
+   "t": "p",
+   "text": "Details matter, especially when it comes to your home’s trim, crown molding, and built-in features. It’s a good thing we offer millwork painting.",
+   "html": "Details matter, especially when it comes to your home’s trim, crown molding, and built-in features. It’s a good thing we offer millwork painting."
+  },
+  {
+   "t": "p",
+   "text": "There’s craftsmanship in the way we handle your home’s finer details. We use the correct brushes, primers, and paints to highlight the character of your home. As a result, the finish is always smooth, balanced, and consistent.",
+   "html": "There’s craftsmanship in the way we handle your home’s finer details. We use the correct brushes, primers, and paints to highlight the character of your home. As a result, the finish is always smooth, balanced, and consistent."
+  },
+  {
+   "t": "h4",
+   "text": "Deck and Fence Painting"
+  },
+  {
+   "t": "p",
+   "text": "Outdoor surfaces are always vulnerable to the Pacific Northwest’s weather conditions. If your deck or fences are taking a beating, look no further than our deck and fence painting services in Mill Creek.",
+   "html": "Outdoor surfaces are always vulnerable to the Pacific Northwest’s weather conditions. If your deck or fences are taking a beating, look no further than our deck and fence painting services in Mill Creek."
+  },
+  {
+   "t": "p",
+   "text": "We provide deck and fence painting services that protect your wood and improve its appearance. Whether it’s a back porch or perimeter fencing, surfaces are restored as we apply long-lasting coatings.",
+   "html": "We provide deck and fence painting services that protect your wood and improve its appearance. Whether it’s a back porch or perimeter fencing, surfaces are restored as we apply long-lasting coatings."
+  },
+  {
+   "t": "h2",
+   "text": "Our Mill Creek Painting Process"
+  },
+  {
+   "t": "p",
+   "text": "There’s no room for guesswork when it comes to any project you entrust us with. We follow a proven four-step process in every service we provide.",
+   "html": "There’s no room for guesswork when it comes to any project you entrust us with. We follow a proven four-step process in every service we provide."
+  },
+  {
+   "t": "steps",
+   "items": [
+    {
+     "title": "On-Site Estimate",
+     "body": [
+      {
+       "text": "After you call us, we will begin by visiting your property to review the space and understand the scope of the job. There is no obligation during this visit. Just expect a clear conversation about what you want done.",
+       "html": "After you call us, we will begin by visiting your property to review the space and understand the scope of the job. There is no obligation during this visit. Just expect a clear conversation about what you want done."
+      },
+      {
+       "text": "Our estimate includes prep, materials, labor, and warranty coverage. After all, an estimate is only helpful if it’s accurate, and ours is detailed.",
+       "html": "Our estimate includes prep, materials, labor, and warranty coverage. After all, an estimate is only helpful if it’s accurate, and ours is detailed."
+      }
+     ]
+    },
+    {
+     "title": "Color Selection and Material Planning",
+     "body": [
+      {
+       "text": "You then choose your desired paint colors and sheen choices after the estimate is approved. Guidance is available if you’d like help narrowing down the right shades or finishes.",
+       "html": "You then choose your desired paint colors and sheen choices after the estimate is approved. Guidance is available if you’d like help narrowing down the right shades or finishes."
+      },
+      {
+       "text": "And don’t worry about availability. We coordinate with nearby Sherwin-Williams stores to make sample selection easy.",
+       "html": "And don’t worry about availability. We coordinate with nearby Sherwin-Williams stores to make sample selection easy."
+      }
+     ]
+    },
+    {
+     "title": "Site Preparation and Painting Begins",
+     "body": [
+      {
+       "text": "We arrive on the scheduled start date and prepare the work area by covering floors, furniture, or landscaping. Care is taken at every stage of preparation. Surfaces are cleaned, sanded, and caulked as needed, and painting begins only after all prep work is completed.",
+       "html": "We arrive on the scheduled start date and prepare the work area by covering floors, furniture, or landscaping. Care is taken at every stage of preparation. Surfaces are cleaned, sanded, and caulked as needed, and painting begins only after all prep work is completed."
+      }
+     ]
+    },
+    {
+     "title": "Final Walkthrough and Warranty Review",
+     "body": [
+      {
+       "text": "After the last coat dries, we walk the job with you to check every surface and confirm the work meets your expectations. Our warranty information is also shared before the final payment being collected.",
+       "html": "After the last coat dries, we walk the job with you to check every surface and confirm the work meets your expectations. Our warranty information is also shared before the final payment being collected."
+      },
+      {
+       "text": "We don’t leave until you’re satisfied with every detail.",
+       "html": "We don’t leave until you’re satisfied with every detail."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Get a Free Quote in Mill Creek Today"
+  },
+  {
+   "t": "p",
+   "text": "Do you have a painting project in mind? Whether it’s breathing life into your interiors or weather-proofing your exteriors with high-bonding paint, we’re just a call away in Mill Creek.",
+   "html": "Do you have a painting project in mind? Whether it’s breathing life into your interiors or weather-proofing your exteriors with high-bonding paint, we’re just a call away in Mill Creek."
+  },
+  {
+   "t": "p",
+   "text": "Contact us at EA Pro Painters for a free quote and let us handle your painting project.",
+   "html": "Contact us at EA Pro Painters for <a href=\"/estimate\">a free quote</a> and let us handle your painting project. "
+  },
+  {
+   "t": "h2",
+   "text": "About Mill Creek"
+  },
+  {
+   "t": "p",
+   "text": "Mill Creek, located in Snohomish County, Washington, is a vibrant suburban city situated about 20 miles north of downtown Seattle and near Bothell and Everett. As of 2025, it is home to approximately 22,600 residents. Though originally developed as a planned golf course community in the late 1970s, Mill Creek has since evolved into a thriving city with a mix of residential neighborhoods, commercial centers, and extensive green spaces.",
+   "html": "Mill Creek, located in Snohomish County, Washington, is a vibrant suburban city situated about 20 miles north of downtown Seattle and near Bothell and Everett. As of 2025, it is home to approximately 22,600 residents. Though originally developed as a planned golf course community in the late 1970s, Mill Creek has since evolved into a thriving city with a mix of residential neighborhoods, commercial centers, and extensive green spaces."
+  },
+  {
+   "t": "p",
+   "text": "Mill Creek is particularly known for its family-friendly atmosphere, well-regarded schools, and network of parks and walking trails, including the popular North Creek Trail and Mill Creek Town Center, which serves as the city’s social and retail hub. With a median age of about 39, Mill Creek combines convenient suburban living with natural beauty, making it an attractive choice for families and professionals seeking proximity to Seattle without sacrificing access to local amenities and outdoor recreation.",
+   "html": "Mill Creek is particularly known for its family-friendly atmosphere, well-regarded schools, and network of parks and walking trails, including the popular North Creek Trail and Mill Creek Town Center, which serves as the city’s social and retail hub. With a median age of about 39, Mill Creek combines convenient suburban living with natural beauty, making it an attractive choice for families and professionals seeking proximity to Seattle without sacrificing access to local amenities and outdoor recreation."
+  }
+ ],
+ "lastmod": "2026-10-16",
+ "fixes": []
+}

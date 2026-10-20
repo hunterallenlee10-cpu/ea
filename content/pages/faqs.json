@@ -1,0 +1,90 @@
+{
+ "path": "/faqs",
+ "kind": "core",
+ "slug": "faqs",
+ "title": "Painting FAQs – Timing, Warranty & Service Areas",
+ "description": "Get answers about EA Pro Painters' 2-year warranty, quick start times, service areas in King County WA, and our proven painting process. Licensed & bonded.",
+ "og": {
+  "title": "Painting FAQs – Timing, Warranty & Service Areas",
+  "description": "Get answers about EA Pro Painters' 2-year warranty, quick start times, service areas in King County WA, and our proven painting process. Licensed & bonded.",
+  "type": "website",
+  "image": "/images/navy-home-exterior-red-front-door.jpg",
+  "imageIsReplacement": false
+ },
+ "twitter": {
+  "card": "summary",
+  "title": "Painting FAQs – Timing, Warranty & Service Areas",
+  "description": "Get answers about EA Pro Painters' 2-year warranty, quick start times, service areas in King County WA, and our proven painting process. Licensed & bonded."
+ },
+ "h1": "Frequently Asked Questions About EA Pro Painters",
+ "nodes": [
+  {
+   "t": "faqs",
+   "items": [
+    {
+     "q": "How Quick Can You Start?",
+     "a": [
+      {
+       "text": "We can schedule you in for an estimate within 1-2 days. Once estimate is approved we can start 1-2 weeks or earlier if requested.",
+       "html": "We can schedule you in for an estimate within 1-2 days. Once estimate is approved we can start 1-2 weeks or earlier if requested."
+      }
+     ]
+    },
+    {
+     "q": "What Is Your Working Process?",
+     "a": [
+      {
+       "text": "Free estimation, we arrive on time, setup, prepare, installation, quality check. We treat your home just like it is our own.",
+       "html": "Free estimation, we arrive on time, setup, prepare, installation, quality check.<br>We treat your home just like it is our own."
+      }
+     ]
+    },
+    {
+     "q": "What areas do you serve?",
+     "a": [
+      {
+       "text": "We serve the greater Eastside of King County, WA and the Eastside of Dallas, TX",
+       "html": "We serve the greater Eastside of King County, WA and the Eastside of Dallas, TX"
+      }
+     ]
+    },
+    {
+     "q": "Do You Guarantee Your Work?",
+     "a": [
+      {
+       "text": "All work is warranty protected 4 years.",
+       "html": "All work is warranty protected 4 years."
+      }
+     ]
+    },
+    {
+     "q": "Is The Company Licensed & Bonded?",
+     "a": [
+      {
+       "text": "Yes, EA Pro Painters is a registered company, licensed and bonded.",
+       "html": "Yes, EA Pro Painters is a registered company, licensed and bonded."
+      }
+     ]
+    },
+    {
+     "q": "How Many Coats Do You Apply?",
+     "a": [
+      {
+       "text": "We apply two coats. The method of application changes depending on your siding material.",
+       "html": "We apply two coats. The method of application changes depending on your siding material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "text": "Still have questions?",
+   "html": "Still have questions?"
+  }
+ ],
+ "lastmod": "2026-10-16",
+ "fixes": [
+  "Business name \"E&A Pro Painters\" → \"EA Pro Painters\""
+ ]
+}

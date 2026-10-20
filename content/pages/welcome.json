@@ -1,0 +1,87 @@
+{
+ "path": "/welcome",
+ "kind": "other",
+ "slug": "welcome",
+ "title": "Welcome to EA Pro Painting",
+ "description": "EA Pro Painters, Professional Painters in Bellevue, Sammamish, Redmond, and more. Welcome to EA Pro Painting",
+ "og": {
+  "title": "Welcome to EA Pro Painting",
+  "description": "EA Pro Painters, Professional Painters in Bellevue, Sammamish, Redmond, and more. Welcome to EA Pro Painting",
+  "type": "website",
+  "image": "/images/navy-home-exterior-red-front-door.jpg",
+  "imageIsReplacement": false
+ },
+ "twitter": {
+  "card": "summary",
+  "title": "Welcome to EA Pro Painting",
+  "description": "EA Pro Painters, Professional Painters in Bellevue, Sammamish, Redmond, and more. Welcome to EA Pro Painting"
+ },
+ "h1": "Welcome To EA Pro Painters",
+ "nodes": [
+  {
+   "t": "photo",
+   "id": "painter-on-ladder-painting-siding"
+  },
+  {
+   "t": "h2",
+   "text": "What to expect while you wait for your estimate:"
+  },
+  {
+   "t": "p",
+   "text": "We’ve helped keep the Eastside colorful and beautiful for many years, serving both residential and commercial customers with consistent delivery of the highest-quality services at competitive prices. We always work with honesty, integrity, and a smile!",
+   "html": "We’ve helped keep the Eastside colorful and beautiful for many years, serving both residential and commercial customers with consistent delivery of the highest-quality services at competitive prices. We always work with honesty, integrity, and a smile!"
+  },
+  {
+   "t": "p",
+   "text": "Here's what to expect next:",
+   "html": "Here's what to expect next:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "We'll confirm our our estimate day & time",
+     "html": "We'll confirm our our estimate day &amp; time"
+    },
+    {
+     "text": "Our Estimator will arrive at your home at the scheduled time",
+     "html": "Our Estimator will arrive at your home at the scheduled time"
+    },
+    {
+     "text": "They will ask you a few questions and survey your home",
+     "html": "They will ask you a few questions and survey your home"
+    },
+    {
+     "text": "They will provide you a thorough estimate of what it will take to paint your home",
+     "html": "They will provide you a thorough estimate of what it will take to paint your home"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "text": "TRANSFORM YOUR SPACE",
+   "html": "Transform Your Space"
+  },
+  {
+   "t": "h2",
+   "text": "Our Painting Process"
+  },
+  {
+   "t": "h3",
+   "text": "Hear more from our Happy Customers on our Social Media:"
+  },
+  {
+   "t": "h3",
+   "text": "Contact Us"
+  },
+  {
+   "t": "p",
+   "text": "Enhance the beauty and value of your homeowner association with EA Pro Painters. Contact us today to request an estimate and discuss your painting needs. Let us help you maintain a vibrant and welcoming community.",
+   "html": "<br>Enhance the beauty and value of your homeowner association with EA Pro Painters. <a href=\"/contact\">Contact us today</a> to request an estimate and discuss your painting needs. Let us help you maintain a vibrant and welcoming community."
+  }
+ ],
+ "lastmod": "2025-04-09",
+ "fixes": [
+  "Business name \"EA Pro Painting\" → \"EA Pro Painters\""
+ ]
+}

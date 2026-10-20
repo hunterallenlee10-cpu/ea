@@ -1,0 +1,23 @@
+{
+ "path": "/portfolio",
+ "kind": "core",
+ "slug": "portfolio",
+ "title": "Painting Portfolio – Residential & Commercial Results",
+ "description": "Browse EA Pro Painters' portfolio of interior, exterior, cabinet, and deck projects across the Bellevue Eastside. See our quality work and results.",
+ "og": {
+  "title": "Painting Portfolio – Residential & Commercial Results",
+  "description": "Browse EA Pro Painters' portfolio of interior, exterior, cabinet, and deck projects across the Bellevue Eastside. See our quality work and results.",
+  "type": "website",
+  "image": "/images/navy-home-exterior-red-front-door.jpg",
+  "imageIsReplacement": false
+ },
+ "twitter": {
+  "card": "summary",
+  "title": "Painting Portfolio – Residential & Commercial Results",
+  "description": "Browse EA Pro Painters' portfolio of interior, exterior, cabinet, and deck projects across the Bellevue Eastside. See our quality work and results."
+ },
+ "h1": "Our Painting Portfolio – Recent Projects & Professional Results",
+ "nodes": [],
+ "lastmod": "2026-08-12",
+ "fixes": []
+}

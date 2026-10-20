@@ -1,14 +1,11 @@
 @import "tailwindcss";
 
 /*
- * Two design directions share one component set. Each direction is a set of CSS variables,
- * scoped to .theme-a ("Eastside Craft", editorial) or .theme-b ("Bold Pro", cinematic).
- * After Hunter picks one in Phase 2, the winner moves to :root and the loser is deleted.
- * One accent per theme, used only for buttons and key words (KICKSTART 5.1).
+ * Direction A, "Eastside Craft" (picked by Hunter in Phase 2): warm paper, serif display,
+ * evergreen dark sections. One accent (EA logo red), used only for buttons and key words.
  */
 
-:root,
-.theme-a {
+:root {
   --c-bg: #f7f4ef;
   --c-surface: #efeae1;
   --c-ink: #1d211e;
@@ -30,29 +27,6 @@
   --display-transform: none;
   --display-leading: 1.02;
   --radius: 4px;
-}
-
-.theme-b {
-  --c-bg: #f4f1ec;
-  --c-surface: #e9e4dc;
-  --c-ink: #141210;
-  --c-muted: #5c5650;
-  --c-line: #d6cfc4;
-  --c-accent: #e42320; /* EA logo red, white text 4.6:1 */
-  --c-accent-hover: #c81d1a;
-  --c-on-accent: #ffffff;
-  --c-dark: #0e0d0c;
-  --c-dark-surface: #171513;
-  --c-dark-ink: #f2eee8;
-  --c-dark-muted: #a8a29a;
-  --c-dark-line: #2a2623;
-  --c-dark-accent: #ef2121;
-  --font-display: var(--font-anton), "Arial Narrow", Impact, sans-serif;
-  --display-weight: 400;
-  --display-tracking: 0.005em;
-  --display-transform: uppercase;
-  --display-leading: 0.95;
-  --radius: 2px;
 }
 
 @theme inline {

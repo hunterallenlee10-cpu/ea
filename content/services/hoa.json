@@ -1,0 +1,180 @@
+{
+ "path": "/hoa",
+ "kind": "service",
+ "slug": "hoa",
+ "title": "Painting for Homeowner Associations in Washington State",
+ "description": "Learn all the ways EA Pro Painting works with Homeowner Associations in Washington State. Professional Painters in Bellevue, King and Snohomish Counties.",
+ "og": {
+  "title": "Painting for Homeowner Associations in Washington State",
+  "description": "Learn all the ways EA Pro Painting works with Homeowner Associations in Washington State. Professional Painters in Bellevue, King and Snohomish Counties.",
+  "type": "website",
+  "image": "/images/navy-home-exterior-red-front-door.jpg",
+  "imageIsReplacement": false
+ },
+ "twitter": {
+  "card": "summary",
+  "title": "Painting for Homeowner Associations in Washington State",
+  "description": "Learn all the ways EA Pro Painting works with Homeowner Associations in Washington State. Professional Painters in Bellevue, King and Snohomish Counties."
+ },
+ "h1": "Painting for Homeowner Associations in Washington State",
+ "nodes": [
+  {
+   "t": "photo",
+   "id": "ea-pro-van-at-two-story-homes"
+  },
+  {
+   "t": "h2",
+   "text": "The Ideal Choice for Homeowner Associations in Washington State."
+  },
+  {
+   "t": "p",
+   "text": "EA Pro Painters: The Ideal Choice for Homeowner Associations in Washington State. EA Pro Painters is dedicated to providing exceptional painting services tailored specifically for homeowner associations (HOAs) in Washington State. With a strong reputation for quality and professionalism, we are the go-to choice for maintaining and enhancing the aesthetic appeal of community properties.",
+   "html": "EA Pro Painters: The Ideal Choice for Homeowner Associations in Washington State. EA Pro Painters is dedicated to providing exceptional painting services tailored specifically for homeowner associations (HOAs) in Washington State. With a strong reputation for quality and professionalism, we are the go-to choice for maintaining and enhancing the aesthetic appeal of community properties."
+  },
+  {
+   "t": "h3",
+   "text": "Comprehensive Painting Solutions:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "We offer a wide range of services including exterior and interior painting, trim and molding painting, and color consultations. Our team is skilled in working with various architectural styles to ensure a cohesive and appealing look for your community.",
+     "html": "We offer a wide range of services including exterior and interior painting, trim and molding painting, and color consultations. Our team is skilled in working with various architectural styles to ensure a cohesive and appealing look for your community."
+    }
+   ]
+  },
+  {
+   "t": "h3",
+   "text": "Expert Project Management:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Our experienced team manages projects efficiently, minimizing disruption to residents while ensuring timely completion. We work closely with HOA boards to meet specific community guidelines and standards.",
+     "html": "Our experienced team manages projects efficiently, minimizing disruption to residents while ensuring timely completion. We work closely with HOA boards to meet specific community guidelines and standards."
+    }
+   ]
+  },
+  {
+   "t": "h3",
+   "text": "High-Quality Materials and Techniques:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "EA Pro Painters uses only the best materials and the latest techniques to ensure durable and long-lasting results. Our meticulous preparation and application processes reduce the need for frequent maintenance and repairs.",
+     "html": "EA Pro Painters uses only the best materials and the latest techniques to ensure durable and long-lasting results. Our meticulous preparation and application processes reduce the need for frequent maintenance and repairs."
+    }
+   ]
+  },
+  {
+   "t": "h3",
+   "text": "Why Choose EA Pro Painters?"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "text": "Proven Expertise: With over a decade of experience in the painting industry, EA Pro Painters has successfully completed numerous HOA projects, enhancing the curb appeal and property value of communities across Washington State.",
+     "html": "Proven Expertise: With over a decade of experience in the painting industry, EA Pro Painters has successfully completed numerous HOA projects, enhancing the curb appeal and property value of communities across Washington State."
+    },
+    {
+     "text": "Customer Satisfaction: Our commitment to excellence is reflected in our customer reviews and testimonials. Clients consistently praise our attention to detail, professionalism, and the transformative impact of our work.",
+     "html": "Customer Satisfaction: Our commitment to excellence is reflected in our customer reviews and testimonials. Clients consistently praise our attention to detail, professionalism, and the transformative impact of our work."
+    },
+    {
+     "text": "Safety and Professionalism: We prioritize safety and professionalism in every project, ensuring a secure environment for residents and passersby during the painting process.",
+     "html": "Safety and Professionalism: We prioritize safety and professionalism in every project, ensuring a secure environment for residents and passersby during the painting process."
+    },
+    {
+     "text": "Customized Solutions: Understanding that each community is unique, we offer tailored solutions to meet the specific needs and preferences of your HOA. Our team provides valuable insights and recommendations to achieve the desired look and feel.",
+     "html": "Customized Solutions: Understanding that each community is unique, we offer tailored solutions to meet the specific needs and preferences of your HOA. Our team provides valuable insights and recommendations to achieve the desired look and feel."
+    }
+   ]
+  },
+  {
+   "t": "h3",
+   "text": "Contact Us"
+  },
+  {
+   "t": "p",
+   "text": "Enhance the beauty and value of your homeowner association with EA Pro Painters. Contact us today to request an estimate and discuss your painting needs. Let us help you maintain a vibrant and welcoming community.",
+   "html": "<br>Enhance the beauty and value of your homeowner association with EA Pro Painters. <a href=\"/contact\">Contact us today</a> to request an estimate and discuss your painting needs. Let us help you maintain a vibrant and welcoming community."
+  },
+  {
+   "t": "faqs",
+   "items": [
+    {
+     "q": "Does my HOA have to approve my exterior paint color?",
+     "a": [
+      {
+       "text": "In most Eastside communities with an active association, yes. Governing documents commonly require architectural review committee approval before exterior painting, and many maintain an approved palette you must select from.",
+       "html": "In most Eastside communities with an active association, yes. Governing documents commonly require architectural review committee approval before exterior painting, and many maintain an approved palette you must select from."
+      },
+      {
+       "text": "Painting without approval is a genuine risk, not a technicality. Associations can require repainting at the owner's expense, and in Washington they may have lien authority for unpaid assessments and fines. Check your CC&Rs before you choose a color — and if you cannot find them, the association or management company is required to provide them. We routinely prepare the color samples and documentation review committees ask for.",
+       "html": "Painting without approval is a genuine risk, not a technicality. Associations can require repainting at the owner's expense, and in Washington they may have lien authority for unpaid assessments and fines. Check your CC&amp;Rs before you choose a color — and if you cannot find them, the association or management company is required to provide them. We routinely prepare the color samples and documentation review committees ask for."
+      }
+     ]
+    },
+    {
+     "q": "How often does an HOA make you repaint your house?",
+     "a": [
+      {
+       "text": "Most Eastside associations expect exteriors to be maintained on roughly a 7 to 12 year cycle, though few specify a fixed interval. The more common standard is condition-based: governing documents require owners to maintain exteriors in good repair, and the association issues a notice when a home visibly falls below that.",
+       "html": "Most Eastside associations expect exteriors to be maintained on roughly a 7 to 12 year cycle, though few specify a fixed interval. The more common standard is condition-based: governing documents require owners to maintain exteriors in good repair, and the association issues a notice when a home visibly falls below that."
+      },
+      {
+       "text": "That means the trigger is usually a violation notice rather than a date. Peeling, chalking, faded elevations, or exposed wood are what prompt them. If you have received a notice with a compliance deadline, tell us — we schedule around association deadlines regularly and can prioritize accordingly.",
+       "html": "That means the trigger is usually a violation notice rather than a date. Peeling, chalking, faded elevations, or exposed wood are what prompt them. If you have received a notice with a compliance deadline, tell us — we schedule around association deadlines regularly and can prioritize accordingly."
+      }
+     ]
+    },
+    {
+     "q": "Do you work directly with HOA boards and property managers?",
+     "a": [
+      {
+       "text": "Yes. A substantial share of our commercial work is association projects across Bellevue, Bothell, Issaquah, Redmond, and Sammamish — single buildings through multi-building communities.",
+       "html": "Yes. A substantial share of our commercial work is association projects across Bellevue, Bothell, Issaquah, Redmond, and Sammamish — single buildings through multi-building communities."
+      },
+      {
+       "text": "We provide what boards actually need to make a decision and defend it to owners: a written scope with specified products and preparation sequence, itemized per-building or per-phase pricing, a schedule with milestones, certificates of insurance naming the association, and a single point of contact. We are also willing to present the scope at a board or owners meeting, which frequently matters more to approval than the bid itself. We do informative presentations to HOAs/homeowners including step-by-step, day by day expectations, so everyone knows what to expect from the process.",
+       "html": "We provide what boards actually need to make a decision and defend it to owners: a written scope with specified products and preparation sequence, itemized per-building or per-phase pricing, a schedule with milestones, certificates of insurance naming the association, and a single point of contact. We are also willing to present the scope at a board or owners meeting, which frequently matters more to approval than the bid itself. We do informative presentations to HOAs/homeowners including step-by-step, day by day expectations, so everyone knows what to expect from the process."
+      }
+     ]
+    },
+    {
+     "q": "How do you price a multi-building community project?",
+     "a": [
+      {
+       "text": "Per building and per phase rather – or one lump sum if requested – so the board can see exactly what each element costs and phase the work across budget years if reserves require it.",
+       "html": "Per building and per phase rather – or one lump sum if requested – so the board can see exactly what each element costs and phase the work across budget years if reserves require it."
+      },
+      {
+       "text": "Most communities we work with do not paint everything in one season. A common structure is a three-year rotation — one third of the buildings each year — which smooths the reserve draw and keeps the whole community on a consistent cycle. If needed, we can do it all at once. We are glad to build the scope either way and let the board decide with real numbers in front of them.",
+       "html": "Most communities we work with do not paint everything in one season. A common structure is a three-year rotation — one third of the buildings each year — which smooths the reserve draw and keeps the whole community on a consistent cycle. If needed, we can do it all at once. We are glad to build the scope either way and let the board decide with real numbers in front of them."
+      }
+     ]
+    },
+    {
+     "q": "Are you licensed, bonded, and insured to the level our association requires?",
+     "a": [
+      {
+       "text": "Yes. We carry Washington L&I registration, a surety bond, general liability, and workers' compensation, and we issue certificates naming the association as additional insured.",
+       "html": "Yes. We carry Washington L&amp;I registration, a surety bond, general liability, and workers' compensation, and we issue certificates naming the association as additional insured."
+      },
+      {
+       "text": "For association work specifically, verify workers' compensation on every bid you receive. If an uninsured contractor's worker is injured on common property, the exposure can reach the association and, through it, the owners. Send us your insurance requirements with the RFP and we will confirm compliance before bidding rather than after award.",
+       "html": "For association work specifically, verify workers' compensation on every bid you receive. If an uninsured contractor's worker is injured on common property, the exposure can reach the association and, through it, the owners. Send us your insurance requirements with the RFP and we will confirm compliance before bidding rather than after award."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "lastmod": "2026-09-08",
+ "fixes": []
+}

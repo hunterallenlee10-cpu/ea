@@ -1,0 +1,112 @@
+{
+ "path": "/services",
+ "kind": "core",
+ "slug": "services",
+ "title": "Painting Services – Interior, Exterior & Commercial",
+ "description": "Complete painting services including interior, exterior, cabinet, custom, millwork, drywall, and commercial painting. Professional painters in Bellevue.",
+ "og": {
+  "title": "Painting Services – Interior, Exterior & Commercial",
+  "description": "Complete painting services including interior, exterior, cabinet, custom, millwork, drywall, and commercial painting. Professional painters in Bellevue.",
+  "type": "website",
+  "image": "/images/navy-home-exterior-red-front-door.jpg",
+  "imageIsReplacement": false
+ },
+ "twitter": {
+  "card": "summary",
+  "title": "Painting Services – Interior, Exterior & Commercial",
+  "description": "Complete painting services including interior, exterior, cabinet, custom, millwork, drywall, and commercial painting. Professional painters in Bellevue."
+ },
+ "h1": "Professional Painting Services – Interior, Exterior & Commercial",
+ "nodes": [
+  {
+   "t": "p",
+   "text": "Exterior Painting | Interior Painting | Cabinet Painting | Millwork Painting | Custom Painting | Deck & Fences | Drywall | Commercial Painting",
+   "html": "<a href=\"/exterior-painting\">Exterior Painting</a> | <a href=\"/services#Interior\">Interior Painting</a> | <a href=\"/cabinet-painting\">Cabinet Painting</a> | <a href=\"/services#Millwork\">Millwork Painting</a> | <a href=\"/services#Custom\">Custom Painting</a> | <a href=\"/services#DeckandFence\">Deck &amp; Fences</a> | <a href=\"/services#Drywall\">Drywall</a> | <a href=\"/commercial-painting\">Commercial Painting</a><a href=\"/services#Drywall\"><br></a>"
+  },
+  {
+   "t": "photo",
+   "id": "modern-home-exterior-white-stucco-and-cedar"
+  },
+  {
+   "t": "h2",
+   "text": "Exterior Painting"
+  },
+  {
+   "t": "p",
+   "text": "Our exterior painting service epitomizes meticulous craftsmanship and unparalleled attention to detail, ensuring that every stroke enhances the curb appeal and longevity of your property. From thorough surface preparation to the selection of premium paints, we specialize in transforming exteriors into breathtaking works of art, with a commitment to quality that withstands the test of time.",
+   "html": "Our exterior painting service epitomizes meticulous craftsmanship and unparalleled attention to detail, ensuring that every stroke enhances the curb appeal and longevity of your property. From thorough surface preparation to the selection of premium paints, we specialize in transforming exteriors into breathtaking works of art, with a commitment to quality that withstands the test of time."
+  },
+  {
+   "t": "h2",
+   "text": "Interior Painting"
+  },
+  {
+   "t": "p",
+   "text": "Imbuing interiors with sophistication and charm, our interior painting service embodies a harmonious blend of precision and creativity. With a keen eye for detail, we meticulously prepare surfaces, select exquisite color palettes, and execute flawless finishes, elevating the ambiance of each room to luxurious heights while adhering to the highest standards of craftsmanship.",
+   "html": "Imbuing interiors with sophistication and charm, our interior painting service embodies a harmonious blend of precision and creativity. With a keen eye for detail, we meticulously prepare surfaces, select exquisite color palettes, and execute flawless finishes, elevating the ambiance of each room to luxurious heights while adhering to the highest standards of craftsmanship."
+  },
+  {
+   "t": "h2",
+   "text": "Cabinet Painting"
+  },
+  {
+   "t": "p",
+   "text": "Our cabinet painting service is a testament to refinement and precision, where every brushstroke is a testament to our dedication to excellence. Whether refreshing the elegance of classic cabinetry or modernizing the allure of contemporary designs, we meticulously restore and revitalize cabinets to their pristine beauty, utilizing premium finishes and techniques that exude sophistication and durability.",
+   "html": "Our cabinet painting service is a testament to refinement and precision, where every brushstroke is a testament to our dedication to excellence. Whether refreshing the elegance of classic cabinetry or modernizing the allure of contemporary designs, we meticulously restore and revitalize cabinets to their pristine beauty, utilizing premium finishes and techniques that exude sophistication and durability."
+  },
+  {
+   "t": "h2",
+   "text": "Custom Painting"
+  },
+  {
+   "t": "p",
+   "text": "With our custom painting service, we embark on a journey of ingenuity, where each project is a testament to our passion for beauty and attention to detail. We collaborate closely with clients to transform visions into reality, crafting unique masterpieces that reflect individuality and imbue spaces with unparalleled beauty and charm.",
+   "html": "With our custom painting service, we embark on a journey of ingenuity, where each project is a testament to our passion for beauty and attention to detail. We collaborate closely with clients to transform visions into reality, crafting unique masterpieces that reflect individuality and imbue spaces with unparalleled beauty and charm."
+  },
+  {
+   "t": "h2",
+   "text": "Millwork Painting"
+  },
+  {
+   "t": "p",
+   "text": "Encompassing the artistry of millwork painting, our service embodies a seamless fusion of tradition and innovation, accentuating architectural elements with masterful precision. From intricate moldings to ornate woodwork, we meticulously enhance each detail, enriching the character and allure of spaces with bespoke finishes that epitomize craftsmanship and sophistication.",
+   "html": "Encompassing the artistry of millwork painting, our service embodies a seamless fusion of tradition and innovation, accentuating architectural elements with masterful precision. From intricate moldings to ornate woodwork, we meticulously enhance each detail, enriching the character and allure of spaces with bespoke finishes that epitomize craftsmanship and sophistication."
+  },
+  {
+   "t": "h2",
+   "text": "Drywall"
+  },
+  {
+   "t": "p",
+   "text": "Our drywall painting service represents the pinnacle of precision and expertise, where flawless finishes and seamless transitions define our commitment to excellence. From surface preparation to final touches, we meticulously address imperfections, ensuring smooth and immaculate walls that serve as the perfect canvas for refined interior designs, reflecting our dedication to unparalleled quality and craftsmanship.",
+   "html": "Our drywall painting service represents the pinnacle of precision and expertise, where flawless finishes and seamless transitions define our commitment to excellence. From surface preparation to final touches, we meticulously address imperfections, ensuring smooth and immaculate walls that serve as the perfect canvas for refined interior designs, reflecting our dedication to unparalleled quality and craftsmanship."
+  },
+  {
+   "t": "photo",
+   "id": "stained-cedar-deck-covered-patio"
+  },
+  {
+   "t": "h2",
+   "text": "Deck & Fences"
+  },
+  {
+   "t": "p",
+   "text": "Our deck and fence painting service exemplifies our commitment to preserving and enhancing outdoor spaces with uncompromising quality and attention to detail. From restoring weather-worn surfaces to applying protective finishes, we ensure that every element is meticulously treated, enhancing durability and aesthetics to create inviting outdoor sanctuaries that endure the test of time.",
+   "html": "Our deck and fence painting service exemplifies our commitment to preserving and enhancing outdoor spaces with uncompromising quality and attention to detail. From restoring weather-worn surfaces to applying protective finishes, we ensure that every element is meticulously treated, enhancing durability and aesthetics to create inviting outdoor sanctuaries that endure the test of time."
+  },
+  {
+   "t": "h2",
+   "text": "Commercial Painting"
+  },
+  {
+   "t": "p",
+   "text": "At EA Pro Painters, we pride ourselves on offering comprehensive commercial painting services designed to meet every business's unique needs. From revitalizing exteriors to transforming interiors, our skilled team ensures your space reflects your brand's quality and professionalism. Our specialized offerings, including cabinet and millwork painting, cater to specific requirements, ensuring a custom fit for every project. We handle spaces of all sizes, guaranteeing a smooth, efficient, and tailored painting experience that elevates your commercial property's appearance and appeal. Learn more about our approach to commercial painting.",
+   "html": "At EA Pro Painters, we pride ourselves on offering comprehensive commercial painting services designed to meet every business's unique needs. From revitalizing exteriors to transforming interiors, our skilled team ensures your space reflects your brand's quality and professionalism. Our specialized offerings, including cabinet and millwork painting, cater to specific requirements, ensuring a custom fit for every project. We handle spaces of all sizes, guaranteeing a smooth, efficient, and tailored painting experience that elevates your commercial property's appearance and appeal. <a href=\"/commercial-painting\">Learn more about our approach to commercial painting.</a>"
+  }
+ ],
+ "lastmod": "2026-09-11",
+ "fixes": [
+  "Dropped stock photos (rule 7)",
+  "Internal link /commercial → /commercial-painting (skips a redirect)"
+ ]
+}
