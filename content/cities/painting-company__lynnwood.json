@@ -19,11 +19,6 @@
  "h1": "Lynnwood Painters – Quality Painting for Homes & Businesses",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "photo",
    "id": "blue-farmhouse-exterior-white-porch"
   },
@@ -302,7 +297,7 @@
    "html": "Over the years, we’ve gained many repeat customers and client referrals, which has allowed us to become one of the most recognized Lynnwood painting companies. Here are a few reasons why many home and business owners continue to choose our team."
   },
   {
-   "t": "h4",
+   "t": "h3",
    "text": "Homegrown Washington Company"
   },
   {
@@ -435,5 +430,7 @@
   }
  ],
  "lastmod": "2026-08-12",
- "fixes": []
+ "fixes": [
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
+ ]
 }

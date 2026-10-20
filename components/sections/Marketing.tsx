@@ -194,7 +194,7 @@ export function ReviewsSection({
 export function CtaBand({
   title = "Considering a home or business painting project?",
   sub,
-  review = REVIEWS[1],
+  review = REVIEWS.find((r) => r.name === "John Iwasaki") ?? REVIEWS[8],
   bg = "bg-surface",
 }: {
   title?: string;
@@ -339,9 +339,9 @@ export function PhotoFigure({ p, className = "", aspect = "aspect-[4/3]", sizes 
   );
 }
 
-export function AwardsStrip({ dark = false }: { dark?: boolean }) {
+export function AwardsStrip({ dark = false, stacked = false }: { dark?: boolean; stacked?: boolean }) {
   return (
-    <ul className={`grid gap-px overflow-hidden rounded-ui sm:grid-cols-3 ${dark ? "bg-dark-line" : "bg-line"}`}>
+    <ul className={`grid gap-px overflow-hidden rounded-ui ${stacked ? "" : "sm:grid-cols-3"} ${dark ? "bg-dark-line" : "bg-line"}`}>
       {AWARDS.map((a) => (
         <li key={a.name} className={`p-6 ${dark ? "bg-dark" : "bg-bg"}`}>
           <p className={`eyebrow ${dark ? "text-dark-muted" : "text-muted"}`}>
@@ -369,7 +369,7 @@ export function AwardSection() {
         <div className="lg:col-span-5 lg:col-start-8">
           <p className="eyebrow text-muted">Recognition</p>
           <div className="mt-4">
-            <AwardsStrip />
+            <AwardsStrip stacked />
           </div>
           <p className="mt-4 text-[13px] text-muted">
             <Ph>CONFIRM WITH ERIK: OK to show the Angi and HomeAdvisor awards as text (#24)</Ph>

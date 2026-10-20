@@ -20,7 +20,7 @@
  "h1": "How To Maintain Your Painted Surfaces for Long-Lasting Beauty",
  "nodes": [
   {
-   "t": "h3",
+   "t": "h2",
    "text": "How To Maintain Your Painted Surfaces for Long-Lasting Beauty"
   },
   {
@@ -161,6 +161,7 @@
   "Added the post title as the H1 (live post had none)",
   "Dropped stock photos (rule 7)",
   "Business name \"EA Pro Painting\" → \"EA Pro Painters\"",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)",
   "Meta description was missing on the live page; new one written from the first paragraph"
  ]
 }

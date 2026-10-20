@@ -32,7 +32,8 @@ function Flags({ ctx, text }: { ctx: Ctx; text: string }) {
 }
 const removed = (ctx: Ctx, text: string) => flagsFor(ctx.path, text).some((f) => f.remove);
 
-const shortReviews = REVIEWS.filter((r) => r.text.length < 170);
+// Skip the three reviews the reviews section shows, so one page never repeats a quote.
+const shortReviews = REVIEWS.slice(3).filter((r) => r.text.length < 170);
 
 /** CTA inside long-form content, with a short real review beside it (KICKSTART 5.2.6). */
 export function InlineCta({ index = 0, label = "Get a Free Estimate", href = "/estimate", dark = false }: { index?: number; label?: string; href?: string; dark?: boolean }) {
@@ -55,13 +56,14 @@ export function InlineCta({ index = 0, label = "Get a Free Estimate", href = "/e
   );
 }
 
-export function FaqList({ items, ctx, dark = false }: { items: { q: string; a: Inline[] }[]; ctx: Ctx; dark?: boolean }) {
+export function FaqList({ items, ctx, dark = false, level = 3 }: { items: { q: string; a: Inline[] }[]; ctx: Ctx; dark?: boolean; level?: 2 | 3 }) {
+  const Q = level === 2 ? "h2" : "h3";
   return (
     <div className={`divide-y border-y ${dark ? "divide-dark-line border-dark-line" : "divide-line border-line"}`}>
       {items.map((f, i) => (
         <details key={f.q} className="group" open={i === 0}>
           <summary className="flex min-h-16 cursor-pointer list-none items-center justify-between gap-6 py-5 text-[19px] font-medium [&::-webkit-details-marker]:hidden">
-            <h3 className="font-medium">{f.q}</h3>
+            <Q className="font-medium">{f.q}</Q>
             <span aria-hidden className={`text-2xl leading-none transition-transform group-open:rotate-45 ${dark ? "text-dark-accent" : "text-accent"}`}>
               +
             </span>

@@ -19,11 +19,6 @@
  "h1": "Monroe Painters – Interior, Exterior & Specialty Painting",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "h2",
    "text": "Your Trusted Provider of Premier Monroe Painting Services"
   },

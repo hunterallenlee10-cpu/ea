@@ -19,11 +19,6 @@
  "h1": "Medina Painting Company – Premier Interior & Exterior Painters",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "photo",
    "id": "ea-pro-van-at-two-story-homes"
   },
@@ -34,7 +29,7 @@
   {
    "t": "p",
    "text": "EA Pro Painters is your dedicated painting partner, committed to delivering top-notch painting services in Medina, WA.",
-   "html": "<strong>EA Pro Painters is your dedicated painting partner, committed to delivering top-notch painting services in Medina, WA. </strong>"
+   "html": "EA Pro Painters is your dedicated painting partner, committed to delivering top-notch painting services in Medina, WA. "
   },
   {
    "t": "p",

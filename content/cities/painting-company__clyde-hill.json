@@ -19,11 +19,6 @@
  "h1": "Clyde Hill Painting Services – Local Painters for Custom Projects",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "photo",
    "id": "ea-pro-van-at-two-story-homes"
   },
@@ -34,7 +29,7 @@
   {
    "t": "p",
    "text": "EA Pro Painters is your dedicated painting partner, committed to delivering top-notch painting services in Clyde Hill, WA, and surrounding areas.",
-   "html": "<strong>EA Pro Painters is your dedicated painting partner, committed to delivering top-notch painting services in Clyde Hill, WA, and surrounding areas. </strong>"
+   "html": "EA Pro Painters is your dedicated painting partner, committed to delivering top-notch painting services in Clyde Hill, WA, and surrounding areas. "
   },
   {
    "t": "p",

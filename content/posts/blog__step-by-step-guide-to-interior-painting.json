@@ -25,7 +25,7 @@
    "html": "Home interior painting can drastically transform your living space, giving it a fresh and vibrant look that you and your guests will love. Using high-quality paint brands ensures a professional finish. While some homeowners might consider a DIY approach, hiring professionals at EA Pro Painters guarantees a high-quality finish with less hassle. With a wide range of paint colors available, let us walk you through our step-by-step guide to painting your home’s interior like a pro."
   },
   {
-   "t": "h3",
+   "t": "h2",
    "text": "Professional Painters in Redmond"
   },
   {
@@ -119,6 +119,7 @@
  "fixes": [
   "Added the post title as the H1 (live post had none)",
   "Dropped stock photos (rule 7)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)",
   "Meta description was missing on the live page; new one written from the first paragraph"
  ]
 }

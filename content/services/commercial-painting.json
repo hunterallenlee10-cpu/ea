@@ -19,7 +19,7 @@
  "h1": "Commercial Painting Contractor – Business & Office Painters",
  "nodes": [
   {
-   "t": "h3",
+   "t": "h2",
    "text": "Serving Seattle, Bellevue, Redmond, Kirkland, King and Snohomish counties Licensed & Insured Free Quotes in 24 Hours"
   },
   {
@@ -238,5 +238,7 @@
   }
  ],
  "lastmod": "2026-09-08",
- "fixes": []
+ "fixes": [
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
+ ]
 }

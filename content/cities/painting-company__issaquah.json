@@ -19,11 +19,6 @@
  "h1": "Issaquah’s Local Painters – Interior, Exterior & Custom Projects",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "photo",
    "id": "blue-farmhouse-exterior-white-porch"
   },

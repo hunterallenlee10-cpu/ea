@@ -37,6 +37,10 @@ export const PHOTOS: Photo[] = [
   { id: "painter-on-ladder-painting-siding", src: "/images/painter-on-ladder-painting-siding.jpg", width: 1920, height: 1080, alt: "EA Pro painter on a ladder painting wood siding", job: "Exterior", service: "exterior-painting", town: null, liveFile: "website-video-cover-mov-image.jpeg" },
 ];
 
+/** Photos safe to rotate into any page (excludes ones still marked "Confirm this is EA Pro's work"). */
+// Also excludes the warranty section's photo, which appears on every service page already.
+export const USABLE_PHOTOS = PHOTOS.filter((p) => !/Confirm this is/i.test(p.note ?? "") && p.id !== "crew-painting-exterior-column-base");
+
 export const photo = (id: string) => {
   const p = PHOTOS.find((x) => x.id === id);
   if (!p) throw new Error("Unknown photo " + id);

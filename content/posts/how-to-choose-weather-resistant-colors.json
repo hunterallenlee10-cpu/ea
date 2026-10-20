@@ -34,7 +34,7 @@
    "html": "In short, the challenges are all too real when you’re choosing paints and colors for your exteriors. Fortunately, we at EA Pro Painters are here to give you actionable tips on finding weather-resistant paints that will last amidst Puget Sound’s unique weather conditions."
   },
   {
-   "t": "h3",
+   "t": "h2",
    "text": "Understanding Puget Sound’s Climate"
   },
   {
@@ -58,7 +58,7 @@
    "html": "Don’t underestimate those rare sunny summer days, either. UV rays can still fade colors (especially darker hues) faster than you’d think. Your home’s exterior is in a constant battle with the elements, so you need paint that can last."
   },
   {
-   "t": "h4",
+   "t": "h3",
    "text": "Challenges for Exterior Paint in Puget Sound"
   },
   {
@@ -199,6 +199,7 @@
  "lastmod": "2025-07-23",
  "fixes": [
   "Added the post title as the H1 (live post had none)",
-  "Dropped stock photos (rule 7)"
+  "Dropped stock photos (rule 7)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ]
 }

@@ -19,11 +19,6 @@
  "h1": "Mill Creek Painting Services",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "photo",
    "id": "modern-home-exterior-with-ea-pro-yard-sign"
   },
@@ -34,7 +29,7 @@
   {
    "t": "p",
    "text": "Like any city in Washington, Mill Creek has a unique charm found only in places in the Pacific Northwest. Unfortunately, properties in the city are vulnerable to surface wear and tear brought about by the state’s weather conditions. For you, wear and tear mean finding the right Mill Creek painting company to restore and preserve your home’s or business’s aesthetic appeal.",
-   "html": "<strong>Like any city in Washington, Mill Creek has a unique charm found only in places in the Pacific Northwest. Unfortunately, properties in the city are vulnerable to surface wear and tear brought about by the state’s weather conditions. For you, wear and tear mean finding the right Mill Creek painting company to restore and preserve your home’s or business’s aesthetic appeal. </strong>"
+   "html": "Like any city in Washington, Mill Creek has a unique charm found only in places in the Pacific Northwest. Unfortunately, properties in the city are vulnerable to surface wear and tear brought about by the state’s weather conditions. For you, wear and tear mean finding the right Mill Creek painting company to restore and preserve your home’s or business’s aesthetic appeal. "
   },
   {
    "t": "p",
@@ -372,7 +367,7 @@
    "html": "We’re also the trusted Mill Creek painting company for these services."
   },
   {
-   "t": "h4",
+   "t": "h3",
    "text": "Cabinet Painting"
   },
   {
@@ -500,5 +495,7 @@
   }
  ],
  "lastmod": "2026-10-16",
- "fixes": []
+ "fixes": [
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
+ ]
 }

@@ -39,7 +39,7 @@
    "html": "As your local Washington professional painters, we will share our tried and tested strategies for choosing the best paint finish for the modern look you have always dreamed of. There are various paint sheens available, from flat to semi-gloss, each impacting the overall aesthetic and performance. Here are five steps to choosing the right paint finish for your home and some of the different finishes you can choose from."
   },
   {
-   "t": "h3",
+   "t": "h2",
    "text": "Different Strokes for Different Folks (and Rooms)"
   },
   {
@@ -179,6 +179,7 @@
  "lastmod": "2026-05-15",
  "fixes": [
   "Added the post title as the H1 (live post had none)",
-  "Internal link /step-by-step-guide-to-interior-painting-make-your-home-look-like-a-pro-s-work → /blog/step-by-step-guide-to-interior-painting (skips a redirect)"
+  "Internal link /step-by-step-guide-to-interior-painting-make-your-home-look-like-a-pro-s-work → /blog/step-by-step-guide-to-interior-painting (skips a redirect)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ]
 }

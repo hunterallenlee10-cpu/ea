@@ -19,7 +19,7 @@
  "h1": "Contact us any time",
  "nodes": [
   {
-   "t": "h3",
+   "t": "h2",
    "text": "Bellevue"
   },
   {
@@ -40,6 +40,7 @@
  ],
  "lastmod": "2025-06-12",
  "fixes": [
-  "Live H1 was the review widget heading; the page's first heading is now the H1"
+  "Live H1 was the review widget heading; the page's first heading is now the H1",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ]
 }

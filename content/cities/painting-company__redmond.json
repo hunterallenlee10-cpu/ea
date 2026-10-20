@@ -19,11 +19,6 @@
  "h1": "Redmond Painters – Interior, Exterior & Commercial Services",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "photo",
    "id": "navy-home-exterior-red-front-door"
   },
@@ -34,7 +29,7 @@
   {
    "t": "p",
    "text": "EA Pro Painters takes part in the superior quality of life found in the city of Redmond by providing the best painting services for Redmond’s residents and businesses.",
-   "html": "<strong>EA Pro Painters takes part in the superior quality of life found in the city of Redmond by providing the best painting services for Redmond’s residents and businesses. </strong>"
+   "html": "EA Pro Painters takes part in the superior quality of life found in the city of Redmond by providing the best painting services for Redmond’s residents and businesses. "
   },
   {
    "t": "p",

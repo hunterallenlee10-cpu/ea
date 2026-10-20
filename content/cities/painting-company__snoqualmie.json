@@ -19,11 +19,6 @@
  "h1": "Snoqualmie Painting Services – Local Painters, Quality Results",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "h2",
    "text": "Top-Ranking Snoqualmie Painters You Can Trust"
   },
@@ -223,7 +218,7 @@
    "html": "Why choose EA Pro Painters for your painting needs in Snoqualmie? Here are just a few reasons."
   },
   {
-   "t": "h4",
+   "t": "h3",
    "text": "Experienced Team"
   },
   {
@@ -268,7 +263,7 @@
    "html": "At EA Pro Painters, we believe in providing our Snoqualmie clients with a seamless and hassle-free experience. Here’s how our process works."
   },
   {
-   "t": "h4",
+   "t": "h3",
    "text": "Free Estimate"
   },
   {
@@ -394,5 +389,7 @@
   }
  ],
  "lastmod": "2026-08-12",
- "fixes": []
+ "fixes": [
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
+ ]
 }

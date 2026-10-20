@@ -19,11 +19,6 @@
  "h1": "Painter in Kirkland, WA",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "p",
    "text": "EA Pro Painters is your trusted local painter in Kirkland, WA, delivering high-quality interior painting and exterior painting services designed for the unique PacificNorthwest climate. Whether you’re updating a single room, completing full home painting, or refreshing your property’s exterior, our skilled painting contractors ensure a flawless, lasting finish. Known throughout Kirkland for detail-oriented craftsmanship and reliable service, we help homeowners bring color, protection, and value to their spaces with every project.",
    "html": "EA Pro Painters is your trusted local painter in Kirkland, WA, delivering high-quality interior painting and exterior painting services designed for the unique PacificNorthwest climate. Whether you’re updating a single room, completing full home painting, or refreshing your property’s exterior, our skilled painting contractors ensure a flawless, lasting finish. Known throughout Kirkland for detail-oriented craftsmanship and reliable service, we help homeowners bring color, protection, and value to their spaces with every project."
@@ -691,7 +686,7 @@
   {
    "t": "p",
    "text": "Washington:",
-   "html": "<strong>Washington:</strong>"
+   "html": "Washington:"
   },
   {
    "t": "p",

@@ -19,11 +19,6 @@
  "h1": "Everett Painting Company – Interior, Exterior & Commercial",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "photo",
    "id": "blue-farmhouse-exterior-white-porch"
   },
@@ -285,7 +280,7 @@
    "html": "EA Pro Painters has remained a top choice for many Everett clients thanks to the following."
   },
   {
-   "t": "h4",
+   "t": "h3",
    "text": "Local Team That Knows the Area"
   },
   {
@@ -392,5 +387,7 @@
   }
  ],
  "lastmod": "2026-08-12",
- "fixes": []
+ "fixes": [
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
+ ]
 }

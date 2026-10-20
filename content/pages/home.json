@@ -59,17 +59,17 @@
   {
    "t": "p",
    "text": "EA Pro Painters offers a comprehensive range of painting services for both the interior and exterior of residential properties.",
-   "html": "<strong>EA Pro Painters offers a comprehensive range of painting services for both the interior and exterior of residential properties.</strong>"
+   "html": "EA Pro Painters offers a comprehensive range of painting services for both the interior and exterior of residential properties."
   },
   {
    "t": "p",
    "text": "Our experienced painters are able to provide a high-quality, hassle-free finish for any project, regardless of size or complexity.",
-   "html": "<strong>Our experienced painters are able to provide a high-quality, hassle-free finish for any project, regardless of size or complexity.</strong>"
+   "html": "Our experienced painters are able to provide a high-quality, hassle-free finish for any project, regardless of size or complexity."
   },
   {
    "t": "p",
    "text": "From the two-story hallway to the individual bedrooms, every job is approached with precision and close attention to detail.",
-   "html": "<strong>From the two-story hallway to the individual bedrooms, every job is approached with precision and close attention to detail.</strong>"
+   "html": "From the two-story hallway to the individual bedrooms, every job is approached with precision and close attention to detail."
   },
   {
    "t": "p",
@@ -145,7 +145,7 @@
    "html": "<br>Find us at <a href=\"https://instagram.com/eapropainters\">@eapropainters</a> and let's connect!"
   },
   {
-   "t": "h4",
+   "t": "h3",
    "text": "About"
   },
   {
@@ -160,21 +160,22 @@
   {
    "t": "p",
    "text": "We’ve helped keep the Eastside colorful and beautiful for many years, serving both residential and commercial customers with consistent delivery of the highest-quality services at competitive prices. We always work with honesty, integrity, and a smile!",
-   "html": "<strong>We’ve helped keep the Eastside colorful and beautiful for many years, serving both residential and commercial customers with consistent delivery of the highest-quality services at competitive prices. We always work with honesty, integrity, and a smile!</strong>"
+   "html": "We’ve helped keep the Eastside colorful and beautiful for many years, serving both residential and commercial customers with consistent delivery of the highest-quality services at competitive prices. We always work with honesty, integrity, and a smile!"
   },
   {
    "t": "p",
    "text": "Our team of experienced professionals is dedicated to delivering exceptional quality, value, and service to our customers. We use only the best paint and materials. Our experienced painters have the skills to ensure the job is completed correctly. We take pride in our work and provide a clean and safe work environment for our customers. Our goal is to provide a painting solution that is affordable, reliable, and hassle-free.",
-   "html": "<strong>Our team of experienced professionals is dedicated to delivering exceptional quality, value, and service to our customers. We use only the best paint and materials. Our experienced painters have the skills to ensure the job is completed correctly. We take pride in our work and provide a clean and safe work environment for our customers. Our goal is to provide a painting solution that is affordable, reliable, and hassle-free.</strong>"
+   "html": "Our team of experienced professionals is dedicated to delivering exceptional quality, value, and service to our customers. We use only the best paint and materials. Our experienced painters have the skills to ensure the job is completed correctly. We take pride in our work and provide a clean and safe work environment for our customers. Our goal is to provide a painting solution that is affordable, reliable, and hassle-free."
   },
   {
    "t": "p",
    "text": "We would love to work with you and discover how we can make your project a success!",
-   "html": "<strong>We would love to work with you and discover how we can make your project a success!</strong>"
+   "html": "We would love to work with you and discover how we can make your project a success!"
   }
  ],
  "lastmod": "2026-10-16",
  "fixes": [
-  "\"keep the Eastside of colorful\" → \"keep the Eastside colorful\""
+  "\"keep the Eastside of colorful\" → \"keep the Eastside colorful\"",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ]
 }

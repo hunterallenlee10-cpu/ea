@@ -28,7 +28,7 @@
    "html": "At EA Pro Painters, we believe in fostering strong partnerships within our industry and beyond. Here are some trusted companies we recommend for various services that complement our painting expertise. Each of these businesses shares our commitment to quality and customer satisfaction, making them ideal collaborators for your next project. Whether you need high-quality materials, specialized contracting services, or expert consultations, these companies are equipped to meet your needs with professionalism and integrity. Explore these recommendations to enhance your painting experience and ensure your projects are executed flawlessly."
   },
   {
-   "t": "h4",
+   "t": "h3",
    "text": "EA Pro Flooring"
   },
   {
@@ -82,6 +82,7 @@
  "lastmod": "2026-08-12",
  "fixes": [
   "Business name \"EA Pro Painting\" → \"EA Pro Painters\"",
-  "Internal link /home-old → / (skips a redirect)"
+  "Internal link /home-old → / (skips a redirect)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ]
 }

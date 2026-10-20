@@ -19,11 +19,6 @@
  "h1": "Professional Interior Painting Services – Precision & Style",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "h2",
    "text": "Comprehensive Interior Painting Services in Greater Seattle"
   },
@@ -394,7 +389,7 @@
    "html": "Over the years, our company has established itself as one of the most trusted painting companies in the Seattle, Washington region. Here are a few reasons why clients continue to do business with us."
   },
   {
-   "t": "h4",
+   "t": "h3",
    "text": "Dedication to Visual Perfection"
   },
   {
@@ -440,5 +435,7 @@
   }
  ],
  "lastmod": "2026-09-08",
- "fixes": []
+ "fixes": [
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
+ ]
 }

@@ -29,7 +29,7 @@
    "html": "Selecting the right paint and finish for an outdoor space can be tricky, but with the right knowledge, you can easily make an informed decision that will enhance your property and protect your outdoor space for years to come."
   },
   {
-   "t": "h3",
+   "t": "h2",
    "text": "What Is Paint Finish?"
   },
   {
@@ -149,6 +149,7 @@
  },
  "lastmod": "2025-07-23",
  "fixes": [
-  "Added the post title as the H1 (live post had none)"
+  "Added the post title as the H1 (live post had none)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ]
 }

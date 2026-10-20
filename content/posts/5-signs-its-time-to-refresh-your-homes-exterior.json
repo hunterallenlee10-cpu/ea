@@ -24,7 +24,7 @@
    "html": "The exterior of your home is the first thing people notice, and the paint is crucial in both curb appeal and protection against the elements. As summer approaches, it’s the perfect time to give your house a fresh coat of paint. How do you know it’s time for an exterior home paint refresh? Here are five signs it’s time to contact EA Pro Painters for a new coat of paint."
   },
   {
-   "t": "h3",
+   "t": "h2",
    "text": "Sign #1: Fading"
   },
   {
@@ -125,6 +125,7 @@
  "lastmod": "2025-07-23",
  "fixes": [
   "Added the post title as the H1 (live post had none)",
-  "Dropped stock photos (rule 7)"
+  "Dropped stock photos (rule 7)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ]
 }

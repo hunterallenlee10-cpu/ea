@@ -24,7 +24,7 @@
    "html": "The paint you use in your project determines the final look as well as its longevity. That is why it is important to choose the one that best fits your project. You do not want a surface that looks streaky, nor would you appreciate a project that deteriorates easily because of incorrect paint. In this guide, EA Pro Painters discusses the best paint types for projects. We will discuss the characteristics of each paint type and why these properties make them suitable for certain needs, materials, and environments. Keep reading to learn more."
   },
   {
-   "t": "h3",
+   "t": "h2",
    "text": "Water-Based Paint"
   },
   {
@@ -128,6 +128,7 @@
  "lastmod": "2025-07-23",
  "fixes": [
   "Added the post title as the H1 (live post had none)",
-  "Dropped stock photos (rule 7)"
+  "Dropped stock photos (rule 7)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ]
 }

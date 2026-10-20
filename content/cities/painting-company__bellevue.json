@@ -19,11 +19,6 @@
  "h1": "Bellevue’s Trusted Painting Company – Interior, Exterior & Commercial",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "photo",
    "id": "ea-pro-van-at-two-story-homes"
   },
@@ -34,7 +29,7 @@
   {
    "t": "p",
    "text": "EA Pro Painters is your painting partner, committed to delivering top-notch painting services in Bellevue, WA.",
-   "html": "<strong>EA Pro Painters is your painting partner, committed to delivering top-notch painting services in Bellevue, WA. </strong>"
+   "html": "EA Pro Painters is your painting partner, committed to delivering top-notch painting services in Bellevue, WA. "
   },
   {
    "t": "p",

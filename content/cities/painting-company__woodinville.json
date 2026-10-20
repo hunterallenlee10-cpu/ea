@@ -19,11 +19,6 @@
  "h1": "Woodinville Painting Company – Interior, Exterior & Commercial",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "h2",
    "text": "A Top-Rated Woodinville Professional Painter"
   },
@@ -494,7 +489,7 @@
    "text": "A Bit More About the City of Woodinville"
   },
   {
-   "t": "h4",
+   "t": "h3",
    "text": "Woodinville: A Blend of Wine Country Charm and Urban Convenience"
   },
   {
@@ -555,6 +550,7 @@
  ],
  "lastmod": "2026-08-12",
  "fixes": [
-  "Business name \"EA Pro Painting\" → \"EA Pro Painters\""
+  "Business name \"EA Pro Painting\" → \"EA Pro Painters\"",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ]
 }

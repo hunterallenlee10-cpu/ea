@@ -19,11 +19,6 @@
  "h1": "Kenmore Painting Services – House & Commercial Painters",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "photo",
    "id": "blue-farmhouse-exterior-white-porch"
   },

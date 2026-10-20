@@ -38,7 +38,7 @@
    "id": "navy-home-exterior-red-front-door"
   },
   {
-   "t": "h3",
+   "t": "h2",
    "text": "Convenience"
   },
   {
@@ -163,6 +163,7 @@
  },
  "lastmod": "2024-11-12",
  "fixes": [
-  "Added the post title as the H1 (live post had none)"
+  "Added the post title as the H1 (live post had none)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ]
 }

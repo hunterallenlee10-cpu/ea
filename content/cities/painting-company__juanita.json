@@ -19,11 +19,6 @@
  "h1": "Juanita Painters – House Painting with Personal Service",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "photo",
    "id": "blue-farmhouse-exterior-white-porch"
   },

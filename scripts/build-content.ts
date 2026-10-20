@@ -74,7 +74,7 @@ function fixHref(href: string, fixes: Set<string>): string | null {
     return null;
   }
   if (!/(^|\.)eapropainters\.com$/i.test(url.hostname)) return h; // external, unchanged
-  let p = url.pathname.replace(/\/+$/, "") || "/";
+  const p = url.pathname.replace(/\/+$/, "") || "/";
   const lower = p.toLowerCase();
   const final = LEGACY_REDIRECTS[lower] ?? lower;
   if (final !== p) fixes.add(`Internal link ${p} → ${final} (skips a redirect)`);
@@ -207,9 +207,14 @@ function build(p: string): PageContent {
         push({ t, text: fixText(b.text, fixes) });
         break;
       }
-      case "p":
-        push({ t: "p", text: fixText(b.text, fixes), html: fixHtml(b.html, fixes) });
+      case "p": {
+        // A paragraph the live site wrapped entirely in bold reads as plain body text here.
+        let html = fixHtml(b.html, fixes);
+        const whole = html.match(/^<strong>([\s\S]*)<\/strong>$/);
+        if (whole && !whole[1].includes("<strong>")) html = whole[1];
+        push({ t: "p", text: fixText(b.text, fixes), html });
         break;
+      }
       case "li": {
         const item = { text: fixText(b.text, fixes), html: fixHtml(b.html, fixes) };
         const l = last();
@@ -264,6 +269,11 @@ function build(p: string): PageContent {
     nodes.splice(0, nodes.length, ...out);
   }
 
+  // CTAs before the first paragraph duplicate the hero's buttons.
+  while (nodes.length && nodes.findIndex((n) => n.t === "cta") > -1 && nodes.findIndex((n) => n.t === "cta") < Math.max(0, nodes.findIndex((n) => n.t === "p"))) {
+    nodes.splice(nodes.findIndex((n) => n.t === "cta"), 1);
+  }
+
   // Merge neighbouring FAQ groups.
   for (let i = nodes.length - 1; i > 0; i--) {
     const a = nodes[i - 1], b = nodes[i];
@@ -273,8 +283,27 @@ function build(p: string): PageContent {
     }
   }
 
-  // Drop empty headings left at the very end and trailing CTAs (the template adds its own closing CTA).
-  while (nodes.length && (nodes[nodes.length - 1].t === "cta" || /^h[234]$/.test(nodes[nodes.length - 1].t))) nodes.pop();
+  // Heading levels never skip (h1 → h3, h2 → h4 …): shift each heading to at most one below the previous.
+  let prev = 1;
+  let shifted = false;
+  for (const n of nodes) {
+    if (n.t === "h2" || n.t === "h3" || n.t === "h4") {
+      const lv = Number(n.t[1]);
+      const fixed = Math.min(lv, prev + 1);
+      if (fixed !== lv) {
+        (n as { t: string }).t = `h${fixed}`;
+        shifted = true;
+      }
+      prev = fixed;
+    } else if (n.t === "faqs" || n.t === "steps" || n.t === "testimonials") {
+      // These render their items one level below the current section heading.
+      prev = Math.max(prev, 2);
+    }
+  }
+  if (shifted) fixes.add("Heading levels adjusted so none are skipped (structure only, text unchanged)");
+
+  // Drop trailing CTAs (every template adds its own closing CTA). Headings are content and stay.
+  while (nodes.length && nodes[nodes.length - 1].t === "cta") nodes.pop();
 
   // --- metadata ------------------------------------------------------------------------------------
   const title: string = d.title;

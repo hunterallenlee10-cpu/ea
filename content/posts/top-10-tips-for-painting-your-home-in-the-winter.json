@@ -24,7 +24,7 @@
    "html": "Homeowners often consider winter an inconvenient time for home improvement projects. However, when it comes to home interior painting, the season can be perfect to freshen up your living space. EA Pro Painters — a leading interior painting company in Bellevue, WA — is ready to help you make the most of the season. Applying even pressure when painting is crucial to achieve a smooth finish. Here are the top 10 tips for painting your home in the winter."
   },
   {
-   "t": "h3",
+   "t": "h2",
    "text": "Tip #1: Schedule Your Project Early"
   },
   {
@@ -140,6 +140,7 @@
  "lastmod": "2025-07-23",
  "fixes": [
   "Added the post title as the H1 (live post had none)",
-  "Business name \"EA Pro Painting\" → \"EA Pro Painters\""
+  "Business name \"EA Pro Painting\" → \"EA Pro Painters\"",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ]
 }

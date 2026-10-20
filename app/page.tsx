@@ -1,39 +1,177 @@
-import type { Metadata } from "next";
-import Link from "next/link";
 import Image from "next/image";
-import { notFound } from "next/navigation";
-import { IS_LAUNCH } from "@/lib/mode";
+import Link from "next/link";
+import { getPage } from "@/lib/content";
+import { metaFromContent } from "@/lib/meta";
+import { housePainter } from "@/lib/schema";
+import { photo } from "@/content/photos";
+import { site } from "@/site.config";
+import type { Node } from "@/lib/content-types";
+import { JsonLd } from "@/components/JsonLd";
+import { HomeHero } from "@/components/home/Hero";
+import { Button } from "@/components/Button";
+import {
+  AreasSection,
+  AwardSection,
+  CtaBand,
+  CustomerPaths,
+  LowestBidSection,
+  PhotoGrid,
+  ProcessSection,
+  ReviewsSection,
+  SectionHead,
+  ServicesGrid,
+  WarrantySection,
+  WhyGrid,
+} from "@/components/sections/Marketing";
 
-// Phase 2 ★ only: a chooser for Hunter. Replaced by the real homepage in Phase 3.
-export const metadata: Metadata = { title: "EA Pro Painters · Concept directions" };
+export const metadata = metaFromContent(getPage("/"));
 
-export default function Page() {
-  if (IS_LAUNCH) notFound();
-  const cards = [
-    { href: "/design-a", name: "A · Eastside Craft", line: "Editorial. Warm paper, a large serif, evergreen sections. Feels like a finished interior.", img: "/images/modern-home-exterior-white-stucco-and-cedar.jpg", cls: "bg-[#f7f4ef] text-[#1d211e]" },
-    { href: "/design-b", name: "B · Bold Pro", line: "Cinematic. Dark ink over EA Pro's own drone footage, heavy condensed type, red only on calls to action.", img: "/images/ea-pro-drone-exterior-home-poster.jpg", cls: "bg-[#0e0d0c] text-[#f2eee8]" },
-  ];
+/** Live homepage paragraph whose text starts with `start` (word for word, with the section 6 fixes). */
+function live(nodes: Node[], start: string) {
+  const n = nodes.find((x) => x.t === "p" && x.text.startsWith(start)) as Extract<Node, { t: "p" }> | undefined;
+  if (!n) throw new Error(`Live homepage text not found: ${start}`);
+  return n;
+}
+
+export default function Home() {
+  const c = getPage("/");
+  const n = c.nodes;
+  const shop = photo("crew-painting-storefront-windows-from-boom-lift");
   return (
-    <main className="min-h-dvh bg-[#ece8e1] px-5 py-14 text-[#1d211e] md:py-20">
-      <div className="mx-auto max-w-6xl">
-        <p className="eyebrow text-[#5b5f59]">EA Pro Painters · Phase 2 concept review</p>
-        <h1 className="mt-4 max-w-3xl font-[family-name:var(--font-fraunces)] text-[clamp(2.2rem,5vw,3.8rem)] leading-[1.05]">Two design directions. Pick one.</h1>
-        <p className="mt-5 max-w-2xl text-[#5b5f59]">
-          Each shows the homepage hero and the Bellevue city page section, built with the live site’s own text, reviews and photos. Yellow marks are facts Erik still needs to confirm.
-        </p>
-        <div className="mt-12 grid gap-6 md:grid-cols-2">
-          {cards.map((c) => (
-            <Link key={c.href} href={c.href} className={`group block overflow-hidden rounded-[4px] ${c.cls}`}>
-              <Image src={c.img} alt="" width={1200} height={750} className="aspect-[16/10] w-full object-cover transition-transform duration-700 group-hover:scale-[1.02]" priority />
-              <div className="p-7">
-                <p className="text-2xl font-semibold">{c.name}</p>
-                <p className="mt-2 opacity-80">{c.line}</p>
-                <p className="mt-5 font-semibold underline underline-offset-4">Open direction →</p>
-              </div>
-            </Link>
-          ))}
+    <>
+      <JsonLd data={housePainter()} />
+      <HomeHero />
+
+      <ReviewsSection />
+
+      {/* Local Painting Services */}
+      <section className="section bg-bg">
+        <div className="container-x">
+          <div className="grid gap-10 lg:grid-cols-12">
+            <div className="lg:col-span-5">
+              <p className="eyebrow text-accent">Local Painting Services</p>
+              <h2 className="display mt-4 text-[clamp(2rem,3.8vw,3.2rem)]">Your Expert House Painters</h2>
+            </div>
+            <div className="lg:col-span-6 lg:col-start-7">
+              <p className="text-ink/85" dangerouslySetInnerHTML={{ __html: live(n, "EA Pro Painters is proud").html }} />
+            </div>
+          </div>
+          <div className="mt-14">
+            <ServicesGrid />
+          </div>
         </div>
-      </div>
-    </main>
+      </section>
+
+      {/* Come see us in Bellevue */}
+      <section className="section on-dark">
+        <div className="container-x grid items-center gap-12 lg:grid-cols-12">
+          <figure className="lg:col-span-6" data-reveal-img>
+            <Image src={shop.src} alt={shop.alt} width={shop.width} height={shop.height} sizes="(min-width:1024px) 45vw, 100vw" className="aspect-[4/3] w-full rounded-ui object-cover" />
+          </figure>
+          <div className="lg:col-span-5 lg:col-start-8">
+            <p className="eyebrow text-dark-accent">Come see us in Bellevue.</p>
+            <h2 className="display mt-4 text-[clamp(2rem,3.8vw,3.2rem)]">Our Store is next to Sherwin-Williams</h2>
+            <p className="mt-6 text-dark-ink/85" dangerouslySetInnerHTML={{ __html: live(n, "We can talk through").html }} />
+            <address className="mt-8 border-l-2 border-dark-accent pl-5 not-italic">
+              <span className="block font-semibold">{site.address.street}</span>
+              <span className="block text-dark-muted">
+                {site.address.city}, {site.address.region} {site.address.zip} · {site.hours.display}
+              </span>
+            </address>
+            <div className="mt-8 flex flex-col gap-3 sm:flex-row">
+              <Button href="/estimate">Get a Free Estimate</Button>
+              <Button href={site.maps} variant="outline" tone="dark">
+                Get directions
+              </Button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* House Painting Services */}
+      <section className="section bg-bg">
+        <div className="container-x grid gap-10 lg:grid-cols-12">
+          <div className="lg:col-span-5">
+            <p className="eyebrow text-accent">Residential</p>
+            <h2 className="display mt-4 text-[clamp(2rem,3.8vw,3.2rem)]">House Painting Services by EA Pro Painters</h2>
+          </div>
+          <div className="space-y-5 text-ink/85 lg:col-span-6 lg:col-start-7">
+            {["EA Pro Painters offers a comprehensive", "Our experienced painters are able", "From the two-story hallway", "We ensure that each painting task"].map((s) => (
+              <p key={s} dangerouslySetInnerHTML={{ __html: live(n, s).html }} />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <WarrantySection />
+      <AwardSection />
+
+      <ProcessSection bg="bg-surface" />
+
+      {/* Why EA Pro Painters */}
+      <section className="section on-dark">
+        <div className="container-x grid gap-12 lg:grid-cols-12">
+          <div className="lg:col-span-5">
+            <p className="eyebrow text-dark-accent">Why</p>
+            <h2 className="display mt-4 text-[clamp(2.2rem,4.2vw,3.6rem)]">EA Pro Painters?</h2>
+            <p className="mt-6 text-dark-ink/85" dangerouslySetInnerHTML={{ __html: live(n, "At EA Pro Painters we know").html }} />
+          </div>
+          <div className="lg:col-span-7">
+            <WhyGrid />
+          </div>
+        </div>
+      </section>
+
+      <LowestBidSection />
+
+      <section className="section bg-surface">
+        <div className="container-x">
+          <SectionHead eyebrow="Who we paint for" title="Homes, communities and businesses" />
+          <div className="mt-12">
+            <CustomerPaths />
+          </div>
+        </div>
+      </section>
+
+      <PhotoGrid
+        bg="bg-bg"
+        photos={[
+          photo("commercial-building-exterior-repaint-front"),
+          photo("navy-home-exterior-red-front-door"),
+          photo("stained-cedar-deck-covered-patio"),
+          photo("ea-pro-truck-at-teal-home-aerial"),
+        ]}
+      />
+
+      <AreasSection bg="bg-surface" />
+
+      {/* About EA Pro Painters (live text) */}
+      <section className="section bg-bg">
+        <div className="container-x grid gap-10 lg:grid-cols-12">
+          <div className="lg:col-span-5">
+            <p className="eyebrow text-accent">About</p>
+            <h2 className="display mt-4 text-[clamp(2rem,3.8vw,3.2rem)]">EA Pro Painters</h2>
+            <p className="mt-6 text-[15px] text-muted">{site.license.display}</p>
+            <Link href="/about" className="mt-6 inline-block text-[16px] font-semibold text-accent underline underline-offset-4">
+              More about us
+            </Link>
+          </div>
+          <div className="space-y-5 text-ink/85 lg:col-span-6 lg:col-start-7">
+            {["EA Pro Painters is a professional painting company", "We’ve helped keep the Eastside", "Our team of experienced professionals", "We would love to work with you"].map((s) => (
+              <p key={s} dangerouslySetInnerHTML={{ __html: live(n, s).html }} />
+            ))}
+            <p className="text-[15px] text-muted">
+              {live(n, "We'd love for you to follow us").text}{" "}
+              <a href={site.social.instagram} className="font-semibold text-accent underline underline-offset-4" rel="noopener">
+                Find us at @eapropainters
+              </a>
+              .
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <CtaBand title="Create your dream home. Tell us about your project today." />
+    </>
   );
 }

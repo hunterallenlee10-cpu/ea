@@ -19,11 +19,6 @@
  "h1": "Mercer Island Painting Services – Luxury Home & Office Painters",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "photo",
    "id": "modern-home-exterior-with-ea-pro-yard-sign"
   },

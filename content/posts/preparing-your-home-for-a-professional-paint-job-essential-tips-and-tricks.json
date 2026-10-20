@@ -49,7 +49,7 @@
    "html": "Let us dive in."
   },
   {
-   "t": "h3",
+   "t": "h2",
    "text": "1. Inspect the Condition of Your Surfaces"
   },
   {
@@ -181,6 +181,7 @@
  "fixes": [
   "Added the post title as the H1 (live post had none)",
   "Dropped stock photos (rule 7)",
-  "Internal link /step-by-step-guide-to-interior-painting-make-your-home-look-like-a-pro-s-work → /blog/step-by-step-guide-to-interior-painting (skips a redirect)"
+  "Internal link /step-by-step-guide-to-interior-painting-make-your-home-look-like-a-pro-s-work → /blog/step-by-step-guide-to-interior-painting (skips a redirect)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ]
 }

@@ -24,7 +24,7 @@
    "html": "Creating a fresh look for your spaces can create an enormous impact on your employees, operations, and stakeholders. Obtaining accurate cost estimates for the project is crucial to budget effectively and ensure all aspects are accounted for. There are plenty of options to revamp the business environment, such as installing new lighting or adding modern furniture. However, the easiest and quickest way to transform your workspace is through a professional paint job. Professional painters use high-quality materials that enhance durability and longevity. The fresh coat not only revitalizes your office, but it can provide other advantages that may contribute to your overall success. EA Pro Painters is here to discuss the impact of professional office painting, so you know what to expect with new painting."
   },
   {
-   "t": "h3",
+   "t": "h2",
    "text": "Employee Morale and Productivity"
   },
   {
@@ -90,6 +90,7 @@
  "lastmod": "2025-07-23",
  "fixes": [
   "Added the post title as the H1 (live post had none)",
-  "Dropped stock photos (rule 7)"
+  "Dropped stock photos (rule 7)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ]
 }

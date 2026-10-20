@@ -34,7 +34,7 @@
    "html": "Investing in high-quality paint not only enhances the appearance of your property but also acts as a durable shield, protecting your exterior walls from various forms of weather damage. Here’s why investing in quality paint for your exterior walls is worth every penny."
   },
   {
-   "t": "h3",
+   "t": "h2",
    "text": "Moisture-Protecting Properties"
   },
   {
@@ -139,6 +139,7 @@
  "lastmod": "2025-07-23",
  "fixes": [
   "Added the post title as the H1 (live post had none)",
-  "Dropped stock photos (rule 7)"
+  "Dropped stock photos (rule 7)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ]
 }

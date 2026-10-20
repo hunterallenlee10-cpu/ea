@@ -1,6 +1,7 @@
 {
  "/": [
-  "\"keep the Eastside of colorful\" → \"keep the Eastside colorful\""
+  "\"keep the Eastside of colorful\" → \"keep the Eastside colorful\"",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/about": [
   "\"keep the Eastside of colorful\" → \"keep the Eastside colorful\""
@@ -13,16 +14,24 @@
   "Business name \"E&A Pro Painters\" → \"EA Pro Painters\""
  ],
  "/portfolio": [],
- "/blog": [],
+ "/blog": [
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
+ ],
  "/contact": [
-  "Live H1 was the review widget heading; the page's first heading is now the H1"
+  "Live H1 was the review widget heading; the page's first heading is now the H1",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/estimate": [],
- "/interior-painting": [],
- "/exterior-painting": [
-  "Second H1 demoted to H2"
+ "/interior-painting": [
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
- "/commercial-painting": [],
+ "/exterior-painting": [
+  "Second H1 demoted to H2",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
+ ],
+ "/commercial-painting": [
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
+ ],
  "/cabinet-painting": [],
  "/custom-painting": [
   "Internal link /painting-company/kirkland → /kirkland (skips a redirect)"
@@ -43,16 +52,22 @@
   "Second H1 demoted to H2",
   "Internal link /commercial → /commercial-painting (skips a redirect)"
  ],
- "/painting-company/everett": [],
+ "/painting-company/everett": [
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
+ ],
  "/painting-company/issaquah": [],
  "/painting-company/juanita": [
   "Removed broken my.duda.co link (text kept)"
  ],
  "/painting-company/kenmore": [],
- "/painting-company/lynnwood": [],
+ "/painting-company/lynnwood": [
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
+ ],
  "/painting-company/medina": [],
  "/painting-company/mercer-island": [],
- "/painting-company/mill-creek": [],
+ "/painting-company/mill-creek": [
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
+ ],
  "/painting-company/monroe": [
   "Second H1 demoted to H2"
  ],
@@ -72,9 +87,12 @@
  "/painting-company/snohomish": [
   "Typo \"Snohmish\" → \"Snohomish\""
  ],
- "/painting-company/snoqualmie": [],
+ "/painting-company/snoqualmie": [
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
+ ],
  "/painting-company/woodinville": [
-  "Business name \"EA Pro Painting\" → \"EA Pro Painters\""
+  "Business name \"EA Pro Painting\" → \"EA Pro Painters\"",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/5-signs-time-to-repaint": [
   "Added the post title as the H1 (live post had none)",
@@ -90,19 +108,23 @@
  ],
  "/deck-staining-vs-painting-which-is-best-for-your-outdoor-space": [
   "Added the post title as the H1 (live post had none)",
-  "Dropped stock photos (rule 7)"
+  "Dropped stock photos (rule 7)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting": [
   "Added the post title as the H1 (live post had none)",
-  "Dropped stock photos (rule 7)"
+  "Dropped stock photos (rule 7)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/top-5-trending-exterior-paint-colors-for-washington-homes-in-2025": [
   "Added the post title as the H1 (live post had none)",
-  "Dropped stock photos (rule 7)"
+  "Dropped stock photos (rule 7)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/how-to-choose-weather-resistant-colors": [
   "Added the post title as the H1 (live post had none)",
-  "Dropped stock photos (rule 7)"
+  "Dropped stock photos (rule 7)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/interior-color-trends-for-seattle-home": [
   "Added the post title as the H1 (live post had none)",
@@ -115,62 +137,77 @@
   "Post body H1 demoted to H2; post title is the H1"
  ],
  "/benefits-of-hiring-professional-painters": [
-  "Added the post title as the H1 (live post had none)"
+  "Added the post title as the H1 (live post had none)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/seasonal-painting-tips-when-is-the-best-time-to-paint": [
-  "Added the post title as the H1 (live post had none)"
+  "Added the post title as the H1 (live post had none)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks": [
   "Added the post title as the H1 (live post had none)",
   "Dropped stock photos (rule 7)",
-  "Internal link /step-by-step-guide-to-interior-painting-make-your-home-look-like-a-pro-s-work → /blog/step-by-step-guide-to-interior-painting (skips a redirect)"
+  "Internal link /step-by-step-guide-to-interior-painting-make-your-home-look-like-a-pro-s-work → /blog/step-by-step-guide-to-interior-painting (skips a redirect)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/understanding-paint-types-which-is-best-for-your-project": [
   "Added the post title as the H1 (live post had none)",
-  "Dropped stock photos (rule 7)"
+  "Dropped stock photos (rule 7)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish": [
   "Added the post title as the H1 (live post had none)",
-  "Internal link /step-by-step-guide-to-interior-painting-make-your-home-look-like-a-pro-s-work → /blog/step-by-step-guide-to-interior-painting (skips a redirect)"
+  "Internal link /step-by-step-guide-to-interior-painting-make-your-home-look-like-a-pro-s-work → /blog/step-by-step-guide-to-interior-painting (skips a redirect)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/revamping-your-office-space-the-impact-of-professional-painting": [
   "Added the post title as the H1 (live post had none)",
-  "Dropped stock photos (rule 7)"
+  "Dropped stock photos (rule 7)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/blog/step-by-step-guide-to-interior-painting": [
   "Added the post title as the H1 (live post had none)",
   "Dropped stock photos (rule 7)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)",
   "Meta description was missing on the live page; new one written from the first paragraph"
  ],
  "/the-benefits-of-hiring-professional-painters-vs-diy": [
-  "Added the post title as the H1 (live post had none)"
+  "Added the post title as the H1 (live post had none)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/top-10-tips-for-painting-your-home-in-the-winter": [
   "Added the post title as the H1 (live post had none)",
-  "Business name \"EA Pro Painting\" → \"EA Pro Painters\""
+  "Business name \"EA Pro Painting\" → \"EA Pro Painters\"",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/how-to-maintain-your-painted-surfaces-for-long-lasting-beauty": [
   "Added the post title as the H1 (live post had none)",
   "Dropped stock photos (rule 7)",
   "Business name \"EA Pro Painting\" → \"EA Pro Painters\"",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)",
   "Meta description was missing on the live page; new one written from the first paragraph"
  ],
  "/5-signs-its-time-to-refresh-your-homes-exterior": [
   "Added the post title as the H1 (live post had none)",
-  "Dropped stock photos (rule 7)"
+  "Dropped stock photos (rule 7)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/importance-of-quality-paint-against-weather-damage": [
   "Added the post title as the H1 (live post had none)",
-  "Dropped stock photos (rule 7)"
+  "Dropped stock photos (rule 7)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces": [
-  "Added the post title as the H1 (live post had none)"
+  "Added the post title as the H1 (live post had none)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/transform-your-homes-curb-appeal-top-color-trends-for-2024": [
-  "Added the post title as the H1 (live post had none)"
+  "Added the post title as the H1 (live post had none)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects": [
-  "Added the post title as the H1 (live post had none)"
+  "Added the post title as the H1 (live post had none)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ],
  "/success": [
   "Live H1 was the review widget heading; the page's first heading is now the H1"
@@ -180,6 +217,7 @@
  ],
  "/recommended-companies": [
   "Business name \"EA Pro Painting\" → \"EA Pro Painters\"",
-  "Internal link /home-old → / (skips a redirect)"
+  "Internal link /home-old → / (skips a redirect)",
+  "Heading levels adjusted so none are skipped (structure only, text unchanged)"
  ]
 }

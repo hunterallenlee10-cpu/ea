@@ -19,11 +19,6 @@
  "h1": "Edmonds Painters – Experts in Residential & Commercial Painting",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "photo",
    "id": "blue-farmhouse-exterior-white-porch"
   },
@@ -34,7 +29,7 @@
   {
    "t": "p",
    "text": "Edmonds, WA, is a beautiful and scenic town across Puget Sound. While its seaside location makes it an excellent place for families and new businesses, there’s a chance that humidity can do a number on your painted surfaces.",
-   "html": "<strong>Edmonds, WA, is a beautiful and scenic town across Puget Sound. While its seaside location makes it an excellent place for families and new businesses, there’s a chance that humidity can do a number on your painted surfaces.</strong>"
+   "html": "Edmonds, WA, is a beautiful and scenic town across Puget Sound. While its seaside location makes it an excellent place for families and new businesses, there’s a chance that humidity can do a number on your painted surfaces."
   },
   {
    "t": "p",

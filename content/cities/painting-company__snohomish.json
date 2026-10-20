@@ -19,11 +19,6 @@
  "h1": "Snohomish Painters – Residential & Commercial Painting",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "photo",
    "id": "blue-farmhouse-exterior-white-porch"
   },

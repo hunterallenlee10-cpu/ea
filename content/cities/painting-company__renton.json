@@ -19,11 +19,6 @@
  "h1": "Renton Painting Services – Local Painters for Homes & Businesses",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "h2",
    "text": "Renton Residential and Commercial Painting Professionals"
   },

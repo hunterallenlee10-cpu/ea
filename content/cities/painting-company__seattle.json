@@ -19,11 +19,6 @@
  "h1": "Seattle Painters – Interior & Commercial Painting Services",
  "nodes": [
   {
-   "t": "cta",
-   "label": "Get a Free Estimate",
-   "href": "/estimate"
-  },
-  {
    "t": "h2",
    "text": "Your Expert Seattle Painters: Seattle Commercial & Interior Painting"
   },
