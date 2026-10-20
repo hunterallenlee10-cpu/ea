@@ -16,7 +16,8 @@ const fraunces = Fraunces({
   subsets: ["latin"],
   variable: "--font-fraunces",
   display: "swap",
-  axes: ["opsz", "SOFT"],
+  // One static weight (normal + italic) instead of the variable font with extra axes: ~60% smaller.
+  weight: "400",
   style: ["normal", "italic"],
 });
 

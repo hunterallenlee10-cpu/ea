@@ -66,7 +66,7 @@ export function PostTemplate({ c }: { c: PageContent }) {
         </header>
         <div className="bg-bg pb-20 pt-12">
           <div className="container-x max-w-[44rem] text-[18px] [&_h2]:mt-14 [&_h3]:mt-12">
-            <Nodes nodes={c.nodes} ctx={{ path: c.path }} />
+            <Nodes nodes={c.nodes} ctx={{ path: c.path, base: 1 }} />
             <InlineCta index={c.path.length} />
           </div>
         </div>

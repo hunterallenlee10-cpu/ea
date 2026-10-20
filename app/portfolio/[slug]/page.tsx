@@ -90,7 +90,9 @@ export default async function ProjectPage({ params }: Props) {
               sizes="(min-width: 1216px) 1152px, 100vw"
               className="aspect-[16/9] w-full rounded-ui object-cover"
             />
-            <figcaption className="mt-3 text-[13px] text-muted">{cover.alt}</figcaption>
+            <figcaption className="mt-3 text-[13px] text-muted">
+              {cover.job} · {cover.town ?? <Ph>CONFIRM: town</Ph>}
+            </figcaption>
           </figure>
         )}
       </section>
@@ -128,7 +130,9 @@ export default async function ProjectPage({ params }: Props) {
                 <li key={ph.id}>
                   <figure>
                     <Image src={ph.src} alt={ph.alt} width={ph.width} height={ph.height} sizes="(min-width:640px) 50vw, 100vw" className="aspect-[4/3] w-full rounded-ui object-cover" />
-                    <figcaption className="mt-3 text-[13px] text-muted">{ph.alt}</figcaption>
+                    <figcaption className="mt-3 text-[13px] text-muted">
+                      {ph.job} · {ph.town ?? <Ph>CONFIRM: town</Ph>}
+                    </figcaption>
                   </figure>
                 </li>
               ))}

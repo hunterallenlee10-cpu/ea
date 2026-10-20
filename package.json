@@ -14,6 +14,7 @@
     "react-dom": "19.3.0"
   },
   "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
     "@tailwindcss/turbopack": "^4",
     "@types/node": "^20.19.43",
     "@types/react": "^19",
@@ -21,6 +22,7 @@
     "cheerio": "^1.2.0",
     "eslint": "^9",
     "eslint-config-next": "16.4.2",
+    "lighthouse": "^13.5.0",
     "playwright": "^1.56.1",
     "tailwindcss": "^4",
     "tsx": "^4.23.15",

@@ -17,7 +17,7 @@ export function HomeHero() {
           <p className="eyebrow text-accent">{HERO.eyebrow}</p>
           <h1 className="display mt-5 text-[clamp(2.5rem,5.2vw,4.6rem)] text-ink">
             The Eastside’s top-rated painting company, with a{" "}
-            <em className="italic text-accent [font-variation-settings:'SOFT'_100]">4-year warranty</em>.
+            <em className="italic text-accent">4-year warranty</em>.
           </h1>
           <p className="mt-6 max-w-[38rem] text-[18px] leading-relaxed text-muted md:text-[19px]">{HERO.lead}</p>
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
@@ -53,7 +53,7 @@ export function HomeHero() {
               alt={main.alt}
               width={main.width}
               height={main.height}
-              priority
+              loading="eager"
               fetchPriority="high"
               sizes="(min-width: 1024px) 40vw, 100vw"
               className="aspect-[4/5] w-full rounded-ui object-cover"

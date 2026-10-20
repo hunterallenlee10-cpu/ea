@@ -54,7 +54,7 @@ export function ServiceTemplate({ c }: { c: PageContent }) {
       {intro.length > 0 && (
         <section className="border-t border-line bg-bg py-14 lg:py-20">
           <div className="container-x max-w-[50rem]">
-            <Nodes nodes={intro} ctx={{ path: c.path }} />
+            <Nodes nodes={intro} ctx={{ path: c.path, base: 1 }} />
           </div>
         </section>
       )}

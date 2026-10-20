@@ -45,7 +45,8 @@ next-env.d.ts
 /audit/html/
 /audit/screens/
 
-# QA output
-/qa-report/
+# QA output: keep summary.md and report.json, not screenshots or raw Lighthouse runs
+/qa-report/screens/
+/qa-report/lh-*.json
 /audit/images-original/
 /audit/video/

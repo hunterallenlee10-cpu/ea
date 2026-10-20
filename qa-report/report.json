@@ -1,0 +1,4712 @@
+{
+  "base": "http://localhost:3100",
+  "mode": "spec",
+  "pages": 81,
+  "placeholders": 1318,
+  "placeholderPages": {
+    "/": 24,
+    "/about": 14,
+    "/services": 26,
+    "/faqs": 8,
+    "/portfolio": 10,
+    "/contact": 3,
+    "/estimate": 4,
+    "/interior-painting": 30,
+    "/exterior-painting": 36,
+    "/commercial-painting": 28,
+    "/cabinet-painting": 38,
+    "/custom-painting": 36,
+    "/millwork-painting": 24,
+    "/drywall-painting": 30,
+    "/decks-and-fences-painting": 38,
+    "/hoa": 22,
+    "/kirkland": 42,
+    "/painting-company/bellevue": 30,
+    "/painting-company/bothell": 26,
+    "/painting-company/clyde-hill": 32,
+    "/painting-company/edmonds": 26,
+    "/painting-company/everett": 24,
+    "/painting-company/issaquah": 26,
+    "/painting-company/juanita": 24,
+    "/painting-company/kenmore": 26,
+    "/painting-company/lynnwood": 22,
+    "/painting-company/medina": 34,
+    "/painting-company/mercer-island": 31,
+    "/painting-company/mill-creek": 34,
+    "/painting-company/monroe": 22,
+    "/painting-company/newcastle": 26,
+    "/painting-company/redmond": 30,
+    "/painting-company/renton": 28,
+    "/painting-company/sammamish": 30,
+    "/painting-company/seattle": 22,
+    "/painting-company/shoreline": 22,
+    "/painting-company/snohomish": 26,
+    "/painting-company/snoqualmie": 28,
+    "/painting-company/woodinville": 32,
+    "/5-signs-time-to-repaint": 4,
+    "/summer-exterior-painting-makeover": 4,
+    "/choose-the-best-paint-colors-for-your-home-2025": 4,
+    "/deck-staining-vs-painting-which-is-best-for-your-outdoor-space": 4,
+    "/the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting": 4,
+    "/top-5-trending-exterior-paint-colors-for-washington-homes-in-2025": 4,
+    "/how-to-choose-weather-resistant-colors": 4,
+    "/interior-color-trends-for-seattle-home": 4,
+    "/eco-friendly-painting-options": 6,
+    "/commercial-painting-in-bellevue-minimize-disruption": 6,
+    "/benefits-of-hiring-professional-painters": 6,
+    "/seasonal-painting-tips-when-is-the-best-time-to-paint": 6,
+    "/preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks": 4,
+    "/understanding-paint-types-which-is-best-for-your-project": 4,
+    "/creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish": 4,
+    "/revamping-your-office-space-the-impact-of-professional-painting": 4,
+    "/blog/step-by-step-guide-to-interior-painting": 4,
+    "/the-benefits-of-hiring-professional-painters-vs-diy": 4,
+    "/top-10-tips-for-painting-your-home-in-the-winter": 4,
+    "/how-to-maintain-your-painted-surfaces-for-long-lasting-beauty": 4,
+    "/5-signs-its-time-to-refresh-your-homes-exterior": 4,
+    "/importance-of-quality-paint-against-weather-damage": 4,
+    "/ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces": 4,
+    "/transform-your-homes-curb-appeal-top-color-trends-for-2024": 4,
+    "/the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects": 6,
+    "/welcome": 2,
+    "/privacy": 6,
+    "/terms": 6,
+    "/portfolio/commercial-building-exterior-repaint": 24,
+    "/portfolio/modern-cedar-and-stucco-home-exterior": 24,
+    "/portfolio/kitchen-cabinet-painting-oak-to-white": 24,
+    "/portfolio/navy-blue-home-exterior": 22,
+    "/portfolio/covered-deck-staining": 20,
+    "/portfolio/storefront-commercial-painting": 24,
+    "/portfolio/brick-and-gray-siding-home-exterior": 22,
+    "/portfolio/interior-staircase-and-millwork": 20
+  },
+  "titleDiffs": [],
+  "lighthouse": {
+    "/": {
+      "performance": 94,
+      "accessibility": 100,
+      "bestPractices": 100,
+      "seo": 100,
+      "lcpMs": 3017,
+      "tbtMs": 98,
+      "cls": 0
+    },
+    "/estimate": {
+      "performance": 98,
+      "accessibility": 100,
+      "bestPractices": 100,
+      "seo": 100,
+      "lcpMs": 2163,
+      "tbtMs": 79,
+      "cls": 0
+    },
+    "/painting-company/bellevue": {
+      "performance": 94,
+      "accessibility": 100,
+      "bestPractices": 100,
+      "seo": 100,
+      "lcpMs": 2989,
+      "tbtMs": 101,
+      "cls": 0
+    },
+    "/interior-painting": {
+      "performance": 94,
+      "accessibility": 100,
+      "bestPractices": 100,
+      "seo": 100,
+      "lcpMs": 2880,
+      "tbtMs": 141,
+      "cls": 0
+    }
+  },
+  "axe": {
+    "/": [],
+    "/about": [],
+    "/services": [],
+    "/faqs": [],
+    "/portfolio": [],
+    "/blog": [],
+    "/contact": [],
+    "/estimate": [],
+    "/interior-painting": [],
+    "/exterior-painting": [],
+    "/commercial-painting": [],
+    "/cabinet-painting": [],
+    "/custom-painting": [],
+    "/millwork-painting": [],
+    "/drywall-painting": [],
+    "/decks-and-fences-painting": [],
+    "/hoa": [],
+    "/kirkland": [],
+    "/painting-company/bellevue": [],
+    "/painting-company/bothell": [],
+    "/painting-company/clyde-hill": [],
+    "/painting-company/edmonds": [],
+    "/painting-company/everett": [],
+    "/painting-company/issaquah": [],
+    "/painting-company/juanita": [],
+    "/painting-company/kenmore": [],
+    "/painting-company/lynnwood": [],
+    "/painting-company/medina": [],
+    "/painting-company/mercer-island": [],
+    "/painting-company/mill-creek": [],
+    "/painting-company/monroe": [],
+    "/painting-company/newcastle": [],
+    "/painting-company/redmond": [],
+    "/painting-company/renton": [],
+    "/painting-company/sammamish": [],
+    "/painting-company/seattle": [],
+    "/painting-company/shoreline": [],
+    "/painting-company/snohomish": [],
+    "/painting-company/snoqualmie": [],
+    "/painting-company/woodinville": [],
+    "/5-signs-time-to-repaint": [],
+    "/summer-exterior-painting-makeover": [],
+    "/choose-the-best-paint-colors-for-your-home-2025": [],
+    "/deck-staining-vs-painting-which-is-best-for-your-outdoor-space": [],
+    "/the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting": [],
+    "/top-5-trending-exterior-paint-colors-for-washington-homes-in-2025": [],
+    "/how-to-choose-weather-resistant-colors": [],
+    "/interior-color-trends-for-seattle-home": [],
+    "/eco-friendly-painting-options": [],
+    "/commercial-painting-in-bellevue-minimize-disruption": [],
+    "/benefits-of-hiring-professional-painters": [],
+    "/seasonal-painting-tips-when-is-the-best-time-to-paint": [],
+    "/preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks": [],
+    "/understanding-paint-types-which-is-best-for-your-project": [],
+    "/creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish": [],
+    "/revamping-your-office-space-the-impact-of-professional-painting": [],
+    "/blog/step-by-step-guide-to-interior-painting": [],
+    "/the-benefits-of-hiring-professional-painters-vs-diy": [],
+    "/top-10-tips-for-painting-your-home-in-the-winter": [],
+    "/how-to-maintain-your-painted-surfaces-for-long-lasting-beauty": [],
+    "/5-signs-its-time-to-refresh-your-homes-exterior": [],
+    "/importance-of-quality-paint-against-weather-damage": [],
+    "/ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces": [],
+    "/transform-your-homes-curb-appeal-top-color-trends-for-2024": [],
+    "/the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects": [],
+    "/success": [],
+    "/welcome": [],
+    "/recommended-companies": [],
+    "/painting-company": [],
+    "/privacy": [],
+    "/terms": [],
+    "/portfolio/commercial-building-exterior-repaint": [],
+    "/portfolio/modern-cedar-and-stucco-home-exterior": [],
+    "/portfolio/kitchen-cabinet-painting-oak-to-white": [],
+    "/portfolio/navy-blue-home-exterior": [],
+    "/portfolio/covered-deck-staining": [],
+    "/portfolio/storefront-commercial-painting": [],
+    "/portfolio/brick-and-gray-siding-home-exterior": [],
+    "/portfolio/interior-staircase-and-millwork": [],
+    "/blog/page/2": [],
+    "/blog/page/3": []
+  },
+  "results": [
+    {
+      "check": "200 /",
+      "ok": true
+    },
+    {
+      "check": "200 /about",
+      "ok": true
+    },
+    {
+      "check": "200 /services",
+      "ok": true
+    },
+    {
+      "check": "200 /faqs",
+      "ok": true
+    },
+    {
+      "check": "200 /portfolio",
+      "ok": true
+    },
+    {
+      "check": "200 /blog",
+      "ok": true
+    },
+    {
+      "check": "200 /contact",
+      "ok": true
+    },
+    {
+      "check": "200 /estimate",
+      "ok": true
+    },
+    {
+      "check": "200 /interior-painting",
+      "ok": true
+    },
+    {
+      "check": "200 /exterior-painting",
+      "ok": true
+    },
+    {
+      "check": "200 /commercial-painting",
+      "ok": true
+    },
+    {
+      "check": "200 /cabinet-painting",
+      "ok": true
+    },
+    {
+      "check": "200 /custom-painting",
+      "ok": true
+    },
+    {
+      "check": "200 /millwork-painting",
+      "ok": true
+    },
+    {
+      "check": "200 /drywall-painting",
+      "ok": true
+    },
+    {
+      "check": "200 /decks-and-fences-painting",
+      "ok": true
+    },
+    {
+      "check": "200 /hoa",
+      "ok": true
+    },
+    {
+      "check": "200 /kirkland",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/bellevue",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/bothell",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/clyde-hill",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/edmonds",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/everett",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/issaquah",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/juanita",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/kenmore",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/lynnwood",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/medina",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/mercer-island",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/mill-creek",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/monroe",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/newcastle",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/redmond",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/renton",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/sammamish",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/seattle",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/shoreline",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/snohomish",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/snoqualmie",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company/woodinville",
+      "ok": true
+    },
+    {
+      "check": "200 /5-signs-time-to-repaint",
+      "ok": true
+    },
+    {
+      "check": "200 /summer-exterior-painting-makeover",
+      "ok": true
+    },
+    {
+      "check": "200 /choose-the-best-paint-colors-for-your-home-2025",
+      "ok": true
+    },
+    {
+      "check": "200 /deck-staining-vs-painting-which-is-best-for-your-outdoor-space",
+      "ok": true
+    },
+    {
+      "check": "200 /the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting",
+      "ok": true
+    },
+    {
+      "check": "200 /top-5-trending-exterior-paint-colors-for-washington-homes-in-2025",
+      "ok": true
+    },
+    {
+      "check": "200 /how-to-choose-weather-resistant-colors",
+      "ok": true
+    },
+    {
+      "check": "200 /interior-color-trends-for-seattle-home",
+      "ok": true
+    },
+    {
+      "check": "200 /eco-friendly-painting-options",
+      "ok": true
+    },
+    {
+      "check": "200 /commercial-painting-in-bellevue-minimize-disruption",
+      "ok": true
+    },
+    {
+      "check": "200 /benefits-of-hiring-professional-painters",
+      "ok": true
+    },
+    {
+      "check": "200 /seasonal-painting-tips-when-is-the-best-time-to-paint",
+      "ok": true
+    },
+    {
+      "check": "200 /preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks",
+      "ok": true
+    },
+    {
+      "check": "200 /understanding-paint-types-which-is-best-for-your-project",
+      "ok": true
+    },
+    {
+      "check": "200 /creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish",
+      "ok": true
+    },
+    {
+      "check": "200 /revamping-your-office-space-the-impact-of-professional-painting",
+      "ok": true
+    },
+    {
+      "check": "200 /blog/step-by-step-guide-to-interior-painting",
+      "ok": true
+    },
+    {
+      "check": "200 /the-benefits-of-hiring-professional-painters-vs-diy",
+      "ok": true
+    },
+    {
+      "check": "200 /top-10-tips-for-painting-your-home-in-the-winter",
+      "ok": true
+    },
+    {
+      "check": "200 /how-to-maintain-your-painted-surfaces-for-long-lasting-beauty",
+      "ok": true
+    },
+    {
+      "check": "200 /5-signs-its-time-to-refresh-your-homes-exterior",
+      "ok": true
+    },
+    {
+      "check": "200 /importance-of-quality-paint-against-weather-damage",
+      "ok": true
+    },
+    {
+      "check": "200 /ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces",
+      "ok": true
+    },
+    {
+      "check": "200 /transform-your-homes-curb-appeal-top-color-trends-for-2024",
+      "ok": true
+    },
+    {
+      "check": "200 /the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects",
+      "ok": true
+    },
+    {
+      "check": "200 /success",
+      "ok": true
+    },
+    {
+      "check": "200 /welcome",
+      "ok": true
+    },
+    {
+      "check": "200 /recommended-companies",
+      "ok": true
+    },
+    {
+      "check": "200 /painting-company",
+      "ok": true
+    },
+    {
+      "check": "200 /privacy",
+      "ok": true
+    },
+    {
+      "check": "200 /terms",
+      "ok": true
+    },
+    {
+      "check": "200 /portfolio/commercial-building-exterior-repaint",
+      "ok": true
+    },
+    {
+      "check": "200 /portfolio/modern-cedar-and-stucco-home-exterior",
+      "ok": true
+    },
+    {
+      "check": "200 /portfolio/kitchen-cabinet-painting-oak-to-white",
+      "ok": true
+    },
+    {
+      "check": "200 /portfolio/navy-blue-home-exterior",
+      "ok": true
+    },
+    {
+      "check": "200 /portfolio/covered-deck-staining",
+      "ok": true
+    },
+    {
+      "check": "200 /portfolio/storefront-commercial-painting",
+      "ok": true
+    },
+    {
+      "check": "200 /portfolio/brick-and-gray-siding-home-exterior",
+      "ok": true
+    },
+    {
+      "check": "200 /portfolio/interior-staircase-and-millwork",
+      "ok": true
+    },
+    {
+      "check": "200 /blog/page/2",
+      "ok": true
+    },
+    {
+      "check": "200 /blog/page/3",
+      "ok": true
+    },
+    {
+      "check": "redirect /home → /",
+      "ok": true
+    },
+    {
+      "check": "redirect /home-old → /",
+      "ok": true
+    },
+    {
+      "check": "redirect /commercial → /commercial-painting",
+      "ok": true
+    },
+    {
+      "check": "redirect /painting-company/kirkland → /kirkland",
+      "ok": true
+    },
+    {
+      "check": "redirect /step-by-step-guide-to-interior-painting-make-your-home-look-like-a-pro-s-work → /blog/step-by-step-guide-to-interior-painting",
+      "ok": true
+    },
+    {
+      "check": "redirect /commercial-painting-in-bellevue-how-to-minimize-business-disruption-during-renovations → /commercial-painting-in-bellevue-minimize-disruption",
+      "ok": true
+    },
+    {
+      "check": "redirect /eco-friendly-painting-options-for-environmentally-conscious-homeowners-in-kirkland → /eco-friendly-painting-options",
+      "ok": true
+    },
+    {
+      "check": "redirect /interior-color-trends-for-seattle-homes-balancing-modern-style-with-natural-light → /interior-color-trends-for-seattle-home",
+      "ok": true
+    },
+    {
+      "check": "redirect /Home → /",
+      "ok": true
+    },
+    {
+      "check": "redirect /About → /about",
+      "ok": true
+    },
+    {
+      "check": "redirect /Painting-Company/Kirkland?gclid=AbC → /kirkland?gclid=AbC",
+      "ok": true
+    },
+    {
+      "check": "redirect /about/ → /about",
+      "ok": true
+    },
+    {
+      "check": "redirect /HOME-OLD?utm_source=x&utm_medium=y → /?utm_source=x&utm_medium=y",
+      "ok": true
+    },
+    {
+      "check": "redirect /Painting-Company/Bellevue/?gclid=Z1 → /painting-company/bellevue?gclid=Z1",
+      "ok": true
+    },
+    {
+      "check": "canonical /",
+      "ok": true,
+      "detail": "https://www.eapropainters.com"
+    },
+    {
+      "check": "one H1 /",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /",
+      "ok": true
+    },
+    {
+      "check": "canonical /about",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/about"
+    },
+    {
+      "check": "one H1 /about",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /about",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /about",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /about",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /about",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /about",
+      "ok": true
+    },
+    {
+      "check": "canonical /services",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/services"
+    },
+    {
+      "check": "one H1 /services",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /services",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /services",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /services",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /services",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /services",
+      "ok": true
+    },
+    {
+      "check": "canonical /faqs",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/faqs"
+    },
+    {
+      "check": "one H1 /faqs",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /faqs",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /faqs",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /faqs",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /faqs",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /faqs",
+      "ok": true
+    },
+    {
+      "check": "canonical /portfolio",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/portfolio"
+    },
+    {
+      "check": "one H1 /portfolio",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /portfolio",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /portfolio",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /portfolio",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /portfolio",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /portfolio",
+      "ok": true
+    },
+    {
+      "check": "canonical /blog",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/blog"
+    },
+    {
+      "check": "one H1 /blog",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /blog",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /blog",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /blog",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /blog",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /blog",
+      "ok": true
+    },
+    {
+      "check": "canonical /contact",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/contact"
+    },
+    {
+      "check": "one H1 /contact",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /contact",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /contact",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /contact",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /contact",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /contact",
+      "ok": true
+    },
+    {
+      "check": "canonical /estimate",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/estimate"
+    },
+    {
+      "check": "one H1 /estimate",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /estimate",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /estimate",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /estimate",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /estimate",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /estimate",
+      "ok": true
+    },
+    {
+      "check": "canonical /interior-painting",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/interior-painting"
+    },
+    {
+      "check": "one H1 /interior-painting",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /interior-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /interior-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /interior-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /interior-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /interior-painting",
+      "ok": true
+    },
+    {
+      "check": "canonical /exterior-painting",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/exterior-painting"
+    },
+    {
+      "check": "one H1 /exterior-painting",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /exterior-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /exterior-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /exterior-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /exterior-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /exterior-painting",
+      "ok": true
+    },
+    {
+      "check": "canonical /commercial-painting",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/commercial-painting"
+    },
+    {
+      "check": "one H1 /commercial-painting",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /commercial-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /commercial-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /commercial-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /commercial-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /commercial-painting",
+      "ok": true
+    },
+    {
+      "check": "canonical /cabinet-painting",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/cabinet-painting"
+    },
+    {
+      "check": "one H1 /cabinet-painting",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /cabinet-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /cabinet-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /cabinet-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /cabinet-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /cabinet-painting",
+      "ok": true
+    },
+    {
+      "check": "canonical /custom-painting",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/custom-painting"
+    },
+    {
+      "check": "one H1 /custom-painting",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /custom-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /custom-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /custom-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /custom-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /custom-painting",
+      "ok": true
+    },
+    {
+      "check": "canonical /millwork-painting",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/millwork-painting"
+    },
+    {
+      "check": "one H1 /millwork-painting",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /millwork-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /millwork-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /millwork-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /millwork-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /millwork-painting",
+      "ok": true
+    },
+    {
+      "check": "canonical /drywall-painting",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/drywall-painting"
+    },
+    {
+      "check": "one H1 /drywall-painting",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /drywall-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /drywall-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /drywall-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /drywall-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /drywall-painting",
+      "ok": true
+    },
+    {
+      "check": "canonical /decks-and-fences-painting",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/decks-and-fences-painting"
+    },
+    {
+      "check": "one H1 /decks-and-fences-painting",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /decks-and-fences-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /decks-and-fences-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /decks-and-fences-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /decks-and-fences-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /decks-and-fences-painting",
+      "ok": true
+    },
+    {
+      "check": "canonical /hoa",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/hoa"
+    },
+    {
+      "check": "one H1 /hoa",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /hoa",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /hoa",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /hoa",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /hoa",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /hoa",
+      "ok": true
+    },
+    {
+      "check": "canonical /kirkland",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/kirkland"
+    },
+    {
+      "check": "one H1 /kirkland",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /kirkland",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /kirkland",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /kirkland",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /kirkland",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /kirkland",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/bellevue",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/bellevue"
+    },
+    {
+      "check": "one H1 /painting-company/bellevue",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/bellevue",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/bellevue",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/bellevue",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/bellevue",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/bellevue",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/bothell",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/bothell"
+    },
+    {
+      "check": "one H1 /painting-company/bothell",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/bothell",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/bothell",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/bothell",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/bothell",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/bothell",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/clyde-hill",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/clyde-hill"
+    },
+    {
+      "check": "one H1 /painting-company/clyde-hill",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/clyde-hill",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/clyde-hill",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/clyde-hill",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/clyde-hill",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/clyde-hill",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/edmonds",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/edmonds"
+    },
+    {
+      "check": "one H1 /painting-company/edmonds",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/edmonds",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/edmonds",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/edmonds",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/edmonds",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/edmonds",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/everett",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/everett"
+    },
+    {
+      "check": "one H1 /painting-company/everett",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/everett",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/everett",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/everett",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/everett",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/everett",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/issaquah",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/issaquah"
+    },
+    {
+      "check": "one H1 /painting-company/issaquah",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/issaquah",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/issaquah",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/issaquah",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/issaquah",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/issaquah",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/juanita",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/juanita"
+    },
+    {
+      "check": "one H1 /painting-company/juanita",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/juanita",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/juanita",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/juanita",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/juanita",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/juanita",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/kenmore",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/kenmore"
+    },
+    {
+      "check": "one H1 /painting-company/kenmore",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/kenmore",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/kenmore",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/kenmore",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/kenmore",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/kenmore",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/lynnwood",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/lynnwood"
+    },
+    {
+      "check": "one H1 /painting-company/lynnwood",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/lynnwood",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/lynnwood",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/lynnwood",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/lynnwood",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/lynnwood",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/medina",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/medina"
+    },
+    {
+      "check": "one H1 /painting-company/medina",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/medina",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/medina",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/medina",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/medina",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/medina",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/mercer-island",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/mercer-island"
+    },
+    {
+      "check": "one H1 /painting-company/mercer-island",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/mercer-island",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/mercer-island",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/mercer-island",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/mercer-island",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/mercer-island",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/mill-creek",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/mill-creek"
+    },
+    {
+      "check": "one H1 /painting-company/mill-creek",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/mill-creek",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/mill-creek",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/mill-creek",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/mill-creek",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/mill-creek",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/monroe",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/monroe"
+    },
+    {
+      "check": "one H1 /painting-company/monroe",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/monroe",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/monroe",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/monroe",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/monroe",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/monroe",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/newcastle",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/newcastle"
+    },
+    {
+      "check": "one H1 /painting-company/newcastle",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/newcastle",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/newcastle",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/newcastle",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/newcastle",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/newcastle",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/redmond",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/redmond"
+    },
+    {
+      "check": "one H1 /painting-company/redmond",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/redmond",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/redmond",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/redmond",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/redmond",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/redmond",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/renton",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/renton"
+    },
+    {
+      "check": "one H1 /painting-company/renton",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/renton",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/renton",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/renton",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/renton",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/renton",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/sammamish",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/sammamish"
+    },
+    {
+      "check": "one H1 /painting-company/sammamish",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/sammamish",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/sammamish",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/sammamish",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/sammamish",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/sammamish",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/seattle",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/seattle"
+    },
+    {
+      "check": "one H1 /painting-company/seattle",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/seattle",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/seattle",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/seattle",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/seattle",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/seattle",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/shoreline",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/shoreline"
+    },
+    {
+      "check": "one H1 /painting-company/shoreline",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/shoreline",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/shoreline",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/shoreline",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/shoreline",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/shoreline",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/snohomish",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/snohomish"
+    },
+    {
+      "check": "one H1 /painting-company/snohomish",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/snohomish",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/snohomish",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/snohomish",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/snohomish",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/snohomish",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/snoqualmie",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/snoqualmie"
+    },
+    {
+      "check": "one H1 /painting-company/snoqualmie",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/snoqualmie",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/snoqualmie",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/snoqualmie",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/snoqualmie",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/snoqualmie",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company/woodinville",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company/woodinville"
+    },
+    {
+      "check": "one H1 /painting-company/woodinville",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company/woodinville",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company/woodinville",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company/woodinville",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company/woodinville",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company/woodinville",
+      "ok": true
+    },
+    {
+      "check": "canonical /5-signs-time-to-repaint",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/5-signs-time-to-repaint"
+    },
+    {
+      "check": "one H1 /5-signs-time-to-repaint",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /5-signs-time-to-repaint",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /5-signs-time-to-repaint",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /5-signs-time-to-repaint",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /5-signs-time-to-repaint",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /5-signs-time-to-repaint",
+      "ok": true
+    },
+    {
+      "check": "canonical /summer-exterior-painting-makeover",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/summer-exterior-painting-makeover"
+    },
+    {
+      "check": "one H1 /summer-exterior-painting-makeover",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /summer-exterior-painting-makeover",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /summer-exterior-painting-makeover",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /summer-exterior-painting-makeover",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /summer-exterior-painting-makeover",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /summer-exterior-painting-makeover",
+      "ok": true
+    },
+    {
+      "check": "canonical /choose-the-best-paint-colors-for-your-home-2025",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/choose-the-best-paint-colors-for-your-home-2025"
+    },
+    {
+      "check": "one H1 /choose-the-best-paint-colors-for-your-home-2025",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /choose-the-best-paint-colors-for-your-home-2025",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /choose-the-best-paint-colors-for-your-home-2025",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /choose-the-best-paint-colors-for-your-home-2025",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /choose-the-best-paint-colors-for-your-home-2025",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /choose-the-best-paint-colors-for-your-home-2025",
+      "ok": true
+    },
+    {
+      "check": "canonical /deck-staining-vs-painting-which-is-best-for-your-outdoor-space",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/deck-staining-vs-painting-which-is-best-for-your-outdoor-space"
+    },
+    {
+      "check": "one H1 /deck-staining-vs-painting-which-is-best-for-your-outdoor-space",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /deck-staining-vs-painting-which-is-best-for-your-outdoor-space",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /deck-staining-vs-painting-which-is-best-for-your-outdoor-space",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /deck-staining-vs-painting-which-is-best-for-your-outdoor-space",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /deck-staining-vs-painting-which-is-best-for-your-outdoor-space",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /deck-staining-vs-painting-which-is-best-for-your-outdoor-space",
+      "ok": true
+    },
+    {
+      "check": "canonical /the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting"
+    },
+    {
+      "check": "one H1 /the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting",
+      "ok": true
+    },
+    {
+      "check": "canonical /top-5-trending-exterior-paint-colors-for-washington-homes-in-2025",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/top-5-trending-exterior-paint-colors-for-washington-homes-in-2025"
+    },
+    {
+      "check": "one H1 /top-5-trending-exterior-paint-colors-for-washington-homes-in-2025",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /top-5-trending-exterior-paint-colors-for-washington-homes-in-2025",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /top-5-trending-exterior-paint-colors-for-washington-homes-in-2025",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /top-5-trending-exterior-paint-colors-for-washington-homes-in-2025",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /top-5-trending-exterior-paint-colors-for-washington-homes-in-2025",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /top-5-trending-exterior-paint-colors-for-washington-homes-in-2025",
+      "ok": true
+    },
+    {
+      "check": "canonical /how-to-choose-weather-resistant-colors",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/how-to-choose-weather-resistant-colors"
+    },
+    {
+      "check": "one H1 /how-to-choose-weather-resistant-colors",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /how-to-choose-weather-resistant-colors",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /how-to-choose-weather-resistant-colors",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /how-to-choose-weather-resistant-colors",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /how-to-choose-weather-resistant-colors",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /how-to-choose-weather-resistant-colors",
+      "ok": true
+    },
+    {
+      "check": "canonical /interior-color-trends-for-seattle-home",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/interior-color-trends-for-seattle-home"
+    },
+    {
+      "check": "one H1 /interior-color-trends-for-seattle-home",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /interior-color-trends-for-seattle-home",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /interior-color-trends-for-seattle-home",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /interior-color-trends-for-seattle-home",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /interior-color-trends-for-seattle-home",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /interior-color-trends-for-seattle-home",
+      "ok": true
+    },
+    {
+      "check": "canonical /eco-friendly-painting-options",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/eco-friendly-painting-options"
+    },
+    {
+      "check": "one H1 /eco-friendly-painting-options",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /eco-friendly-painting-options",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /eco-friendly-painting-options",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /eco-friendly-painting-options",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /eco-friendly-painting-options",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /eco-friendly-painting-options",
+      "ok": true
+    },
+    {
+      "check": "canonical /commercial-painting-in-bellevue-minimize-disruption",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/commercial-painting-in-bellevue-minimize-disruption"
+    },
+    {
+      "check": "one H1 /commercial-painting-in-bellevue-minimize-disruption",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /commercial-painting-in-bellevue-minimize-disruption",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /commercial-painting-in-bellevue-minimize-disruption",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /commercial-painting-in-bellevue-minimize-disruption",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /commercial-painting-in-bellevue-minimize-disruption",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /commercial-painting-in-bellevue-minimize-disruption",
+      "ok": true
+    },
+    {
+      "check": "canonical /benefits-of-hiring-professional-painters",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/benefits-of-hiring-professional-painters"
+    },
+    {
+      "check": "one H1 /benefits-of-hiring-professional-painters",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /benefits-of-hiring-professional-painters",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /benefits-of-hiring-professional-painters",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /benefits-of-hiring-professional-painters",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /benefits-of-hiring-professional-painters",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /benefits-of-hiring-professional-painters",
+      "ok": true
+    },
+    {
+      "check": "canonical /seasonal-painting-tips-when-is-the-best-time-to-paint",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/seasonal-painting-tips-when-is-the-best-time-to-paint"
+    },
+    {
+      "check": "one H1 /seasonal-painting-tips-when-is-the-best-time-to-paint",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /seasonal-painting-tips-when-is-the-best-time-to-paint",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /seasonal-painting-tips-when-is-the-best-time-to-paint",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /seasonal-painting-tips-when-is-the-best-time-to-paint",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /seasonal-painting-tips-when-is-the-best-time-to-paint",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /seasonal-painting-tips-when-is-the-best-time-to-paint",
+      "ok": true
+    },
+    {
+      "check": "canonical /preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks"
+    },
+    {
+      "check": "one H1 /preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks",
+      "ok": true
+    },
+    {
+      "check": "canonical /understanding-paint-types-which-is-best-for-your-project",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/understanding-paint-types-which-is-best-for-your-project"
+    },
+    {
+      "check": "one H1 /understanding-paint-types-which-is-best-for-your-project",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /understanding-paint-types-which-is-best-for-your-project",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /understanding-paint-types-which-is-best-for-your-project",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /understanding-paint-types-which-is-best-for-your-project",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /understanding-paint-types-which-is-best-for-your-project",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /understanding-paint-types-which-is-best-for-your-project",
+      "ok": true
+    },
+    {
+      "check": "canonical /creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish"
+    },
+    {
+      "check": "one H1 /creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish",
+      "ok": true
+    },
+    {
+      "check": "canonical /revamping-your-office-space-the-impact-of-professional-painting",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/revamping-your-office-space-the-impact-of-professional-painting"
+    },
+    {
+      "check": "one H1 /revamping-your-office-space-the-impact-of-professional-painting",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /revamping-your-office-space-the-impact-of-professional-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /revamping-your-office-space-the-impact-of-professional-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /revamping-your-office-space-the-impact-of-professional-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /revamping-your-office-space-the-impact-of-professional-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /revamping-your-office-space-the-impact-of-professional-painting",
+      "ok": true
+    },
+    {
+      "check": "canonical /blog/step-by-step-guide-to-interior-painting",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/blog/step-by-step-guide-to-interior-painting"
+    },
+    {
+      "check": "one H1 /blog/step-by-step-guide-to-interior-painting",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /blog/step-by-step-guide-to-interior-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /blog/step-by-step-guide-to-interior-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /blog/step-by-step-guide-to-interior-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /blog/step-by-step-guide-to-interior-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /blog/step-by-step-guide-to-interior-painting",
+      "ok": true
+    },
+    {
+      "check": "canonical /the-benefits-of-hiring-professional-painters-vs-diy",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/the-benefits-of-hiring-professional-painters-vs-diy"
+    },
+    {
+      "check": "one H1 /the-benefits-of-hiring-professional-painters-vs-diy",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /the-benefits-of-hiring-professional-painters-vs-diy",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /the-benefits-of-hiring-professional-painters-vs-diy",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /the-benefits-of-hiring-professional-painters-vs-diy",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /the-benefits-of-hiring-professional-painters-vs-diy",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /the-benefits-of-hiring-professional-painters-vs-diy",
+      "ok": true
+    },
+    {
+      "check": "canonical /top-10-tips-for-painting-your-home-in-the-winter",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/top-10-tips-for-painting-your-home-in-the-winter"
+    },
+    {
+      "check": "one H1 /top-10-tips-for-painting-your-home-in-the-winter",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /top-10-tips-for-painting-your-home-in-the-winter",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /top-10-tips-for-painting-your-home-in-the-winter",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /top-10-tips-for-painting-your-home-in-the-winter",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /top-10-tips-for-painting-your-home-in-the-winter",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /top-10-tips-for-painting-your-home-in-the-winter",
+      "ok": true
+    },
+    {
+      "check": "canonical /how-to-maintain-your-painted-surfaces-for-long-lasting-beauty",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/how-to-maintain-your-painted-surfaces-for-long-lasting-beauty"
+    },
+    {
+      "check": "one H1 /how-to-maintain-your-painted-surfaces-for-long-lasting-beauty",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /how-to-maintain-your-painted-surfaces-for-long-lasting-beauty",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /how-to-maintain-your-painted-surfaces-for-long-lasting-beauty",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /how-to-maintain-your-painted-surfaces-for-long-lasting-beauty",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /how-to-maintain-your-painted-surfaces-for-long-lasting-beauty",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /how-to-maintain-your-painted-surfaces-for-long-lasting-beauty",
+      "ok": true
+    },
+    {
+      "check": "canonical /5-signs-its-time-to-refresh-your-homes-exterior",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/5-signs-its-time-to-refresh-your-homes-exterior"
+    },
+    {
+      "check": "one H1 /5-signs-its-time-to-refresh-your-homes-exterior",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /5-signs-its-time-to-refresh-your-homes-exterior",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /5-signs-its-time-to-refresh-your-homes-exterior",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /5-signs-its-time-to-refresh-your-homes-exterior",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /5-signs-its-time-to-refresh-your-homes-exterior",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /5-signs-its-time-to-refresh-your-homes-exterior",
+      "ok": true
+    },
+    {
+      "check": "canonical /importance-of-quality-paint-against-weather-damage",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/importance-of-quality-paint-against-weather-damage"
+    },
+    {
+      "check": "one H1 /importance-of-quality-paint-against-weather-damage",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /importance-of-quality-paint-against-weather-damage",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /importance-of-quality-paint-against-weather-damage",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /importance-of-quality-paint-against-weather-damage",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /importance-of-quality-paint-against-weather-damage",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /importance-of-quality-paint-against-weather-damage",
+      "ok": true
+    },
+    {
+      "check": "canonical /ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces"
+    },
+    {
+      "check": "one H1 /ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces",
+      "ok": true
+    },
+    {
+      "check": "canonical /transform-your-homes-curb-appeal-top-color-trends-for-2024",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/transform-your-homes-curb-appeal-top-color-trends-for-2024"
+    },
+    {
+      "check": "one H1 /transform-your-homes-curb-appeal-top-color-trends-for-2024",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /transform-your-homes-curb-appeal-top-color-trends-for-2024",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /transform-your-homes-curb-appeal-top-color-trends-for-2024",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /transform-your-homes-curb-appeal-top-color-trends-for-2024",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /transform-your-homes-curb-appeal-top-color-trends-for-2024",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /transform-your-homes-curb-appeal-top-color-trends-for-2024",
+      "ok": true
+    },
+    {
+      "check": "canonical /the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects"
+    },
+    {
+      "check": "one H1 /the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects",
+      "ok": true
+    },
+    {
+      "check": "canonical /success",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/success"
+    },
+    {
+      "check": "one H1 /success",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /success",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /success",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /success",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /success",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /success",
+      "ok": true
+    },
+    {
+      "check": "canonical /welcome",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/welcome"
+    },
+    {
+      "check": "one H1 /welcome",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /welcome",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /welcome",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /welcome",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /welcome",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /welcome",
+      "ok": true
+    },
+    {
+      "check": "canonical /recommended-companies",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/recommended-companies"
+    },
+    {
+      "check": "one H1 /recommended-companies",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /recommended-companies",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /recommended-companies",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /recommended-companies",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /recommended-companies",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /recommended-companies",
+      "ok": true
+    },
+    {
+      "check": "canonical /painting-company",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/painting-company"
+    },
+    {
+      "check": "one H1 /painting-company",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /painting-company",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /painting-company",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /painting-company",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /painting-company",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /painting-company",
+      "ok": true
+    },
+    {
+      "check": "canonical /privacy",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/privacy"
+    },
+    {
+      "check": "one H1 /privacy",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /privacy",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /privacy",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /privacy",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /privacy",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /privacy",
+      "ok": true
+    },
+    {
+      "check": "canonical /terms",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/terms"
+    },
+    {
+      "check": "one H1 /terms",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /terms",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /terms",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /terms",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /terms",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /terms",
+      "ok": true
+    },
+    {
+      "check": "canonical /portfolio/commercial-building-exterior-repaint",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/portfolio/commercial-building-exterior-repaint"
+    },
+    {
+      "check": "one H1 /portfolio/commercial-building-exterior-repaint",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /portfolio/commercial-building-exterior-repaint",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /portfolio/commercial-building-exterior-repaint",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /portfolio/commercial-building-exterior-repaint",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /portfolio/commercial-building-exterior-repaint",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /portfolio/commercial-building-exterior-repaint",
+      "ok": true
+    },
+    {
+      "check": "canonical /portfolio/modern-cedar-and-stucco-home-exterior",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/portfolio/modern-cedar-and-stucco-home-exterior"
+    },
+    {
+      "check": "one H1 /portfolio/modern-cedar-and-stucco-home-exterior",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /portfolio/modern-cedar-and-stucco-home-exterior",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /portfolio/modern-cedar-and-stucco-home-exterior",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /portfolio/modern-cedar-and-stucco-home-exterior",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /portfolio/modern-cedar-and-stucco-home-exterior",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /portfolio/modern-cedar-and-stucco-home-exterior",
+      "ok": true
+    },
+    {
+      "check": "canonical /portfolio/kitchen-cabinet-painting-oak-to-white",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/portfolio/kitchen-cabinet-painting-oak-to-white"
+    },
+    {
+      "check": "one H1 /portfolio/kitchen-cabinet-painting-oak-to-white",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /portfolio/kitchen-cabinet-painting-oak-to-white",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /portfolio/kitchen-cabinet-painting-oak-to-white",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /portfolio/kitchen-cabinet-painting-oak-to-white",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /portfolio/kitchen-cabinet-painting-oak-to-white",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /portfolio/kitchen-cabinet-painting-oak-to-white",
+      "ok": true
+    },
+    {
+      "check": "canonical /portfolio/navy-blue-home-exterior",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/portfolio/navy-blue-home-exterior"
+    },
+    {
+      "check": "one H1 /portfolio/navy-blue-home-exterior",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /portfolio/navy-blue-home-exterior",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /portfolio/navy-blue-home-exterior",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /portfolio/navy-blue-home-exterior",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /portfolio/navy-blue-home-exterior",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /portfolio/navy-blue-home-exterior",
+      "ok": true
+    },
+    {
+      "check": "canonical /portfolio/covered-deck-staining",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/portfolio/covered-deck-staining"
+    },
+    {
+      "check": "one H1 /portfolio/covered-deck-staining",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /portfolio/covered-deck-staining",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /portfolio/covered-deck-staining",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /portfolio/covered-deck-staining",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /portfolio/covered-deck-staining",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /portfolio/covered-deck-staining",
+      "ok": true
+    },
+    {
+      "check": "canonical /portfolio/storefront-commercial-painting",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/portfolio/storefront-commercial-painting"
+    },
+    {
+      "check": "one H1 /portfolio/storefront-commercial-painting",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /portfolio/storefront-commercial-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /portfolio/storefront-commercial-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /portfolio/storefront-commercial-painting",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /portfolio/storefront-commercial-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /portfolio/storefront-commercial-painting",
+      "ok": true
+    },
+    {
+      "check": "canonical /portfolio/brick-and-gray-siding-home-exterior",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/portfolio/brick-and-gray-siding-home-exterior"
+    },
+    {
+      "check": "one H1 /portfolio/brick-and-gray-siding-home-exterior",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /portfolio/brick-and-gray-siding-home-exterior",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /portfolio/brick-and-gray-siding-home-exterior",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /portfolio/brick-and-gray-siding-home-exterior",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /portfolio/brick-and-gray-siding-home-exterior",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /portfolio/brick-and-gray-siding-home-exterior",
+      "ok": true
+    },
+    {
+      "check": "canonical /portfolio/interior-staircase-and-millwork",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/portfolio/interior-staircase-and-millwork"
+    },
+    {
+      "check": "one H1 /portfolio/interior-staircase-and-millwork",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /portfolio/interior-staircase-and-millwork",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /portfolio/interior-staircase-and-millwork",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /portfolio/interior-staircase-and-millwork",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /portfolio/interior-staircase-and-millwork",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /portfolio/interior-staircase-and-millwork",
+      "ok": true
+    },
+    {
+      "check": "canonical /blog/page/2",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/blog/page/2"
+    },
+    {
+      "check": "one H1 /blog/page/2",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /blog/page/2",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /blog/page/2",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /blog/page/2",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /blog/page/2",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /blog/page/2",
+      "ok": true
+    },
+    {
+      "check": "canonical /blog/page/3",
+      "ok": true,
+      "detail": "https://www.eapropainters.com/blog/page/3"
+    },
+    {
+      "check": "one H1 /blog/page/3",
+      "ok": true,
+      "detail": "1 H1"
+    },
+    {
+      "check": "no rating schema (HTML) /blog/page/3",
+      "ok": true
+    },
+    {
+      "check": "SPEC noindex header /blog/page/3",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC noindex meta /blog/page/3",
+      "ok": true,
+      "detail": "noindex, nofollow"
+    },
+    {
+      "check": "SPEC banner /blog/page/3",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking tags /blog/page/3",
+      "ok": true
+    },
+    {
+      "check": "title/meta identical to live (except missing ones)",
+      "ok": true,
+      "detail": "[]"
+    },
+    {
+      "check": "verification tags (live site had 0)",
+      "ok": true
+    },
+    {
+      "check": "no broken internal links (79 checked)",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "sitemap lists every indexable live URL",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "sitemap leaves out /success and /welcome",
+      "ok": true
+    },
+    {
+      "check": "sitemap has no priority/changefreq",
+      "ok": true
+    },
+    {
+      "check": "sitemap uses absolute www URLs",
+      "ok": true
+    },
+    {
+      "check": "sitemap includes images",
+      "ok": true
+    },
+    {
+      "check": "robots.txt allows crawling",
+      "ok": true
+    },
+    {
+      "check": "robots.txt allows OAI-SearchBot and PerplexityBot",
+      "ok": true
+    },
+    {
+      "check": "robots.txt sitemap line (spec)",
+      "ok": true
+    },
+    {
+      "check": "/llms.txt",
+      "ok": true
+    },
+    {
+      "check": "unknown slug is a real 404",
+      "ok": true
+    },
+    {
+      "check": "no rating schema (rendered) /",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /about",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /about",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /about",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /about",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /services",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /services",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /services",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /services",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /faqs",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /faqs",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /faqs",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /faqs",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /portfolio",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /portfolio",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /portfolio",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /portfolio",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /blog",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /blog",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /blog",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /blog",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /contact",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /contact",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /contact",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /contact",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /estimate",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /estimate",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /estimate",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /estimate",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /interior-painting",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /interior-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /interior-painting",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /interior-painting",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /exterior-painting",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /exterior-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /exterior-painting",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /exterior-painting",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /commercial-painting",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /commercial-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /commercial-painting",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /commercial-painting",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /cabinet-painting",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /cabinet-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /cabinet-painting",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /cabinet-painting",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /custom-painting",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /custom-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /custom-painting",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /custom-painting",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /millwork-painting",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /millwork-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /millwork-painting",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /millwork-painting",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /drywall-painting",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /drywall-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /drywall-painting",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /drywall-painting",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /decks-and-fences-painting",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /decks-and-fences-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /decks-and-fences-painting",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /decks-and-fences-painting",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /hoa",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /hoa",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /hoa",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /hoa",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /kirkland",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /kirkland",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /kirkland",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /kirkland",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/bellevue",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/bellevue",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/bellevue",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/bellevue",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/bothell",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/bothell",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/bothell",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/bothell",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/clyde-hill",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/clyde-hill",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/clyde-hill",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/clyde-hill",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/edmonds",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/edmonds",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/edmonds",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/edmonds",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/everett",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/everett",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/everett",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/everett",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/issaquah",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/issaquah",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/issaquah",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/issaquah",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/juanita",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/juanita",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/juanita",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/juanita",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/kenmore",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/kenmore",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/kenmore",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/kenmore",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/lynnwood",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/lynnwood",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/lynnwood",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/lynnwood",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/medina",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/medina",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/medina",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/medina",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/mercer-island",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/mercer-island",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/mercer-island",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/mercer-island",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/mill-creek",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/mill-creek",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/mill-creek",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/mill-creek",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/monroe",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/monroe",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/monroe",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/monroe",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/newcastle",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/newcastle",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/newcastle",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/newcastle",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/redmond",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/redmond",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/redmond",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/redmond",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/renton",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/renton",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/renton",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/renton",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/sammamish",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/sammamish",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/sammamish",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/sammamish",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/seattle",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/seattle",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/seattle",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/seattle",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/shoreline",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/shoreline",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/shoreline",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/shoreline",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/snohomish",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/snohomish",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/snohomish",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/snohomish",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/snoqualmie",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/snoqualmie",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/snoqualmie",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/snoqualmie",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company/woodinville",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company/woodinville",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company/woodinville",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company/woodinville",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /5-signs-time-to-repaint",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /5-signs-time-to-repaint",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /5-signs-time-to-repaint",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /5-signs-time-to-repaint",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /summer-exterior-painting-makeover",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /summer-exterior-painting-makeover",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /summer-exterior-painting-makeover",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /summer-exterior-painting-makeover",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /choose-the-best-paint-colors-for-your-home-2025",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /choose-the-best-paint-colors-for-your-home-2025",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /choose-the-best-paint-colors-for-your-home-2025",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /choose-the-best-paint-colors-for-your-home-2025",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /deck-staining-vs-painting-which-is-best-for-your-outdoor-space",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /deck-staining-vs-painting-which-is-best-for-your-outdoor-space",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /deck-staining-vs-painting-which-is-best-for-your-outdoor-space",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /deck-staining-vs-painting-which-is-best-for-your-outdoor-space",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /top-5-trending-exterior-paint-colors-for-washington-homes-in-2025",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /top-5-trending-exterior-paint-colors-for-washington-homes-in-2025",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /top-5-trending-exterior-paint-colors-for-washington-homes-in-2025",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /top-5-trending-exterior-paint-colors-for-washington-homes-in-2025",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /how-to-choose-weather-resistant-colors",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /how-to-choose-weather-resistant-colors",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /how-to-choose-weather-resistant-colors",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /how-to-choose-weather-resistant-colors",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /interior-color-trends-for-seattle-home",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /interior-color-trends-for-seattle-home",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /interior-color-trends-for-seattle-home",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /interior-color-trends-for-seattle-home",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /eco-friendly-painting-options",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /eco-friendly-painting-options",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /eco-friendly-painting-options",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /eco-friendly-painting-options",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /commercial-painting-in-bellevue-minimize-disruption",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /commercial-painting-in-bellevue-minimize-disruption",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /commercial-painting-in-bellevue-minimize-disruption",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /commercial-painting-in-bellevue-minimize-disruption",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /benefits-of-hiring-professional-painters",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /benefits-of-hiring-professional-painters",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /benefits-of-hiring-professional-painters",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /benefits-of-hiring-professional-painters",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /seasonal-painting-tips-when-is-the-best-time-to-paint",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /seasonal-painting-tips-when-is-the-best-time-to-paint",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /seasonal-painting-tips-when-is-the-best-time-to-paint",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /seasonal-painting-tips-when-is-the-best-time-to-paint",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /understanding-paint-types-which-is-best-for-your-project",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /understanding-paint-types-which-is-best-for-your-project",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /understanding-paint-types-which-is-best-for-your-project",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /understanding-paint-types-which-is-best-for-your-project",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /revamping-your-office-space-the-impact-of-professional-painting",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /revamping-your-office-space-the-impact-of-professional-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /revamping-your-office-space-the-impact-of-professional-painting",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /revamping-your-office-space-the-impact-of-professional-painting",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /blog/step-by-step-guide-to-interior-painting",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /blog/step-by-step-guide-to-interior-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /blog/step-by-step-guide-to-interior-painting",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /blog/step-by-step-guide-to-interior-painting",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /the-benefits-of-hiring-professional-painters-vs-diy",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /the-benefits-of-hiring-professional-painters-vs-diy",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /the-benefits-of-hiring-professional-painters-vs-diy",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /the-benefits-of-hiring-professional-painters-vs-diy",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /top-10-tips-for-painting-your-home-in-the-winter",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /top-10-tips-for-painting-your-home-in-the-winter",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /top-10-tips-for-painting-your-home-in-the-winter",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /top-10-tips-for-painting-your-home-in-the-winter",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /how-to-maintain-your-painted-surfaces-for-long-lasting-beauty",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /how-to-maintain-your-painted-surfaces-for-long-lasting-beauty",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /how-to-maintain-your-painted-surfaces-for-long-lasting-beauty",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /how-to-maintain-your-painted-surfaces-for-long-lasting-beauty",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /5-signs-its-time-to-refresh-your-homes-exterior",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /5-signs-its-time-to-refresh-your-homes-exterior",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /5-signs-its-time-to-refresh-your-homes-exterior",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /5-signs-its-time-to-refresh-your-homes-exterior",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /importance-of-quality-paint-against-weather-damage",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /importance-of-quality-paint-against-weather-damage",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /importance-of-quality-paint-against-weather-damage",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /importance-of-quality-paint-against-weather-damage",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /transform-your-homes-curb-appeal-top-color-trends-for-2024",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /transform-your-homes-curb-appeal-top-color-trends-for-2024",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /transform-your-homes-curb-appeal-top-color-trends-for-2024",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /transform-your-homes-curb-appeal-top-color-trends-for-2024",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /success",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /success",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /success",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /success",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /welcome",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /welcome",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /welcome",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /welcome",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /recommended-companies",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /recommended-companies",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /recommended-companies",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /recommended-companies",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /painting-company",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /painting-company",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /painting-company",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /painting-company",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /privacy",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /privacy",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /privacy",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /privacy",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /terms",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /terms",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /terms",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /terms",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /portfolio/commercial-building-exterior-repaint",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /portfolio/commercial-building-exterior-repaint",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /portfolio/commercial-building-exterior-repaint",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /portfolio/commercial-building-exterior-repaint",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /portfolio/modern-cedar-and-stucco-home-exterior",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /portfolio/modern-cedar-and-stucco-home-exterior",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /portfolio/modern-cedar-and-stucco-home-exterior",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /portfolio/modern-cedar-and-stucco-home-exterior",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /portfolio/kitchen-cabinet-painting-oak-to-white",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /portfolio/kitchen-cabinet-painting-oak-to-white",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /portfolio/kitchen-cabinet-painting-oak-to-white",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /portfolio/kitchen-cabinet-painting-oak-to-white",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /portfolio/navy-blue-home-exterior",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /portfolio/navy-blue-home-exterior",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /portfolio/navy-blue-home-exterior",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /portfolio/navy-blue-home-exterior",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /portfolio/covered-deck-staining",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /portfolio/covered-deck-staining",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /portfolio/covered-deck-staining",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /portfolio/covered-deck-staining",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /portfolio/storefront-commercial-painting",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /portfolio/storefront-commercial-painting",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /portfolio/storefront-commercial-painting",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /portfolio/storefront-commercial-painting",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /portfolio/brick-and-gray-siding-home-exterior",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /portfolio/brick-and-gray-siding-home-exterior",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /portfolio/brick-and-gray-siding-home-exterior",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /portfolio/brick-and-gray-siding-home-exterior",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /portfolio/interior-staircase-and-millwork",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /portfolio/interior-staircase-and-millwork",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /portfolio/interior-staircase-and-millwork",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /portfolio/interior-staircase-and-millwork",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /blog/page/2",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /blog/page/2",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /blog/page/2",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /blog/page/2",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no rating schema (rendered) /blog/page/3",
+      "ok": true
+    },
+    {
+      "check": "one H1 (rendered) /blog/page/3",
+      "ok": true
+    },
+    {
+      "check": "SPEC no tracking requests /blog/page/3",
+      "ok": true,
+      "detail": "localhost"
+    },
+    {
+      "check": "axe /blog/page/3",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "lighthouse /",
+      "ok": false,
+      "detail": "{\"performance\":94,\"accessibility\":100,\"bestPractices\":100,\"seo\":100,\"lcpMs\":3017,\"tbtMs\":98,\"cls\":0}"
+    },
+    {
+      "check": "lighthouse /estimate",
+      "ok": true,
+      "detail": "{\"performance\":98,\"accessibility\":100,\"bestPractices\":100,\"seo\":100,\"lcpMs\":2163,\"tbtMs\":79,\"cls\":0}"
+    },
+    {
+      "check": "lighthouse /painting-company/bellevue",
+      "ok": false,
+      "detail": "{\"performance\":94,\"accessibility\":100,\"bestPractices\":100,\"seo\":100,\"lcpMs\":2989,\"tbtMs\":101,\"cls\":0}"
+    },
+    {
+      "check": "lighthouse /interior-painting",
+      "ok": false,
+      "detail": "{\"performance\":94,\"accessibility\":100,\"bestPractices\":100,\"seo\":100,\"lcpMs\":2880,\"tbtMs\":141,\"cls\":0}"
+    }
+  ]
+}

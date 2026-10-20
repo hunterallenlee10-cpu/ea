@@ -69,7 +69,7 @@ export function CityTemplate({ c }: { c: PageContent }) {
         <section className="border-t border-line bg-bg py-14 lg:py-20">
           <div className="container-x grid gap-12 lg:grid-cols-12">
             <div className="lg:col-span-6">
-              <Nodes nodes={intro} ctx={{ path: c.path }} />
+              <Nodes nodes={intro} ctx={{ path: c.path, base: 1 }} />
               <div className="mt-8 border-l-2 border-accent pl-5">
                 <p className="text-[15px] font-semibold">See colors in person</p>
                 <p className="mt-1 text-[15px] text-muted">
@@ -81,16 +81,18 @@ export function CityTemplate({ c }: { c: PageContent }) {
               </div>
             </div>
             {costs.length > 0 && (
-              <dl className="grid content-start gap-6 lg:col-span-5 lg:col-start-8">
+              <div className="grid content-start gap-6 lg:col-span-5 lg:col-start-8">
                 <p className="eyebrow text-accent">{city.name} painting costs</p>
-                {costs.map((k) => (
-                  <div key={k.label} className="border-t border-line pt-5">
-                    <dt className="text-[14px] text-muted">{k.label}</dt>
-                    <dd className="display mt-2 text-[clamp(2.2rem,4vw,3.2rem)]">{k.range}</dd>
-                  </div>
-                ))}
+                <dl className="grid gap-6">
+                  {costs.map((k) => (
+                    <div key={k.label} className="border-t border-line pt-5">
+                      <dt className="text-[14px] text-muted">{k.label}</dt>
+                      <dd className="display mt-2 text-[clamp(2.2rem,4vw,3.2rem)]">{k.range}</dd>
+                    </div>
+                  ))}
+                </dl>
                 <p className="text-[14px] text-muted">From our {city.name} FAQ below. Every estimate is itemized.</p>
-              </dl>
+              </div>
             )}
           </div>
         </section>

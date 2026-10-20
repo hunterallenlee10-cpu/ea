@@ -49,7 +49,7 @@ export default function RecommendedCompanies() {
         <div className="container-x grid gap-10 lg:grid-cols-12">
           <div className="lg:col-span-4">{heading && heading.t === "h2" && <h2 className="display text-[clamp(1.8rem,3vw,2.6rem)]">{heading.text}</h2>}</div>
           <div className="max-w-[44rem] lg:col-span-7 lg:col-start-6">
-            <Nodes nodes={intro} ctx={{ path: PATH }} />
+            <Nodes nodes={intro} ctx={{ path: PATH, base: 1 }} />
           </div>
         </div>
         <div className="container-x mt-14">

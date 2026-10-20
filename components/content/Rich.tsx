@@ -13,7 +13,8 @@ import { Stars } from "@/components/Stars";
  * HTML in nodes comes from scripts/build-content.ts and only ever contains <a>, <strong>, <em>, <br>.
  */
 
-type Ctx = { path: string; dark?: boolean };
+/** base = level of the heading that encloses these nodes (2 inside a LongForm section, 1 in a post body). */
+type Ctx = { path: string; dark?: boolean; base?: number };
 
 const Html = ({ html, as: As = "p", className = "" }: { html: string; as?: "p" | "span" | "div"; className?: string }) => (
   <As className={className} dangerouslySetInnerHTML={{ __html: html }} />
@@ -56,8 +57,8 @@ export function InlineCta({ index = 0, label = "Get a Free Estimate", href = "/e
   );
 }
 
-export function FaqList({ items, ctx, dark = false, level = 3 }: { items: { q: string; a: Inline[] }[]; ctx: Ctx; dark?: boolean; level?: 2 | 3 }) {
-  const Q = level === 2 ? "h2" : "h3";
+export function FaqList({ items, ctx, dark = false, level = 3 }: { items: { q: string; a: Inline[] }[]; ctx: Ctx; dark?: boolean; level?: number }) {
+  const Q = (["h2", "h3", "h4"][Math.min(Math.max(level, 2), 4) - 2]) as "h2" | "h3" | "h4";
   return (
     <div className={`divide-y border-y ${dark ? "divide-dark-line border-dark-line" : "divide-line border-line"}`}>
       {items.map((f, i) => (
@@ -98,7 +99,8 @@ export function Testimonials({ items, dark = false }: { items: { name: string; t
   );
 }
 
-export function Steps({ items, ctx }: { items: { title: string; body: Inline[] }[]; ctx: Ctx }) {
+export function Steps({ items, ctx, level = 3 }: { items: { title: string; body: Inline[] }[]; ctx: Ctx; level?: number }) {
+  const H = (["h2", "h3", "h4"][Math.min(Math.max(level, 2), 4) - 2]) as "h2" | "h3" | "h4";
   return (
     <ol className="my-8 grid gap-px overflow-hidden rounded-ui border border-line bg-line sm:grid-cols-2">
       {items.map((s, i) => (
@@ -106,10 +108,10 @@ export function Steps({ items, ctx }: { items: { title: string; body: Inline[] }
           <span className="display block text-[44px] leading-none text-accent" aria-hidden>
             {String(i + 1).padStart(2, "0")}
           </span>
-          <h3 className="mt-4 text-[18px] font-semibold">
+          <H className="mt-4 text-[18px] font-semibold">
             <span className="sr-only">Step {i + 1}: </span>
             {s.title}
-          </h3>
+          </H>
           {s.body.map((b) => (
             <p key={b.text} className="mt-2 text-[16px] text-muted">
               <span dangerouslySetInnerHTML={{ __html: b.html }} />
@@ -124,7 +126,18 @@ export function Steps({ items, ctx }: { items: { title: string; body: Inline[] }
 
 /** Body nodes in reading order (no h2s here; sections handle those). */
 export function Nodes({ nodes, ctx, ctaOffset = 0 }: { nodes: Node[]; ctx: Ctx; ctaOffset?: number }) {
-  let cta = ctaOffset;
+  // Precompute, per node, the heading level in effect and the CTA index (no mutation during render).
+  const lastLevel: number[] = [];
+  const ctaIndex: number[] = [];
+  {
+    let level = ctx.base ?? 2;
+    let cta = ctaOffset;
+    for (const n of nodes) {
+      lastLevel.push(level);
+      ctaIndex.push(n.t === "cta" ? cta++ : cta);
+      if (n.t === "h2" || n.t === "h3" || n.t === "h4") level = Number(n.t[1]);
+    }
+  }
   const muted = ctx.dark ? "text-dark-ink/85" : "text-ink/85";
   return (
     <>
@@ -174,7 +187,7 @@ export function Nodes({ nodes, ctx, ctaOffset = 0 }: { nodes: Node[]; ctx: Ctx; 
             );
           }
           case "cta":
-            if (n.href === "/estimate") return <InlineCta key={i} index={cta++} dark={ctx.dark} />;
+            if (n.href === "/estimate") return <InlineCta key={i} index={ctaIndex[i]} dark={ctx.dark} />;
             return (
               <div key={i} className="mt-8">
                 <Button href={n.href} size="md" variant="outline" tone={ctx.dark ? "dark" : "light"}>
@@ -197,7 +210,7 @@ export function Nodes({ nodes, ctx, ctaOffset = 0 }: { nodes: Node[]; ctx: Ctx; 
           case "faqs":
             return (
               <div key={i} className="mt-8">
-                <FaqList items={n.items} ctx={ctx} dark={ctx.dark} />
+                <FaqList items={n.items} ctx={ctx} dark={ctx.dark} level={lastLevel[i] + 1} />
               </div>
             );
           case "testimonials":
@@ -207,7 +220,7 @@ export function Nodes({ nodes, ctx, ctaOffset = 0 }: { nodes: Node[]; ctx: Ctx; 
               </div>
             );
           case "steps":
-            return <Steps key={i} items={n.items} ctx={ctx} />;
+            return <Steps key={i} items={n.items} ctx={ctx} level={lastLevel[i] + 1} />;
         }
       })}
     </>

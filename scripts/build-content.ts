@@ -84,6 +84,7 @@ function fixHref(href: string, fixes: Set<string>): string | null {
 function fixHtml(html: string, fixes: Set<string>): string {
   const withLinks = html.replace(/<a href="([^"]*)">([\s\S]*?)<\/a>/g, (_, href, inner) => {
     const f = fixHref(href.replace(/&amp;/g, "&"), fixes);
+    if (!inner.replace(/<[^>]+>/g, "").trim()) return inner; // empty link on the live page
     return f ? `<a href="${f}">${inner}</a>` : inner;
   });
   return fixText(withLinks, fixes);
