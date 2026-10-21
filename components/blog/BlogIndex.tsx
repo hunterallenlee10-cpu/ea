@@ -4,6 +4,7 @@ import { getPosts, POSTS_PER_PAGE, blogPageCount } from "@/lib/content";
 import { photoForPost } from "@/components/templates/PostTemplate";
 import { Breadcrumbs } from "@/components/sections/Breadcrumbs";
 import { CtaBand } from "@/components/sections/Marketing";
+import { photoImg } from "@/content/photos";
 
 /** Blog archive with plain, crawlable pagination (/blog, /blog/page/2, …). The live site used a JS "More Posts" button. */
 export function BlogIndex({ page, h1 }: { page: number; h1: string }) {
@@ -34,7 +35,7 @@ export function BlogIndex({ page, h1 }: { page: number; h1: string }) {
                 <li key={p.path}>
                   <Link href={p.path} className="group block">
                     <div className="overflow-hidden rounded-ui">
-                      <Image src={ph.src} alt={ph.alt} width={ph.width} height={ph.height} sizes="(min-width:1024px) 30vw, (min-width:640px) 45vw, 100vw" priority={i < 3} className="aspect-[4/3] w-full object-cover transition-transform duration-700 group-hover:scale-[1.03]" />
+                      <Image {...photoImg(ph)} alt={ph.alt} sizes="(min-width:1024px) 30vw, (min-width:640px) 45vw, 100vw" priority={i < 3} className="aspect-[4/3] w-full object-cover transition-transform duration-700 group-hover:scale-[1.03]" />
                     </div>
                     <p className="mt-4 text-[13px] text-muted">
                       <time dateTime={p.post!.published}>{p.post!.publishedDisplay}</time>

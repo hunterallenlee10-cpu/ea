@@ -9,9 +9,9 @@ export function Reveal() {
   useEffect(() => {
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
     const root = document.documentElement;
-    const els = Array.from(document.querySelectorAll<HTMLElement>("[data-reveal],[data-reveal-img]"));
-    // Anything already on screen stays visible: never hide the hero or its buttons.
-    const vh = window.innerHeight;
+    const els = Array.from(document.querySelectorAll<HTMLElement>("[data-reveal]"));
+    // Anything on (or just below) the screen stays visible: never hide the hero or its buttons.
+    const vh = window.innerHeight * 1.15;
     els.forEach((el) => {
       if (el.getBoundingClientRect().top < vh) el.classList.add("is-in");
     });
@@ -25,7 +25,8 @@ export function Reveal() {
           }
         }
       },
-      { rootMargin: "0px 0px -10% 0px" },
+      // Start the fade before the element scrolls into view (15% of a screen early).
+      { rootMargin: "0px 0px 15% 0px" },
     );
     els.forEach((el) => !el.classList.contains("is-in") && io.observe(el));
     return () => io.disconnect();

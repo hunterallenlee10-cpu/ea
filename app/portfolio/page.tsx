@@ -24,7 +24,7 @@ export default function PortfolioPage() {
       city: p.city,
       cityName: p.city ? cityName(p.city) : null,
       summary: p.summary,
-      photo: { src: first.src, alt: first.alt, width: first.width, height: first.height },
+      photo: { src: first.src, alt: first.alt, width: first.width, height: first.height, blur: first.blur },
       photoCount: photos.length,
     };
   });

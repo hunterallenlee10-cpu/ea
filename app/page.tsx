@@ -3,7 +3,7 @@ import Link from "next/link";
 import { getPage } from "@/lib/content";
 import { metaFromContent } from "@/lib/meta";
 import { housePainter } from "@/lib/schema";
-import { photo } from "@/content/photos";
+import { photo, photoImg } from "@/content/photos";
 import { site } from "@/site.config";
 import type { Node } from "@/lib/content-types";
 import { JsonLd } from "@/components/JsonLd";
@@ -66,8 +66,8 @@ export default function Home() {
       {/* Come see us in Bellevue */}
       <section className="section on-dark">
         <div className="container-x grid items-center gap-12 lg:grid-cols-12">
-          <figure className="lg:col-span-6" data-reveal-img>
-            <Image src={shop.src} alt={shop.alt} width={shop.width} height={shop.height} sizes="(min-width:1024px) 45vw, 100vw" className="aspect-[4/3] w-full rounded-ui object-cover" />
+          <figure className="lg:col-span-6">
+            <Image {...photoImg(shop)} alt={shop.alt} sizes="(min-width:1024px) 45vw, 100vw" className="aspect-[4/3] w-full rounded-ui object-cover" />
           </figure>
           <div className="lg:col-span-5 lg:col-start-8">
             <p className="eyebrow text-dark-accent">Come see us in Bellevue.</p>

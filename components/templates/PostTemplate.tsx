@@ -3,7 +3,7 @@ import Link from "next/link";
 import type { PageContent } from "@/lib/content-types";
 import { getPosts } from "@/lib/content";
 import { blogPosting } from "@/lib/schema";
-import { PHOTOS, type Photo } from "@/content/photos";
+import { PHOTOS, type Photo, photoImg } from "@/content/photos";
 import { JsonLd } from "@/components/JsonLd";
 import { Nodes, InlineCta } from "@/components/content/Rich";
 import { Ph, Town } from "@/components/Ph";
@@ -68,7 +68,7 @@ export function PostTemplate({ c }: { c: PageContent }) {
             </p>
           </div>
           <figure className="container-x max-w-[72rem]">
-            <Image src={p.src} alt={p.alt} width={p.width} height={p.height} priority fetchPriority="high" sizes="(min-width:1152px) 1152px, 100vw" className="aspect-[21/9] w-full rounded-ui object-cover" />
+            <Image {...photoImg(p)} alt={p.alt} priority fetchPriority="high" sizes="(min-width:1152px) 1152px, 100vw" className="aspect-[21/9] w-full rounded-ui object-cover" />
             <figcaption className="mt-3 text-[13px] text-muted">
               {p.job} by EA Pro Painters
               <Town town={p.town} />

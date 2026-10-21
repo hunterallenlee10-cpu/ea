@@ -5,6 +5,7 @@ import { Button } from "@/components/Button";
 import { ProofRow } from "@/components/ProofRow";
 import { Ph } from "@/components/Ph";
 import { Breadcrumbs, type Crumb } from "./Breadcrumbs";
+import { photoImg } from "@/content/photos";
 
 /**
  * Inner-page hero: breadcrumbs, eyebrow, the page's H1 (live wording), a plain facts line
@@ -59,12 +60,9 @@ export function PageHero({
             )}
           </div>
           {photo && (
-            <figure className="lg:col-span-5" data-reveal-img>
+            <figure className="lg:col-span-5">
               <Image
-                src={photo.src}
-                alt={photo.alt}
-                width={photo.width}
-                height={photo.height}
+                {...photoImg(photo)} alt={photo.alt}
                 priority
                 fetchPriority="high"
                 sizes="(min-width: 1024px) 40vw, 100vw"

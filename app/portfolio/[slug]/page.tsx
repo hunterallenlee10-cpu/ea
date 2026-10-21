@@ -10,6 +10,7 @@ import { Breadcrumbs } from "@/components/sections/Breadcrumbs";
 import { CtaBand, SectionHead } from "@/components/sections/Marketing";
 import { Ph, Town } from "@/components/Ph";
 import { SHOW_PLACEHOLDERS, isPlaceholder } from "@/lib/placeholders";
+import { photoImg } from "@/content/photos";
 
 export const dynamicParams = false;
 export function generateStaticParams() {
@@ -109,10 +110,7 @@ export default async function ProjectPage({ params }: Props) {
         {cover && (
           <figure className="container-x pb-14">
             <Image
-              src={cover.src}
-              alt={cover.alt}
-              width={cover.width}
-              height={cover.height}
+              {...photoImg(cover)} alt={cover.alt}
               priority
               fetchPriority="high"
               sizes="(min-width: 1216px) 1152px, 100vw"
@@ -155,10 +153,7 @@ export default async function ProjectPage({ params }: Props) {
                 <li key={ph.id}>
                   <figure>
                     <Image
-                      src={ph.src}
-                      alt={ph.alt}
-                      width={ph.width}
-                      height={ph.height}
+                      {...photoImg(ph)} alt={ph.alt}
                       sizes="(min-width:640px) 50vw, 100vw"
                       className="aspect-[4/3] w-full rounded-ui object-cover"
                     />

@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { site } from "@/site.config";
 import { HERO } from "@/content/hero";
-import { photo } from "@/content/photos";
+import { photo, photoImg } from "@/content/photos";
 import { Button } from "@/components/Button";
 import { ProofRow } from "@/components/ProofRow";
 import { Ph, Town } from "@/components/Ph";
@@ -47,12 +47,9 @@ export function HomeHero() {
         </div>
 
         <div className="relative lg:col-span-5">
-          <figure className="relative" data-reveal-img>
+          <figure className="relative">
             <Image
-              src={main.src}
-              alt={main.alt}
-              width={main.width}
-              height={main.height}
+              {...photoImg(main)} alt={main.alt}
               loading="eager"
               fetchPriority="high"
               sizes="(min-width: 1024px) 40vw, 100vw"
@@ -68,10 +65,7 @@ export function HomeHero() {
           </figure>
           <figure className="absolute -left-6 top-10 hidden w-[40%] border-[6px] border-bg shadow-2xl sm:block lg:-left-14">
             <Image
-              src={craft.src}
-              alt={craft.alt}
-              width={craft.width}
-              height={craft.height}
+              {...photoImg(craft)} alt={craft.alt}
               sizes="20vw"
               className="aspect-square w-full object-cover"
             />

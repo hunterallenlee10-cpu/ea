@@ -1,7 +1,7 @@
 import Image from "next/image";
 import type { Inline, Node } from "@/lib/content-types";
 import { flagsFor } from "@/content/flags";
-import { PHOTOS } from "@/content/photos";
+import { PHOTOS, photoImg } from "@/content/photos";
 import { REVIEWS } from "@/lib/reviews";
 import { site } from "@/site.config";
 import { Button } from "@/components/Button";
@@ -199,8 +199,8 @@ export function Nodes({ nodes, ctx, ctaOffset = 0 }: { nodes: Node[]; ctx: Ctx; 
             const p = PHOTOS.find((x) => x.id === n.id);
             if (!p) return null;
             return (
-              <figure key={i} className="my-10" data-reveal-img>
-                <Image src={p.src} alt={p.alt} width={p.width} height={p.height} sizes="(min-width:1024px) 60vw, 100vw" className="aspect-[16/10] w-full rounded-ui object-cover" />
+              <figure key={i} className="my-10">
+                <Image {...photoImg(p)} alt={p.alt} sizes="(min-width:1024px) 60vw, 100vw" className="aspect-[16/10] w-full rounded-ui object-cover" />
                 <figcaption className={`mt-3 text-[13px] ${ctx.dark ? "text-dark-muted" : "text-muted"}`}>
                   {p.job}
                   <Town town={p.town} />

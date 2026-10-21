@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { site, displayedReviews } from "@/site.config";
 import { PROCESS, WARRANTY, LOWEST_BID, AWARDS, AWARD_QUOTE, WHY } from "@/content/shared";
-import { PHOTOS, type Photo } from "@/content/photos";
+import { PHOTOS, type Photo, photoImg } from "@/content/photos";
 import { REVIEWS, type Review } from "@/lib/reviews";
 import { SERVICES, CITIES } from "@/lib/nav";
 import { Button } from "@/components/Button";
@@ -101,8 +101,8 @@ export function WarrantySection() {
             <Ph>{site.warranty.flagShort}</Ph> <Ph>CONFIRM WITH ERIK: what the warranty covers (from the live warranty graphic)</Ph>
           </p>
         </div>
-        <figure className="lg:col-span-5 lg:col-start-8" data-reveal-img>
-          <Image src={p.src} alt={p.alt} width={p.width} height={p.height} sizes="(min-width:1024px) 40vw, 100vw" className="aspect-[4/5] w-full rounded-ui object-cover" />
+        <figure className="lg:col-span-5 lg:col-start-8">
+          <Image {...photoImg(p)} alt={p.alt} sizes="(min-width:1024px) 40vw, 100vw" className="aspect-[4/5] w-full rounded-ui object-cover" />
           <figcaption className="mt-3 text-[13px] text-dark-muted">Our crew at work</figcaption>
         </figure>
       </div>
@@ -252,7 +252,7 @@ export function ServicesGrid({ exclude, blurbs }: { exclude?: string; blurbs?: R
           <li key={s.slug} data-reveal>
             <Link href={`/${s.slug}`} className="group block">
               <div className="overflow-hidden rounded-ui">
-                <Image src={p.src} alt={p.alt} width={p.width} height={p.height} sizes="(min-width:1024px) 30vw, (min-width:640px) 45vw, 100vw" className="aspect-[4/3] w-full object-cover transition-transform duration-700 group-hover:scale-[1.03]" />
+                <Image {...photoImg(p)} alt={p.alt} sizes="(min-width:1024px) 30vw, (min-width:640px) 45vw, 100vw" className="aspect-[4/3] w-full object-cover transition-transform duration-700 group-hover:scale-[1.03]" />
               </div>
               <h3 className="mt-4 flex items-center justify-between text-[20px] font-semibold group-hover:text-accent">
                 {s.name}
@@ -330,8 +330,8 @@ export function PhotoGrid({ photos, bg = "bg-surface", title = "Real projects. O
 
 export function PhotoFigure({ p, className = "", aspect = "aspect-[4/3]", sizes = "(min-width:768px) 50vw, 100vw" }: { p: Photo; className?: string; aspect?: string; sizes?: string }) {
   return (
-    <figure className={className} data-reveal-img>
-      <Image src={p.src} alt={p.alt} width={p.width} height={p.height} sizes={sizes} className={`${aspect} w-full rounded-ui object-cover`} />
+    <figure className={className}>
+      <Image {...photoImg(p)} alt={p.alt} sizes={sizes} className={`${aspect} w-full rounded-ui object-cover`} />
       <figcaption className="mt-3 text-[13px] text-muted">
         {p.job}
         <Town town={p.town} />
@@ -408,7 +408,7 @@ export function CustomerPaths() {
         return (
           <li key={p.href}>
             <Link href={p.href} className="group relative block overflow-hidden rounded-ui">
-              <Image src={ph.src} alt={ph.alt} width={ph.width} height={ph.height} sizes="(min-width:768px) 33vw, 100vw" className="aspect-[3/4] w-full object-cover transition-transform duration-700 group-hover:scale-[1.03]" />
+              <Image {...photoImg(ph)} alt={ph.alt} sizes="(min-width:768px) 33vw, 100vw" className="aspect-[3/4] w-full object-cover transition-transform duration-700 group-hover:scale-[1.03]" />
               <div aria-hidden className="absolute inset-0 bg-gradient-to-t from-[#0f1d16]/90 via-[#0f1d16]/30 to-transparent" />
               <div className="absolute inset-x-0 bottom-0 p-6 text-[#f3efe7]">
                 <p className="eyebrow">{p.eyebrow}</p>
