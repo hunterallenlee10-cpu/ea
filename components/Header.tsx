@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { site } from "@/site.config";
 import { CITIES, MAIN_NAV, SERVICES } from "@/lib/nav";
+import { MobileMenu } from "./MobileMenu";
 
 type Tone = "light" | "dark";
 
@@ -70,7 +71,7 @@ export function Header({ tone = "light" }: { tone?: Tone }) {
           >
             Get a Free Estimate
           </Link>
-          <details className="lg:hidden">
+          <MobileMenu className="lg:hidden">
             <summary className="flex min-h-11 min-w-11 cursor-pointer list-none items-center justify-center [&::-webkit-details-marker]:hidden">
               <span className="sr-only">Menu</span>
               <svg aria-hidden width="24" height="24" viewBox="0 0 24 24">
@@ -91,7 +92,7 @@ export function Header({ tone = "light" }: { tone?: Tone }) {
                 </Link>
               </nav>
             </div>
-          </details>
+          </MobileMenu>
         </div>
       </div>
     </header>
