@@ -5,7 +5,7 @@ import { PHOTOS } from "@/content/photos";
 import { REVIEWS } from "@/lib/reviews";
 import { site } from "@/site.config";
 import { Button } from "@/components/Button";
-import { Ph } from "@/components/Ph";
+import { Ph, Town } from "@/components/Ph";
 import { Stars } from "@/components/Stars";
 
 /*
@@ -202,7 +202,8 @@ export function Nodes({ nodes, ctx, ctaOffset = 0 }: { nodes: Node[]; ctx: Ctx; 
               <figure key={i} className="my-10" data-reveal-img>
                 <Image src={p.src} alt={p.alt} width={p.width} height={p.height} sizes="(min-width:1024px) 60vw, 100vw" className="aspect-[16/10] w-full rounded-ui object-cover" />
                 <figcaption className={`mt-3 text-[13px] ${ctx.dark ? "text-dark-muted" : "text-muted"}`}>
-                  {p.job} · {p.town ?? <Ph>CONFIRM: town</Ph>}
+                  {p.job}
+                  <Town town={p.town} />
                 </figcaption>
               </figure>
             );

@@ -15,6 +15,7 @@ import {
   CtaBand,
   CustomerPaths,
   LowestBidSection,
+  PhotoFigure,
   PhotoGrid,
   ProcessSection,
   ReviewsSection,
@@ -94,6 +95,12 @@ export default function Home() {
           <div className="lg:col-span-5">
             <p className="eyebrow text-accent">Residential</p>
             <h2 className="display mt-4 text-[clamp(2rem,3.8vw,3.2rem)]">House Painting Services by EA Pro Painters</h2>
+            <PhotoFigure
+              p={photo("blue-farmhouse-exterior-white-porch")}
+              className="mt-10"
+              aspect="aspect-[4/3]"
+              sizes="(min-width:1024px) 40vw, 100vw"
+            />
           </div>
           <div className="space-y-5 text-ink/85 lg:col-span-6 lg:col-start-7">
             {["EA Pro Painters offers a comprehensive", "Our experienced painters are able", "From the two-story hallway", "We ensure that each painting task"].map((s) => (

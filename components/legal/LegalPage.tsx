@@ -1,5 +1,4 @@
 import { Breadcrumbs } from "@/components/sections/Breadcrumbs";
-import { Ph } from "@/components/Ph";
 
 /** Shared layout for the draft privacy and terms pages. */
 export function LegalPage({ path, name, title, updated, children }: { path: string; name: string; title: string; updated: string; children: React.ReactNode }) {
@@ -8,9 +7,8 @@ export function LegalPage({ path, name, title, updated, children }: { path: stri
       <section className="bg-bg">
         <div className="container-x pb-10 pt-8 lg:pt-12">
           <Breadcrumbs items={[{ name: "Home", path: "/" }, { name, path }]} />
-          <p className="mt-8">
-            <Ph>DRAFT, have it reviewed. Not legal advice.</Ph>
-          </p>
+          {/* Spec: drafts must be marked. Plain text instead of a yellow box. */}
+          <p className="eyebrow mt-8 text-muted">Draft · to be reviewed · not legal advice</p>
           <h1 className="display mt-5 text-[clamp(2.3rem,4.6vw,4rem)]">{title}</h1>
           <p className="mt-4 text-[15px] text-muted">Last updated {updated}</p>
         </div>

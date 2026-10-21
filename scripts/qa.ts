@@ -99,9 +99,11 @@ async function main() {
       ok(`LAUNCH no banner ${p}`, !h.includes("Concept by Lee Enterprises Unlimited"));
     }
 
-    // Placeholders ([CONFIRM…] / [ERIK TO PROVIDE…] / visible <mark class="ph">)
-    const visible = $("body").text();
-    const n = (visible.match(/CONFIRM WITH ERIK|CONFIRM:|ERIK TO PROVIDE/g) ?? []).length;
+    // Placeholders: visible boxes, plus hidden data-ph markers (SHOW_PLACEHOLDERS off). Both mean "not answered yet".
+    const visible = $("body").clone().find("script").remove().end().text();
+    const shown = (visible.match(/CONFIRM WITH ERIK|CONFIRM:|ERIK TO PROVIDE/g) ?? []).length;
+    const hidden = $("[data-ph]").length;
+    const n = shown + hidden;
     if (n) placeholderPages[p] = n;
     placeholders += n;
 
@@ -244,7 +246,7 @@ async function main() {
   const md = [
     `# QA report (${MODE.toUpperCase()}) — ${BASE}`,
     "",
-    `${pages.length} pages · ${results.length} checks · **${failed.length} failed** · ${placeholders} visible placeholders`,
+    `${pages.length} pages · ${results.length} checks · **${failed.length} failed** · ${placeholders} unanswered placeholders (visible or hidden)`,
     "",
     "| Check | Passed | Failed |",
     "|---|---|---|",

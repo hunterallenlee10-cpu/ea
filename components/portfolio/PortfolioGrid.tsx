@@ -84,7 +84,8 @@ export function PortfolioGrid({ items, services }: { items: GridItem[]; services
                 />
               </div>
               <p className="eyebrow mt-4 text-accent">
-                {i.serviceName} · {i.cityName ?? <mark className="ph">CONFIRM: town</mark>}
+                {i.serviceName}
+                {i.cityName ? ` · ${i.cityName}` : null}
               </p>
               <h2 className="mt-2 text-[20px] font-semibold group-hover:text-accent">{i.name}</h2>
               <p className="mt-2 text-[15px] text-muted">{i.summary}</p>

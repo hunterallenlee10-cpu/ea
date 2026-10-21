@@ -7,7 +7,7 @@ import { site } from "@/site.config";
 import { JsonLd } from "@/components/JsonLd";
 import { Nodes } from "@/components/content/Rich";
 import { LongForm } from "@/components/content/LongForm";
-import { Ph } from "@/components/Ph";
+import { Town } from "@/components/Ph";
 import { FactsLine, PageHero } from "@/components/sections/PageHero";
 import { AreasSection, CtaBand, PhotoGrid, ProcessSection, ReviewsSection, SectionHead, ServicesGrid } from "@/components/sections/Marketing";
 
@@ -60,7 +60,8 @@ export function CityTemplate({ c }: { c: PageContent }) {
         photo={hero}
         caption={
           <>
-            {hero.job} · <Ph>CONFIRM: town</Ph>
+            {hero.job}
+            <Town town={hero.town} />
           </>
         }
       />

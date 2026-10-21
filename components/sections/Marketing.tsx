@@ -8,7 +8,7 @@ import { SERVICES, CITIES } from "@/lib/nav";
 import { Button } from "@/components/Button";
 import { ReviewCard } from "@/components/ReviewCard";
 import { Stars } from "@/components/Stars";
-import { Ph } from "@/components/Ph";
+import { Ph, Town } from "@/components/Ph";
 
 /* Shared marketing sections, Direction A. Light (bg), warm (surface) and evergreen (on-dark) alternate. */
 
@@ -333,7 +333,8 @@ export function PhotoFigure({ p, className = "", aspect = "aspect-[4/3]", sizes 
     <figure className={className} data-reveal-img>
       <Image src={p.src} alt={p.alt} width={p.width} height={p.height} sizes={sizes} className={`${aspect} w-full rounded-ui object-cover`} />
       <figcaption className="mt-3 text-[13px] text-muted">
-        {p.job} · {p.town ?? <Ph>CONFIRM: town</Ph>}
+        {p.job}
+        <Town town={p.town} />
       </figcaption>
     </figure>
   );

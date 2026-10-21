@@ -1,4 +1,5 @@
 "use client";
+import { Ph } from "@/components/Ph";
 
 /*
  * Shared form pieces (client). Nothing here may import site.config or any env var:
@@ -111,7 +112,7 @@ export function ConsentCheckbox({ checked, onChange }: { checked: boolean; onCha
       />
       <label htmlFor="consent" className="text-[15px] leading-snug text-ink/85">
         {CONSENT_TEXT} <span className="text-muted">(Optional.)</span>{" "}
-        <mark className="ph">CONFIRM WITH ERIK: consent wording, have it reviewed</mark>
+        <Ph>CONFIRM WITH ERIK: consent wording, have it reviewed</Ph>
       </label>
     </div>
   );

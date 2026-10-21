@@ -4,7 +4,7 @@ import { HERO } from "@/content/hero";
 import { photo } from "@/content/photos";
 import { Button } from "@/components/Button";
 import { ProofRow } from "@/components/ProofRow";
-import { Ph } from "@/components/Ph";
+import { Ph, Town } from "@/components/Ph";
 
 /** Homepage hero, Direction A (approved by Hunter in Phase 2). */
 export function HomeHero() {
@@ -60,7 +60,8 @@ export function HomeHero() {
             />
             <figcaption className="mt-3 flex items-center justify-between text-[13px] text-muted">
               <span>
-                Exterior repaint · <Ph>CONFIRM: town</Ph>
+                Exterior repaint
+                <Town town={main.town} />
               </span>
               <span className="tabular-nums">01</span>
             </figcaption>

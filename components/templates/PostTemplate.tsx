@@ -6,7 +6,8 @@ import { blogPosting } from "@/lib/schema";
 import { PHOTOS, type Photo } from "@/content/photos";
 import { JsonLd } from "@/components/JsonLd";
 import { Nodes, InlineCta } from "@/components/content/Rich";
-import { Ph } from "@/components/Ph";
+import { Ph, Town } from "@/components/Ph";
+import { SHOW_PLACEHOLDERS } from "@/lib/placeholders";
 import { Breadcrumbs } from "@/components/sections/Breadcrumbs";
 import { CtaBand } from "@/components/sections/Marketing";
 
@@ -54,13 +55,23 @@ export function PostTemplate({ c }: { c: PageContent }) {
             </p>
             <h1 className="display mt-4 text-[clamp(2.2rem,4.6vw,3.8rem)]">{c.h1}</h1>
             <p className="mt-5 text-[15px] text-muted">
-              By <Ph>ERIK TO PROVIDE: author name</Ph> · EA Pro Painters, Bellevue
+              {SHOW_PLACEHOLDERS ? (
+                <>
+                  By <Ph>ERIK TO PROVIDE: author name</Ph> · EA Pro Painters, Bellevue
+                </>
+              ) : (
+                <>
+                  By EA Pro Painters, Bellevue
+                  <Ph>ERIK TO PROVIDE: author name</Ph>
+                </>
+              )}
             </p>
           </div>
           <figure className="container-x max-w-[72rem]">
             <Image src={p.src} alt={p.alt} width={p.width} height={p.height} priority fetchPriority="high" sizes="(min-width:1152px) 1152px, 100vw" className="aspect-[21/9] w-full rounded-ui object-cover" />
             <figcaption className="mt-3 text-[13px] text-muted">
-              {p.job} by EA Pro Painters · <Ph>CONFIRM: town</Ph>
+              {p.job} by EA Pro Painters
+              <Town town={p.town} />
             </figcaption>
           </figure>
         </header>
