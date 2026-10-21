@@ -79,7 +79,8 @@ export function PortfolioGrid({ items, services }: { items: GridItem[]; services
                   alt={i.photo.alt}
                   width={i.photo.width}
                   height={i.photo.height}
-                  {...(i.photo.blur ? { placeholder: "blur" as const, blurDataURL: i.photo.blur } : {})}
+                  quality={60}
+                  style={i.photo.blur ? { backgroundImage: `url("${i.photo.blur}")`, backgroundSize: "cover", backgroundPosition: "center" } : undefined}
                   sizes="(min-width:1024px) 30vw, (min-width:640px) 45vw, 100vw"
                   className="aspect-[4/3] w-full object-cover transition-transform duration-700 group-hover:scale-[1.03]"
                 />

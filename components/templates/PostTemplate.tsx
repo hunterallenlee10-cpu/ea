@@ -68,7 +68,7 @@ export function PostTemplate({ c }: { c: PageContent }) {
             </p>
           </div>
           <figure className="container-x max-w-[72rem]">
-            <Image {...photoImg(p)} alt={p.alt} priority fetchPriority="high" sizes="(min-width:1152px) 1152px, 100vw" className="aspect-[21/9] w-full rounded-ui object-cover" />
+            <Image {...photoImg(p, { hero: true })} alt={p.alt} priority fetchPriority="high" sizes="(min-width:1152px) 1152px, 100vw" className="aspect-[21/9] w-full rounded-ui object-cover" />
             <figcaption className="mt-3 text-[13px] text-muted">
               {p.job} by EA Pro Painters
               <Town town={p.town} />

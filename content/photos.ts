@@ -42,12 +42,18 @@ export const PHOTOS: Photo[] = [
 // Tiny blurred preview per photo (scripts/photo-blur.ts), shown instantly while the full image loads.
 for (const p of PHOTOS) p.blur = (BLUR as Record<string, string>)[p.id];
 
-/** Standard next/image props for one of EA Pro's photos, with the blur preview (pass alt={p.alt} alongside). */
-export const photoImg = (p: Photo) => ({
+/**
+ * Standard next/image props for one of EA Pro's photos (pass alt={p.alt} alongside).
+ * The preview is a plain CSS background (the tiny JPEG, upscaled) rather than next/image's
+ * placeholder="blur", which paints an SVG blur filter that is expensive to repaint while scrolling on phones.
+ * quality: 75 for hero images, 60 elsewhere (both allowed in next.config.ts).
+ */
+export const photoImg = (p: Photo, opts: { hero?: boolean } = {}) => ({
   src: p.src,
   width: p.width,
   height: p.height,
-  ...(p.blur ? { placeholder: "blur" as const, blurDataURL: p.blur } : {}),
+  quality: opts.hero ? 75 : 60,
+  ...(p.blur ? { style: { backgroundImage: `url("${p.blur}")`, backgroundSize: "cover", backgroundPosition: "center" } } : {}),
 });
 
 /** Photos safe to rotate into any page (excludes ones still marked "Confirm this is EA Pro's work"). */

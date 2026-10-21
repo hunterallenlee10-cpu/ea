@@ -62,7 +62,7 @@ export function PageHero({
           {photo && (
             <figure className="lg:col-span-5">
               <Image
-                {...photoImg(photo)} alt={photo.alt}
+                {...photoImg(photo, { hero: true })} alt={photo.alt}
                 priority
                 fetchPriority="high"
                 sizes="(min-width: 1024px) 40vw, 100vw"

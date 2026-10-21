@@ -110,7 +110,7 @@ export default async function ProjectPage({ params }: Props) {
         {cover && (
           <figure className="container-x pb-14">
             <Image
-              {...photoImg(cover)} alt={cover.alt}
+              {...photoImg(cover, { hero: true })} alt={cover.alt}
               priority
               fetchPriority="high"
               sizes="(min-width: 1216px) 1152px, 100vw"

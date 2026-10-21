@@ -7,12 +7,13 @@ type Tone = "light" | "dark";
 
 export function Header({ tone = "light" }: { tone?: Tone }) {
   const dark = tone === "dark";
-  const bar = dark ? "bg-dark/95 text-dark-ink border-dark-line" : "bg-bg/95 text-ink border-line";
+  // Solid on phones (backdrop blur is costly to repaint while scrolling there); frosted on large screens.
+  const bar = dark ? "bg-dark lg:bg-dark/95 text-dark-ink border-dark-line" : "bg-bg lg:bg-bg/95 text-ink border-line";
   const logo = dark ? "/brand/ea-pro-painters-logo-on-dark.svg" : "/brand/ea-pro-painters-logo-dark.svg";
   const sub = dark ? "bg-dark-surface border-dark-line" : "bg-bg border-line";
 
   return (
-    <header className={`sticky top-0 z-40 border-b backdrop-blur ${bar}`}>
+    <header className={`sticky top-0 z-40 border-b lg:backdrop-blur ${bar}`}>
       <div className="container-x flex h-16 items-center gap-6 lg:h-[72px]">
         <Link href="/" className="shrink-0" aria-label={`${site.name}, home`}>
           <Image src={logo} alt={site.name} width={170} height={41} priority className="h-9 w-auto lg:h-10" />

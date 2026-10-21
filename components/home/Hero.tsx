@@ -49,7 +49,7 @@ export function HomeHero() {
         <div className="relative lg:col-span-5">
           <figure className="relative">
             <Image
-              {...photoImg(main)} alt={main.alt}
+              {...photoImg(main, { hero: true })} alt={main.alt}
               loading="eager"
               fetchPriority="high"
               sizes="(min-width: 1024px) 40vw, 100vw"
@@ -66,7 +66,7 @@ export function HomeHero() {
           <figure className="absolute -left-6 top-10 hidden w-[40%] border-[6px] border-bg shadow-2xl sm:block lg:-left-14">
             <Image
               {...photoImg(craft)} alt={craft.alt}
-              sizes="20vw"
+              sizes="(min-width: 1024px) 180px, 30vw"
               className="aspect-square w-full object-cover"
             />
           </figure>

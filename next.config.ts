@@ -13,6 +13,8 @@ const nextConfig: NextConfig = {
   poweredByHeader: false,
   images: {
     formats: ["image/avif", "image/webp"],
+    // 75 for hero images, 60 for grids and galleries (visually the same at photo sizes, ~30% fewer bytes).
+    qualities: [60, 75],
   },
   async redirects() {
     return Object.entries(LEGACY_REDIRECTS).map(([source, destination]) => ({
