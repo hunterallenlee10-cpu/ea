@@ -1,207 +1,88 @@
 {
-  "base": "http://localhost:3100",
+  "base": "https://ea-lilac.vercel.app",
   "mode": "spec",
   "pages": 81,
-  "placeholders": 1318,
+  "placeholders": 591,
   "placeholderPages": {
-    "/": 24,
-    "/about": 14,
-    "/services": 26,
-    "/faqs": 8,
-    "/portfolio": 10,
-    "/contact": 3,
-    "/estimate": 4,
-    "/interior-painting": 30,
-    "/exterior-painting": 36,
-    "/commercial-painting": 28,
-    "/cabinet-painting": 38,
-    "/custom-painting": 36,
-    "/millwork-painting": 24,
-    "/drywall-painting": 30,
-    "/decks-and-fences-painting": 38,
-    "/hoa": 22,
-    "/kirkland": 42,
-    "/painting-company/bellevue": 30,
-    "/painting-company/bothell": 26,
-    "/painting-company/clyde-hill": 32,
-    "/painting-company/edmonds": 26,
-    "/painting-company/everett": 24,
-    "/painting-company/issaquah": 26,
-    "/painting-company/juanita": 24,
-    "/painting-company/kenmore": 26,
-    "/painting-company/lynnwood": 22,
-    "/painting-company/medina": 34,
-    "/painting-company/mercer-island": 31,
-    "/painting-company/mill-creek": 34,
-    "/painting-company/monroe": 22,
-    "/painting-company/newcastle": 26,
-    "/painting-company/redmond": 30,
-    "/painting-company/renton": 28,
-    "/painting-company/sammamish": 30,
-    "/painting-company/seattle": 22,
-    "/painting-company/shoreline": 22,
-    "/painting-company/snohomish": 26,
-    "/painting-company/snoqualmie": 28,
-    "/painting-company/woodinville": 32,
-    "/5-signs-time-to-repaint": 4,
-    "/summer-exterior-painting-makeover": 4,
-    "/choose-the-best-paint-colors-for-your-home-2025": 4,
-    "/deck-staining-vs-painting-which-is-best-for-your-outdoor-space": 4,
-    "/the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting": 4,
-    "/top-5-trending-exterior-paint-colors-for-washington-homes-in-2025": 4,
-    "/how-to-choose-weather-resistant-colors": 4,
-    "/interior-color-trends-for-seattle-home": 4,
-    "/eco-friendly-painting-options": 6,
-    "/commercial-painting-in-bellevue-minimize-disruption": 6,
-    "/benefits-of-hiring-professional-painters": 6,
-    "/seasonal-painting-tips-when-is-the-best-time-to-paint": 6,
-    "/preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks": 4,
-    "/understanding-paint-types-which-is-best-for-your-project": 4,
-    "/creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish": 4,
-    "/revamping-your-office-space-the-impact-of-professional-painting": 4,
-    "/blog/step-by-step-guide-to-interior-painting": 4,
-    "/the-benefits-of-hiring-professional-painters-vs-diy": 4,
-    "/top-10-tips-for-painting-your-home-in-the-winter": 4,
-    "/how-to-maintain-your-painted-surfaces-for-long-lasting-beauty": 4,
-    "/5-signs-its-time-to-refresh-your-homes-exterior": 4,
-    "/importance-of-quality-paint-against-weather-damage": 4,
-    "/ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces": 4,
-    "/transform-your-homes-curb-appeal-top-color-trends-for-2024": 4,
-    "/the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects": 6,
-    "/welcome": 2,
-    "/privacy": 6,
-    "/terms": 6,
-    "/portfolio/commercial-building-exterior-repaint": 24,
-    "/portfolio/modern-cedar-and-stucco-home-exterior": 24,
-    "/portfolio/kitchen-cabinet-painting-oak-to-white": 24,
-    "/portfolio/navy-blue-home-exterior": 22,
-    "/portfolio/covered-deck-staining": 20,
-    "/portfolio/storefront-commercial-painting": 24,
-    "/portfolio/brick-and-gray-siding-home-exterior": 22,
-    "/portfolio/interior-staircase-and-millwork": 20
+    "/": 13,
+    "/about": 6,
+    "/services": 13,
+    "/faqs": 3,
+    "/portfolio": 1,
+    "/contact": 2,
+    "/estimate": 2,
+    "/interior-painting": 15,
+    "/exterior-painting": 18,
+    "/commercial-painting": 14,
+    "/cabinet-painting": 19,
+    "/custom-painting": 18,
+    "/millwork-painting": 12,
+    "/drywall-painting": 15,
+    "/decks-and-fences-painting": 19,
+    "/hoa": 11,
+    "/kirkland": 19,
+    "/painting-company/bellevue": 15,
+    "/painting-company/bothell": 13,
+    "/painting-company/clyde-hill": 16,
+    "/painting-company/edmonds": 13,
+    "/painting-company/everett": 12,
+    "/painting-company/issaquah": 13,
+    "/painting-company/juanita": 12,
+    "/painting-company/kenmore": 13,
+    "/painting-company/lynnwood": 11,
+    "/painting-company/medina": 17,
+    "/painting-company/mercer-island": 15,
+    "/painting-company/mill-creek": 16,
+    "/painting-company/monroe": 11,
+    "/painting-company/newcastle": 13,
+    "/painting-company/redmond": 15,
+    "/painting-company/renton": 14,
+    "/painting-company/sammamish": 15,
+    "/painting-company/seattle": 11,
+    "/painting-company/shoreline": 11,
+    "/painting-company/snohomish": 13,
+    "/painting-company/snoqualmie": 14,
+    "/painting-company/woodinville": 16,
+    "/5-signs-time-to-repaint": 2,
+    "/summer-exterior-painting-makeover": 2,
+    "/choose-the-best-paint-colors-for-your-home-2025": 2,
+    "/deck-staining-vs-painting-which-is-best-for-your-outdoor-space": 2,
+    "/the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting": 2,
+    "/top-5-trending-exterior-paint-colors-for-washington-homes-in-2025": 2,
+    "/how-to-choose-weather-resistant-colors": 2,
+    "/interior-color-trends-for-seattle-home": 2,
+    "/eco-friendly-painting-options": 3,
+    "/commercial-painting-in-bellevue-minimize-disruption": 3,
+    "/benefits-of-hiring-professional-painters": 3,
+    "/seasonal-painting-tips-when-is-the-best-time-to-paint": 3,
+    "/preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks": 2,
+    "/understanding-paint-types-which-is-best-for-your-project": 2,
+    "/creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish": 2,
+    "/revamping-your-office-space-the-impact-of-professional-painting": 2,
+    "/blog/step-by-step-guide-to-interior-painting": 2,
+    "/the-benefits-of-hiring-professional-painters-vs-diy": 2,
+    "/top-10-tips-for-painting-your-home-in-the-winter": 2,
+    "/how-to-maintain-your-painted-surfaces-for-long-lasting-beauty": 2,
+    "/5-signs-its-time-to-refresh-your-homes-exterior": 2,
+    "/importance-of-quality-paint-against-weather-damage": 2,
+    "/ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces": 2,
+    "/transform-your-homes-curb-appeal-top-color-trends-for-2024": 2,
+    "/the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects": 3,
+    "/welcome": 1,
+    "/privacy": 3,
+    "/terms": 4,
+    "/portfolio/commercial-building-exterior-repaint": 4,
+    "/portfolio/modern-cedar-and-stucco-home-exterior": 4,
+    "/portfolio/kitchen-cabinet-painting-oak-to-white": 5,
+    "/portfolio/navy-blue-home-exterior": 3,
+    "/portfolio/covered-deck-staining": 3,
+    "/portfolio/storefront-commercial-painting": 4,
+    "/portfolio/brick-and-gray-siding-home-exterior": 3,
+    "/portfolio/interior-staircase-and-millwork": 3
   },
   "titleDiffs": [],
-  "lighthouse": {
-    "/": {
-      "performance": 94,
-      "accessibility": 100,
-      "bestPractices": 100,
-      "seo": 100,
-      "lcpMs": 3017,
-      "tbtMs": 98,
-      "cls": 0
-    },
-    "/estimate": {
-      "performance": 98,
-      "accessibility": 100,
-      "bestPractices": 100,
-      "seo": 100,
-      "lcpMs": 2163,
-      "tbtMs": 79,
-      "cls": 0
-    },
-    "/painting-company/bellevue": {
-      "performance": 94,
-      "accessibility": 100,
-      "bestPractices": 100,
-      "seo": 100,
-      "lcpMs": 2989,
-      "tbtMs": 101,
-      "cls": 0
-    },
-    "/interior-painting": {
-      "performance": 94,
-      "accessibility": 100,
-      "bestPractices": 100,
-      "seo": 100,
-      "lcpMs": 2880,
-      "tbtMs": 141,
-      "cls": 0
-    }
-  },
-  "axe": {
-    "/": [],
-    "/about": [],
-    "/services": [],
-    "/faqs": [],
-    "/portfolio": [],
-    "/blog": [],
-    "/contact": [],
-    "/estimate": [],
-    "/interior-painting": [],
-    "/exterior-painting": [],
-    "/commercial-painting": [],
-    "/cabinet-painting": [],
-    "/custom-painting": [],
-    "/millwork-painting": [],
-    "/drywall-painting": [],
-    "/decks-and-fences-painting": [],
-    "/hoa": [],
-    "/kirkland": [],
-    "/painting-company/bellevue": [],
-    "/painting-company/bothell": [],
-    "/painting-company/clyde-hill": [],
-    "/painting-company/edmonds": [],
-    "/painting-company/everett": [],
-    "/painting-company/issaquah": [],
-    "/painting-company/juanita": [],
-    "/painting-company/kenmore": [],
-    "/painting-company/lynnwood": [],
-    "/painting-company/medina": [],
-    "/painting-company/mercer-island": [],
-    "/painting-company/mill-creek": [],
-    "/painting-company/monroe": [],
-    "/painting-company/newcastle": [],
-    "/painting-company/redmond": [],
-    "/painting-company/renton": [],
-    "/painting-company/sammamish": [],
-    "/painting-company/seattle": [],
-    "/painting-company/shoreline": [],
-    "/painting-company/snohomish": [],
-    "/painting-company/snoqualmie": [],
-    "/painting-company/woodinville": [],
-    "/5-signs-time-to-repaint": [],
-    "/summer-exterior-painting-makeover": [],
-    "/choose-the-best-paint-colors-for-your-home-2025": [],
-    "/deck-staining-vs-painting-which-is-best-for-your-outdoor-space": [],
-    "/the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting": [],
-    "/top-5-trending-exterior-paint-colors-for-washington-homes-in-2025": [],
-    "/how-to-choose-weather-resistant-colors": [],
-    "/interior-color-trends-for-seattle-home": [],
-    "/eco-friendly-painting-options": [],
-    "/commercial-painting-in-bellevue-minimize-disruption": [],
-    "/benefits-of-hiring-professional-painters": [],
-    "/seasonal-painting-tips-when-is-the-best-time-to-paint": [],
-    "/preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks": [],
-    "/understanding-paint-types-which-is-best-for-your-project": [],
-    "/creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish": [],
-    "/revamping-your-office-space-the-impact-of-professional-painting": [],
-    "/blog/step-by-step-guide-to-interior-painting": [],
-    "/the-benefits-of-hiring-professional-painters-vs-diy": [],
-    "/top-10-tips-for-painting-your-home-in-the-winter": [],
-    "/how-to-maintain-your-painted-surfaces-for-long-lasting-beauty": [],
-    "/5-signs-its-time-to-refresh-your-homes-exterior": [],
-    "/importance-of-quality-paint-against-weather-damage": [],
-    "/ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces": [],
-    "/transform-your-homes-curb-appeal-top-color-trends-for-2024": [],
-    "/the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects": [],
-    "/success": [],
-    "/welcome": [],
-    "/recommended-companies": [],
-    "/painting-company": [],
-    "/privacy": [],
-    "/terms": [],
-    "/portfolio/commercial-building-exterior-repaint": [],
-    "/portfolio/modern-cedar-and-stucco-home-exterior": [],
-    "/portfolio/kitchen-cabinet-painting-oak-to-white": [],
-    "/portfolio/navy-blue-home-exterior": [],
-    "/portfolio/covered-deck-staining": [],
-    "/portfolio/storefront-commercial-painting": [],
-    "/portfolio/brick-and-gray-siding-home-exterior": [],
-    "/portfolio/interior-staircase-and-millwork": [],
-    "/blog/page/2": [],
-    "/blog/page/3": []
-  },
+  "lighthouse": {},
+  "axe": {},
   "results": [
     {
       "check": "200 /",
@@ -3241,12 +3122,7 @@
     {
       "check": "SPEC no tracking requests /",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /about",
@@ -3259,12 +3135,7 @@
     {
       "check": "SPEC no tracking requests /about",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /about",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /services",
@@ -3277,12 +3148,7 @@
     {
       "check": "SPEC no tracking requests /services",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /services",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /faqs",
@@ -3295,12 +3161,7 @@
     {
       "check": "SPEC no tracking requests /faqs",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /faqs",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /portfolio",
@@ -3313,12 +3174,7 @@
     {
       "check": "SPEC no tracking requests /portfolio",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /portfolio",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /blog",
@@ -3331,12 +3187,7 @@
     {
       "check": "SPEC no tracking requests /blog",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /blog",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /contact",
@@ -3349,12 +3200,7 @@
     {
       "check": "SPEC no tracking requests /contact",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /contact",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /estimate",
@@ -3367,12 +3213,7 @@
     {
       "check": "SPEC no tracking requests /estimate",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /estimate",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /interior-painting",
@@ -3385,12 +3226,7 @@
     {
       "check": "SPEC no tracking requests /interior-painting",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /interior-painting",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /exterior-painting",
@@ -3403,12 +3239,7 @@
     {
       "check": "SPEC no tracking requests /exterior-painting",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /exterior-painting",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /commercial-painting",
@@ -3421,12 +3252,7 @@
     {
       "check": "SPEC no tracking requests /commercial-painting",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /commercial-painting",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /cabinet-painting",
@@ -3439,12 +3265,7 @@
     {
       "check": "SPEC no tracking requests /cabinet-painting",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /cabinet-painting",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /custom-painting",
@@ -3457,12 +3278,7 @@
     {
       "check": "SPEC no tracking requests /custom-painting",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /custom-painting",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /millwork-painting",
@@ -3475,12 +3291,7 @@
     {
       "check": "SPEC no tracking requests /millwork-painting",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /millwork-painting",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /drywall-painting",
@@ -3493,12 +3304,7 @@
     {
       "check": "SPEC no tracking requests /drywall-painting",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /drywall-painting",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /decks-and-fences-painting",
@@ -3511,12 +3317,7 @@
     {
       "check": "SPEC no tracking requests /decks-and-fences-painting",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /decks-and-fences-painting",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /hoa",
@@ -3529,12 +3330,7 @@
     {
       "check": "SPEC no tracking requests /hoa",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /hoa",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /kirkland",
@@ -3547,12 +3343,7 @@
     {
       "check": "SPEC no tracking requests /kirkland",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /kirkland",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/bellevue",
@@ -3565,12 +3356,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/bellevue",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/bellevue",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/bothell",
@@ -3583,12 +3369,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/bothell",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/bothell",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/clyde-hill",
@@ -3601,12 +3382,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/clyde-hill",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/clyde-hill",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/edmonds",
@@ -3619,12 +3395,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/edmonds",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/edmonds",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/everett",
@@ -3637,12 +3408,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/everett",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/everett",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/issaquah",
@@ -3655,12 +3421,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/issaquah",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/issaquah",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/juanita",
@@ -3673,12 +3434,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/juanita",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/juanita",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/kenmore",
@@ -3691,12 +3447,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/kenmore",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/kenmore",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/lynnwood",
@@ -3709,12 +3460,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/lynnwood",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/lynnwood",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/medina",
@@ -3727,12 +3473,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/medina",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/medina",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/mercer-island",
@@ -3745,12 +3486,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/mercer-island",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/mercer-island",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/mill-creek",
@@ -3763,12 +3499,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/mill-creek",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/mill-creek",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/monroe",
@@ -3781,12 +3512,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/monroe",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/monroe",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/newcastle",
@@ -3799,12 +3525,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/newcastle",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/newcastle",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/redmond",
@@ -3817,12 +3538,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/redmond",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/redmond",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/renton",
@@ -3835,12 +3551,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/renton",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/renton",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/sammamish",
@@ -3853,12 +3564,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/sammamish",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/sammamish",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/seattle",
@@ -3871,12 +3577,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/seattle",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/seattle",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/shoreline",
@@ -3889,12 +3590,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/shoreline",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/shoreline",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/snohomish",
@@ -3907,12 +3603,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/snohomish",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/snohomish",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/snoqualmie",
@@ -3925,12 +3616,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/snoqualmie",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/snoqualmie",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company/woodinville",
@@ -3943,12 +3629,7 @@
     {
       "check": "SPEC no tracking requests /painting-company/woodinville",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company/woodinville",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /5-signs-time-to-repaint",
@@ -3961,12 +3642,7 @@
     {
       "check": "SPEC no tracking requests /5-signs-time-to-repaint",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /5-signs-time-to-repaint",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /summer-exterior-painting-makeover",
@@ -3979,12 +3655,7 @@
     {
       "check": "SPEC no tracking requests /summer-exterior-painting-makeover",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /summer-exterior-painting-makeover",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /choose-the-best-paint-colors-for-your-home-2025",
@@ -3997,12 +3668,7 @@
     {
       "check": "SPEC no tracking requests /choose-the-best-paint-colors-for-your-home-2025",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /choose-the-best-paint-colors-for-your-home-2025",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /deck-staining-vs-painting-which-is-best-for-your-outdoor-space",
@@ -4015,12 +3681,7 @@
     {
       "check": "SPEC no tracking requests /deck-staining-vs-painting-which-is-best-for-your-outdoor-space",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /deck-staining-vs-painting-which-is-best-for-your-outdoor-space",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting",
@@ -4033,12 +3694,7 @@
     {
       "check": "SPEC no tracking requests /the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /the-ultimate-guide-to-preparing-your-washington-home-for-interior-painting",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /top-5-trending-exterior-paint-colors-for-washington-homes-in-2025",
@@ -4051,12 +3707,7 @@
     {
       "check": "SPEC no tracking requests /top-5-trending-exterior-paint-colors-for-washington-homes-in-2025",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /top-5-trending-exterior-paint-colors-for-washington-homes-in-2025",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /how-to-choose-weather-resistant-colors",
@@ -4069,12 +3720,7 @@
     {
       "check": "SPEC no tracking requests /how-to-choose-weather-resistant-colors",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /how-to-choose-weather-resistant-colors",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /interior-color-trends-for-seattle-home",
@@ -4087,12 +3733,7 @@
     {
       "check": "SPEC no tracking requests /interior-color-trends-for-seattle-home",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /interior-color-trends-for-seattle-home",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /eco-friendly-painting-options",
@@ -4105,12 +3746,7 @@
     {
       "check": "SPEC no tracking requests /eco-friendly-painting-options",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /eco-friendly-painting-options",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /commercial-painting-in-bellevue-minimize-disruption",
@@ -4123,12 +3759,7 @@
     {
       "check": "SPEC no tracking requests /commercial-painting-in-bellevue-minimize-disruption",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /commercial-painting-in-bellevue-minimize-disruption",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /benefits-of-hiring-professional-painters",
@@ -4141,12 +3772,7 @@
     {
       "check": "SPEC no tracking requests /benefits-of-hiring-professional-painters",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /benefits-of-hiring-professional-painters",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /seasonal-painting-tips-when-is-the-best-time-to-paint",
@@ -4159,12 +3785,7 @@
     {
       "check": "SPEC no tracking requests /seasonal-painting-tips-when-is-the-best-time-to-paint",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /seasonal-painting-tips-when-is-the-best-time-to-paint",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks",
@@ -4177,12 +3798,7 @@
     {
       "check": "SPEC no tracking requests /preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /preparing-your-home-for-a-professional-paint-job-essential-tips-and-tricks",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /understanding-paint-types-which-is-best-for-your-project",
@@ -4195,12 +3811,7 @@
     {
       "check": "SPEC no tracking requests /understanding-paint-types-which-is-best-for-your-project",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /understanding-paint-types-which-is-best-for-your-project",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish",
@@ -4213,12 +3824,7 @@
     {
       "check": "SPEC no tracking requests /creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /creating-a-modern-look-tips-for-choosing-the-perfect-paint-finish",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /revamping-your-office-space-the-impact-of-professional-painting",
@@ -4231,12 +3837,7 @@
     {
       "check": "SPEC no tracking requests /revamping-your-office-space-the-impact-of-professional-painting",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /revamping-your-office-space-the-impact-of-professional-painting",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /blog/step-by-step-guide-to-interior-painting",
@@ -4249,12 +3850,7 @@
     {
       "check": "SPEC no tracking requests /blog/step-by-step-guide-to-interior-painting",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /blog/step-by-step-guide-to-interior-painting",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /the-benefits-of-hiring-professional-painters-vs-diy",
@@ -4267,12 +3863,7 @@
     {
       "check": "SPEC no tracking requests /the-benefits-of-hiring-professional-painters-vs-diy",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /the-benefits-of-hiring-professional-painters-vs-diy",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /top-10-tips-for-painting-your-home-in-the-winter",
@@ -4285,12 +3876,7 @@
     {
       "check": "SPEC no tracking requests /top-10-tips-for-painting-your-home-in-the-winter",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /top-10-tips-for-painting-your-home-in-the-winter",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /how-to-maintain-your-painted-surfaces-for-long-lasting-beauty",
@@ -4303,12 +3889,7 @@
     {
       "check": "SPEC no tracking requests /how-to-maintain-your-painted-surfaces-for-long-lasting-beauty",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /how-to-maintain-your-painted-surfaces-for-long-lasting-beauty",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /5-signs-its-time-to-refresh-your-homes-exterior",
@@ -4321,12 +3902,7 @@
     {
       "check": "SPEC no tracking requests /5-signs-its-time-to-refresh-your-homes-exterior",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /5-signs-its-time-to-refresh-your-homes-exterior",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /importance-of-quality-paint-against-weather-damage",
@@ -4339,12 +3915,7 @@
     {
       "check": "SPEC no tracking requests /importance-of-quality-paint-against-weather-damage",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /importance-of-quality-paint-against-weather-damage",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces",
@@ -4357,12 +3928,7 @@
     {
       "check": "SPEC no tracking requests /ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /ultimate-guide-to-the-right-paint-finish-for-your-outdoor-spaces",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /transform-your-homes-curb-appeal-top-color-trends-for-2024",
@@ -4375,12 +3941,7 @@
     {
       "check": "SPEC no tracking requests /transform-your-homes-curb-appeal-top-color-trends-for-2024",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /transform-your-homes-curb-appeal-top-color-trends-for-2024",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects",
@@ -4393,12 +3954,7 @@
     {
       "check": "SPEC no tracking requests /the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /the-best-time-to-paint-why-summer-is-ideal-for-exterior-painting-projects",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /success",
@@ -4411,12 +3967,7 @@
     {
       "check": "SPEC no tracking requests /success",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /success",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /welcome",
@@ -4429,12 +3980,7 @@
     {
       "check": "SPEC no tracking requests /welcome",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /welcome",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /recommended-companies",
@@ -4447,12 +3993,7 @@
     {
       "check": "SPEC no tracking requests /recommended-companies",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /recommended-companies",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /painting-company",
@@ -4465,12 +4006,7 @@
     {
       "check": "SPEC no tracking requests /painting-company",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /painting-company",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /privacy",
@@ -4483,12 +4019,7 @@
     {
       "check": "SPEC no tracking requests /privacy",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /privacy",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /terms",
@@ -4501,12 +4032,7 @@
     {
       "check": "SPEC no tracking requests /terms",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /terms",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /portfolio/commercial-building-exterior-repaint",
@@ -4519,12 +4045,7 @@
     {
       "check": "SPEC no tracking requests /portfolio/commercial-building-exterior-repaint",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /portfolio/commercial-building-exterior-repaint",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /portfolio/modern-cedar-and-stucco-home-exterior",
@@ -4537,12 +4058,7 @@
     {
       "check": "SPEC no tracking requests /portfolio/modern-cedar-and-stucco-home-exterior",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /portfolio/modern-cedar-and-stucco-home-exterior",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /portfolio/kitchen-cabinet-painting-oak-to-white",
@@ -4555,12 +4071,7 @@
     {
       "check": "SPEC no tracking requests /portfolio/kitchen-cabinet-painting-oak-to-white",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /portfolio/kitchen-cabinet-painting-oak-to-white",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /portfolio/navy-blue-home-exterior",
@@ -4573,12 +4084,7 @@
     {
       "check": "SPEC no tracking requests /portfolio/navy-blue-home-exterior",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /portfolio/navy-blue-home-exterior",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /portfolio/covered-deck-staining",
@@ -4591,12 +4097,7 @@
     {
       "check": "SPEC no tracking requests /portfolio/covered-deck-staining",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /portfolio/covered-deck-staining",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /portfolio/storefront-commercial-painting",
@@ -4609,12 +4110,7 @@
     {
       "check": "SPEC no tracking requests /portfolio/storefront-commercial-painting",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /portfolio/storefront-commercial-painting",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /portfolio/brick-and-gray-siding-home-exterior",
@@ -4627,12 +4123,7 @@
     {
       "check": "SPEC no tracking requests /portfolio/brick-and-gray-siding-home-exterior",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /portfolio/brick-and-gray-siding-home-exterior",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /portfolio/interior-staircase-and-millwork",
@@ -4645,12 +4136,7 @@
     {
       "check": "SPEC no tracking requests /portfolio/interior-staircase-and-millwork",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /portfolio/interior-staircase-and-millwork",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /blog/page/2",
@@ -4663,12 +4149,7 @@
     {
       "check": "SPEC no tracking requests /blog/page/2",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /blog/page/2",
-      "ok": true,
-      "detail": ""
+      "detail": "ea-lilac.vercel.app"
     },
     {
       "check": "no rating schema (rendered) /blog/page/3",
@@ -4681,32 +4162,7 @@
     {
       "check": "SPEC no tracking requests /blog/page/3",
       "ok": true,
-      "detail": "localhost"
-    },
-    {
-      "check": "axe /blog/page/3",
-      "ok": true,
-      "detail": ""
-    },
-    {
-      "check": "lighthouse /",
-      "ok": false,
-      "detail": "{\"performance\":94,\"accessibility\":100,\"bestPractices\":100,\"seo\":100,\"lcpMs\":3017,\"tbtMs\":98,\"cls\":0}"
-    },
-    {
-      "check": "lighthouse /estimate",
-      "ok": true,
-      "detail": "{\"performance\":98,\"accessibility\":100,\"bestPractices\":100,\"seo\":100,\"lcpMs\":2163,\"tbtMs\":79,\"cls\":0}"
-    },
-    {
-      "check": "lighthouse /painting-company/bellevue",
-      "ok": false,
-      "detail": "{\"performance\":94,\"accessibility\":100,\"bestPractices\":100,\"seo\":100,\"lcpMs\":2989,\"tbtMs\":101,\"cls\":0}"
-    },
-    {
-      "check": "lighthouse /interior-painting",
-      "ok": false,
-      "detail": "{\"performance\":94,\"accessibility\":100,\"bestPractices\":100,\"seo\":100,\"lcpMs\":2880,\"tbtMs\":141,\"cls\":0}"
+      "detail": "ea-lilac.vercel.app"
     }
   ]
 }
