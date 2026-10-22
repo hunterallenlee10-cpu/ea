@@ -1,6 +1,6 @@
 # QA report (SPEC) — https://ea-lilac.vercel.app
 
-81 pages · 918 checks · **0 failed** · 591 unanswered placeholders (visible or hidden)
+81 pages · 1003 checks · **2 failed** · 591 unanswered placeholders (visible or hidden)
 
 | Check | Passed | Failed |
 |---|---|---|
@@ -29,5 +29,19 @@
 | no rating schema (rendered) | 81 | 0 |
 | one H1 (rendered) | 81 | 0 |
 | SPEC no tracking requests | 81 | 0 |
+| axe | 81 | 0 |
+| lighthouse | 2 | 2 |
 
-All checks passed.
+## Lighthouse (mobile)
+
+| Page | Perf | A11y | BP | SEO | LCP ms | TBT ms | CLS |
+|---|---|---|---|---|---|---|---|
+| / | 96 | 100 | 100 | 100 | 2645 | 81 | 0 |
+| /estimate | 98 | 100 | 100 | 100 | 1980 | 114 | 0 |
+| /painting-company/bellevue | 97 | 100 | 100 | 100 | 2275 | 109 | 0 |
+| /interior-painting | 94 | 100 | 100 | 100 | 2494 | 210 | 0 |
+
+## Failures
+
+- lighthouse /: {"performance":96,"accessibility":100,"bestPractices":100,"seo":100,"lcpMs":2645,"tbtMs":81,"cls":0}
+- lighthouse /interior-painting: {"performance":94,"accessibility":100,"bestPractices":100,"seo":100,"lcpMs":2494,"tbtMs":210,"cls":0}
