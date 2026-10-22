@@ -43,3 +43,9 @@ npx next build && npx next start # production build (what QA tests)
 - `OPEN-QUESTIONS.md`: everything waiting on Erik. Placeholders are never filled in by guesswork.
 - `SEO-BACKLOG.md`: ranking changes for after launch, one at a time.
 - `BASELINE.md`: rankings and technical baseline before launch.
+
+## Deploying
+
+The concept site is the Vercel project `ea` (team leu2), live at https://ea-lilac.vercel.app.
+Vercel's production branch is `main`: every push to `main` builds and goes live in about a minute.
+Pushes to other branches get preview builds only (behind a Vercel login).
