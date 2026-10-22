@@ -15,6 +15,10 @@ const nextConfig: NextConfig = {
     formats: ["image/avif", "image/webp"],
     // 75 for hero images, 60 for grids and galleries (visually the same at photo sizes, ~30% fewer bytes).
     qualities: [60, 75],
+    // Fewer srcset widths than the defaults (15 -> 8): shorter HTML on photo-heavy pages. Originals top out
+    // around 1920-2400px, so the dropped 2048/3840 widths added nothing.
+    deviceSizes: [640, 750, 828, 1080, 1280, 1920],
+    imageSizes: [256, 384],
   },
   async redirects() {
     return Object.entries(LEGACY_REDIRECTS).map(([source, destination]) => ({

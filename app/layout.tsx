@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
-import { Fraunces, Inter } from "next/font/google";
+import { Fraunces } from "next/font/google";
+import localFont from "next/font/local";
 import "./globals.css";
 import { IS_SPEC } from "@/lib/mode";
 import { SpecBanner } from "@/components/SpecBanner";
@@ -11,7 +12,16 @@ import { Tracking } from "@/components/Tracking";
 import { site } from "@/site.config";
 
 // Self-hosted at build time by next/font.
-const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
+// Body font: Inter (OFL, see app/fonts/Inter-OFL.txt), trimmed to the weights the site uses (400-700)
+// and Latin-1 plus common punctuation: 24 KB instead of 48 KB. Not preloaded, so on slow phones it
+// doesn't compete with the headline font and the hero photo; the size-matched fallback avoids layout shift.
+const inter = localFont({
+  src: "./fonts/inter-latin-400-700.woff2",
+  weight: "400 700",
+  variable: "--font-inter",
+  display: "swap",
+  preload: false,
+});
 const fraunces = Fraunces({
   subsets: ["latin"],
   variable: "--font-fraunces",
